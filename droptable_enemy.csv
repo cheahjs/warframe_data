@@ -11,7 +11,7 @@ Vip/MarineLeader,Sound Quake,Common Fusion Core,Rare Fusion Core,Uncommon Fusion
 Vip/BossLechKril,Sound Quake,Molten Impact,Killing Blow,Melee Channel,Cryo Rounds,Stretch
 Kela De Thaym (Vip/HeavyRocketFemale),Sound Quake,Molten Impact,Melee Channel,Cryo Rounds
 AIWeek/BlowtorchSawman,Sonic Boom,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Trick Mag,Rifle Aptitude,Flame Repellent
-Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler),Sonic Boom,Super Jump,Pull,Smoke Screen,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Quickdraw,Serration
+Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler),Sonic Boom,Super Jump,Pull,Smoke Screen,Common Fusion Core,Quickdraw,Serration
 Ancient Disrupter (AiWeek/Ancients/Ancient),Sonar,Fireball,Crush,Expel Infested,Flechette
 Spaceman/EliteSpaceman,Rip Line,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Fury,Infected Clip
 Spaceman/AIWeek/ShotgunSpaceman,Rip Line,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Melee Prowess,Infected Clip,Shredder
@@ -27,7 +27,7 @@ BipedRobot/Vip/BossBiped,World On Fire,Molten Impact,Pressure Point,Heated Charg
 Desert Heavy Gunner (Desert/HeavyFemaleGrineerDesert),World On Fire,Invisibility,Magazine Warp,Shell Compression
 Drones/AIWeek/SuicideDrone,Radial Javelin,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Fury,Melee Prowess,Convulsion,Hell's Chamber,Vitality
 SpecialEvents/ForestDrone,Radial Javelin,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Fury,Melee Prowess,Convulsion,Hell's Chamber,Vitality
-Frontier Regulator (SpecialEvents/SurveillanceDrone),Radial Javelin,Fury,Melee Prowess,Convulsion,Hell's Chamber,Vitality
+Frontier Regulator (SpecialEvents/SurveillanceDrone),Radial Javelin,Fury,Melee Prowess,Convulsion,Hell's Chamber
 Spaceman/AIWeek/RifleSpaceman,Slash Dash,Contagion,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Fury,Reach,No Return,Ammo Drum
 Sniper Crewman (Spaceman/AIWeek/SniperSpaceman),Slash Dash,Molt,Overload,Warrior,Ravage,Incendiary Coat
 AiWeek/Crawlers/Lightning,Super Jump,Pull,Rare Fusion Core,Uncommon Fusion Core,Serration
@@ -40,7 +40,7 @@ AIWeek/EviseratorLancer,Ice Wave,Link,Common Fusion Core,Rare Fusion Core,Uncomm
 Desert/ShotgunLancer,Ice Wave,Link,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Shocking Touch,Melee Prowess,Pistol Gambit,Disruptor
 Desert/EvisceratorLancer,Ice Wave,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Melee Prowess
 AiWeek/Crawlers/Grenade,Ice Wave,Switch Teleport,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Pressure Point,Trick Mag,Blunderbuss,Heavy Impact
-Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),Ice Wave,Switch Teleport,Pressure Point,Trick Mag,Blunderbuss,Heavy Impact
+Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),Ice Wave,Switch Teleport,Trick Mag,Blunderbuss,Heavy Impact
 AIWeek/FemaleGrineer,Freeze,Shuriken,Smoke Screen,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Organ Shatter
 Spaceman/AIWeek/MeleeSpaceman,Freeze,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Pistol Gambit,Shotgun Savvy
 Charger (AiWeek/Quadrupeds/Quadruped),Chaos,Regen,Speed Trigger
@@ -71,7 +71,8 @@ Forest/RifleLancer,Miasma,Rare Fusion Core,Uncommon Fusion Core,Heavy Trauma,Pre
 Forest/JetpackMarine,Miasma,Rare Fusion Core,Uncommon Fusion Core,Heavy Trauma,Pressure Point,Heated Charge,Streamline,Diamond Skin,Vitality
 Forest/HeavyFemaleGrineerDesert,Miasma,Rare Fusion Core,Uncommon Fusion Core,Heavy Trauma,Pressure Point,Heated Charge,Streamline,Diamond Skin,Vitality
 Desert/RifleLancer,Miasma,Rare Fusion Core,Uncommon Fusion Core,Heavy Trauma,Pressure Point,Heated Charge,Streamline,Diamond Skin,Vitality
-Arid Hellion (Desert/JetpackMarine),Miasma,Heavy Trauma,Heated Charge,Streamline,Diamond Skin
+Desert/JetpackMarine,Miasma,Rare Fusion Core,Uncommon Fusion Core,Heavy Trauma,Pressure Point,Heated Charge,Streamline,Diamond Skin,Vitality
+Hellion (AIWeek/JetpackMarine),Miasma,Rare Fusion Core,Uncommon Fusion Core,Heavy Trauma,Pressure Point,Heated Charge,Streamline,Diamond Skin,Vitality
 Volatile Runner (AiWeek/Runners/SuicideRunner),Miasma,Well Of Life,Ghost,Sundering Strike,Point Blank
 Ballista (AIWeek/FemaleGrineer),Bastille,Stormbringer
 Spaceman/Vip/SniperBoss,Vortex,Shocking Touch,Reflex Coil,Magazine Warp,Thief's Wit
@@ -99,7 +100,7 @@ AIWeek/PistonSawman,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core
 AiWeek/Ancients/HealingAncient,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core
 Desert/BladeSawman,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Reflex Coil,Blunderbuss
 Desert/HeavyFemaleGrineerDesert,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Slip Magazine,Blunderbuss
-SpecialEvents/SurveillanceDrone,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core
+SpecialEvents/SurveillanceDrone,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Vitality
 Desert/GrineerMarinePistol,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Fast Deflection
 RifleLancer,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core
 OrokinHealingAncient,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core
@@ -107,10 +108,10 @@ OrokinHeavyFemale,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Spare
 OrokinShieldDrone,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core
 OrokinMoaBiped,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core
 AiWeek/Ancients/ToxicAncient,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Organ Shatter
-AiWeek/Crawlers/NoxiousCrawler,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core
+AiWeek/Crawlers/NoxiousCrawler,Common Fusion Core,Rare Fusion Core,Uncommon Fusion Core,Pressure Point
 AIWeek/IncendiaryBombard,Rare Fusion Core,Uncommon Fusion Core,Gunslinger,Point Strike,Vitality
 Desert/EliteRifleLancer,Rare Fusion Core,Uncommon Fusion Core,Quickdraw
-Desert/JetpackMarine,Rare Fusion Core,Uncommon Fusion Core,Pressure Point,Vitality
+AiWeek/Crawlers/GraspingCrawler,Rare Fusion Core,Uncommon Fusion Core
 Drones/AIWeek/VacDrone,True Steel,Gunslinger,Contagious Spread,Redirection
 Tyl Regor (Vip/NinjaLeader),True Steel
 Corrupted Ancient (OrokinHealingAncient),Berserker,Reflection,Quick Thinking,Maglev

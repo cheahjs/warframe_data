@@ -6491,13 +6491,28 @@ Good luck Tenno,
 Lotus
 
 ------
+Tethra's Doom - Escalation
+------
+We have a problem. Our analysis of Vay Hek's broadcast has revealed the existence of a second type of Fomorian Core. While we have been chasing Power Cores, Vay Hek successfully armed many of his ships with Shield Cores. He already has a head start, we cannot waste anymore time. 
+
+I have provided you with a modified Tethra Shield Cipher Blueprint. It will let you locate these new cores. 
+
+Beware, Vay Hek is ready for us now. He has seen our strategies and had a chance to evolve his own. This mission will not be easy. 
+
+Lotus
+
+------
 Tethra's Doom - Interception
 ------
 Intercept Data Fragments to craft a Tethra Cipher.
 ------
-Tethra's Doom - Hijack Fomorian Cores
+Tethra's Doom - Hijack Fomorian Power Cores
 ------
 Steal a Fomorian Power Core so it can be destroyed safely. (Requires a Tethra Cipher)
+------
+Tethra's Doom - Hijack Fomorian Shield Cores
+------
+Steal a Fomorian Shield Core so it can be destroyed safely. (Requires a Tethra Shield Cipher)
 ------
 LotusCorpusRaptorEuropak,?{
 ------
@@ -7849,6 +7864,8 @@ Vay Hek's frame
 Activate Tram
 ------
 Detach Cargo
+------
+Prox Mine
 ------
 wc
 ------
@@ -12146,6 +12163,8 @@ Intercepted encrypted fragment of Grineer communications.
 ------
 TETHRA CIPHER
 ------
+TETHRA SHIELD CIPHER
+------
 Voltaic Strike
 ------
 Jolt
@@ -15467,6 +15486,12 @@ Clan Invite
 ------
 You have been invited to the clan |clan|.
 ------
+Your clan emblem has been approved.
+------
+It will be added to the game with the next game update.
+------
+Your clan emblem has been rejected.
+------
 RECRUIT
 ------
 RECRUIT TENNO
@@ -17212,9 +17237,19 @@ When we are done the Fomorian ships will blacken the sun.
 ------
 Corpus ingenuity is no match for Grineer audacity.
 ------
-Fomorians will crush, crush, crush anything and all in our way.
+Fomorians will crush, crush, crush anything in our way.
 ------
 Be proud. You are building the future.
+------
+Tenno! Tenno! Tenno! You think you are winning? You have only been attacking the auxiliary cores!  Did you really believe it would be this easy?!
+------
+You have taken my bait but you will not take my cores. Grineer ATTACK!!!
+------
+You have already shown me your hand. Now it is time to see what I have up my sleeve.
+------
+Try it Tenno. Just try and walk out of here with the core.
+------
+You are running out of time. There will be nowhere to hide from my Fomorians. And when the last of you is gone I will personally throw your beloved Lotus INTO THE SUN.
 ------
 What is happening? Where? Where is the core? 
 ------
@@ -18355,6 +18390,24 @@ The Grineer have control and are pulling back the tram.
 ------
 The tram is retreating. 
 ------
+Get these doors open if you want to keep the core moving.
+------
+The tram is not going anywhere until you get these doors open.
+------
+They are trying to lock you in. Get the bay doors open.
+------
+Careful, the tram has drawn too much power and is about to discharge.
+------
+Stand back Tenno, the tram is about to discharge excess power.
+------
+Watch out for a tram discharge.
+------
+Watch out for mines on the track. The enemy will use everything they can to stop us.
+------
+Be careful, my scans show this track has been mined.
+------
+The track has been mined, proceed with caution.
+------
 We are making progress. Stay sharp Tenno.
 ------
 So far so good. Keep moving the tram toward extraction.
@@ -19490,6 +19543,10 @@ DSurvActivated010Lotus'
 BN
 ------
 DSurvFirstRaid010Lotus0wlq
+------
+DHijackDishcharge060Lotusw
+------
+ul
 ------
 DExtermGrinMid001Lotus3g|i
 ------

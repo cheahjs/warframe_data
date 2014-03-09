@@ -6,6 +6,7 @@ Result Item,Mat1,Mat1 Count,Mat2,Mat2 Count,Mat3,Mat3 Count,Mat4,Mat4 Count,Buil
 /Lotus/Types/StoreItems/Keys/DerelictSurvivalKey,Nav Coordinate,5,Nano Spores,2500,Salvage,750,Circuits,80,,6500,
 Clan Key,Morphics,1,Ferrite,500,Polymer Bundle,500,,,43200,1500,10
 /Lotus/Types/StoreItems/Keys/GolemKey,Golem Nav Coordinate,5,Nano Spores,4000,Salvage,1000,Circuits,100,3600,7500,10
+Tethra Shield Cipher,Tethra Data Fragments,6,Alloy Plate,1000,,,,,60,,5
 Tethra Cipher,Tethra Data Fragments,3,Polymer Bundle,1000,,,,,60,,5
 Cronus,Morphics,1,Ferrite,500,Polymer Bundle,75,,,43200,15000,
 Dark Sword,Neurodes,2,Ferrite,800,Plastids,200,Polymer Bundle,75,43200,20000,

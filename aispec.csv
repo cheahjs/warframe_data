@@ -553,6 +553,16 @@ GrineerSquadSabotageEvent,AIWeek/RifleLancer,1,0,0
 ,GrineerMarinePistol,0.15000001,0,0
 ,AIWeek/GrineerFemale,0.1,0,0
 ,AIWeek/EviseratorLancer,0.25,0,0
+GrineerSquadSix,AIWeek/RifleLancer,1,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/MacheteWoman,0.2,0,0
+,AIWeek/ShotgunLancer,0.25,0,0
+,AIWeek/MinigunBombard,0.1,2,0
+,AIWeek/RocketBombard,0.1,0,0
+,GrineerMarinePistol,0.15000001,0,0
+,AIWeek/GrineerFemale,0.1,0,0
+,AIWeek/EviseratorLancer,0.1,0,0
+,AIWeek/JetpackMarine,0.050000001,0,0
 GrineerSquadThree,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
