@@ -1,0 +1,275 @@
+Mod,Drop Locations
+/Lotus/Powersuits/AntiMatter/AntiMatterDropAbilityCard,GrineerMarinePistol,Forest/GrineerMarinePistol,Arid Seeker (Desert/GrineerMarinePistol)
+Sound Quake,Drones/Vip/DroneAttack,Raptor (/Sandbox/TomGalt/1-Warframe/HekTest)
+/Lotus/Powersuits/AntiMatter/NullStarAbilityCard,Mine Osprey (Drones/AIWeek/MineDrone)
+Sound Quake,AIWeek/RollingDrone,Shield Osprey (Drones/AIWeek/ShieldDrone)
+Sound Quake,Vip/MarineLeader,Vip/BossLechKril,Kela De Thaym (Vip/HeavyRocketFemale)
+Sonic Boom,AIWeek/BlowtorchSawman,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler)
+Silence,AIWeek/RollingDrone,Shield Osprey (Drones/AIWeek/ShieldDrone)
+Sonar,Ancient Disrupter (AiWeek/Ancients/Ancient)
+Rip Line,Spaceman/EliteSpaceman,Spaceman/AIWeek/ShotgunSpaceman,Electric Crawler (AiWeek/Crawlers/Lightning)
+Warcry,Scavenger Drone (Drones/AIWeek/VacDrone)
+Hysteria,Anti Moa (BipedRobot/AIWeek/LaserDiscBiped)
+Paralysis,Forest/BladeSawman,Arid Butcher (Desert/BladeSawman)
+Fireball,Ancient Disrupter (AiWeek/Ancients/Ancient)
+Accelerant,Ancient Healer (AiWeek/Ancients/HealingAncient)
+World On Fire,AIWeek/HeavyFemaleGrineer,GrineerMarineLeader,BipedRobot/Vip/BossBiped,Desert Heavy Gunner (Desert/HeavyFemaleGrineerDesert)
+Radial Javelin,Drones/AIWeek/SuicideDrone,SpecialEvents/ForestDrone,Frontier Regulator (SpecialEvents/SurveillanceDrone)
+Slash Dash,Spaceman/AIWeek/RifleSpaceman,Sniper Crewman (Spaceman/AIWeek/SniperSpaceman)
+Super Jump,AiWeek/Crawlers/Lightning,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler)
+Avalanche,Scorpion (AIWeek/MacheteWoman)
+Snow Globe,Leaper (AiWeek/Runners/LeapingRunner)
+Ice Wave,AIWeek/ShotgunLancer,Forest/ShotgunLancer,Forest/EvisceratorLancer,AIWeek/EviseratorLancer,Desert/ShotgunLancer,Desert/EvisceratorLancer,AiWeek/Crawlers/Grenade,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler)
+Freeze,AIWeek/FemaleGrineer,Spaceman/AIWeek/MeleeSpaceman,Scavenger Drone (Drones/AIWeek/VacDrone)
+Chaos,Charger (AiWeek/Quadrupeds/Quadruped)
+Psychic Bolts,Scorch (AIWeek/FlameLancer)
+Mind Control,Leech Osprey (Drones/AIWeek/LeechDrone)
+Absorb,General Sargas Ruk (Vip/SargasRuk/SargasRukNew)
+Decoy,Leaper (AiWeek/Runners/LeapingRunner)
+Radial Disarm,Moa (BipedRobot/AIWeek/LaserCannonBiped)
+Invisibility,AIWeek/HeavyFemaleGrineer,GrineerMarineLeader,Desert Heavy Gunner (Desert/HeavyFemaleGrineerDesert)
+Switch Teleport,AiWeek/Crawlers/Grenade,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler)
+Bullet Attractor,Scorpion (AIWeek/MacheteWoman)
+Crush,Ancient Disrupter (AiWeek/Ancients/Ancient)
+Pull,RifleSpaceman,AiWeek/Crawlers/Crawler,AiWeek/Crawlers/Lightning,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler)
+Shield Polarize,AIWeek/EliteRifleLancer,Forest/EliteRifleLancer,Elite Arid Lancer (Desert/EliteRifleLancer)
+Shadows of the Dead,Lephantis (Vip/GolemFull)
+Desecrate,Corrupted Heavy Gunner (OrokinHeavyFemale)
+/Lotus/Powersuits/Necro/SoulPunchAbilityCard,Orokin Drone (OrokinShieldDrone)
+Terrify,Orokin Drone (OrokinShieldDrone)
+Shuriken,AIWeek/FemaleGrineer,Mine Osprey (Drones/AIWeek/MineDrone)
+Blade Storm,GrineerMarinePistol,Forest/GrineerMarinePistol,Vip/NinjaLeader,Arid Seeker (Desert/GrineerMarinePistol)
+Smoke Screen,AIWeek/FemaleGrineer,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler)
+Teleport,Leaper (AiWeek/Runners/LeapingRunner)
+Reckoning,AIWeek/EliteRifleLancer,Forest/EliteRifleLancer,Elite Arid Lancer (Desert/EliteRifleLancer)
+Renewal,Moa (BipedRobot/AIWeek/LaserCannonBiped)
+Smite,Corpus Tech (Spaceman/AIWeek/DeployableSpaceman)
+Hallowed Ground,Railgun Moa (BipedRobot/AIWeek/RailgunBiped)
+Iron Skin,Ancient Healer (AiWeek/Ancients/HealingAncient)
+Roar,Shield Lancer (AIWeek/ShieldLancer)
+Rhino Charge,BipedRobot/AIWeek/ShockwaveBiped,Powerfist (AIWeek/PistonSawman)
+Rhino Stomp,BipedRobot/AIWeek/ShockwaveBiped,Jackal (QuadRobot/QuadRobot)
+Miasma,Corpus Tech (Spaceman/AIWeek/DeployableSpaceman)
+Venom,AIWeek/FlameLancer,BipedRobot/AIWeek/RailgunBiped,Anti Moa (BipedRobot/AIWeek/LaserDiscBiped)
+Molt,Sniper Crewman (Spaceman/AIWeek/SniperSpaceman)
+Contagion,Spaceman/AIWeek/RifleSpaceman,Corrupted Crewman (RifleSpaceman)
+Miasma,AIWeek/RifleLancer,Forest/RifleLancer,Forest/JetpackMarine,Forest/HeavyFemaleGrineerDesert,Desert/RifleLancer,Arid Hellion (Desert/JetpackMarine)
+Miasma,Volatile Runner (AiWeek/Runners/SuicideRunner)
+Miasma,Anti Moa (BipedRobot/AIWeek/LaserDiscBiped)
+Bounce,Mine Osprey (Drones/AIWeek/MineDrone)
+Bastille,Ballista (AIWeek/FemaleGrineer)
+Vortex,Spaceman/Vip/SniperBoss,Crawler (AiWeek/Crawlers/Crawler)
+Blessing,Railgun Moa (BipedRobot/AIWeek/RailgunBiped)
+Energy Vampire,Leaper (AiWeek/Runners/LeapingRunner)
+Link,AIWeek/ShotgunLancer,Forest/ShotgunLancer,Forest/EvisceratorLancer,AIWeek/EviseratorLancer,Desert/ShotgunLancer,Arid Eviscerator (Desert/EvisceratorLancer)
+Well Of Life,Volatile Runner (AiWeek/Runners/SuicideRunner)
+Overload,Sniper Crewman (Spaceman/AIWeek/SniperSpaceman)
+Electric Shield,Scorch (AIWeek/FlameLancer)
+Shock,BipedRobot/AIWeek/RailgunBiped,Ancient Healer (AiWeek/Ancients/HealingAncient)
+Speed,Mine Osprey (Drones/AIWeek/MineDrone)
+Fatal Attraction,Corrupted Moa (OrokinMoaBiped)
+Striker,Corrupted Moa (OrokinMoaBiped)
+Coolant Leak,Orokin Drone (OrokinShieldDrone)
+Crowd Dispersion,Leech Osprey (Drones/AIWeek/LeechDrone)
+Ghost,Volatile Runner (AiWeek/Runners/SuicideRunner)
+Vacuum,Corrupted Lancer (RifleLancer)
+Regen,Charger (AiWeek/Quadrupeds/Quadruped)
+Revenge,AIWeek/EliteRifleLancer,BipedRobot/AIWeek/LaserCannonBiped,Forest/EliteRifleLancer,Elite Arid Lancer (Desert/EliteRifleLancer)
+Sanctuary,Bombard (AIWeek/RocketBombard)
+Swift Deth,AIWeek/FlameLancer,Leaper (AiWeek/Runners/LeapingRunner)
+Thumper,Corrupted Lancer (RifleLancer)
+Vaporize,BipedRobot/AIWeek/SuperMoaBiped,Powerfist (AIWeek/PistonSawman)
+Warrior,Sniper Crewman (Spaceman/AIWeek/SniperSpaceman)
+Corrosive Projection
+Shield Disruption
+Infested Impedance
+Enemy Radar
+Energy Siphon
+Physique
+Rejuvenation
+Speed Holster
+Loot Detector
+Steel Charge
+Pistol Scavenger
+Rifle Scavenger
+Rifle Amp
+Shotgun Scavenger
+Sniper Scavenger
+Sprint Boost
+Common Fusion Core,AIWeek/BladeSawman,AIWeek/ShotgunLancer,AIWeek/HeavyFemaleGrineer,AIWeek/ShieldLancer,AIWeek/RollingDrone,AIWeek/RocketBombard,GrineerMarinePistol,AIWeek/MacheteWoman,AIWeek/FemaleGrineer,AIWeek/FlameLancer,Spaceman/AIWeek/RifleSpaceman,BipedRobot/AIWeek/ShockwaveBiped,Drones/AIWeek/ShieldDrone,Spaceman/AIWeek/MeleeSpaceman,BipedRobot/AIWeek/LaserCannonBiped,BipedRobot/AIWeek/SuperMoaBiped,Spaceman/AIWeek/DeployableSpaceman,Drones/AIWeek/SuicideDrone,BipedRobot/AIWeek/RailgunBiped,Spaceman/EliteSpaceman,Drones/AIWeek/MineDrone,Spaceman/AIWeek/SniperSpaceman,Forest/BladeSawman,Forest/ShotgunLancer,Forest/GrineerMarinePistol,SpecialEvents/ForestDrone,Vip/MarineLeader,Forest/EvisceratorLancer,Drones/AIWeek/LeechDrone,AiWeek/Quadrupeds/Quadruped,AiWeek/Runners/SuicideRunner,AiWeek/Runners/LeapingRunner,AiWeek/Ancients/Ancient,Spaceman/AIWeek/ShotgunSpaceman,AIWeek/PistonSawman,AIWeek/BlowtorchSawman,AiWeek/Ancients/HealingAncient,AIWeek/EviseratorLancer,Desert/BladeSawman,Desert/ShotgunLancer,Desert/HeavyFemaleGrineerDesert,Desert/EvisceratorLancer,SpecialEvents/SurveillanceDrone,Desert/GrineerMarinePistol,RifleLancer,RifleSpaceman,OrokinHealingAncient,OrokinHeavyFemale,OrokinShieldDrone,OrokinMoaBiped,AiWeek/Ancients/ToxicAncient,AiWeek/Crawlers/Crawler,AiWeek/Crawlers/Grenade,AiWeek/Crawlers/NoxiousCrawler,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler)
+Rare Fusion Core,AIWeek/RifleLancer,AIWeek/EliteRifleLancer,AIWeek/BladeSawman,AIWeek/ShotgunLancer,AIWeek/HeavyFemaleGrineer,AIWeek/ShieldLancer,AIWeek/RollingDrone,AIWeek/RocketBombard,GrineerMarinePistol,AIWeek/MacheteWoman,AIWeek/FemaleGrineer,AIWeek/FlameLancer,AIWeek/IncendiaryBombard,Spaceman/AIWeek/RifleSpaceman,BipedRobot/AIWeek/ShockwaveBiped,Drones/AIWeek/ShieldDrone,Spaceman/AIWeek/MeleeSpaceman,BipedRobot/AIWeek/LaserCannonBiped,BipedRobot/AIWeek/SuperMoaBiped,Drones/AIWeek/SuicideDrone,Spaceman/EliteSpaceman,Drones/AIWeek/MineDrone,Spaceman/AIWeek/SniperSpaceman,Forest/RifleLancer,Forest/BladeSawman,Forest/JetpackMarine,Forest/ShotgunLancer,Forest/GrineerMarinePistol,SpecialEvents/ForestDrone,Forest/EliteRifleLancer,Forest/HeavyFemaleGrineerDesert,Vip/MarineLeader,Forest/EvisceratorLancer,Drones/AIWeek/LeechDrone,AiWeek/Quadrupeds/Quadruped,AiWeek/Runners/SuicideRunner,AiWeek/Runners/LeapingRunner,AiWeek/Ancients/Ancient,Spaceman/AIWeek/ShotgunSpaceman,AIWeek/PistonSawman,AIWeek/BlowtorchSawman,AiWeek/Ancients/HealingAncient,AIWeek/EviseratorLancer,Desert/RifleLancer,Desert/EliteRifleLancer,Desert/BladeSawman,Desert/ShotgunLancer,Desert/HeavyFemaleGrineerDesert,Desert/EvisceratorLancer,Desert/JetpackMarine,SpecialEvents/SurveillanceDrone,Desert/GrineerMarinePistol,RifleLancer,RifleSpaceman,OrokinHealingAncient,OrokinHeavyFemale,OrokinShieldDrone,OrokinMoaBiped,AiWeek/Ancients/ToxicAncient,AiWeek/Crawlers/Crawler,AiWeek/Crawlers/Lightning,AiWeek/Crawlers/Grenade,AiWeek/Crawlers/NoxiousCrawler,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler)
+Uncommon Fusion Core,AIWeek/RifleLancer,AIWeek/EliteRifleLancer,AIWeek/BladeSawman,AIWeek/ShotgunLancer,AIWeek/HeavyFemaleGrineer,AIWeek/ShieldLancer,AIWeek/RollingDrone,AIWeek/RocketBombard,GrineerMarinePistol,AIWeek/MacheteWoman,AIWeek/FemaleGrineer,AIWeek/FlameLancer,AIWeek/IncendiaryBombard,Spaceman/AIWeek/RifleSpaceman,BipedRobot/AIWeek/ShockwaveBiped,Drones/AIWeek/ShieldDrone,Spaceman/AIWeek/MeleeSpaceman,BipedRobot/AIWeek/SuperMoaBiped,Spaceman/AIWeek/DeployableSpaceman,Drones/AIWeek/SuicideDrone,BipedRobot/AIWeek/RailgunBiped,Spaceman/EliteSpaceman,Drones/AIWeek/MineDrone,Spaceman/AIWeek/SniperSpaceman,Forest/RifleLancer,Forest/BladeSawman,Forest/JetpackMarine,Forest/ShotgunLancer,Forest/GrineerMarinePistol,SpecialEvents/ForestDrone,Forest/EliteRifleLancer,Forest/HeavyFemaleGrineerDesert,Vip/MarineLeader,Forest/EvisceratorLancer,Drones/AIWeek/LeechDrone,AiWeek/Quadrupeds/Quadruped,AiWeek/Runners/LeapingRunner,AiWeek/Ancients/Ancient,Spaceman/AIWeek/ShotgunSpaceman,AIWeek/PistonSawman,AIWeek/BlowtorchSawman,AiWeek/Ancients/HealingAncient,AIWeek/EviseratorLancer,Desert/RifleLancer,Desert/EliteRifleLancer,Desert/BladeSawman,Desert/ShotgunLancer,Desert/HeavyFemaleGrineerDesert,Desert/EvisceratorLancer,Desert/JetpackMarine,SpecialEvents/SurveillanceDrone,Desert/GrineerMarinePistol,RifleLancer,RifleSpaceman,OrokinHealingAncient,OrokinHeavyFemale,OrokinShieldDrone,OrokinMoaBiped,AiWeek/Ancients/ToxicAncient,AiWeek/Crawlers/Crawler,AiWeek/Crawlers/Lightning,AiWeek/Crawlers/Grenade,AiWeek/Crawlers/NoxiousCrawler,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler)
+Spoiled Strike
+Corrupt Charge
+Focus Energy
+Rending Strike
+Sundering Strike,Volatile Runner (AiWeek/Runners/SuicideRunner)
+True Steel,AIWeek/RollingDrone,AIWeek/RocketBombard,Drones/AIWeek/ShieldDrone,Drones/AIWeek/VacDrone,Tyl Regor (Vip/NinjaLeader)
+Organ Shatter,AIWeek/FemaleGrineer,Drones/Vip/DroneAttack,AiWeek/Ancients/ToxicAncient,Raptor (/Sandbox/TomGalt/1-Warframe/HekTest)
+Berserker,Corrupted Ancient (OrokinHealingAncient)
+Shocking Touch,AIWeek/ShotgunLancer,Forest/ShotgunLancer,Forest/EvisceratorLancer,Spaceman/Vip/SniperBoss,Vip/NinjaLeader,AIWeek/EviseratorLancer,Desert/ShotgunLancer,Arid Eviscerator (Desert/EvisceratorLancer)
+Molten Impact,Vip/MarineLeader,BipedRobot/Vip/BossBiped,Vip/BossLechKril,Kela De Thaym (Vip/HeavyRocketFemale)
+Fury,Spaceman/AIWeek/RifleSpaceman,Drones/AIWeek/SuicideDrone,Spaceman/EliteSpaceman,SpecialEvents/ForestDrone,Frontier Regulator (SpecialEvents/SurveillanceDrone)
+North Wind,AIWeek/BladeSawman,BipedRobot/AIWeek/LaserCannonBiped,Forest/BladeSawman,Arid Butcher (Desert/BladeSawman)
+Power Throw,Corrupted Lancer (RifleLancer)
+Quick Return,RifleSpaceman,Lephantis (Vip/GolemFull)
+Rebound,Lephantis (Vip/GolemFull)
+Whirlwind,Corrupted Heavy Gunner (OrokinHeavyFemale)
+Heavy Trauma,AIWeek/RifleLancer,Forest/RifleLancer,Forest/JetpackMarine,Forest/HeavyFemaleGrineerDesert,Desert/RifleLancer,Arid Hellion (Desert/JetpackMarine)
+Reflex Coil,AIWeek/BladeSawman,Forest/BladeSawman,Spaceman/Vip/SniperBoss,Drones/Vip/DroneAttack,Desert/BladeSawman,Raptor (/Sandbox/TomGalt/1-Warframe/HekTest)
+Pressure Point,AIWeek/RifleLancer,AIWeek/BladeSawman,Drones/AIWeek/MineDrone,Forest/RifleLancer,Forest/JetpackMarine,Forest/HeavyFemaleGrineerDesert,Vip/SargasRuk/SargasRukNew,BipedRobot/Vip/BossBiped,Desert/RifleLancer,Desert/JetpackMarine,AiWeek/Crawlers/Grenade,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler)
+Smite Corpus,Fusion Moa (BipedRobot/AIWeek/SuperMoaBiped)
+Smite Grineer,AIWeek/BladeSawman,Moa (BipedRobot/AIWeek/LaserCannonBiped)
+Smite Infested,Shield Lancer (AIWeek/ShieldLancer)
+Finishing Touch,Corrupted Lancer (RifleLancer)
+Killing Blow,GrineerMarinePistol,Forest/GrineerMarinePistol,Vip/MarineLeader,Vip/BossLechKril,Vip/HeavyRocketFemale,Arid Seeker (Desert/GrineerMarinePistol)
+Reach,Spaceman/AIWeek/RifleSpaceman,AiWeek/Runners/SuicideRunner,Drones/Vip/DroneAttack,Raptor (/Sandbox/TomGalt/1-Warframe/HekTest)
+Melee Channel,BipedRobot/AIWeek/LaserCannonBiped,Vip/MarineLeader,Vip/BossLechKril,Kela De Thaym (Vip/HeavyRocketFemale)
+Jagged Edge,Elite Crewman (Spaceman/EliteSpaceman)
+Second Wind,Corrupted Moa (OrokinMoaBiped)
+Melee Prowess,AIWeek/ShotgunLancer,Drones/AIWeek/SuicideDrone,Forest/ShotgunLancer,SpecialEvents/ForestDrone,Forest/EvisceratorLancer,Spaceman/AIWeek/ShotgunSpaceman,Vip/SargasRuk/SargasRukNew,AIWeek/EviseratorLancer,Desert/ShotgunLancer,Desert/EvisceratorLancer,Frontier Regulator (SpecialEvents/SurveillanceDrone)
+Fever Strike,Forest/BladeSawman,Arid Butcher (Desert/BladeSawman)
+Hollow Point
+Magnum Force
+Tainted Clip
+Lethal Torrent
+Ice Storm
+Stunning Speed
+Trick Mag,AIWeek/RollingDrone,BipedRobot/AIWeek/ShockwaveBiped,Drones/AIWeek/ShieldDrone,BipedRobot/AIWeek/RailgunBiped,AIWeek/BlowtorchSawman,AiWeek/Crawlers/Grenade,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler)
+No Return,Spaceman/AIWeek/RifleSpaceman,Elite Crewman (Spaceman/EliteSpaceman)
+Slip Magazine,AIWeek/HeavyFemaleGrineer,Vip/CaptainVorBoss,GrineerMarineLeader,Vip/AladV/AladBoss,Desert/HeavyFemaleGrineerDesert,Toxic Ancient (AiWeek/Ancients/ToxicAncient)
+Pistol Gambit,AIWeek/ShotgunLancer,Spaceman/AIWeek/MeleeSpaceman,Forest/ShotgunLancer,Forest/EvisceratorLancer,AIWeek/EviseratorLancer,Desert/ShotgunLancer,Arid Eviscerator (Desert/EvisceratorLancer)
+Target Cracker,Powerfist (AIWeek/PistonSawman)
+Hornet Strike,Toxic Ancient (AiWeek/Ancients/ToxicAncient)
+Convulsion,Drones/AIWeek/SuicideDrone,SpecialEvents/ForestDrone,AiWeek/Quadrupeds/Quadruped,Frontier Regulator (SpecialEvents/SurveillanceDrone)
+Heated Charge,AIWeek/RifleLancer,Vip/CaptainVorBoss,Forest/RifleLancer,Forest/JetpackMarine,Forest/HeavyFemaleGrineerDesert,Vip/AladV/AladBoss,BipedRobot/Vip/BossBiped,Desert/RifleLancer,Arid Hellion (Desert/JetpackMarine)
+Barrel Diffusion,GrineerMarinePistol,Forest/GrineerMarinePistol,Arid Seeker (Desert/GrineerMarinePistol)
+Gunslinger,AIWeek/IncendiaryBombard,Vip/CaptainVorBoss,Drones/AIWeek/VacDrone,Alad V (Vip/AladV/AladBoss)
+Deep Freeze
+Concussion Rounds,AiWeek/Runners/SuicideRunner,Crewman (Spaceman/AIWeek/ShotgunSpaceman)
+Suppress,Corrupted Crewman (RifleSpaceman)
+Pistol Ammo Mutation
+Expel Corpus
+Expel Grineer,Bombard (AIWeek/RocketBombard)
+Expel Infested,Ancient Disrupter (AiWeek/Ancients/Ancient)
+Hawk Eye
+Seeker,Ancient Healer (AiWeek/Ancients/HealingAncient)
+Steady Hands,Corrupted Crewman (RifleSpaceman)
+Quickdraw,AIWeek/EliteRifleLancer,Vip/CaptainVorBoss,Forest/EliteRifleLancer,Vip/AladV/AladBoss,Desert/EliteRifleLancer,AiWeek/Crawlers/Crawler,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler)
+Razor Shot,AIWeek/EliteRifleLancer,Forest/EliteRifleLancer,Elite Arid Lancer (Desert/EliteRifleLancer)
+Sure Shot,AIWeek/FlameLancer,Electric Crawler (AiWeek/Crawlers/Lightning)
+Pathogen Rounds,Anti Moa (BipedRobot/AIWeek/LaserDiscBiped)
+Critical Delay
+Heavy Caliber
+Tainted Mag
+Vile Precision
+Hammer Shot
+Shred
+Wildfire
+Thunderbolt,AIWeek/EliteRifleLancer,Forest/EliteRifleLancer,Elite Arid Lancer (Desert/EliteRifleLancer)
+Charged Chamber,Railgun Moa (BipedRobot/AIWeek/RailgunBiped)
+Ammo Drum,Spaceman/AIWeek/RifleSpaceman,Moa (BipedRobot/AIWeek/LaserCannonBiped)
+Piercing Hit,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBiped)
+Arrow Mutation
+Magazine Warp,AIWeek/HeavyFemaleGrineer,Drones/AIWeek/LeechDrone,GrineerMarineLeader,Spaceman/Vip/SniperBoss,BipedRobot/Vip/BossBiped,Desert Heavy Gunner (Desert/HeavyFemaleGrineerDesert)
+Point Strike,AIWeek/BladeSawman,AIWeek/IncendiaryBombard,Corpus Tech (Spaceman/AIWeek/DeployableSpaceman)
+Vital Sense,Prod Crewman (Spaceman/AIWeek/MeleeSpaceman)
+Serration,AIWeek/MacheteWoman,AiWeek/Crawlers/Lightning,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler)
+Stormbringer,Ballista (AIWeek/FemaleGrineer)
+Bane of Corpus,Crawler (AiWeek/Crawlers/Crawler)
+Bane of Grineer,Scorch (AIWeek/FlameLancer)
+Bane of Infested,Powerfist (AIWeek/PistonSawman)
+Hellfire,AIWeek/RollingDrone,Drones/AIWeek/ShieldDrone,Ambulas (BipedRobot/Vip/BossBiped)
+Split Chamber,Drones/AIWeek/LeechDrone,Vip/SargasRuk/SargasRukNew,Drones/Vip/DroneAttack,Raptor (/Sandbox/TomGalt/1-Warframe/HekTest)
+Speed Trigger,Charger (AiWeek/Quadrupeds/Quadruped)
+Cryo Rounds,BipedRobot/AIWeek/ShockwaveBiped,Vip/MarineLeader,Vip/NinjaLeader,Vip/BossLechKril,Kela De Thaym (Vip/HeavyRocketFemale)
+Rupture,AiWeek/Quadrupeds/Quadruped,Electric Crawler (AiWeek/Crawlers/Lightning)
+Firestorm,Toxic Ancient (AiWeek/Ancients/ToxicAncient)
+Hush,Orokin Drone (OrokinShieldDrone)
+Metal Auger,Mine Osprey (Drones/AIWeek/MineDrone)
+Stabilizer,Lephantis (Vip/GolemFull)
+Fast Hands,Butcher (AIWeek/BladeSawman)
+Rifle Ammo Mutation
+Sawtooth Clip,GrineerMarinePistol,Forest/GrineerMarinePistol,Arid Seeker (Desert/GrineerMarinePistol)
+Sniper Ammo Mutation
+Rifle Aptitude,Forest/BladeSawman,AIWeek/BlowtorchSawman,Arid Butcher (Desert/BladeSawman)
+Infected Clip,Spaceman/EliteSpaceman,Spaceman/AIWeek/ShotgunSpaceman,Corrupted Lancer (RifleLancer)
+Eagle Eye,Crawler (AiWeek/Crawlers/Crawler)
+Steel Fiber,Prod Crewman (Spaceman/AIWeek/MeleeSpaceman)
+Spare Parts,OrokinHeavyFemale,Lephantis (Vip/GolemFull)
+Self Destruct,Fusion Moa (BipedRobot/AIWeek/SuperMoaBiped)
+Vitality,AIWeek/RollingDrone,AIWeek/IncendiaryBombard,Drones/AIWeek/ShieldDrone,BipedRobot/AIWeek/SuperMoaBiped,Anti Moa (BipedRobot/AIWeek/LaserDiscBiped)
+Fired Up,RifleSpaceman,Orokin Drone (OrokinShieldDrone)
+Redirection,AiWeek/Quadrupeds/Quadruped,Powerfist (AIWeek/PistonSawman)
+Fast Deflection,GrineerMarinePistol,Forest/GrineerMarinePistol,Desert/GrineerMarinePistol,Toxic Ancient (AiWeek/Ancients/ToxicAncient)
+Accelerated Blast
+Blaze
+Tainted Shell
+Vicious Spread
+Burdened Magazine
+Shell Compression,AIWeek/HeavyFemaleGrineer,QuadRobot/QuadRobot,GrineerMarineLeader,Desert Heavy Gunner (Desert/HeavyFemaleGrineerDesert)
+Flechette,AIWeek/ShieldLancer,Ancient Disrupter (AiWeek/Ancients/Ancient)
+Ammo Stock,Napalm (AIWeek/IncendiaryBombard)
+Blunderbuss,AIWeek/HeavyFemaleGrineer,QuadRobot/QuadRobot,Forest/BladeSawman,GrineerMarineLeader,Desert/BladeSawman,Desert/HeavyFemaleGrineerDesert,AiWeek/Crawlers/Grenade,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler)
+Ravage,Sniper Crewman (Spaceman/AIWeek/SniperSpaceman)
+Point Blank,Volatile Runner (AiWeek/Runners/SuicideRunner)
+Charged Shell,Corpus Tech (Spaceman/AIWeek/DeployableSpaceman)
+Incendiary Coat,Sniper Crewman (Spaceman/AIWeek/SniperSpaceman)
+Hell's Chamber,Drones/AIWeek/SuicideDrone,SpecialEvents/ForestDrone,Frontier Regulator (SpecialEvents/SurveillanceDrone)
+Shotgun Spazz
+Chilling Grasp,Prod Crewman (Spaceman/AIWeek/MeleeSpaceman)
+Disruptor,AIWeek/ShotgunLancer,Forest/ShotgunLancer,Forest/EvisceratorLancer,AIWeek/EviseratorLancer,Desert/ShotgunLancer,Arid Eviscerator (Desert/EvisceratorLancer)
+Seeking Force,Powerfist (AIWeek/PistonSawman)
+Tactical Pump,AIWeek/RocketBombard,Jackal (QuadRobot/QuadRobot)
+Shotgun Ammo Mutation
+Cleanse Corpus,Flameblade (AIWeek/BlowtorchSawman)
+Cleanse Grineer,Corpus Tech (Spaceman/AIWeek/DeployableSpaceman)
+Cleanse Infested,Leaper (AiWeek/Runners/LeapingRunner)
+Shredder,Spaceman/AIWeek/ShotgunSpaceman,Toxic Ancient (AiWeek/Ancients/ToxicAncient)
+Shotgun Savvy,Spaceman/AIWeek/MeleeSpaceman,BipedRobot/AIWeek/LaserDiscBiped,General Sargas Ruk (Vip/SargasRuk/SargasRukNew)
+Contagious Spread,Drones/AIWeek/VacDrone,Electric Crawler (AiWeek/Crawlers/Lightning)
+Constitution
+Narrow Minded
+Fleeting Expertise
+Blind Rage
+Overextended
+Fortitude
+Vigor
+Continuity,General Sargas Ruk (Vip/SargasRuk/SargasRukNew)
+Streamline,AIWeek/RifleLancer,Forest/RifleLancer,Forest/JetpackMarine,Forest/HeavyFemaleGrineerDesert,Desert/RifleLancer,Arid Hellion (Desert/JetpackMarine)
+Stretch,BipedRobot/AIWeek/ShockwaveBiped,Vip/MarineLeader,Drones/AIWeek/LeechDrone,Vip/BossLechKril,Vip/HeavyRocketFemale,Drones/Vip/DroneAttack,Raptor (/Sandbox/TomGalt/1-Warframe/HekTest)
+Intensify,Vip/CaptainVorBoss,Alad V (Vip/AladV/AladBoss)
+Steel Fiber,Vip/NinjaLeader,Crawler (AiWeek/Crawlers/Crawler)
+Reflex Guard,Corrupted Moa (OrokinMoaBiped)
+Undying Will,AIWeek/EliteRifleLancer,Forest/EliteRifleLancer,Elite Arid Lancer (Desert/EliteRifleLancer)
+Natural Talent
+Master Thief,Scorpion (AIWeek/MacheteWoman)
+Lightning Rod,AIWeek/MacheteWoman,Ancient Healer (AiWeek/Ancients/HealingAncient)
+Flame Repellent,AIWeek/BlowtorchSawman,Ancient Healer (AiWeek/Ancients/HealingAncient)
+Insulation,Napalm (AIWeek/IncendiaryBombard)
+Shock Absorbers,Jackal (QuadRobot/QuadRobot)
+Diamond Skin,AIWeek/RifleLancer,Forest/RifleLancer,Forest/JetpackMarine,Forest/HeavyFemaleGrineerDesert,Drones/AIWeek/LeechDrone,Desert/RifleLancer,Arid Hellion (Desert/JetpackMarine)
+Antitoxin,BipedRobot/AIWeek/SuperMoaBiped,Corrupted Moa (OrokinMoaBiped)
+Rage,Napalm (AIWeek/IncendiaryBombard)
+Enemy Sense,Flameblade (AIWeek/BlowtorchSawman)
+Heavy Impact,AIWeek/MacheteWoman,AiWeek/Crawlers/Grenade,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler)
+Provoked
+Vitality,AIWeek/RifleLancer,Vip/CaptainVorBoss,Drones/AIWeek/SuicideDrone,Forest/RifleLancer,Forest/JetpackMarine,SpecialEvents/ForestDrone,Forest/HeavyFemaleGrineerDesert,Vip/AladV/AladBoss,Vip/NinjaLeader,Desert/RifleLancer,Desert/JetpackMarine,Frontier Regulator (SpecialEvents/SurveillanceDrone)
+Handspring,Spaceman/AIWeek/DeployableSpaceman,Jackal (QuadRobot/QuadRobot)
+Sure Footed,Bombard (AIWeek/RocketBombard)
+Thief's Wit,AIWeek/ShieldLancer,BipedRobot/AIWeek/SuperMoaBiped,Spaceman/Vip/SniperBoss,Anti Moa (BipedRobot/AIWeek/LaserDiscBiped)
+Warm Coat,AIWeek/RocketBombard,Toxic Ancient (AiWeek/Ancients/ToxicAncient)
+Parry
+Reflection,Corrupted Ancient (OrokinHealingAncient)
+Flow,AIWeek/BladeSawman,Forest/BladeSawman,Arid Butcher (Desert/BladeSawman)
+Quick Thinking,Corrupted Ancient (OrokinHealingAncient)
+Retribution,Shield Lancer (AIWeek/ShieldLancer)
+Redirection,AIWeek/EliteRifleLancer,Drones/AIWeek/VacDrone,Forest/EliteRifleLancer,AiWeek/Ancients/Ancient,Elite Arid Lancer (Desert/EliteRifleLancer)
+Fast Deflection,AIWeek/RollingDrone,Drones/AIWeek/ShieldDrone,Ambulas (BipedRobot/Vip/BossBiped)
+Shield Flux
+Maglev,Corrupted Ancient (OrokinHealingAncient)
+Rush,Fusion Moa (BipedRobot/AIWeek/SuperMoaBiped)
+Acrobat,Railgun Moa (BipedRobot/AIWeek/RailgunBiped)
+Marathon,Corpus Tech (Spaceman/AIWeek/DeployableSpaceman)
+Quick Rest,Shield Lancer (AIWeek/ShieldLancer)
+Intruder,Corrupted Heavy Gunner (OrokinHeavyFemale)

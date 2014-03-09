@@ -1,0 +1,480 @@
+Result Item,Mat1,Mat1 Count,Mat2,Mat2 Count,Mat3,Mat3 Count,Mat4,Mat4 Count,Build Time,Price,Skip Build Price
+/Lotus/Types/StoreItems/Keys/DerelictCaptureKey,Nav Coordinate,5,Nano Spores,2500,Ferrite,750,Circuits,80,,6500,
+/Lotus/Types/StoreItems/Keys/TestKeySurvival,Nav Coordinate,5,Nano Spores,9000,Salvage,9000,Circuits,80,60,,5
+/Lotus/Types/StoreItems/Keys/DerelictDefenseKey,Nav Coordinate,5,Nano Spores,2500,Salvage,750,Polymer Bundle,80,,6500,
+/Lotus/Types/StoreItems/Keys/DerelictExterminateKey,Nav Coordinate,5,Nano Spores,2500,Salvage,750,Circuits,80,,6500,
+/Lotus/Types/StoreItems/Keys/DerelictSurvivalKey,Nav Coordinate,5,Nano Spores,2500,Salvage,750,Circuits,80,,6500,
+Clan Key,Morphics,1,Ferrite,500,Polymer Bundle,500,,,43200,1500,10
+/Lotus/Types/StoreItems/Keys/GolemKey,Golem Nav Coordinate,5,Nano Spores,4000,Salvage,1000,Circuits,100,3600,7500,10
+Tethra Cipher,Tethra Data Fragments,3,Polymer Bundle,1000,,,,,60,,5
+Cronus,Morphics,1,Ferrite,500,Polymer Bundle,75,,,43200,15000,
+Dark Sword,Neurodes,2,Ferrite,800,Plastids,200,Polymer Bundle,75,43200,20000,
+Inferno,Grineer Rifle Mod,1,Ferrite,500,Rubedo,50,,,43200,6000,10
+Inferno,Actuators,1,Pistol,1,,,,,180,1000,10
+Mod Fuser,/Lotus/Types/Game/LotusArtifactUpgrade,1,/Lotus/Types/Game/LotusArtifactUpgrade,1,/Lotus/Types/Game/LotusArtifactUpgrade,1,/Lotus/Types/Game/LotusArtifactUpgrade,1,1800,2500,8
+/Lotus/Objects/Tenno/Props/TnoBannerODeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Festivities/CorpusEspionageTrophy,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Festivities/CorpusEspionageTrophyGold,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Festivities/CorpusEspionageTrophySilver,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Tenno/Props/BronzeStatueBuddhaDeco,Ferrite,30000,Alloy Plate,13000,Plastids,12000,Gallium,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/BronzeStatueDragonDeco,Ferrite,30000,Alloy Plate,12500,Plastids,12500,Gallium,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/BronzeStatueFooDogDeco,Ferrite,30000,Alloy Plate,12000,Plastids,13000,Gallium,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/BronzeStatueIncenseBurnerDeco,Ferrite,30000,Alloy Plate,15000,Plastids,10000,Gallium,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/BronzeStatueTurtleDragonDeco,Ferrite,30000,Alloy Plate,10000,Plastids,15000,Gallium,7,86400,50000,750
+/Lotus/Objects/Festivities/CiceroCrisisTrophyB,Ferrite,70000,Plastids,35000,Nano Spores,36000,Morphics,16,86400,1000000,1500
+/Lotus/Objects/Festivities/CiceroCrisisTrophyG,Ferrite,70000,Plastids,35000,Nano Spores,36000,Morphics,16,86400,1000000,1500
+/Lotus/Objects/Festivities/CiceroCrisisTrophyS,Ferrite,70000,Plastids,35000,Nano Spores,36000,Morphics,16,86400,1000000,1500
+/Lotus/Objects/Tenno/Props/DojoPlanterADeco,Salvage,30000,Rubedo,20000,Circuits,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenBambooFountainADeco,Nano Spores,30000,Polymer Bundle,12500,Plastids,12500,Control Module,5,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenBambooFountainBDeco,Nano Spores,30000,Polymer Bundle,13000,Plastids,12000,Control Module,5,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenBambooFountainCDeco,Nano Spores,30000,Polymer Bundle,14000,Plastids,11000,Control Module,5,86400,50000,750
+/Lotus/Objects/Tenno/Props/RockFountainDeco,Nano Spores,25000,Rubedo,15000,Plastids,15000,Control Module,5,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenGardenRockFountainDeco,Nano Spores,25000,Rubedo,15000,Plastids,15000,Control Module,5,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenWoodFountainDeco,Nano Spores,25000,Circuits,15000,Plastids,15000,Control Module,7,86400,50000,750
+/Lotus/Objects/Festivities/FusionMoaTrophy,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenGardenYngYangDeco,Ferrite,30000,Rubedo,15000,Plastids,10000,Morphics,7,86400,50000,750
+/Lotus/Objects/Festivities/GradivusDilemmaTrophyCrpBronze,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Festivities/GradivusDilemmaTrophyCrpGold,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Festivities/GradivusDilemmaTrophyCrpSilver,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Festivities/GradivusDilemmaTrophyGrnBronze,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Festivities/GradivusDilemmaTrophyGrnGold,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Festivities/GradivusDilemmaTrophyGrnSilver,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Tenno/Props/GrineerArmouredStatueBaseDeco,Ferrite,40000,Polymer Bundle,20000,Circuits,20000,Gallium,10,86400,750000,1000
+/Lotus/Objects/Tenno/Props/GrineerFemaleStatueBaseDeco,Ferrite,40000,Rubedo,20000,Polymer Bundle,20000,Gallium,10,86400,750000,1000
+/Lotus/Objects/Tenno/Props/GrineerMarineStatueBaseDeco,Nano Spores,40000,Alloy Plate,20000,Polymer Bundle,20000,Orokin Cell,10,86400,750000,1000
+/Lotus/Objects/Tenno/Props/HammerBossStatueBaseDeco,Ferrite,50000,Alloy Plate,27000,Plastids,30000,Morphics,10,86400,750000,1000
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenGardenTopiaryBushBDeco,Nano Spores,35000,Polymer Bundle,15000,Plastids,10000,Neurodes,6,86400,60000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenJMapleTreeADeco,Nano Spores,50000,Polymer Bundle,20000,Plastids,15000,Neurodes,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenJMapleTreeBDeco,Nano Spores,50000,Polymer Bundle,20000,Plastids,15000,Neurodes,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenJMapleTreeCDeco,Nano Spores,50000,Polymer Bundle,25000,Plastids,25000,Neurodes,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenJMapleTreeDDeco,Nano Spores,60000,Polymer Bundle,25000,Plastids,30000,Neurodes,8,86400,80000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenModPathLightADeco,Salvage,30000,Alloy Plate,15000,Circuits,10000,Orokin Cell,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenRockstatueADeco,Ferrite,30000,Polymer Bundle,15000,Plastids,10000,Gallium,7,86400,50000,750
+/Lotus/Objects/Festivities/ShipyardsEventTrophyBronze,Ferrite,70000,Plastids,35000,Nano Spores,36000,Oxium,16,86400,1000000,1500
+/Lotus/Objects/Festivities/ShipyardsEventTrophyGold,Ferrite,70000,Plastids,35000,Nano Spores,36000,Oxium,16,86400,1000000,1500
+/Lotus/Objects/Festivities/ShipyardsEventTrophySilver,Ferrite,70000,Plastids,35000,Nano Spores,36000,Oxium,16,86400,1000000,1500
+/Lotus/Objects/Festivities/SlingStoneTrophy,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenGardenPrunedBushADeco,Nano Spores,25000,Polymer Bundle,15000,Plastids,7500,Neurodes,4,64800,45000,500
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenGardenTopiaryBushADeco,Nano Spores,20000,Polymer Bundle,10000,Plastids,5000,Neurodes,3,43200,20000,250
+/Lotus/Objects/Festivities/SpyDroneTrophy,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenLanternADeco,Salvage,30000,Circuits,15000,Plastids,10000,Orokin Cell,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenLanternBDeco,Salvage,30000,Circuits,12500,Plastids,12500,Orokin Cell,7,86400,50000,750
+/Lotus/Objects/Festivities/SurvivalTrophyBronze,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Festivities/SurvivalTrophyGold,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Festivities/SurvivalTrophySilver,Salvage,70000,Circuits,35000,Polymer Bundle,36000,Gallium,16,86400,1000000,1500
+/Lotus/Objects/Tenno/Props/TnoArchBDeco,Nano Spores,50000,Rubedo,15000,Plastids,20000,Morphics,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/TnoArchBDecoB,Nano Spores,50000,Rubedo,15000,Plastids,20000,Morphics,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/TnoArchBDecoC,Nano Spores,50000,Rubedo,15000,Plastids,20000,Morphics,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/TnoArchBDecoD,Nano Spores,50000,Rubedo,15000,Plastids,20000,Morphics,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/TennoBannerStand,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerBDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerCDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerDDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerEDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerFDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerGDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerHDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerIDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerJDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerKDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerLDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerMDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerNDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoBannerPDeco,Ferrite,30000,Rubedo,20000,Polymer Bundle,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TennoFloorMedallionEightLotus,Salvage,30000,Plastids,20000,Alloy Plate,10000,Morphics,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TennoFloorMedallionNineLotus,Nano Spores,30000,Rubedo,20000,Polymer Bundle,10000,Gallium,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TennoFloorMedallionThreeBrain,Salvage,30000,Rubedo,20000,Circuits,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoKoiPondDeco,Salvage,30000,Alloy Plate,15000,Plastids,10000,Orokin Cell,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TennoStatueBaseDeco,Ferrite,30000,Polymer Bundle,20000,Circuits,10000,Orokin Cell,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TennoStatueBaseSmallDeco,Salvage,30000,Rubedo,20000,Circuits,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoDojoLootCrateADeco,Salvage,35000,Rubedo,20000,Circuits,11000,Morphics,8,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoDojoShrineTotemADeco,Salvage,30000,Plastids,20000,Alloy Plate,10000,Morphics,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoFloorPanelBDeco,Salvage,30000,Plastids,20000,Alloy Plate,10000,Morphics,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoIncenseContainerDeco,Salvage,30000,Alloy Plate,20000,Circuits,15000,Gallium,8,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoFloorPanelDeco,Salvage,30000,Plastids,20000,Alloy Plate,10000,Morphics,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoTaikoDrumCDeco,Salvage,30000,Rubedo,20000,Circuits,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoTaikoDrumDDeco,Salvage,30000,Rubedo,20000,Circuits,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoTaikoDrumEDeco,Salvage,30000,Rubedo,20000,Circuits,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoTaikoDrumFDeco,Salvage,30000,Rubedo,20000,Circuits,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoTaikoDrumGDeco,Salvage,30000,Rubedo,20000,Circuits,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoTaikoDrumADeco,Salvage,30000,Rubedo,20000,Circuits,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoTaikoDrumBDeco,Salvage,30000,Rubedo,20000,Circuits,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TnoTaikoDrumCMinorDeco,Salvage,30000,Rubedo,20000,Circuits,10000,Neurodes,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/TradingPost,Nano Spores,100000,Alloy Plate,50000,Forma,5,,,86400,100000,1500
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenGardenArchDeco,Salvage,50000,Rubedo,15000,Plastids,20000,Gallium,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenBenchADeco,Ferrite,40000,Rubedo,12500,Plastids,12500,Morphics,6,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenBridgeLargeDeco,Salvage,60000,Rubedo,17500,Plastids,17500,Gallium,7,86400,75000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenWoodTotemDeco,Salvage,50000,Rubedo,20000,Plastids,15000,Gallium,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenGardenArchBDeco,Nano Spores,50000,Rubedo,15000,Plastids,20000,Morphics,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenGardenArchBDecoB,Nano Spores,50000,Rubedo,15000,Plastids,20000,Morphics,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenGardenArchBDecoC,Nano Spores,50000,Rubedo,15000,Plastids,20000,Morphics,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenGardenArchBDecoD,Nano Spores,50000,Rubedo,15000,Plastids,20000,Morphics,8,86400,75000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenIslandCDeco,Ferrite,30000,Plastids,20000,Rubedo,5000,Gallium,10,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenIslandDDeco,Salvage,30000,Plastids,20000,Rubedo,5000,Gallium,10,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenIslandEDeco,Nano Spores,30000,Plastids,20000,Rubedo,5000,Gallium,10,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenSandGardenFDeco,Ferrite,30000,Alloy Plate,15000,Rubedo,10000,Gallium,7,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenSandGardenGDeco,Ferrite,30000,Alloy Plate,20000,Rubedo,10000,Gallium,10,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenSandGardenHDeco,Ferrite,20000,Alloy Plate,20000,Rubedo,10000,Gallium,5,86400,50000,750
+/Lotus/Objects/Tenno/Props/ZenGarden/ZenSandGardenJDeco,Ferrite,30000,Alloy Plate,20000,Rubedo,5000,Gallium,10,86400,50000,750
+/Lotus/Levels/ClanDojo/ClanConnectorTJunctionA.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/ClanConnectorElbowA.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/ClanConnectorPlusA.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/ClanConnectorSmallA.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/ClanElevatorA.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/ClanGrandHallA.level,Alloy Plate,15000,Ferrite,60000,Rubedo,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/ClanGrandestHallA.level,Alloy Plate,15000,Ferrite,60000,Rubedo,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/ClanGreatHallA.level,Alloy Plate,15000,Ferrite,60000,Rubedo,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/ClanGreaterHallA.level,Alloy Plate,15000,Ferrite,60000,Rubedo,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/ClanHallA.level,Alloy Plate,15000,Ferrite,60000,Rubedo,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/ClanObstacleCourseA.level,Alloy Plate,65000,Ferrite,40000,Rubedo,120000,Forma,15,86400,100000,1000
+/Lotus/Levels/ClanDojo/ClanPowerRoomA.level,Salvage,65000,Circuits,35000,Alloy Plate,15000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/ClanStorageA.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/DojoConnectorElbow.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/DojoConnectorElevator.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/DojoConnectorPlus.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/DojoConnectorStraightLong.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/DojoConnectorStraight.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/DojoConnectorTJunction.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/DojoDuelRoomA.level,Salvage,15,Ferrite,15,Nano Spores,15,Forma,0,10,10,10
+/Lotus/Levels/ClanDojo/DojoGrandHall.level,Salvage,15000,Ferrite,60000,Nano Spores,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/DojoGrandestHall.level,Salvage,15000,Ferrite,60000,Nano Spores,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/DojoGreatHall.level,Salvage,15000,Ferrite,60000,Nano Spores,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/DojoGreaterHall.level,Salvage,15000,Ferrite,60000,Nano Spores,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/DojoHall.level,Salvage,15000,Ferrite,60000,Nano Spores,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/DojoPowerRoom.level,Salvage,65000,Circuits,35000,Alloy Plate,15000,Forma,5,43200,50000,750
+/Lotus/Levels/ClanDojo/FabricatorBase.level,Salvage,65000,Circuits,35000,Polymer Bundle,35000,Forma,15,86400,100000,1500
+/Lotus/Levels/ClanDojo/FabricatorCorpus.level,Salvage,65000,Circuits,35000,Polymer Bundle,35000,Forma,15,86400,100000,1500
+/Lotus/Levels/ClanDojo/FabricatorGrineer.level,Salvage,65000,Circuits,35000,Polymer Bundle,35000,Forma,15,86400,100000,1500
+/Lotus/Levels/ClanDojo/FabricatorInfested.level,Salvage,65000,Circuits,35000,Polymer Bundle,35000,Forma,15,86400,100000,1500
+/Lotus/Levels/ClanDojo/ClanDuelRoomA.level,Salvage,65000,Ferrite,35000,Nano Spores,120000,Forma,10,86400,75000,750
+/Lotus/Levels/ClanDojo/ClanDuelRoomB.level,Salvage,80000,Ferrite,35000,Rubedo,17500,Forma,15,129600,75000,750
+/Lotus/Levels/ClanDojo/ClanDuelRoomC.level,Salvage,100000,Circuits,35000,Rubedo,25000,Forma,20,259200,100000,1500
+/Lotus/Levels/ClanDojo/ResearchLabBase.level,Salvage,65000,Circuits,35000,Polymer Bundle,35000,Forma,15,86400,100000,1500
+/Lotus/Levels/ClanDojo/ResearchLabCorpus.level,Salvage,65000,Circuits,35000,Polymer Bundle,35000,Forma,15,86400,100000,1500
+/Lotus/Levels/ClanDojo/ResearchLabGrineer.level,Salvage,65000,Circuits,35000,Polymer Bundle,35000,Forma,15,86400,100000,1500
+/Lotus/Levels/ClanDojo/ResearchLabInfested.level,Salvage,65000,Circuits,35000,Polymer Bundle,35000,Forma,15,86400,100000,1500
+/Lotus/Levels/ClanDojo/ResearchLabTenno.level,Salvage,65000,Circuits,35000,Polymer Bundle,35000,Forma,15,86400,100000,1500
+/Lotus/Levels/ClanDojo/ClanDojoBarracksShadow.level,Alloy Plate,15000,Ferrite,60000,Rubedo,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/ClanDojoBarracksStorm.level,Alloy Plate,15000,Ferrite,60000,Rubedo,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/ClanDojoBarracksMountain.level,Alloy Plate,15000,Ferrite,60000,Rubedo,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/ClanDojoBarracksMoon.level,Alloy Plate,15000,Ferrite,60000,Rubedo,30000,Forma,25,86400,100000,1500
+/Lotus/Levels/ClanDojo/DojoGardenGLarge.level,Salvage,85000,Ferrite,75000,Nano Spores,250000,Forma,10,43200,100000,750
+/Lotus/Levels/ClanDojo/DojoGardenILarge.level,Salvage,85000,Ferrite,75000,Nano Spores,250000,Forma,10,43200,100000,750
+/Lotus/Levels/ClanDojo/DojoGardenLLarge.level,Salvage,85000,Polymer Bundle,75000,Nano Spores,250000,Forma,10,43200,100000,750
+/Lotus/Levels/ClanDojo/DojoChallengeRoomA.level,Salvage,65000,Ferrite,25000,Nano Spores,150000,Forma,4,43200,55000,750
+/Lotus/Levels/ClanDojo/DojoGardenELarge.level,Salvage,85000,Ferrite,75000,Nano Spores,250000,Forma,10,43200,100000,750
+/Lotus/Levels/ClanDojo/DojoGardenHLarge.level,Salvage,85000,Ferrite,75000,Nano Spores,250000,Forma,10,43200,100000,750
+/Lotus/Levels/ClanDojo/DojoGardenA.level,Salvage,65000,Ferrite,55000,Nano Spores,200000,Forma,8,43200,75000,750
+/Lotus/Levels/ClanDojo/DojoGardenB.level,Salvage,65000,Ferrite,55000,Nano Spores,200000,Forma,8,43200,75000,750
+/Lotus/Levels/ClanDojo/DojoGardenC.level,Salvage,65000,Ferrite,55000,Nano Spores,200000,Forma,8,43200,75000,750
+/Lotus/Levels/ClanDojo/DojoGardenD.level,Salvage,65000,Ferrite,55000,Nano Spores,200000,Forma,8,43200,75000,750
+/Lotus/Levels/ClanDojo/DojoGardenE.level,Salvage,65000,Ferrite,55000,Nano Spores,200000,Forma,8,43200,75000,750
+/Lotus/Levels/ClanDojo/DojoGardenF.level,Salvage,65000,Ferrite,55000,Nano Spores,200000,Forma,8,43200,75000,750
+/Lotus/Levels/ClanDojo/DojoGardenG.level,Salvage,65000,Ferrite,55000,Nano Spores,200000,Forma,8,43200,75000,750
+/Lotus/Levels/ClanDojo/DojoGardenH.level,Salvage,65000,Ferrite,55000,Nano Spores,200000,Forma,8,43200,75000,750
+/Lotus/Levels/ClanDojo/DojoGardenI.level,Salvage,65000,Ferrite,55000,Nano Spores,200000,Forma,8,43200,75000,750
+/Lotus/Levels/ClanDojo/DojoGardenALarge.level,Salvage,85000,Ferrite,75000,Nano Spores,250000,Forma,10,43200,100000,750
+/Lotus/Levels/ClanDojo/DojoGardenBLarge.level,Salvage,85000,Ferrite,75000,Nano Spores,250000,Forma,10,43200,100000,750
+/Lotus/Levels/ClanDojo/DojoGardenCLarge.level,Salvage,85000,Ferrite,75000,Nano Spores,250000,Forma,10,43200,100000,750
+/Lotus/Levels/ClanDojo/DojoGardenDLarge.level,Salvage,85000,Polymer Bundle,75000,Nano Spores,250000,Forma,10,43200,100000,750
+/Lotus/Levels/ClanDojo/DojoGardenFLarge.level,Salvage,85000,Ferrite,75000,Nano Spores,250000,Forma,10,43200,100000,750
+BioComponentStoreItem,BioFragment,10,Control Module,1,Salvage,500,Plastids,250,43200,15000,
+Corpus Void Key,CipherPlus,1,DataMassPlus,1,,,,,60,1500,0
+ChemComponentStoreItem,ChemFragment,10,Control Module,1,Salvage,500,Plastids,250,43200,15000,
+EnergyComponentStoreItem,EnergyFragment,10,Control Module,1,Salvage,500,Plastids,250,43200,15000,
+BrandRemovalStoreItem,Morphics,1,Neurodes,1,Neural Sensors,1,Oxium,20,60,,
+FormaStoreItem,Morphics,1,Neurodes,1,Neural Sensors,1,Orokin Cell,1,86400,35000,10
+Orokin Catalyst,Morphics,1,Gallium,1,Control Module,1,Orokin Cell,1,86400,25000,10
+Orokin Reactor,Morphics,1,Neurodes,1,Neural Sensors,1,Orokin Cell,1,86400,35000,10
+Titan Extractor Prime,Alloy Plate,500,Nano Spores,300,,,,,21600,20000,5
+Distilling Extractor Prime,Polymer Bundle,2000,Oxium,300,,,,,21600,65000,5
+Titan Extractor,Polymer Bundle,500,Ferrite,300,,,,,21600,10000,5
+Distilling Extractor,Polymer Bundle,1000,Oxium,150,,,,,21600,50000,5
+Scorpion Ash Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Reverb Banshee Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Phoenix Ember Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Avalon Excalibur Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Aurora Frost Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Essence Loki Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Coil Mag Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Raknis Nekros Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neural Sensors,2,43200,20000,
+Shroud Nekros Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neural Sensors,2,43200,20000,
+Flux Nova Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Quantum Nova Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Menticide Nyx Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Markhor Oberon Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Oryx Oberon Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Thrak Rhino Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Hemlock Saryn Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Aura Trinity Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Locust Ash Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Chorus Banshee Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Backdraft Ember Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Pendragon Excalibur Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Squall Frost Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Swindle Loki Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Gauss Mag Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Vespa Nyx Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Vanguard Rhino Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Chlora Saryn Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Meridian Trinity Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Gambit Vauban Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Pulse Volt Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Kara Valkyr Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Bastet Valkyr Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Esprit Vauban Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Storm Volt Helmet,Salvage,500,Alloy Plate,350,Orokin Cell,1,Neurodes,2,43200,20000,
+Cierzo Zephyr Helmet,Nano Spores,500,Rubedo,350,Orokin Cell,1,Oxium,2,43200,20000,
+Carrier,Alloy Plate,1000,Circuits,400,Nano Spores,1500,Control Module,3,86400,15000,30
+Dethcube,Alloy Plate,500,Circuits,400,Nano Spores,200,Control Module,1,86400,15000,30
+Shade,Alloy Plate,500,Circuits,400,Nano Spores,200,Control Module,1,86400,15000,30
+Wyrm,Alloy Plate,500,Circuits,400,Nano Spores,200,Control Module,1,86400,15000,30
+BansheeSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,400,43200,15000,
+Ash,AshHelmetComponent,1,AshChassisComponent,1,AshSystemsComponent,1,Orokin Cell,1,259200,25000,50
+AshChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+AshHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+AshSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,500,43200,15000,
+Banshee,BansheeHelmetComponent,1,BansheeChassisComponent,1,BansheeSystemsComponent,1,Orokin Cell,1,259200,25000,50
+BansheeChassisComponentStoreItem,Morphics,1,Ferrite,900,Rubedo,50,,,43200,15000,
+BansheeHelmetComponentStoreItem,Circuits,150,Neural Sensors,1,Polymer Bundle,200,Salvage,500,43200,15000,
+Valkyr,BerserkerHelmetComponent,1,BerserkerChassisComponent,1,BerserkerSystemsComponent,1,Orokin Cell,1,259200,25000,50
+BerserkerChassisComponentStoreItem,Morphics,1,Ferrite,900,Rubedo,50,,,43200,15000,
+BerserkerHelmetComponentStoreItem,Circuits,150,Neural Sensors,1,Polymer Bundle,200,Salvage,500,43200,15000,
+BerserkerSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,400,43200,15000,
+Ember,EmberHelmetComponent,1,EmberChassisComponent,1,EmberSystemsComponent,1,Orokin Cell,1,259200,25000,50
+EmberChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+EmberHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+Ember Prime,EmberPrimeHelmetComponent,1,EmberPrimeChassisComponent,1,EmberPrimeSystemsComponent,1,Orokin Cell,1,259200,25000,50
+EmberPrimeChassisComponentStoreItem,Morphics,3,Ferrite,1000,Rubedo,300,,,43200,15000,
+EmberPrimeHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,2,Polymer Bundle,1000,Rubedo,750,43200,15000,
+EmberPrimeSystemsComponentStoreItem,Control Module,1,Morphics,1,Nano Spores,1200,Plastids,700,43200,15000,
+EmberSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,220,43200,15000,
+Excalibur,ExcaliburChassisComponent,1,ExcaliburHelmetComponent,1,ExcaliburSystemsComponent,1,Orokin Cell,1,259200,25000,50
+ExcaliburChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+ExcaliburHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+ExcaliburSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,220,43200,15000,
+Frost,FrostHelmetComponent,1,FrostChassisComponent,1,FrostSystemsComponent,1,Orokin Cell,1,259200,25000,50
+FrostChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+FrostHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+Frost Prime,FrostPrimeHelmetComponent,1,FrostPrimeChassisComponent,1,FrostPrimeSystemsComponent,1,Orokin Cell,1,259200,25000,50
+FrostPrimeChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+FrostPrimeHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+FrostPrimeSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,220,43200,15000,
+FrostSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,500,43200,15000,
+Loki,LOKIChassisComponent,1,LOKIHelmetComponent,1,LOKISystemsComponent,1,Orokin Cell,1,259200,25000,50
+LOKIChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+LOKIHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+LOKISystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,220,43200,15000,
+Mag,MagHelmetComponent,1,MagChassisComponent,1,MagSystemsComponent,1,Orokin Cell,1,259200,25000,50
+MagChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+MagHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+Mag Prime,MagPrimeHelmetComponent,1,MagPrimeChassisComponent,1,MagPrimeSystemsComponent,1,Orokin Cell,3,259200,25000,50
+MagPrimeChassisComponentStoreItem,Morphics,3,Ferrite,1000,Rubedo,400,,,43200,15000,
+MagPrimeHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,2,Polymer Bundle,150,Rubedo,750,43200,15000,
+MagPrimeSystemsComponentStoreItem,Control Module,3,Morphics,1,Salvage,500,Plastids,500,43200,15000,
+MagSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,220,43200,15000,
+Nekros,NecroHelmetComponent,1,NecroChassisComponent,1,NecroSystemsComponent,1,Orokin Cell,3,259200,25000,50
+NecroChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+NecroHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+NecroSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,220,43200,15000,
+Nova,NovaHelmetComponent,1,NovaChassisComponent,1,NovaSystemsComponent,1,Orokin Cell,1,259200,25000,50
+NovaChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+NovaHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+NovaSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,600,43200,15000,
+Nyx,NyxHelmetComponent,1,NyxChassisComponent,1,NyxSystemsComponent,1,Orokin Cell,1,259200,25000,50
+NyxChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+NyxHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+NyxSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,220,43200,15000,
+Oberon,PaladinHelmetComponent,1,PaladinChassisComponent,1,PaladinSystemsComponent,1,Orokin Cell,1,259200,30000,50
+PaladinChassisComponentStoreItem,Gallium,1,Polymer Bundle,1000,Rubedo,300,,,43200,15000,
+PaladinHelmetComponentStoreItem,Alloy Plate,150,Control Module,1,Polymer Bundle,150,Circuits,500,43200,15000,
+PaladinSystemsComponentStoreItem,Orokin Cell,1,Gallium,1,Polymer Bundle,500,Alloy Plate,220,43200,15000,
+Rhino,RhinoHelmetComponent,1,RhinoChassisComponent,1,RhinoSystemsComponent,1,Orokin Cell,1,259200,25000,50
+RhinoChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+RhinoHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+Rhino Prime,RhinoPrimeHelmetComponent,1,RhinoPrimeChassisComponent,1,RhinoPrimeSystemsComponent,1,Orokin Cell,3,259200,25000,50
+RhinoPrimeChassisComponentStoreItem,Morphics,3,Ferrite,1000,Plastids,400,,,43200,15000,
+RhinoPrimeHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,2,Polymer Bundle,150,Rubedo,750,43200,15000,
+RhinoPrimeSystemsComponentStoreItem,Control Module,3,Morphics,1,Ferrite,500,Plastids,500,43200,15000,
+RhinoSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,600,43200,15000,
+Saryn,SarynHelmetComponent,1,SarynChassisComponent,1,SarynSystemsComponent,1,Orokin Cell,1,259200,25000,50
+SarynChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,50,,,43200,15000,
+SarynHelmetComponentStoreItem,Circuits,150,Neural Sensors,1,Polymer Bundle,300,Salvage,400,43200,15000,
+SarynSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,550,Plastids,350,43200,15000,
+Zephyr,TenguHelmetComponent,1,TenguChassisComponent,1,TenguSystemsComponent,1,Orokin Cell,1,259200,25000,50
+TenguChassisComponentStoreItem,Oxium,200,Nano Spores,900,Rubedo,50,,,43200,15000,
+TenguHelmetComponentStoreItem,Circuits,150,Oxium,200,Polymer Bundle,200,Salvage,500,43200,15000,
+TenguSystemsComponentStoreItem,Control Module,1,Oxium,200,Polymer Bundle,500,Plastids,400,43200,15000,
+Vauban,TrapperHelmetComponent,1,TrapperChassisComponent,1,TrapperSystemsComponent,1,Orokin Cell,1,259200,25000,50
+TrapperChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+TrapperHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+TrapperSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,220,43200,15000,
+Trinity,TrinityHelmetComponent,1,TrinityChassisComponent,1,TrinitySystemsComponent,1,Orokin Cell,1,259200,25000,50
+TrinityChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+TrinityHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+TrinitySystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,220,43200,15000,
+Volt,VOLTChassisComponent,1,VOLTHelmetComponent,1,VOLTSystemsComponent,1,Orokin Cell,1,259200,25000,50
+VOLTChassisComponentStoreItem,Morphics,1,Ferrite,1000,Rubedo,300,,,43200,15000,
+VOLTHelmetComponentStoreItem,Alloy Plate,150,Neural Sensors,1,Polymer Bundle,150,Rubedo,500,43200,15000,
+VOLTSystemsComponentStoreItem,Control Module,1,Morphics,1,Salvage,500,Plastids,220,43200,15000,
+Seer,WeaponParts/VorsPistolBarrel,1,WeaponParts/VorsPistolReceiver,1,Orokin Cell,2,,,43200,15000,50
+Afuris,Furis,1,Furis,1,Orokin Cell,1,,,43200,20000,
+Akbolto,Bolto,1,Bolto,1,Orokin Cell,1,,,43200,20000,
+Akbronco Prime,Bronco Prime,1,Bronco Prime,1,WeaponParts/AkbroncoPrimeLink,1,,,43200,15000,50
+Aklex,Lex,1,Lex,1,Orokin Cell,1,,,43200,15000,
+Ankyros Prime,WeaponParts/AnkyrosPrimeBlade,2,WeaponParts/AnkyrosPrimeGauntlet,2,Orokin Cell,10,,,43200,15000,50
+Cernos,Gallium,3,Plastids,700,Polymer Bundle,600,Ferrite,1750,43200,15000,45
+Ballistica,Neurodes,3,Gallium,4,Nano Spores,3000,Rubedo,1200,86400,25000,
+Scindo,Gallium,3,Salvage,750,Circuits,300,Alloy Plate,500,43200,30000,
+Boar Prime,WeaponParts/BoarPrimeBarrel,1,WeaponParts/BoarPrimeReceiver,1,WeaponParts/BoarPrimeStock,1,Orokin Cell,10,43200,15000,50
+Bolto,Lato,1,Polymer Bundle,800,Orokin Cell,2,Neurodes,2,43200,20000,
+Boltor,Neurodes,2,Alloy Plate,100,Salvage,900,Polymer Bundle,600,86400,25000,
+Boltor Prime,WeaponParts/BoltorPrimeBarrel,1,WeaponParts/BoltorPrimeReceiver,1,WeaponParts/BoltorPrimeStock,1,Orokin Cell,10,43200,15000,50
+Kestrel,Morphics,8,Ferrite,4800,Nano Spores,5000,Salvage,4000,43200,15000,50
+Paris Prime,WeaponParts/PrimeBowLowerLimb,1,WeaponParts/PrimeBowUpperLimb,1,WeaponParts/PrimeBowGrip,1,WeaponParts/PrimeBowString,1,43200,15000,50
+Brakk,WeaponParts/BrakkBarrel,1,WeaponParts/BrakkReceiver,1,Orokin Cell,10,,,43200,15000,50
+Braton Prime,WeaponParts/BratonPrimeBarrel,1,WeaponParts/BratonPrimeReceiver,1,WeaponParts/BratonPrimeStock,1,Orokin Cell,10,43200,15000,50
+Bronco,Neurodes,2,Alloy Plate,1200,Ferrite,700,Polymer Bundle,800,43200,20000,
+Bronco Prime,WeaponParts/BroncoPrimeBarrel,1,WeaponParts/BroncoPrimeReceiver,1,Orokin Cell,10,,,43200,15000,50
+Burston Prime,WeaponParts/BurstonPrimeBarrel,1,WeaponParts/BurstonPrimeReceiver,1,WeaponParts/BurstonPrimeStock,1,Orokin Cell,10,43200,15000,50
+Burston,Morphics,1,Alloy Plate,150,Nano Spores,600,Polymer Bundle,400,43200,25000,
+Ceramic Dagger,Gallium,4,Ferrite,500,Alloy Plate,500,Polymer Bundle,600,43200,15000,
+Detron,Neurodes,5,Circuits,700,Salvage,600,Polymer Bundle,500,86400,25000,
+Cestra,Neurodes,2,Gallium,4,Nano Spores,3000,Rubedo,1200,86400,25000,
+Tetra,Control Module,2,Alloy Plate,400,Ferrite,900,Polymer Bundle,100,86400,30000,40
+Lecta,Morphics,2,Salvage,900,Ferrite,1000,Neural Sensors,3,43200,20000,35
+Dark Dagger,Neurodes,2,Ferrite,500,Plastids,500,Polymer Bundle,300,43200,15000,
+Detron,WeaponParts/DetronBarrel,1,WeaponParts/DetronReceiver,1,Orokin Cell,10,,,43200,15000,50
+Sobek,Neurodes,5,Circuits,500,Salvage,900,Polymer Bundle,400,86400,25000,
+Dual Zoren,Morphics,4,Salvage,900,Ferrite,1100,Alloy Plate,800,43200,30000,35
+Akbronco,Bronco,1,Bronco,1,Orokin Cell,1,,,43200,20000,
+Dual Cleavers,Gallium,5,Salvage,1000,Polymer Bundle,800,Alloy Plate,1200,43200,20000,40
+Dual Cestra,Cestra,1,Cestra,1,Fieldron,2,Forma,1,86400,25000,
+Fang,Morphics,1,Polymer Bundle,600,Ferrite,600,Nano Spores,900,43200,20000,35
+Ether Daggers,Morphics,5,Polymer Bundle,600,Ferrite,600,Nano Spores,1200,43200,20000,35
+Dual Ether,Morphics,3,Salvage,900,Ferrite,850,Polymer Bundle,800,43200,20000,35
+Dual Heat Swords,Morphics,2,Salvage,900,Ferrite,1000,Polymer Bundle,700,43200,20000,35
+Dual Kamas,Kama,1,Kama,1,Orokin Cell,1,,,43200,20000,
+Akmagnus,Magnus,1,Magnus,1,Orokin Cell,2,,,43200,20000,
+Dual Skana,Morphics,2,Polymer Bundle,300,Ferrite,850,Alloy Plate,300,43200,20000,35
+Akvasto,Vasto,1,Vasto,1,Orokin Cell,2,,,43200,20000,
+Ether Reaper,Polymer Bundle,1000,Rubedo,1000,Morphics,10,Ferrite,1000,43200,15000,50
+Ether Sword,Morphics,4,Rubedo,700,Ferrite,900,Alloy Plate,700,43200,20000,35
+Fang Prime,WeaponParts/PrimeFangHandle,2,WeaponParts/PrimeFangBlade,2,,,,,43200,15000,50
+Furax,Nano Spores,1000,Salvage,900,Ferrite,600,Alloy Plate,500,43200,30000,35
+Furis,Ferrite,750,Alloy Plate,300,Salvage,400,Neurodes,4,43200,20000,
+Ankyros,Nano Spores,900,Salvage,900,Ferrite,600,Alloy Plate,450,43200,30000,35
+Glaive,Morphics,10,Ferrite,5000,Nano Spores,6000,Salvage,4500,43200,15000,50
+Glaive Prime,WeaponParts/GlaivePrimeBlade,2,WeaponParts/GlaivePrimeDisc,1,Orokin Cell,10,,,43200,15000,50
+Gorgon,Morphics,5,Ferrite,5000,Salvage,6000,Circuits,1000,43200,25000,50
+Gram,Gallium,3,Salvage,750,Rubedo,300,Alloy Plate,80,43200,30000,30
+Twin Gremlins,Neurodes,5,Circuits,900,Salvage,1500,Rubedo,1200,86400,25000,45
+Penta,Control Module,3,Circuits,1000,Ferrite,1200,Alloy Plate,400,86400,25000,40
+Drakgoon,Morphics,5,Alloy Plate,950,Nano Spores,5500,Circuits,1100,86400,30000,40
+Stug,Neurodes,3,Gallium,4,Salvage,3000,Alloy Plate,1200,86400,20000,
+Brakk,Neurodes,5,Circuits,500,Salvage,700,Polymer Bundle,600,86400,25000,
+Jat Kittag,Detonite Injector,5,Salvage,5000,Rubedo,600,Forma,1,86400,30000,30
+Viper,Morphics,1,Salvage,300,Ferrite,600,Nano Spores,900,43200,20000,35
+Karak,Neurodes,2,Alloy Plate,400,Salvage,900,Polymer Bundle,100,86400,30000,40
+Grakata,Neurodes,2,Alloy Plate,400,Salvage,900,Polymer Bundle,100,86400,25000,40
+Hind,Neurodes,6,Circuits,700,Salvage,1000,Rubedo,1200,86400,25000,
+Kraken,Neurodes,2,Alloy Plate,200,Salvage,750,Polymer Bundle,120,86400,25000,45
+Vulkar,Morphics,5,Circuits,800,Salvage,1200,Plastids,800,43200,20000,35
+Amphis,Neurodes,2,Salvage,500,Circuits,600,Alloy Plate,600,43200,30000,45
+Fragor,Gallium,3,Salvage,750,Rubedo,300,Alloy Plate,80,43200,30000,
+Heat Dagger,Neural Sensors,1,Ferrite,500,Circuits,150,Polymer Bundle,75,43200,15000,
+Heat Sword,Neural Sensors,1,Ferrite,500,Circuits,300,Polymer Bundle,300,43200,20000,
+Paris,Morphics,3,Plastids,600,Polymer Bundle,700,Nano Spores,2000,43200,15000,45
+Tysis,Neurodes,2,Plastids,400,Nano Spores,900,Polymer Bundle,100,86400,30000,40
+Phage,Mutagen Mass,4,Circuits,1500,Nano Spores,6000,Forma,1,86400,30000,35
+Jaw Sword,Morphics,1,Ferrite,500,Rubedo,300,Polymer Bundle,75,43200,15000,
+Obex,Circuits,650,Salvage,900,Ferrite,700,Alloy Plate,300,43200,30000,35
+/Lotus/Types/StoreItems/Weapons/BrassKnucklesStoreItem,Rubedo,400,Morphics,3,Ferrite,1200,Alloy Plate,500,43200,30000,45
+Kunai,Morphics,5,Ferrite,3000,Nano Spores,4000,Salvage,4000,43200,15000,50
+Latron,Morphics,5,Plastids,800,Salvage,900,Alloy Plate,1000,43200,20000,35
+Latron Prime,WeaponParts/LatronPrimeBarrel,1,WeaponParts/LatronPrimeReceiver,1,WeaponParts/LatronPrimeStock,1,Orokin Cell,10,43200,15000,50
+Machete,Gallium,4,Salvage,750,Plastids,800,Alloy Plate,900,43200,15000,40
+Magnus,Orokin Cell,2,Alloy Plate,400,Salvage,900,Ferrite,100,86400,25000,40
+Mire,Neural Sensors,2,Ferrite,1000,Nano Spores,1500,Alloy Plate,2000,43200,20000,45
+Miter,WeaponParts/MiterBarrel,1,WeaponParts/MiterBlade,1,WeaponParts/MiterChassis,1,WeaponParts/MiterHandle,1,43200,15000,50
+Magistar,Gallium,3,Ferrite,750,Rubedo,300,Alloy Plate,80,43200,25000,
+Pangolin Sword,Control Module,1,Ferrite,750,Circuits,300,Alloy Plate,80,43200,20000,
+Plasma Sword,Orokin Cell,1,Ferrite,500,Salvage,450,Polymer Bundle,50,43200,20000,
+Orthos,Morphics,4,Polymer Bundle,500,Ferrite,850,Alloy Plate,700,43200,20000,35
+Orthos Prime,WeaponParts/PrimePolearmBlade,2,WeaponParts/PrimePolearmHandle,1,Orokin Cell,10,,,43200,15000,50
+Dakra Prime,WeaponParts/PrimeCronusLongSwordBlade,1,WeaponParts/PrimeCronusLongSwordHandle,1,Orokin Cell,15,,,43200,15000,50
+Reaper Prime,WeaponParts/PrimeScytheBlade,1,WeaponParts/PrimeScytheHandle,1,Orokin Cell,10,,,43200,15000,50
+Hek,Neurodes,5,Circuits,900,Salvage,1200,Rubedo,1000,86400,25000,
+Vasto,Neurodes,4,Alloy Plate,1200,Ferrite,700,Polymer Bundle,1000,43200,30000,
+Sicarus Prime,WeaponParts/SicarusPrimeBarrel,1,WeaponParts/SicarusPrimeReceiver,1,Orokin Cell,10,,,43200,15000,50
+Kama,Neural Sensors,5,Ferrite,1200,Circuits,900,Polymer Bundle,1200,43200,20000,
+Skana,Morphics,3,Salvage,750,Plastids,500,Alloy Plate,1100,43200,15000,35
+Snipetron,Morphics,5,Plastids,900,Salvage,1200,Alloy Plate,900,43200,20000,35
+Bo,Orokin Cell,1,Salvage,900,Ferrite,600,Alloy Plate,150,43200,15000,35
+Dread,Morphics,6,Circuits,900,Polymer Bundle,750,Plastids,900,43200,15000,45
+Despair,Morphics,10,Ferrite,5000,Alloy Plate,800,Salvage,4500,43200,15000,50
+Hate,Morphics,10,Ferrite,5000,Nano Spores,6000,Salvage,4500,43200,15000,50
+Boar,Morphics,6,Alloy Plate,900,Salvage,750,Plastids,900,43200,15000,
+Castanas,Control Module,2,Salvage,800,Circuits,200,Forma,1,43200,20000,35
+Soma,Morphics,7,Plastids,850,Rubedo,1200,Salvage,8000,43200,15000,50
+Tigris,Orokin Cell,3,Circuits,900,Salvage,1200,Rubedo,1200,86400,25000,
+Galatine,Gallium,4,Salvage,750,Rubedo,500,Alloy Plate,200,43200,30000,30
+Vectis,Neurodes,4,Orokin Cell,4,Nano Spores,3000,Rubedo,2500,86400,25000,
+Hikou,Morphics,5,Plastids,500,Rubedo,600,Salvage,4000,43200,15000,50
+Akstiletto,Gallium,2,Salvage,800,Alloy Plate,200,Forma,1,43200,20000,35
+Twin Vipers,Viper,1,Viper,1,Orokin Cell,1,,,43200,20000,
+CipherStoreItem,Ferrite,400,Salvage,400,,,,,60,100,1
+CipherStoreItem,Ferrite,14400,Nano Spores,14400,,,,,60,36000,1
+CipherStoreItem,Ferrite,3600,Nano Spores,3600,,,,,60,9000,1
+AcidDartPistolStoreItem,Mutagen Mass,5,Salvage,6000,Nano Spores,5000,Forma,1,86400,30000,35
+BioWeaponStoreItem,Mutagen Mass,2,Salvage,4500,Circuits,600,Forma,1,86400,30000,35
+Medium Team Heal Restore,Ferrite,500,Nano Spores,600,,,,,60,4000,1
+Medium Team Heal Restore,Polymer Bundle,450,Nano Spores,2700,,,,,60,9000,1
+Dual Ichor,Mutagen Mass,4,Salvage,15000,Circuits,1200,Forma,1,86400,30000,35
+Embolist,Mutagen Mass,5,Salvage,15000,Circuits,1200,Forma,1,86400,30000,35
+Synapse,Mutagen Mass,5,Salvage,30000,Circuits,3500,Forma,2,86400,30000,35
+Djinn,Mutagen Mass,6,Salvage,30000,Circuits,3500,Forma,2,86400,30000,35
+Scoliac,Mutagen Mass,4,Nano Spores,15000,Plastids,1200,Forma,1,86400,30000,35
+Medium Team Ammo Restore,Ferrite,600,Salvage,600,,,,,60,4000,1
+Medium Team Ammo Restore,Polymer Bundle,225,Nano Spores,1800,,,,,60,9000,1
+FlameThrowerStoreItem,Detonite Injector,2,Nano Spores,5000,Ferrite,5000,Forma,1,86400,30000,35
+Marelok,Detonite Injector,2,Polymer Bundle,5000,Salvage,5000,Forma,1,86400,30000,35
+Grinlok,Detonite Injector,2,Polymer Bundle,5000,Ferrite,5000,Forma,1,86400,30000,35
+RocketLauncherStoreItem,Detonite Injector,5,Salvage,5000,Alloy Plate,600,Forma,1,86400,30000,35
+Medium Team Energy Restore,Ferrite,600,Alloy Plate,150,,,,,60,4000,1
+Medium Team Shield Restore,Ferrite,600,Alloy Plate,150,,,,,60,4000,1
+Medium Team Energy Restore,Polymer Bundle,225,Nano Spores,2250,,,,,60,9000,1
+Medium Team Shield Restore,Nano Spores,3600,,,,,,,60,9000,1
+CrpHeavyRifleStoreItem,Fieldron,7,Alloy Plate,1000,Salvage,7000,Forma,1,86400,25000,35
+ElectroProdStoreItem,Fieldron,1,Alloy Plate,300,Salvage,1000,Forma,1,86400,20000,35
+EnergyRifleStoreItem,Fieldron,2,Circuits,600,Ferrite,4500,Forma,1,86400,25000,35
+CrpLaserPistolStoreItem,Fieldron,3,Circuits,700,Ferrite,5000,Forma,1,86400,25000,35
+LaserRifleStoreItem,Fieldron,5,Circuits,900,Ferrite,6000,Forma,1,86400,25000,35
+RailgunStoreItem,Fieldron,5,Gallium,20,Alloy Plate,600,Forma,1,86400,30000,35
+Dagger Axe Skin,Morphics,1,Circuits,350,Polymer Bundle,550,Alloy Plate,1200,43200,15000,45
+Dagger Axe Skin,Morphics,1,Polymer Bundle,500,Ferrite,650,Circuits,750,43200,20000,35
+Manticore Axe Skin,Gallium,3,Salvage,500,Polymer Bundle,150,Alloy Plate,80,43200,30000,35
+Brokk Hammer Skin,Gallium,3,Salvage,500,Rubedo,250,Alloy Plate,60,43200,30000,35
+DamageDebuffKeyStoreItem,Orokin Void Key,1,Ferrite,250,,,,,60,500,1
+HealthDebuffKeyStoreItem,Orokin Void Key,1,Ferrite,250,,,,,60,500,1
+TeamAmmoTotemStoreItem,Polymer Bundle,900,Nano Spores,7200,,,,,60,36000,1
+TeamEnergyTotemStoreItem,Polymer Bundle,900,Nano Spores,9000,,,,,60,3600,1
+TeamHealTotemStoreItem,Nano Spores,108000,Polymer Bundle,1800,,,,,60,36000,1
+TeamShieldTotemStoreItem,Nano Spores,14400,,,,,,,60,36000,1
+SelfHealLargeStoreItem,Sunlight Jadeleaf Extract,1,Moonlight Jadeleaf Extract,1,Sunlight Threshcone Extract,15,Moonlight Threshcone Extract,15,60,1000,1
+ShieldDebuffKeyStoreItem,Orokin Void Key,1,Ferrite,250,,,,,60,500,1
+SpeedDebuffKeyStoreItem,Orokin Void Key,1,Ferrite,250,,,,,60,500,1
+TeamAmmoTotemStoreItem,Polymer Bundle,25,Ferrite,200,,,,,60,1000,1
+TeamEnergyTotemStoreItem,Polymer Bundle,25,Ferrite,250,,,,,60,1000,1
+TeamHealTotemStoreItem,Ferrite,300,Polymer Bundle,50,,,,,60,1000,1
+TeamShieldTotemStoreItem,Ferrite,400,,,,,,,60,1000,1
+TeamAmmoTotemStoreItem,Polymer Bundle,225,Nano Spores,1800,,,,,60,9000,1
+TeamEnergyTotemStoreItem,Polymer Bundle,225,Nano Spores,2250,,,,,60,9000,1
+TeamHealTotemStoreItem,Nano Spores,2700,Polymer Bundle,450,,,,,60,9000,1
+TeamShieldTotemStoreItem,Nano Spores,3600,,,,,,,60,9000,1
+DayUnCommonAntitoxinStoreItem,Sunlight Dragonlily Extract,2,Sunlight Threshcone Extract,2,,,,,60,500,1
+DayCommonAntitoxinStoreItem,Sunlight Threshcone Extract,4,,,,,,,60,500,1
+NightCommonAntitoxinStoreItem,Moonlight Threshcone Extract,4,,,,,,,60,500,1
+NightUnCommonAntitoxinStoreItem,Moonlight Dragonlily Extract,2,Moonlight Threshcone Extract,2,,,,,60,500,1
+RareAntitoxinStoreItem,Sunlight Jadeleaf Extract,1,Moonlight Jadeleaf Extract,1,Sunlight Dragonlily Extract,1,Moonlight Dragonlily Extract,1,60,500,1
+SoloRareAntitoxinStoreItem,Sunlight Jadeleaf Extract,4,Moonlight Jadeleaf Extract,4,Sunlight Dragonlily Extract,4,Moonlight Dragonlily Extract,4,60,2000,1
