@@ -6514,6 +6514,14 @@ Tethra's Doom - Hijack Fomorian Shield Cores
 ------
 Steal a Fomorian Shield Core so it can be destroyed safely. (Requires a Tethra Shield Cipher)
 ------
+Tethra's Doom - Clan Reward
+------
+Tenno of |CLAN_NAME|,
+
+The exceptional efforts of |CLAN_NAME| in thwarting Councilor Vay Hek have not gone unnoticed. Take this trophy and display it with pride, you earned it.
+
+Lotus
+------
 LotusCorpusRaptorEuropak,?{
 ------
 FC_CORPUS_InvasionThankyouMessageBodyCredits
@@ -12145,6 +12153,8 @@ A relic from another time, this syandana is a highly ornamental and prized garme
 ------
 TETHRA'S DOOM EMBLEM
 ------
+TETHRA'S DOOM QUANTUM EMBLEM
+------
 An insignia awarded to the Tenno who distinguished themselves during Tethra's Doom event.
 ------
 MARKHOR OBERON HELMET
@@ -12848,7 +12858,7 @@ OPERATIONS
 ------
 ANNIHILATION EVENT
 ------
-The Operation is complete. This Void Key can no longer be used.
+The Operation is complete. This Key can no longer be used.
 ------
 You need to equip a Corruptor in your gear for this mission. Harvest these from Infestation enemies and equip it from the ARSENAL.
 ------
@@ -12957,6 +12967,8 @@ Your loadout has been modified. Are you sure you want to leave the screen withou
 Some changes will not take effect until you restart the game.
 ------
 You have been temporarily muted due to excessive messaging. You will be unmuted in |TIME| seconds.
+------
+Please limit your advertising to once every |TIME| seconds. You can contact someone directly via the whisper command /w username
 ------
 '/friend add <user>' - Add <user> as a friend
 ------
