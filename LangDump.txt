@@ -9218,6 +9218,8 @@ Unlocks additional color options for Warframe customization.
 ------
 STORM
 ------
+SHAMROCK
+------
 SMOKE COLORS
 ------
 More saturated color options for Warframe customization.
@@ -9232,6 +9234,8 @@ FIRE
 ------
 Unlocks additional color options for Warframe customization.
 ------
+Unlocks additional color options for Warframe customization.
+------
 ICE
 ------
 VAL
@@ -9241,6 +9245,8 @@ EAS
 COL B
 ------
 COL C
+------
+SRK
 ------
 FIRE
 ------

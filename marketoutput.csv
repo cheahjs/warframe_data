@@ -1089,6 +1089,7 @@ Ice(/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerIceA),FlavourItems,YE
 Infested(/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerInfestedA),FlavourItems,YES,NO,?,75,
 Smoke Colors(/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerNinjaA),FlavourItems,YES,NO,?,75,
 Red/White/Blue(/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerRWB),FlavourItems,NO,NO,?,75,
+Shamrock(/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerShamrock),FlavourItems,YES,NO,1000,?,
 Twilight(/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerTwilightA),FlavourItems,YES,NO,?,75,
 Valentine(/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerValA),FlavourItems,NO,NO,1,?,
 Mortos Syandana(/Lotus/Types/StoreItems/SuitCustomizations/NecroDanglesStoreItem),WeaponSkins,YES,NO,?,50,
