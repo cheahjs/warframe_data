@@ -7461,7 +7461,7 @@ FAN
 ------
 SENSOR BAR
 ------
-BROKEN LIGHT
+ARC TRAP
 ------
 USE CIPHER
 ------
@@ -7506,6 +7506,8 @@ DESERT SKATE
 REGULATOR
 ------
 CORPUS SCOUT
+------
+Grants nearby Grineer units extra speed and damage
 ------
 Grants nearby Grineer units extra speed and damage
 ------
@@ -10186,6 +10188,16 @@ Vitality
 ------
 Fired Up
 ------
+More Glaives(TEMP)
+------
+Throw Glaive(TEMP)
+------
+Throws glaives(TEMP)
+------
+Scans environment(TEMP)
+------
+Scans environment(TEMP)
+------
 Redirection
 ------
 Fast Deflection
@@ -11191,6 +11203,10 @@ SWEEPER
 ------
 Standard issue weapon for Carrier Sentinel. Fires shotgun rounds.
 ------
+Glaive Weapon(TEMP)
+------
+Standard weapon for Helios Sentinel, throws glaives (TEMP)
+------
 SOMA
 ------
 Accuracy coupled with a massive clip makes the Soma assault rifle a formidable weapon.
@@ -11412,6 +11428,22 @@ A stylish tail attachment for your sentinel pet.
 COLTEK SENTINEL PACK
 ------
 A bundle containing the latest cosmetic upgrades for your Sentinel pet.
+------
+ICTUS SENTINEL MASK
+------
+A mask attachment for your sentinel pet.
+------
+ICTUS SENTINEL WINGS
+------
+A pair of wings for your sentinel pet.
+------
+ICTUS SENTINEL TAIL
+------
+A stylish tail attachment for your sentinel pet.
+------
+ICTUS SENTINEL PACK
+------
+A bundle containing the HELIOS Sentinel and the ICTUS range of cosmetic upgrades for your Sentinel pet.
 ------
 Shroud Nekros Profile Icon
 ------
@@ -12193,6 +12225,34 @@ GORGON WRAITH
 ------
 The Gorgon Wraith is a powerful variant of its precursor that features unique styling.
 ------
+HELIOS
+------
+With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the versatile Helios Sentinel acts as both a lethal guardian and an automatic codex scanner.
+------
+Test Solar Rail
+------
+Test Solar Rail PLACEHOLDER DESCRIPTION
+------
+KILLER GENERATOR
+------
+IMPERATOR SYANDANA 
+------
+Before the fall, the Imperator Syandana was bestowed upon only the highest-ranking Orokin commanders.
+------
+DECONSTRUCTOR
+------
+Causes the Helios Sentinel to attack enemy targets using pieces of itself.
+------
+Investigator
+------
+Allows the Helios Sentinel to scan objects and enemies it encounters. This consume Codex Scanner chargers.
+------
+Targeting Receptor
+------
+Causes the Helios Sentinel to attack the first target it sees.
+------
+Upgrading increases the number of parts the Helios Sentinel can fling at a target.
+------
 MagPrimeDesc]CK;
 ------
 BurstRifleNames(k%
@@ -12329,6 +12389,8 @@ ZephyrTornadoAbilityDescBtzc
 DualCorpusMinigunDescv3<A
 ------
 PaladinAltHelmetDescdpN:
+------
+ImperatorSyandanaDescC6aT
 ------
 Connecting...
 ------
