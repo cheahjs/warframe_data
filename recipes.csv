@@ -457,6 +457,13 @@ Dagger Axe Skin(/Lotus/Types/StoreItems/Skins/AxeDaggerAxeItem),Morphics(/Lotus/
 Dagger Axe Skin(/Lotus/Types/StoreItems/Skins/DualAxeDaggerAxeItem),Morphics(/Lotus/Types/Items/MiscItems/Morphic),1,Polymer Bundle(/Lotus/Types/Items/MiscItems/PolymerBundle),500,Ferrite(/Lotus/Types/Items/MiscItems/Ferrite),650,Circuits(/Lotus/Types/Items/MiscItems/Circuits),750,43200,20000,35
 Manticore Axe Skin(/Lotus/Types/StoreItems/Skins/GrnAxeSkinItem),Gallium(/Lotus/Types/Items/MiscItems/Gallium),3,Salvage(/Lotus/Types/Items/MiscItems/Salvage),500,Polymer Bundle(/Lotus/Types/Items/MiscItems/PolymerBundle),150,Alloy Plate(/Lotus/Types/Items/MiscItems/AlloyPlate),80,43200,30000,35
 Brokk Hammer Skin(/Lotus/Types/StoreItems/Skins/HammerSkintem),Gallium(/Lotus/Types/Items/MiscItems/Gallium),3,Salvage(/Lotus/Types/Items/MiscItems/Salvage),500,Rubedo(/Lotus/Types/Items/MiscItems/Rubedo),250,Alloy Plate(/Lotus/Types/Items/MiscItems/AlloyPlate),60,43200,30000,35
+DamageDebuffKeyStoreItem,Orokin Void Key(/Lotus/Types/Game/VoidKeyItem),1,Ferrite(/Lotus/Types/Items/MiscItems/Ferrite),250,,,,,60,500,1
+HealthDebuffKeyStoreItem,Orokin Void Key(/Lotus/Types/Game/VoidKeyItem),1,Ferrite(/Lotus/Types/Items/MiscItems/Ferrite),250,,,,,60,500,1
+TeamAmmoTotemStoreItem,Polymer Bundle(/Lotus/Types/Items/MiscItems/PolymerBundle),900,Nano Spores(/Lotus/Types/Items/MiscItems/Nanospores),7200,,,,,60,36000,1
+TeamEnergyTotemStoreItem,Polymer Bundle(/Lotus/Types/Items/MiscItems/PolymerBundle),900,Nano Spores(/Lotus/Types/Items/MiscItems/Nanospores),9000,,,,,60,3600,1
+TeamHealTotemStoreItem,Nano Spores(/Lotus/Types/Items/MiscItems/Nanospores),108000,Polymer Bundle(/Lotus/Types/Items/MiscItems/PolymerBundle),1800,,,,,60,36000,1
+TeamShieldTotemStoreItem,Nano Spores(/Lotus/Types/Items/MiscItems/Nanospores),14400,,,,,,,60,36000,1
+SelfHealLargeStoreItem,Sunlight Jadeleaf Extract(/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem),1,Moonlight Jadeleaf Extract(/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem),1,Sunlight Threshcone Extract(/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem),15,Moonlight Threshcone Extract(/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem),15,60,1000,1
 ShieldDebuffKeyStoreItem,Orokin Void Key(/Lotus/Types/Game/VoidKeyItem),1,Ferrite(/Lotus/Types/Items/MiscItems/Ferrite),250,,,,,60,500,1
 SpeedDebuffKeyStoreItem,Orokin Void Key(/Lotus/Types/Game/VoidKeyItem),1,Ferrite(/Lotus/Types/Items/MiscItems/Ferrite),250,,,,,60,500,1
 TeamAmmoTotemStoreItem,Polymer Bundle(/Lotus/Types/Items/MiscItems/PolymerBundle),25,Ferrite(/Lotus/Types/Items/MiscItems/Ferrite),200,,,,,60,1000,1
@@ -467,13 +474,6 @@ TeamAmmoTotemStoreItem,Polymer Bundle(/Lotus/Types/Items/MiscItems/PolymerBundle
 TeamEnergyTotemStoreItem,Polymer Bundle(/Lotus/Types/Items/MiscItems/PolymerBundle),225,Nano Spores(/Lotus/Types/Items/MiscItems/Nanospores),2250,,,,,60,9000,1
 TeamHealTotemStoreItem,Nano Spores(/Lotus/Types/Items/MiscItems/Nanospores),2700,Polymer Bundle(/Lotus/Types/Items/MiscItems/PolymerBundle),450,,,,,60,9000,1
 TeamShieldTotemStoreItem,Nano Spores(/Lotus/Types/Items/MiscItems/Nanospores),3600,,,,,,,60,9000,1
-SelfHealLargeStoreItem,Sunlight Jadeleaf Extract(/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem),1,Moonlight Jadeleaf Extract(/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem),1,Sunlight Threshcone Extract(/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem),15,Moonlight Threshcone Extract(/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem),15,60,1000,1
-DamageDebuffKeyStoreItem,Orokin Void Key(/Lotus/Types/Game/VoidKeyItem),1,Ferrite(/Lotus/Types/Items/MiscItems/Ferrite),250,,,,,60,500,1
-HealthDebuffKeyStoreItem,Orokin Void Key(/Lotus/Types/Game/VoidKeyItem),1,Ferrite(/Lotus/Types/Items/MiscItems/Ferrite),250,,,,,60,500,1
-TeamAmmoTotemStoreItem,Polymer Bundle(/Lotus/Types/Items/MiscItems/PolymerBundle),900,Nano Spores(/Lotus/Types/Items/MiscItems/Nanospores),7200,,,,,60,36000,1
-TeamEnergyTotemStoreItem,Polymer Bundle(/Lotus/Types/Items/MiscItems/PolymerBundle),900,Nano Spores(/Lotus/Types/Items/MiscItems/Nanospores),9000,,,,,60,3600,1
-TeamHealTotemStoreItem,Nano Spores(/Lotus/Types/Items/MiscItems/Nanospores),108000,Polymer Bundle(/Lotus/Types/Items/MiscItems/PolymerBundle),1800,,,,,60,36000,1
-TeamShieldTotemStoreItem,Nano Spores(/Lotus/Types/Items/MiscItems/Nanospores),14400,,,,,,,60,36000,1
 DayCommonAntitoxinStoreItem,Sunlight Threshcone Extract(/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem),4,,,,,,,60,500,1
 DayUnCommonAntitoxinStoreItem,Sunlight Dragonlily Extract(/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem),2,Sunlight Threshcone Extract(/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem),2,,,,,60,500,1
 NightCommonAntitoxinStoreItem,Moonlight Threshcone Extract(/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem),4,,,,,,,60,500,1
