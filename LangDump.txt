@@ -2419,6 +2419,8 @@ HEALTH FULL
 ------
 STAMINA FULL
 ------
+ABSORB
+------
 AFFINITY
 ------
 CREDITS
@@ -4312,6 +4314,8 @@ Get 100 kills in a single mission.
 Failed
 ------
 Completed
+------
+Completed. Affinity +|AFFINITY|
 ------
 |AMOUNT| Other Challenges
 ------
@@ -6521,6 +6525,18 @@ Tenno of |CLAN_NAME|,
 The exceptional efforts of |CLAN_NAME| in thwarting Councilor Vay Hek have not gone unnoticed. Take this trophy and display it with pride, you earned it.
 
 Lotus
+------
+We Have Come So Far
+------
+|DisplayName|,
+
+It has been one Earth cycle since I called the first Tenno to wake from cryostasis. Since that day countless more have joined our fold. In that time much has changed. As our enemies grew stronger you mastered new Waframes. When they plotted for power, you toppled tyrants. When they hunted us, you showed them what it meant to challenge the Tenno.
+
+To commemorate your accomplishments I have crafted the Dex Furis. Master this weapon and use it with pride, Tenno.
+
+Your guide,
+The Lotus
+
 ------
 LotusCorpusRaptorEuropak,?{
 ------
@@ -10670,6 +10686,8 @@ By purchasing this item you can directly exchange 10<PLATINUM_CREDITS>(Platinum)
 ------
 By purchasing this item you can directly exchange 10<PLATINUM_CREDITS>(Platinum) for 1 Orokin Cell.
 ------
+By purchasing this item you can directly exchange 30<PLATINUM_CREDITS>(Platinum) for 300 Oxium.
+------
 By purchasing this item you can directly exchange 10<PLATINUM_CREDITS>(Platinum) for 1 Neural Sensor.
 ------
 By purchasing this item you can directly exchange 10<PLATINUM_CREDITS>(Platinum) for 1 Control Module.
@@ -12252,6 +12270,16 @@ Targeting Receptor
 Causes the Helios Sentinel to attack the first target it sees.
 ------
 Upgrading increases the number of parts the Helios Sentinel can fling at a target.
+------
+DEX FURIS
+------
+A gift from the Lotus to commemorate the anniversary of the first Tenno waking from Cryo stasis.
+------
+EXCALIBUR PROTO-ARMOR SKIN
+------
+Discovering the precise nature of this recently uncovered armored prototype has proved elusive. Initial attempts at dating point to ancient origins, perhaps even predating Orokin Empire. 
+
+Available for a limited time only.
 ------
 MagPrimeDesc]CK;
 ------
@@ -15357,6 +15385,10 @@ SKINS
 MISCELLANEOUS
 ------
 EXTRACTORS
+------
+KEYS
+------
+GEAR
 ------
 CATEGORY
 ------
