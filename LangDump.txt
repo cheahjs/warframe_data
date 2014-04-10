@@ -12647,7 +12647,7 @@ Upgrading increases the number of parts the Helios Sentinel can fling at a targe
 ------
 LEX PRIME
 ------
-Placeholder
+The Lex Prime is a powerful, accurate pistol that has a low fire rate and clip size. Very efficient at long range.
 ------
 NO STANCE MOD INSTALLED
 ------
@@ -12736,6 +12736,8 @@ SHOCK CAMO TETRA
 The Shock-Camo skin for the Tetra.
 ------
 NIKANA
+------
+DRAGON NIKANA
 ------
 The Nikana katana reintroduces a lost Tenno blade and with it another fragment of the old ways.
 ------
@@ -13130,6 +13132,34 @@ Guided Claw
 Resounding Fear
 ------
 Tumbling King
+------
+AXES
+------
+HAMMERS
+------
+DAGGERS
+------
+DUAL DAGGERS
+------
+SPARRING
+------
+SWORDS
+------
+DUAL SWORDS
+------
+MACHETES
+------
+NIKANAS
+------
+POLEARMS
+------
+STAVES
+------
+SCYTHES
+------
+WHIPS
+------
+GLAIVES
 ------
 MagPrimeDesc]CK;
 ------
