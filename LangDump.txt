@@ -3521,7 +3521,7 @@ Once construction has been completed, clans and Alliances are able to deploy the
 ------
 If another clan already controls a Dark Sector, ownership can be contested by deploying a Solar Rail into their territory. Deploying a second Solar Rail within close proximity of another causes interference with the Void-Disruption Technology used to reach the Dark Sectors. This prevents other Tenno from accessing these regions of space while both Solar Rails are active.
 ------
-When conflict over Solar Rails controlled by rival Clans or Alliances arises, players have the opportunity to fight for either side by undertaking missions. Missions played for one side cause damage to the opposing Solar Rail. Clans may offer Battle Pay to those who side with them to gain additional support.
+When conflict over Solar Rails controlled by rival Clans or Alliances arises, Tenno have the opportunity to fight for either side by undertaking missions. Missions played for one side cause damage to the opposing Solar Rail. Clans may offer Battle Pay to those who side with them to gain additional support.
 ------
 Once one Solar Rail has taken critical damage, it is destroyed. The clan that controls the surviving Solar Rail takes control of that Dark Sector, and begins collecting tribute from other Tenno who access it.
 
@@ -4541,6 +4541,14 @@ Alliance vault successfully distributed.
 ------
 Failed to distribute alliance vault.
 ------
+Only Warlords of the clan that created this Alliance can perform this action.
+------
+The founder clan can only leave the Alliance when it's the only clan in it.
+------
+Expel From Alliance
+------
+Are you sure you want to remove |CLAN| from the Alliance?
+------
 INVITE CLAN
 ------
 If this Clan accepts your Alliance invite, the Alliance Vault will be automatically divvied to each of the current Clans in the Alliance, excluding the new Clan. A Clan's share is calculated based on its non-pending members compared to the size of the Alliance. Are you sure you wish to continue?
@@ -4629,7 +4637,7 @@ VIEW IN WORLD STATE SCREEN
 ------
 HAVE YOUR CLAN PARTICIPATE IN |EVENT_NAME| TODAY!
 ------
-Before leaving the Alliance, you must give another Clan the right to remove other Clans.
+As the creator of this Alliance, your Clan may not leave the Alliance until all other Clans have been removed.
 ------
 Could not remove from Alliance at this time, please try again.
 ------
@@ -9816,7 +9824,7 @@ OROKIN CELL
 ------
 Ancient energy cell from the Orokin era.
 ------
-Argon Crystal
+ARGON CRYSTAL
 ------
 Void based radioactive resource that decays every day it is out of the void.
 ------
@@ -12739,7 +12747,9 @@ NIKANA
 ------
 DRAGON NIKANA
 ------
-The Nikana katana reintroduces a lost Tenno blade and with it another fragment of the old ways.
+The Dragon Nikana is forged from ancient Tenno steel. This is a master's weapon, only the most worthy of Tenno may wield it.
+------
+The Nikana reintroduces a lost Tenno blade and with it another fragment of the old ways.
 ------
 UPDATE 13 MEGA PACK
 ------
@@ -15607,7 +15617,7 @@ You will still need <PLATINUM_CREDITS>|credits| to complete this rush/claim.
 ------
 Would you like to purchase |slotCount| |slotType| for <PLATINUM_CREDITS>|cost|?
 ------
-Buy |slotCount| slots for <PLATINUM_CREDITS>|cost|
+Buy for <PLATINUM_CREDITS>|cost|
 ------
 Cannot build; one or more components must be specified.
 ------
@@ -16549,6 +16559,10 @@ QUESTS
 RECRUIT
 ------
 RECRUIT TENNO
+------
+VIEW RECENT PLAYERS
+------
+RECENTLY MET PLAYERS
 ------
 SELECT A KEY
 ------
