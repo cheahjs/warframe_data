@@ -466,8 +466,6 @@ AUTO PARRY CHANCE
 ------
 DAMAGE ON HEALTH TO ENERGY
 ------
-MELEE DAMAGE
-------
 SLIDE
 ------
 SPRINT SPEED
@@ -630,6 +628,8 @@ ACCURACY
 ------
 STATUS CHANCE
 ------
+LIFE STEAL
+------
 STATUS
 ------
 STATUS / SEC
@@ -660,7 +660,15 @@ KILL POWER AMOUNT
 ------
 KILL POWER COOLDOWN
 ------
-KILL XP AMOUNT
+XP FROM KILLS
+------
+XP FROM MELEE KILLS
+------
+XP FROM RIFLE KILLS
+------
+XP FROM PISTOL KILLS
+------
+XP FROM SHOTGUN KILLS
 ------
 HEART TIME
 ------
@@ -671,6 +679,8 @@ MELEE KILL POWER AMOUNT
 MELEE KILL XP AMOUNT
 ------
 PICKUP RATE
+------
+RESOURCE DROP RATE
 ------
 POWER COOLDOWN
 ------
@@ -732,13 +742,15 @@ POWER DURATION
 ------
 POWER STRENGTH
 ------
-CHARGE DMG
+CHANNELING DMG
 ------
-CHARGE SPEED
+CHANNELING EFFICIENCY
 ------
 ITEM EFFECTIVENESS
 ------
 PARRY ANGLE
+------
+COUNTER CHANCE
 ------
 PARRY DMG REDUCTION
 ------
@@ -756,6 +768,8 @@ RESISTANCES
 ------
 WEAKNESSES
 ------
+PARRY DAMAGE TO STAMINA
+------
 DebugPrintZ
 ------
 RequiresN7C?
@@ -765,6 +779,8 @@ Expend>st#
 AVATAR_INVULNERABLEs6(%
 ------
 WEAPON_GORE_CHANCEU"x-
+------
+WEAPON_CHANNELING_EFFICIENCYf!h6
 ------
 Cannot join session because it is being hosted by a local gamer profile.
 ------
@@ -865,6 +881,8 @@ No, continue playing
 SKIP CINEMATIC?
 ------
 Settings and save data
+------
+Your Warframe account is incompatible with the Steam version of the game. Please download the non-Steam version from Warframe.com
 ------
 Enable Steam Community In-Game to access the downloadable content interface.
 ------
@@ -2441,6 +2459,18 @@ SHOTGUN AMMO
 ------
 SNIPER AMMO
 ------
+BOW AMMO
+------
+<AMMO_MUTATION> PISTOL AMMO
+------
+<AMMO_MUTATION> RIFLE AMMO
+------
+<AMMO_MUTATION> SHOTGUN AMMO
+------
+<AMMO_MUTATION> SNIPER AMMO
+------
+<AMMO_MUTATION> BOW AMMO
+------
 Plasma Grenade
 ------
 Scatter Grenade
@@ -2477,36 +2507,6 @@ REVIVING %s
 ------
 |AmmoLocDesc| FULL
 ------
-CONVERTED SHOTGUN TO RIFLE AMMO
-------
-CONVERTED PISTOL TO RIFLE AMMO
-------
-CONVERTED SNIPER TO RIFLE AMMO
-------
-CONVERTED RIFLE TO PISTOL AMMO
-------
-CONVERTED SHOTGUN TO PISTOL AMMO
-------
-CONVERTED SNIPER TO PISTOL AMMO
-------
-CONVERTED RIFLE TO SHOTGUN AMMO
-------
-CONVERTED PISTOL TO SHOTGUN AMMO
-------
-CONVERTED SNIPER TO SHOTGUN AMMO
-------
-CONVERTED RIFLE TO SNIPER AMMO
-------
-CONVERTED PISTOL TO SNIPER AMMO
-------
-CONVERTED SHOTGUN TO SNIPER AMMO
-------
-CONVERTED RIFLE TO BOW AMMO
-------
-CONVERTED PISTOL TO BOW AMMO
-------
-CONVERTED SHOTGUN TO BOW AMMO
-------
 INACTIVE INFILTRATION POINT
 ------
 <USE> HACK
@@ -2534,8 +2534,6 @@ STEALTH SCAN
 Stand
 ------
 Kneel
-------
-SniperAmmo_TO_RifleAmmoEx'j,>
 ------
 |PLAYER_NAME| has killed
 ------
@@ -2977,6 +2975,8 @@ Darvo
 ------
 Nightmare Mod Located
 ------
+Gift From The Lotus
+------
 Directive
 
 Do you hear that my Tenno? The silence of tyrants who fell by your blade? Your sacrifice is complete and you should rest. The cryo-chamber will wipe away the unpleasantness of what has passed. When you are called to wake, it must be because the system is once again out of balance. Perform your duties then, as you have now. 
@@ -3173,10 +3173,18 @@ The Lotus
 ------
 The Basics
 ------
+<MOVE_Z> <MOVE_X:INVERT=1> <MOVE_Z:INVERT=1> <MOVE_X>
+------
+<MOVE_X>
+------
+<LOOK_X> and <LOOK_Y>
+------
+<LOOK_X>
+------
 DENY YOUR ENEMY
 
-Move and strafe <MOVE_Z> <MOVE_X:INVERT=1> <MOVE_Z:INVERT=1> <MOVE_X>
-Camera and direction is controlled with <LOOK_X> and <LOOK_Y>
+Move and strafe {MOVEMENT_CONTROLS}
+Camera and direction is controlled with {CAMERA_CONTROLS}
 
 More advanced moves drain Stamina. Stamina regenerates.
 Jump using <JUMP>
@@ -3187,26 +3195,27 @@ GUIDE YOUR STRIKES
 
 Fire equipped weapon with <PRE_ATTACK>
 <AIM_WEAPON> will focus aim for better targeting
-Cycle between your weapons by tapping <NEXT_INV>
+Cycle between your primary weapon and secondary weapon by tapping <NEXT_INV>
 Use <RELOAD> to reload your weapon
 ------
 KNOW YOUR BLADE
 
-Tap <MELEE> for quick melee strikes.
+Tap <MELEE> while you have a firearm equipped to strike out with a quick attack from your melee weapon.
 
-As you learn you will discover melee combos by combining movement and melee.
+Hold <NEXT_INV> to holster your current weapon, and draw your melee weapon.
 
-Try this leap combo: Get airborne with <JUMP> then hit <MELEE> for a radial ground strike!
+You will then be able to unleash devastating combos by tapping <MELEE> when you have a Stance Mod equipped.
+
+You can switch back to your firearms by holding <NEXT_INV>
 ------
-CUT WITH DISCIPLINE
-
-Hold <MELEE> to charge up a heavy melee strike!
+MASTER THE SHADOWS
 
 If an enemy is unaware of you, you will see a Stealth Attack prompt for increased damage.
 ------
 FOCUS YOUR ENERGY
 
 As your Warframe rises in level you can equip powerful ability Mods.
+
 Activation is triggered with <ACTIVATE_ABILITY_0> <ACTIVATE_ABILITY_1> <ACTIVATE_ABILITY_2> <ACTIVATE_ABILITY_3>
 
 Activation requires energy - collect blue energy orbs to charge up your abilities!
@@ -3235,11 +3244,26 @@ Advanced lateral dodges can be done while aiming with <AIM_WEAPON>: tap <PRE_RUN
 ------
 ATTACK FROM EVERY ANGLE
 
+Crouch with <PRE_CROUCH>
+
+To slide - sprint for a moment with <PRE_RUN>, then release and hold <PRE_CROUCH>
+
+You are harder to hit from this angle and still free to attack with your weapons!
+------
+ATTACK FROM EVERY ANGLE
+
 Crouch with <HOLD_CROUCH>
 
 To slide - sprint for a moment with <PRE_RUN>, then release and hold <HOLD_CROUCH>
 
 You are harder to hit from this angle and still free to attack with your weapons!
+------
+COMBINE FORMS
+
+Strike with your melee weapon during a slide to unleash a devastating spin attack!
+   <PRE_RUN> ... <PRE_CROUCH> ... <MELEE>
+
+All of your movement states allow unrestricted freedom to flow into a full attack. An experienced Tenno can run, slide, leap and ground strike in a single, fluid motion.
 ------
 COMBINE FORMS
 
@@ -3419,7 +3443,7 @@ Clans
 ------
 STRENGTH IN NUMBERS
 
-Click the Clan Button (Shield) on the right side of the screen, then click the Create Button.
+Click on the Clan (Shield) button in the top menu, then click the Create Button.
 
 Choose a name, and if its available, your clan will be created!
 
@@ -3485,9 +3509,64 @@ NEW WAYS WILL EMERGE
 
 The Conclaves are a foundation for Tenno to battle each other. More opportunities to test yourselves will come.
 ------
+Dark Sectors
+------
+Solar Rails are colossal Orokin devices that distort the Void and allow players to reach otherwise inaccessible regions of space, known as Dark Sectors. Clans and Alliances can deploy Solar Rails to control these areas on the Solar Map, collecting tributes from players who access areas within their territory.
+------
+Once an Oracle has been built, Clans are able to construct Orokin Labs in their Dojos. Clan Warlords and Tacticians can research blueprints and construct Solar Rails from the terminals located inside the Orokin Lab. Small clans can unite to form Alliances, and are able to construct an Alliance Solar Rail. All clans within the Alliance may contribute toward the research and construction of the Solar Rail.
+------
+Researching a Solar Rail blueprint requires resource contributions from clan members. The resources required scales with the size of the Clan. Once research is complete, construction on the Solar Rail can begin. The resource requirements of a Solar Rail however, do not scale with the size of the clan, so it is imperative for small clans to form an Alliance to expedite the construction process.
+------
+Once construction has been completed, clans and Alliances are able to deploy their Solar Rails on specified Dark Sectors of the Solar Map. The Clan or Alliance controlling the Solar Rail will be able to specify a tribute, collecting a percentage of any resources or credits collected by players using the Solar Rail.
+------
+If another clan already controls a Dark Sector, ownership can be contested by deploying a Solar Rail into their territory. Deploying a second Solar Rail within close proximity of another causes interference with the Void-Disruption Technology used to reach the Dark Sectors. This prevents other Tenno from accessing these regions of space while both Solar Rails are active.
+------
+When conflict over Solar Rails controlled by rival Clans or Alliances arises, players have the opportunity to fight for either side by undertaking missions. Missions played for one side cause damage to the opposing Solar Rail. Clans may offer Battle Pay to those who side with them to gain additional support.
+------
+Once one Solar Rail has taken critical damage, it is destroyed. The clan that controls the surviving Solar Rail takes control of that Dark Sector, and begins collecting tribute from other Tenno who access it.
+
+If both rails still exist after two days, the energy interference of the two conflicting rails increases exponentially. This causes a meltdown in the Solar Rail which sustained the most damage, leading to its destruction. The energy of the remaining Solar Rail then stabilizes, allowing all Tenno to access the Dark Sector again and resume paying tribute to the Clan or Alliance controlling the Solar Rail.
+------
+Melee 2.0
+------
+Tenno can engage their enemies in close quarter combat, by holding <NEXT_INV> to draw their melee weapon. 
+
+Once equipped a Tenno will be able to realize the full potential of their training by executing combos with <MELEE>
+
+Parry incoming attacks with <MELEE_PARRY>. Tenno can deflect both blades and bullets with ease.
+
+To sheath you weapon, hold <NEXT_INV> again and your firearm will be drawn.
+------
+Tenno can enhance their attacks by channeling their energy into their weapon by holding down <MELEE_CHANNEL>. 
+
+With perfect timing, Tenno can parry an incoming melee attack from an enemy with <MELEE_PARRY> while channeling, to stagger them.
+
+Using their quick reflexes, a Tenno can follow up with an Execution by tapping <MELEE> while standing close to their staggered target.
+------
+Equip Stance Mods in the Arsenal to unlock devastating combos to unleash upon your enemies. One such Stance Mod is called Crimson Dervish.
+
+Crimson Dervish can be equipped on single bladed weapons, like the Skana and allows the user to trigger combos by pressing the correct button sequence. 
+
+One of the attacks unique to Crimson Dervish is the Coiling Impale. It is is a four-strike attack that can be triggered by pressing <MELEE> , <MELEE> , <MELEE> , <MELEE_PARRY> + <MELEE>
+------
+Collect Stance Mods to unlock a variety of attacks for your favourite Melee Weapons.
+
+Only one Stance Mod may be equipped at a time, though most weapons will have a selection of Stance Mods to choose from.
+
+Special Attacks will feature new and exciting animations.
+
+Check out the COMBO button after equipping a Stance Mod, or from the Pause Menu during a mission to see a full list of special attacks.
+------
+Primary Weapon and Secondary Weapons can be unequipped in the Arsenal.
+                      
+Try taking missions with only your Melee Weapon equipped for the ultimate Tenno challenge!
+
+------
 VorLore/NEl
 ------
 Escalation5-jb
+------
+SolarRailTrainingPt1
 ------
 TARGET: Ava Izar
 
@@ -3691,53 +3770,61 @@ Tailor Made
 ------
 Customize the color of a Warframe.
 ------
+Saviour of Europa
+------
+Complete the boss node in the Europa region.
+------
+Saviour of Phobos
+------
+Complete the boss node in the Phobos region.
+------
 Saviour of Mercury
 ------
-Kill the boss in the Mercury region.
+Kill the boss in the Mercury region and get to extraction.
 ------
 Saviour of Mars
 ------
-Kill the boss in the Mars region
+Kill the boss in the Mars region and get to extraction.
 ------
 Saviour of Venus
 ------
-Kill the boss in the Venus region.
+Kill the boss in the Venus region and get to extraction.
 ------
 Saviour of Neptune
 ------
-Kill the boss in the Neptune region.
+Kill the boss in the Neptune region and get to extraction.
 ------
 Saviour of Pluto
 ------
-Kill the boss in the Pluto region.
+Kill the boss in the Pluto region and get to extraction.
 ------
 Saviour of Earth
 ------
-Kill the boss in the Earth region.
+Kill the boss in the Earth region and get to extraction.
 ------
 Saviour of Saturn
 ------
-Kill the boss in the Saturn region.
+Kill the boss in the Saturn region and get to extraction.
 ------
 Saviour of Uranus
 ------
-Kill the boss in the Uranus region.
+Kill the boss in the Uranus region and get to extraction.
 ------
 Saviour of Ceres
 ------
-Kill the boss in the Ceres region.
+Kill the boss in the Ceres region and get to extraction.
 ------
 Saviour of Sedna
 ------
-Kill the boss in the Sedna region.
+Kill the boss in the Sedna region and get to extraction.
 ------
 Saviour of Jupiter
 ------
-Kill the boss in the Jupiter region.
+Kill the boss in the Jupiter region and get to extraction.
 ------
 Saviour of Eris
 ------
-Kill the boss in the Eris region.
+Kill the boss in the Eris region and get to extraction.
 ------
 Death of an Assassin
 ------
@@ -4321,8 +4408,6 @@ Completed. Affinity +|AFFINITY|
 ------
 Challenge_Win1000Missions_Descriptionc!?2
 ------
-Challenge_KillTylRegor_Name
-------
 Challenge_KillPhorid_DescriptionMy*k
 ------
 Challenge_Own2Warframes_Named)ot
@@ -4350,7 +4435,11 @@ Update #11.5 - The Cicero Crisis (JPN)
 ------
 Update 12 - Zephyr Rises
 ------
-Update 12 - Zephyr Rises
+Update 12.4.4: Tethra's Doom
+------
+Update 12.4.5: Tethra's Doom
+------
+Update 12.4.6: Tethra's Doom
 ------
 ALLIANCE:
 ------
@@ -4387,6 +4476,10 @@ Member can make Dojo contributions from the Clan Vault, and can edit the Clan Tr
 Tech
 ------
 Member can queue research
+------
+Tactician
+------
+Member can begin construction of Solar Rails in the Dojo, and can deploy completed Rails in the Star Chart
 ------
 RANKS
 ------
@@ -4434,6 +4527,24 @@ MOON CLANS
 ------
 Pending invitation from |GUILDNAME|
 ------
+CREATE ALLIANCE
+------
+LEAVE ALLIANCE
+------
+Are you sure you want to leave '|ALLIANCE|'?
+------
+DISTRIBUTE VAULT RESOURCES
+------
+A Clan's share is calculated based on its non-pending members compared to the size of the Alliance. The Alliance Vault is also divvied automatically before a new Clan joins the Alliance, and before a Clan leaves the Alliance. Are you sure you want to divvy the Alliance Vault to each of the Clans in the Alliance?
+------
+Alliance vault successfully distributed.
+------
+Failed to distribute alliance vault.
+------
+INVITE CLAN
+------
+If this Clan accepts your Alliance invite, the Alliance Vault will be automatically divvied to each of the current Clans in the Alliance, excluding the new Clan. A Clan's share is calculated based on its non-pending members compared to the size of the Alliance. Are you sure you wish to continue?
+------
 ALLIANCE
 ------
 VIEW ALLIANCE
@@ -4455,6 +4566,74 @@ Contributions are needed for |RESEARCHTYPE|.
 |NAME| has left the clan.
 ------
 |NAME| has contributed |COUNT| |ITEM| to |PROJECT|.
+------
+Message to clan recruiter
+------
+START YOUR OWN CLAN
+------
+START YOUR OWN CLAN
+------
+CLAN HELP
+------
+LEARN ABOUT CLANS
+------
+DOJO
+------
+Enter Clan Dojo
+------
+Request for clan invite
+------
+|CLANNAME| have declined your application for membership at this time.
+------
+CLAN REQUEST RESPONSE
+------
+Enter Name Of Clan
+------
+You don't have the key to enter the Dojo. Do you want to craft it?
+------
+Prepare For Battle!
+------
+The Clan '|ATTACKER_NAME|' has deployed a Solar Rail to attack your Rail on |REGION_NAME|:|NODE_NAME|! Soon you will need to rally supporters to destroy their Solar Rail before they destroy yours!
+------
+The Alliance '|ATTACKER_NAME|' has deployed a Solar Rail to attack your Rail on |REGION_NAME|:|NODE_NAME|! Soon you will need to rally supporters to destroy their Solar Rail before they destroy yours!
+------
+Cannot add Clan to Alliance, would exceed maximum Alliance member size.
+------
+Cannot add clan to Alliance. This clan is currently engaged in a Dark Sector conflict with your Alliance!
+------
+Cannot add clan to Alliance. This clan is currently engaged in a Dark Sector conflict with another clan in your Alliance!
+------
+Could not add to Alliance at this time, please try again.
+------
+Could not add to Alliance.
+------
+Cannot join Alliance. Your Clan is currently engaged in a Dark Sector conflict with this Alliance!
+------
+Cannot join Alliance. Your clan is currently engaged in a Dark Sector conflict with another clan in this Alliance!
+------
+Could not join Alliance at this time, please try again.
+------
+Could not join Alliance.
+------
+Alliance does not exist.
+------
+Cannot attack this Clan or Alliance with a Solar Rail.
+------
+Could not deploy Solar Rail.
+------
+An error occurred while deploying the Solar Rail. Please contact customer support.
+------
+Failed to update Solar Rail settings.
+------
+VIEW IN WORLD STATE SCREEN
+------
+HAVE YOUR CLAN PARTICIPATE IN |EVENT_NAME| TODAY!
+------
+Before leaving the Alliance, you must give another Clan the right to remove other Clans.
+------
+Could not remove from Alliance at this time, please try again.
+------
+Could not remove from Alliance.
 ------
 Edit_RanksConfirm.n
 C
@@ -4654,8 +4833,6 @@ Please include the following bug number when contacting support:
 ------
 STRING_OUTRO_SUMMARY_FIXEDY*7J
 ------
-^Z
-------
 A Tenno must be a master of all their weapons. Prove yourself with your primary weapon.
 ------
 Prove your ability with a sidearm. Eliminate all targets.
@@ -4774,9 +4951,21 @@ Bio Lab
 ------
 Allows for biologically focused research projects.
 ------
+Orokin Lab
+------
+Research and construct Solar Rails
+------
 Tenno Lab
 ------
 Allows for the research of Warframes and Tenno-based weaponry research projects.
+------
+Temple of Honor
+------
+A place to mediatate on the achievements of the past.
+------
+Observatory
+------
+A place to contemplate the depths of space.
 ------
 Arc Furnace
 ------
@@ -4884,7 +5073,7 @@ A wooden water garden path with light vegetation.
 ------
 Caritas Water Garden
 ------
-A large stone path water garden.
+A wooden water garden path with light vegetation.
 ------
 Wooden Sand Garden
 ------
@@ -4906,9 +5095,9 @@ Autumn Garden Stone
 ------
 A stone path autumn garden.
 ------
-Leto Water Garden
+Leto Garden
 ------
-A large stone path water garden.
+A garden featuring a flowing creek.
 ------
 Stone Sand Garden
 ------
@@ -4926,9 +5115,17 @@ Solace Water Garden
 ------
 A large stone path water garden.
 ------
-SKYBOX GARDEN
+Mosaic Garden
 ------
-SKYBOX GARDEN
+A garden featuring a unique arrangement of ornaments.
+------
+Junno Water Garden
+------
+A quiet place to be alone with your thoughts.
+------
+Soleto Garden
+------
+A sand garden featuring a flowing creek.
 ------
 Research Time:
 ------
@@ -4947,6 +5144,8 @@ START BUILD
 FUND CONSTRUCTION
 ------
 CONTRIBUTE
+------
+RUSH
 ------
 Not enough energy available. Try building a Reactor first.
 ------
@@ -5004,6 +5203,8 @@ Are you sure? You will never be able to reset your account.
 ------
 Are you sure you want to cancel the build? This will reimburse all the users that contributed to build the room in full.
 ------
+Are you sure you want to cancel construction? This will reimburse all the users that contributed to the construction in full.
+------
 The build has been cancelled.
 ------
 Cancellation failed.
@@ -5027,6 +5228,8 @@ Could not queue component for destruction because it is a prerequisite for other
 Component is already queued for destruction.
 ------
 You cannot destroy the sole room in your Dojo!
+------
+Room cannot be destroyed while there are active projects being built inside it!
 ------
 Are you sure you want to cancel the destruction of this room?
 ------
@@ -5804,11 +6007,53 @@ TETHRA'S DOOM GOLD TROPHY
 ------
 Awarded to the Tenno who distinguished themselves with exemplary performance when hijacking Fomorian Power Cores.
 ------
+Project started successfully!
+------
+There is already a project under construction in this room
+------
+The project could not be started
+------
+DOJO TACTICIAN (CLAN)
+------
+DOJO TACTICIAN (ALLIANCE)
+------
+Are you sure you want to start this project? Only one project can be active in a room at any time.
+------
+You must research blueprints for projects before you can begin construction.
+------
+Project started by |CLAN_NAME|
+------
+You are not in an Alliance, you cannot start Alliance projects.
+------
+Tier cannot be increased, would exceed maximum Alliance size. Leave the Alliance or reduce its maximum size before building this room.
+------
+You do not have permission to start projects in this Dojo.
+------
+TREASURY
+------
+Contribute credits directly to your Clan or Alliance vault
+------
+Would you like to contribute to your Clan's Vault or your Alliance's Vault?
+------
+|VAULT_NAME| VAULT <CREDITS> |CREDS|
+------
+Contribute <CREDITS> Credits to your |VAULT_NAME| Vault
+------
+Are you sure you want to contribute |AMOUNT| <CREDITS> Credits to your |VAULT_NAME| Vault? Direct Vault contributions are NEVER refunded!
+------
+Contribution successful!
+------
+The contribution failed.
+------
+You may contribute to your Clan's vault only from within your Clan's Dojo.
+------
 Trans_Dojo3Intro
 ------
 Trans_Dojo5Intro~x0=
 ------
 Trans_DojoSuccess\?gg
+------
+TrophyRoomName6
 ------
 SpeedUpFail_NO_PURCHASES3"N&
 ------
@@ -5829,61 +6074,75 @@ ZenGardenArchBCDesc
 ------
 TennoArchBCName
 ------
-MAG LEADER
+|ENEMY| EXIMUS
+------
+SHOCK
 ------
 Electric based attacks and auras
 ------
-TOXIC LEADER
+VENOM
 ------
 Toxin based attacks and auras
 ------
-ICE LEADER
+ARCTIC
 ------
 Cold based attacks and auras
 ------
-FIRE LEADER
+ARSON
 ------
 Heat based attacks and Auras
 ------
-LIFESTEAL LEADER
+LEECH
 ------
 Life Leech Weapon, Enhanced Health
 ------
-BLAST LEADER
+BLITZ
 ------
 Defends itself with a radial Blast Attack
 ------
-BIOELECTRIC ANCIENT ELDER
+BIOELECTRIC
 ------
-BIOELECTRIC INFESTED ELDER
+VENOMOUS
 ------
-VENOMOUS ANCIENT ELDER
+FROZEN
 ------
-VENOMOUS INFESTED ELDER
+CAUSTIC
 ------
-FROZEN ANCIENT ELDER
+SANGUINE
 ------
-FROZEN INFESTED ELDER
+VOLATILE
 ------
-CAUSTIC ANCIENT ELDER
-------
-CAUSTIC INFESTED ELDER
-------
-SANGUINE ANCIENT ELDER
-------
-SANGUINE INFESTED ELDER
-------
-VOLATILE ANCIENT ELDER
-------
-VOLATILE INFESTED ELDER
-------
-GUARDIAN LEADER
+GUARDIAN
 ------
 Recharges the shields of nearby allies
 ------
-ENERGY LEECH LEADER
+ENERGY LEECH
 ------
-A tank who drains Energy from nearby enemies
+A TANK WHO DRAINS ENERGY FROM NEARBY ENEMIES
+------
+GUARDSMAN
+------
+Vicious melee attacks
+------
+|ENEMY| PROSECUTOR
+------
+SHOCK
+------
+Vulnerable to Electric damage
+------
+FIRE
+------
+Vulnerable to Fire damage
+------
+ICE
+------
+Vulnerable to Ice damage
+------
+TOXIC
+------
+Vulnerable to Toxic damage
+------
+ProsecutorLeaderFireDesc6aiD
 ------
 VOID
 ------
@@ -6472,6 +6731,10 @@ Shackled
 ------
 The Grineer have attached a corruption device called the Grustrag Bolt to your Warframe. It will cripple your powers when you attempt to fight against them. However, you can remove the device by crafting the attached blueprint. Good luck.
 ------
+|QUEST_NAME| Completed
+------
+For completing this quest, you have been awarded |CREDIT_REWARD|<CREDITS>
+------
 Tethra's Doom
 ------
 Tenno
@@ -6485,15 +6748,13 @@ First we must find the cores. The Grineer are coordinating construction using a 
 Lotus
 ------
 Tethra's Doom - Stage 2
-
 ------
-Excellent, you have located a Fomorian Power Core. The Grineer are in the process of transporting it for installation. This is our chance to strike but this is also where things get tricky. We cannot destroy the core on the planet. The fallout from such an explosion would create a wasteland lasting for generations. Instead we must hijack the core and escort it to an awaiting ship. From there it will be taken to space for destruction. 
+Excellent, you have located a Fomorian Power Core. The Grineer are in the process of transporting it for installation. This is our chance to strike but this is also where things get tricky. We cannot destroy the core on the planet. The fallout from such an explosion would create a wasteland lasting for generations. Instead we must hijack the core and escort it to an waiting ship. From there it will be taken to space for destruction. 
 
 This mission is risky. If the core ruptures there will be nowhere to run and death will be certain. 
 
 Good luck Tenno,
 Lotus
-
 ------
 Tethra's Doom - Escalation
 ------
@@ -6538,9 +6799,34 @@ Your guide,
 The Lotus
 
 ------
+A Gift From the Lotus
+------
+|PLAYER_NAME|, 
+
+You have fought long and hard for our cause. Take this gift as a token of my appreciation. 
+
+The Lotus 
+------
+Silencing Vay Hek
+------
+Tenno,
+
+Councilor Vay Hek is vulnerable. The failure of Project Tethra was so devastating that he has been forced into hiding. This is our chance, I need you to find Hek and take him out. 
+
+Hek has consolidated his remaining shipbuilding on Ceres. To protect the operation, he's sent in his personal guardsmen, deadly Prosecutor class fighters. Ever paranoid, Hek has each Prosecutor carry a locator beacon so he can track them at all times. His paranoia will be his undoing. Collect enough locator beacons and you can use this Frequency Triangulator to determine his whereabouts.
+
+Do not assume this will be easy. Not only are the Prosecutors viscious melee fighters but reconnaissance shows their auras create a new type of shield barrier, impervious to most types of damage. Getting through those shields will be difficult. You will need to experiment to find their weaknesses. 
+
+Go to Ceres, defeat the Prosecutors to locate Vay Hek, and then take the fight to his doorstep. 
+
+-The Lotus
+
+------
 LotusCorpusRaptorEuropak,?{
 ------
 FC_CORPUS_InvasionThankyouMessageBodyCredits
+------
+ProperctorIntroTitlep7xq
 ------
 (We were countless. Consume us. Be reborn.)
 ------
@@ -6879,6 +7165,8 @@ Ambulas_Taunt5gV
 ------
 Stalker_TauntIntro2a
 ------
+55
+------
 Insert Antitoxin
 ------
 CORRUPTED
@@ -6924,6 +7212,10 @@ MASTERY TEST
 RECOVERY
 ------
 INTERCEPTION
+------
+DARK SECTOR |MISSION_NAME|
+------
+DARK SECTOR CONFLICT
 ------
 AFFINITY
 ------
@@ -7173,10 +7465,8 @@ Level up your gear!
 Along with more power, levels unlock slots for 'Mods' to customize your arsenal.
 ------
 Tap <MELEE> to quick strike.
-Hold <MELEE> to charge your attacks.
 ------
 Tap <MELEE> to quick strike.
-Hold <MELEE> to charge your attacks.
 ------
 Destroy these targets!
 ------
@@ -7317,7 +7607,7 @@ The Grineer have expanded their empire into this region.
 ------
 Europa
 ------
-This Corpus stronghold is slowly being overrun by infested.
+This deep space outpost is traditionally home to The Corpus. 
 ------
 Eris
 ------
@@ -7411,6 +7701,8 @@ Dojo
 ------
 Playing
 ------
+In mission
+------
 Offline
 ------
 Invitation to |GUILD_NAME|
@@ -7455,7 +7747,7 @@ RAPTOR
 ------
 CAPTAIN VOR
 ------
-Mining Machine
+MINING MACHINE
 ------
 MACHINES:
 ------
@@ -7587,12 +7879,10 @@ Your health does not recharge. Touch this healing sphere before we continue.
 Use <MOVE_Z> to move
 ------
 Cut down this target.
-Tap <MELEE> to quick strike. 
-Hold <MELEE> to charge your attacks.
+Tap <MELEE> to quick strike.
 ------
 Cut down this target.
-Tap <MELEE> to quick strike. 
-Hold <MELEE> to charge your attacks.
+Tap <MELEE> to quick strike.
 ------
 Now, unleash your power on this target.
 Use <ACTIVATE_ABILITY_0> to activate the first power.
@@ -7622,6 +7912,10 @@ ALAD V
 ZANUKA
 ------
 Fast with claw and missile attacks
+------
+ZANUKA HUNTER
+------
+Captures Warframes
 ------
 CORPUS TARGET
 ------
@@ -7777,7 +8071,7 @@ CORPUS SYSTEMS
 ------
 Entry point for the Lotus
 ------
-Targets Remaining:
+TARGETS REMAINING: 
 ------
 SUNLIGHT THRESHCONE
 ------
@@ -7879,19 +8173,67 @@ Shik Tal
 ------
 A member of the infamous Grustrag Three
 ------
-VAY HEK
+COUNCILOR VAY HEK
 ------
-A Grineer leader
+Empowers Grineer while Disabling Tenno
 ------
-ROBO CHICKEN
+VAY HEK TERRA FRAME
 ------
-Vay Hek's frame
+Vay Hek's combat platform
 ------
 Activate Tram
 ------
 Detach Cargo
 ------
+Save the hostage!
+------
+Corpus Warden
+------
+Highly shielded, heavy weaponry
+------
+Grineer Warden
+------
+Weak to stealth attacks
+------
+WARDEN EXIMUS
+------
+Life leech weapon, increased speed, weak to stealth attacks
+------
 Prox Mine
+------
+PROPAGANDA DRONE
+------
+ORBITAL STRIKE DRONE
+------
+Rescued hostage
+------
+Rescued hostage undetected
+------
+Boosts Grineer morale while weakening enemies
+------
+Paints targets for orbital strikes
+------
+OVERLOAD REACTOR
+------
+FUSION MOA GUARDIAN
+------
+SHIELD GUARDIAN
+------
+DRONE GUARDIAN
+------
+TENNO GUARDIAN
+------
+|PLAYER_NAME| SPECTRE
+------
+INITIATE
+------
+TENNO SPECTRE
+------
+Attempts Left
+------
+Attempt Left
+------
+Kill |COUNT| enemies - melee orbs for extra time!
 ------
 wc
 ------
@@ -7915,11 +8257,13 @@ GrineerBombardMinigunze;9
 ------
 TutorialBoostersIntro+u] 
 ------
-Hold <MELEE> to perform a heavy melee strike!
-These high-damage strikes are slower and can be interrupted.
+TennoMoaaw'|
 ------
-Hold <MELEE> to perform a heavy melee strike!
-These high-damage strikes are slower and can be interrupted.
+Hold <NEXT_INV> to holster your current weapon, and draw your melee weapon.
+You can switch back to your firearms by holding <NEXT_INV>
+------
+Hold <NEXT_INV> to holster your current weapon, and draw your melee weapon.
+You can switch back to your firearms by holding <NEXT_INV>
 ------
 Excalibur is well balanced for beginner players.
 It features devastating blade attacks.
@@ -8906,6 +9250,10 @@ Excalibur Prime Profile Icon
 ------
 An profile icon depicting Excalibur Prime on a dark background.
 ------
+Excalibur Proto-Suit Profile Icon
+------
+An profile icon depicting the Excalibur Proto-suit.
+------
 Frost Profile Icon
 ------
 An profile icon depicting Frost on a dark background.
@@ -9468,6 +9816,10 @@ OROKIN CELL
 ------
 Ancient energy cell from the Orokin era.
 ------
+Argon Crystal
+------
+Void based radioactive resource that decays every day it is out of the void.
+------
 OROKIN CATALYST
 ------
 Orokin modification technology used to super-charge weaponry. Doubles the available Mod Capacity on a Weapon.
@@ -9511,6 +9863,10 @@ Coordinate used to locate lost ships.
 GOLEM NAV COORDINATE
 ------
 Coordinate used to locate the Golem.
+------
+VAY HEK NAV COORDINATE [obsolete??]
+------
+Coordinate used to locate Councilor Vay Hek [obsolete??]
 ------
 GALLIUM
 ------
@@ -9618,7 +9974,7 @@ PHOENIX EMBER HELMET
 ------
 Pheonix reduces shields in order to boost energy capacity.
 ------
-By purchasing this item you can directly exchange 30<PLATINUM_CREDITS>(Platinum) for 9 000<CREDITS>(Credits).
+By purchasing this item you can directly exchange 30<PLATINUM_CREDITS>(Platinum) for 9000<CREDITS>(Credits).
 ------
 FRUGAL CREDIT BUNDLE
 ------
@@ -9626,7 +9982,7 @@ By purchasing this item you can directly exchange 60<PLATINUM_CREDITS>(Platinum)
 ------
 PRODIGAL CREDIT BUNDLE
 ------
-By purchasing this item you can directly exchange 90<PLATINUM_CREDITS>(Platinum) for 30 000<CREDITS>(Credits).
+By purchasing this item you can directly exchange 90<PLATINUM_CREDITS>(Platinum) for 30000<CREDITS>(Credits).
 ------
 HIGH ROLLER CREDIT BUNDLE
 ------
@@ -9738,7 +10094,7 @@ DAGGER AXE SKIN
 ------
 Replaces the edges of the Scindo with multiple Rubedo blades.
 ------
-DAGGER AXE SKIN
+DAGGER ZOREN SKIN
 ------
 Replaces the edges of the Dual Zoren with multiple Rubedo blades.
 ------
@@ -10098,7 +10454,7 @@ Killing Blow
 ------
 Reach
 ------
-Melee Channel
+Energy Channel
 ------
 Second Wind
 ------
@@ -10638,7 +10994,7 @@ A set of ceremonial daggers from the Orokin era, the Fang Prime's blades resonat
 ------
 BRATON PRIME
 ------
-A classic Orokin weapon, Braton Prime features higher impact damage and a larger clip over the standard model.
+A classic Orokin weapon, Braton Prime features modified damage levels and a larger magazine over the standard model.
 ------
 PARIS PRIME
 ------
@@ -10990,6 +11346,14 @@ ZEPHYR AGILE ANIMATION SET
 ------
 The Agile Animation Set for Zephyr
 ------
+HYDROID AGILE ANIMATION SET
+------
+The Agile Animation Set for Hydroid.
+------
+HYDROID NOBLE ANIMATION SET
+------
+The Noble Animation Set for Hydroid.
+------
 SARYN NOBLE ANIMATION SET
 ------
 The Noble Animation Set for Saryn.
@@ -11177,11 +11541,15 @@ OROKIN DERELICT DEFENSE
 ------
 OROKIN DERELICT ASSASSINATE
 ------
+COUNCILOR VAY HEK ASSASSINATE
+------
 OROKIN DERELICT EXTERMINATE
 ------
 An Exterminate mission on board an Orokin Derelict ship
 ------
 An Assassination mission on board an Orokin Derelict ship
+------
+Raid Earth and Assassinate Councilor Vay Hek
 ------
 An Endless Defense mission on board an Orokin Derelict ship
 ------
@@ -11487,6 +11855,8 @@ NOVA QUANTUM PROFILE ICON PACK
 ------
 Contains two variations of the Quantum Nova profile icon.
 ------
+UNARMED
+------
 OBEX
 ------
 The Obex system multiplies the kinetic energy of a Tenno's kicks and punches, delivering devastating blows to any target.
@@ -11526,6 +11896,10 @@ Ember Prime offers the same potential for wanton destruction as Ember but provid
 EMBER PRIME HELMET
 ------
 The standard issue helmet for the Ember Prime Warframe.
+------
+RHINO PRIME HELMET
+------
+The standard issue helmet for the Rhino Prime Warframe.
 ------
 EXCALIBUR IMMORTAL SKIN
 ------
@@ -11951,29 +12325,25 @@ TETRA
 ------
 Drawing from its huge quad-chambered clip, the Tetra is capable of unleashing a sustained barrage of lethal energy bolts.
 ------
-Void Lens
+ZENURIK LENS
 ------
-Void Lens PLACEHOLDER DESCRIPTION
+ZENURIK LENS PLACEHOLDER DESCRIPTION
 ------
-Elemental Lens
+NARAMON LENS
 ------
-Elemental Lens PLACEHOLDER DESCRIPTION
+NARAMON LENS PLACEHOLDER DESCRIPTION
 ------
-Guardian Lens
+VAZARIN LENS
 ------
-Guardian Lens PLACEHOLDER DESCRIPTION
+VAZARIN LENS PLACEHOLDER DESCRIPTION
 ------
-Tactician Lens
+UNAIRU LENS
 ------
-Tactician Lens PLACEHOLDER DESCRIPTION
+UNAIRU LENS PLACEHOLDER DESCRIPTION
 ------
-Ward Lens
+MADURAI LENS
 ------
-Ward Lens PLACEHOLDER DESCRIPTION
-------
-Warrior Lens
-------
-Warrior Lens PLACEHOLDER DESCRIPTION
+MADURAI LENS PLACEHOLDER DESCRIPTION
 ------
 OXIUM
 ------
@@ -12141,17 +12511,21 @@ AKBRONCO PRIME
 ------
 Used together, these Orokin pistols feed off each other, inflicting greater damage with an enhanced chance for inducing elemental effects on targets.
 ------
-CHAIN TRIDENT DANGLE
+PAZZA SUGATRA
 ------
-Placeholder desc
+Expressing the martial finesse and skill of its master, the Pazza Sugatra is based on a Corpus design.
 ------
-LOTUS POINT DANGLE
+DAMAN SUGATRA
 ------
-Placeholder desc
+Expressing the martial finesse and skill of its master, the Daman Sugatra follows a rare Orokin design.
 ------
-GRINEER CORD DANGLE
+SURAKA SUGATRA
 ------
-Placeholder desc
+Expressing the martial finesse and skill of its master, the Suka Sugatra uses an ancient Tenno ceremonial design.
+------
+TANTU SUGATRA
+------
+Expressing the martial finesse and skill of its master, the Tantu Sugatra is based on a Grineer design.
 ------
 TWILIGHT
 ------
@@ -12263,13 +12637,33 @@ Causes the Helios Sentinel to attack enemy targets using pieces of itself.
 ------
 Investigator
 ------
-Allows the Helios Sentinel to scan objects and enemies it encounters. This consume Codex Scanner chargers.
+Allows the Helios Sentinel to scan objects and enemies it encounters. This consumes codex scanner charges.
 ------
 Targeting Receptor
 ------
 Causes the Helios Sentinel to attack the first target it sees.
 ------
 Upgrading increases the number of parts the Helios Sentinel can fling at a target.
+------
+LEX PRIME
+------
+Placeholder
+------
+NO STANCE MOD INSTALLED
+------
+STANCE
+------
+Iron Phoenix
+------
+Fast cutting attacks with puncture finish
+------
+Crimson Dervish
+------
+Strong whirlwind attacks
+------
+SHOCK CAMO PACK
+------
+These bold patterns are designed to confuse the optical processing of both robotic and organic enemies.
 ------
 DEX FURIS
 ------
@@ -12280,6 +12674,462 @@ EXCALIBUR PROTO-ARMOR SKIN
 Discovering the precise nature of this recently uncovered armored prototype has proved elusive. Initial attempts at dating point to ancient origins, perhaps even predating Orokin Empire. 
 
 Available for a limited time only.
+------
+SHOCK CAMO BRATON
+------
+The Shock-Camo skin for the Braton.
+------
+SHOCK CAMO CESTRA
+------
+The Shock-Camo skin for the Cestra.
+------
+SHOCK CAMO DERA
+------
+The Shock-Camo skin for the Dera.
+------
+SHOCK CAMO DETRON
+------
+The Shock-Camo skin for the Detron.
+------
+SHOCK CAMO DUAL CESTRA
+------
+The Shock-Camo skin for the Dual Cestra.
+------
+SHOCK CAMO FLUX RIFLE
+------
+The Shock-Camo skin for the Flux Rifle.
+------
+SHOCK CAMO LANKA
+------
+The Shock-Camo skin for the Lanka.
+------
+SHOCK CAMO LECTA
+------
+The Shock-Camo skin for the Lecta.
+------
+SHOCK CAMO OBEX
+------
+The Shock-Camo skin for the Obex.
+------
+SHOCK CAMO PENTA
+------
+The Shock-Camo skin for the Penta.
+------
+SHOCK CAMO PROVA
+------
+The Shock-Camo skin for the Prova.
+------
+SHOCK CAMO SNIPETRON
+------
+The Shock-Camo skin for the Snipetron.
+------
+SHOCK CAMO SPECTRA
+------
+The Shock-Camo skin for the Spectra.
+------
+SHOCK CAMO SUPRA
+------
+The Shock-Camo skin for the Supra.
+------
+SHOCK CAMO TETRA
+------
+The Shock-Camo skin for the Tetra.
+------
+NIKANA
+------
+The Nikana katana reintroduces a lost Tenno blade and with it another fragment of the old ways.
+------
+UPDATE 13 MEGA PACK
+------
+Plunder the treasures of Update 13.
+
+Featuring the latest additions to the Market, this pack includes the new Hydroid Warframe and matching Triton Hydroid helmet, Attica crossbow and the Nami Skyla cutlass and dagger set. Also included is the Para sentinel skin for Carrier and matching Para Sentinel customizations. Rounding out this pack are 3-day Affinity and Credit Boosters.
+
+*Note: A Carrier Sentinel is required to use the Para skin.
+------
+SUGATRA PACK
+------
+Accent your melee arsenal with this collection of sugatras.
+------
+NAMI SKYLA
+------
+Like the surge and crash of storm waves, a master of the Nami cutlass and Skyla dagger turns these two separate weapons into one fluid attack.
+------
+ATTICA
+------
+Quickly fire off a volley of deadly bolts with the Attica repeating crossbow. 
+------
+HYDROID
+------
+Rising from the ocean depths, Hydroid harnesses the power of water to a devastating effect.
+------
+Delta Beacon
+------
+Locator beacon brodcasting on the delta frequency
+------
+Gamma Beacon
+------
+Locator beacon brodcasting on the gamma frequency
+------
+Kappa Beacon
+------
+Locator beacon brodcasting on the kappa frequency
+------
+Omega Beacon
+------
+Locator beacon brodcasting on the Omega frequency
+------
+PARA CARRIER
+------
+Para skin for the Carrier Sentinel.
+------
+HYDROID HELMET
+------
+The standard issue helmet for the Hydroid warframe.
+------
+TRITON HYDROID HELMET
+------
+An alternative helmet for the Hydroid Warframe.
+------
+Tempest Barrage
+------
+Calls down a barrage of liquid fury
+------
+Tentacle Swarm
+------
+Summon a creature from the deep to wreak havoc
+------
+Undertow
+------
+Become a water trap and drown unsuspecting enemies
+------
+Tidal Surge
+------
+Crash through enemies in a ferocious wall of water
+------
+VAY HEK FREQUENCY TRIANGULATOR
+------
+Locate Vay Hek by analyzing the frequency output of a set of his beacons 
+------
+SOLAR RAIL - TOWER CLASS
+------
+Constructing a Solar Rail allows travel to previously inaccessible locations. All Tenno who use the rail pay tribute to the Clan who built it.
+------
+UNNAMED STANCE
+------
+This stance needs a name and description.
+------
+Rending Crane
+------
+Downward cuts with an impact combo.
+------
+Cleaving Whirlwind
+------
+Arcing cuts with spinning finish.
+------
+Tranquil Cleave
+------
+Powerful arcs with frenzied combo.
+------
+Homing Fang
+------
+Fast strikes, many hits.
+------
+Pointed Wind
+------
+Spiral strikes, lifting combos.
+------
+Shattering Storm
+------
+Methodical strikes and high impact combos.
+------
+Crushing Ruin
+------
+Arial attacks with crowd control combos.
+------
+Burning Wasp
+------
+Chaining combos.
+------
+Coiling Viper
+------
+Powerful arcing strikes with energetic flips.
+------
+Clashing Forest
+------
+Arcing strikes and focused combos.
+------
+Flailing Branch
+------
+Lifting strikes and whirlwind combos.
+------
+Reaping Spiral
+------
+Far flung attacks and multi-hit combos.
+------
+Stalking Fan
+------
+Lunging spirals and shattering combos.
+------
+Grim Fury
+------
+Lightning fast hit chains and hard-hitting combos.
+------
+Brutal Tide
+------
+Round-house attacks and leaping fists.
+------
+Shimmering Blight
+------
+Fast spinning attacks and staggering strikes.
+------
+Bleeding Willow
+------
+A blend of strong and rapid strikes with leaping combos.
+------
+Gleaming Talon
+------
+Fast arcing strikes.
+------
+Fracturing Wind
+------
+Fast, multi-hit strikes with powerful finishers.
+------
+Seismic Palm
+------
+Methodical strikes with reaching combos.
+------
+Swirling Tiger
+------
+Fanning, multi-hit strikes.
+------
+Crossing Snakes
+------
+Raking Flesh
+------
+Winding Claws
+------
+East to West
+------
+Northern Coil
+------
+Trimming Flowers
+------
+Red Soil
+------
+Mirrored Spike
+------
+Skyward Limb
+------
+Skyward Limb
+------
+Battering Roots
+------
+Crushing Reach
+------
+Planting Widow
+------
+Planting Widow
+------
+Guiding Plank
+------
+Wide Dispatch
+------
+Battered Thread
+------
+Rising Falls
+------
+Gaining Humility
+------
+Rising Wind
+------
+Trailing Doom
+------
+Launching Spring
+------
+One Point
+------
+Through Strike
+------
+Roaring Drums
+------
+Quaking Touch
+------
+Echoing Hands
+------
+Parting Edge
+------
+Striking Gale
+------
+Splitting Brush
+------
+Scorpion Fall
+------
+Fanning Sting
+------
+Relentless Point
+------
+Lashing Forward
+------
+Cutting Arches
+------
+Life Eater
+------
+Reclaimation
+------
+Abyssal Automaton
+------
+Hell's Wave
+------
+Mountain's Chisel
+------
+Flaying Home
+------
+Tunneling Spike
+------
+Many Tears
+------
+Shadow Wing
+------
+Skull Splitter
+------
+Landing Dragon
+------
+Crowd Fall
+------
+Broken Bull
+------
+Ruin
+------
+Silver Reach
+------
+Nemesis
+------
+Pirouette
+------
+Auger
+------
+Final Word
+------
+Multi-angle strikes and deadly thrust attacks.
+------
+Sinking Talon
+------
+Strong, focused attacks with multi-hit spins.
+------
+Gnashing Payara
+------
+Lunging punctures with impaling spirals.
+------
+Sundering Weave
+------
+Steady chopping strikes with focused damage.
+------
+PARA SENTINEL MASK
+------
+A mask attachment for your sentinel pet.
+------
+PARA SENTINEL WINGS
+------
+A pair of wings for your sentinel pet.
+------
+PARA SENTINEL TAIL
+------
+A stylish tail attachment for your sentinel pet.
+------
+True Punishment
+------
+Quickening
+------
+Warrior's Grip
+------
+Enduring Strike
+------
+Life Strike
+------
+Life Strike
+------
+Wings and Beak
+------
+Taking Flight
+------
+Shatterfall
+------
+Spiral Cut
+------
+Coiling Impale
+------
+Twisting Flurry
+------
+Crimson Orbit
+------
+Sky Doom
+------
+Weightless Steel
+------
+PSIV
+------
+PSIV
+------
+Unlocks additional color options for Warframe customization.
+------
+YOMO SYANDANA PSIV
+------
+A next-generation syandana.
+------
+Hydroid Profile Icon
+------
+An profile icon depicting Hydroid on a bright background.
+------
+Hydroid Profile Icon
+------
+An profile icon depicting Hydroid on a dark background.
+------
+Triton Hydroid Profile Icon
+------
+An profile icon depicting Triton Hydroid on a bright background.
+------
+Triton Hydroid Profile Icon
+------
+An profile icon depicting Triton Hydroid on a dark background.
+------
+HYDROID PROFILE ICON PACK
+------
+Contains four variations of Hydroid and Triton Hydroid profile icons.
+------
+Rising Thunder
+------
+Falling Rock
+------
+Tidal Force
+------
+Shattered Village
+------
+Windless Cuts
+------
+Breathless Lunge
+------
+Beyond Reproach
+------
+Hook And Eye
+------
+Parting Knee
+------
+Setting Sun
+------
+Guiding Wire
+------
+Resting Place
+------
+Buzzing Sting
+------
+Sparking Torture
+------
+Guided Claw
+------
+Resounding Fear
+------
+Tumbling King
 ------
 MagPrimeDesc]CK;
 ------
@@ -12419,6 +13269,20 @@ DualCorpusMinigunDescv3<A
 PaladinAltHelmetDescdpN:
 ------
 ImperatorSyandanaDescC6aT
+------
+DazzleCamoDetronName_n
+------
+DazzleCamoLankaName$d)a
+------
+HydroidDefaultHelmetCOEQ
+------
+DualSwordGroundHitsDefault9tp/
+------
+iz
+------
+AxeEquippedAttacksDefaultcS
+------
+ParrotWingsName}f2#
 ------
 Connecting...
 ------
@@ -12750,6 +13614,8 @@ Specified username is not a friend.
 ------
 Cannot add self as a friend
 ------
+|NAME| is already a friend.
+------
 Friend request sent
 ------
 Friend request confirmed
@@ -12791,6 +13657,10 @@ Send Message
 Invite
 ------
 Join Session
+------
+SESSION FULL
+------
+CANNOT JOIN
 ------
 Visit Dojo
 ------
@@ -12844,7 +13714,7 @@ RETURN TO CLAN LIST
 ------
 RETURN TO SOCIAL MENU
 ------
-Clan Management
+CLAN MANAGEMENT
 ------
 Cannot sync to Warframe database due to no internet connection.
 ------
@@ -12867,6 +13737,14 @@ Cannot add self to a clan you're currently in.
 Selected User is not in the Clan.
 ------
 Given Clan name is already in use.
+------
+Given Alliance name is already in use.
+------
+Clan is already in an Alliance.
+------
+Clan is already invited to your Alliance.
+------
+You are not in an Alliance.
 ------
 Complaints are taken very seriously. Filing a false complaint is an offense and action will be taken against your account. Continue?
 ------
@@ -12928,7 +13806,7 @@ Receive a mystery item as a reward for completion of the alert.
 ------
 Forgot Password
 ------
-12 ZEPHYR RISES: OPEN BETA
+13 THE DARK SECTORS: OPEN BETA
 ------
 EMAIL
 ------
@@ -13043,6 +13921,8 @@ You must promote another player to your current rank before performing this acti
 Are you sure you want to remove |USER| from the clan?
 ------
 Are you sure you want to leave your clan? Your dojo key/blueprint for this clan will be destroyed.
+------
+CAUTION: you are the Ruler of your clan! Once you leave, the clan will be disbanded permanently and its Vault contents, Dojo, and technology will be lost. Do you still want to leave?
 ------
 Are you sure you want to decline this clan invitation?
 ------
@@ -13580,6 +14460,8 @@ Use Abilities On Selection
 ------
 Use Mouse Thumb Button as ESC
 ------
+Melee Combos
+------
 Music Volume
 ------
 Speech Volume
@@ -13615,6 +14497,8 @@ Medium
 High
 ------
 Windowed
+------
+Geometry Detail
 ------
 Shadow Quality
 ------
@@ -13773,6 +14657,10 @@ VALUE: <CREDITS> %s
 <UPARROW>
 ------
 Hours
+------
+Minute
+------
+Minutes
 ------
 WARFRAME
 ------
@@ -14096,6 +14984,8 @@ Deploying to %s [%i]
 ------
 Joining %s...
 ------
+Location
+------
 Mission
 ------
 %i/%i Votes [%i]
@@ -14394,6 +15284,10 @@ This slot is reserved for Aura Mods.
 ------
 Aura Mod can only be placed in Aura slot.
 ------
+This slot is reserved for Melee Stance Mods.
+------
+Melee Stance Mod can only be placed in Melee Stance slot.
+------
 Insufficient credits <CREDITS> to apply this reconfiguration.
 ------
 This mod requires a weapon rank of |LEVEL_REQUIRED| or higher.  You have only achieved rank |LEVEL_CURRENT| with |ITEM_NAME|.
@@ -14603,7 +15497,11 @@ Use
 ------
 Roll
 ------
-Quick Melee
+Melee Attack
+------
+Melee Block
+------
+Melee Channel
 ------
 Switch Weapon
 ------
@@ -14729,6 +15627,8 @@ The Platinum store will open in your Web browser.
 ------
 The Platinum store with your discount will open in your Web browser.
 ------
+The Platinum store with your discount will open in your Web browser.  This offer expires in 48 hours
+------
 To purchase Platinum you will be directed to the PlayStation<REGISTERED_TM_SMALL>Store.
 Launch PlayStation<REGISTERED_TM_SMALL>Store?
 ------
@@ -14817,6 +15717,8 @@ Collect your reward!  Increase reward rating with return visits!
 ------
 Login to warframe.com to use your 48-hour coupon!
 ------
+Login to Warframe.com to claim your Free Platinum and |amount|% Off Coupon
+------
 Are you sure?
 ------
 Pistols
@@ -14887,8 +15789,6 @@ Please forward UDP ports |ServerPort| & |ClientPort| to |Address|.
 Help
 ------
 You got: |randomItem|
-------
-Block
 ------
 WEEKEND EVENT SPECIAL: VULKAR DEAL PACK
 ------
@@ -15032,15 +15932,17 @@ CONCLAVE RATING of your current loadout (|VALUE|) does not meet the requirement 
 ------
 CONCLAVE RATING of a squad member's loadout (|VALUE|) does not meet the requirement for this Conclave.
 ------
-Honor of the Lotus
+HONOR OF THE LOTUS : 50 % off your next purchase of Platinum
 ------
-Gift of the Lotus
+EXALTED HONOR OF THE LOTUS : 30 Free Platinum + 50% off PLatinum Purchase
 ------
-Token of the Lotus
+TOKEN OF THE LOTUS : 20 % off your next purchase of Platinum
 ------
-Blessing of the Lotus
+EXALTED TOKEN OF THE LOTUS : 30 Free Platinum + 20% off PLatinum Purchase
 ------
-Bounty of the Lotus
+BOUNTY OF THE LOTUS : 75 % off your next purchase of Platinum
+------
+EXALTED BOUNTY OF THE LOTUS : 30 Free Platinum + 75% off PLatinum Purchase
 ------
 |value|% OFF
 ------
@@ -15380,7 +16282,7 @@ MELEE
 ------
 SENTINEL
 ------
-SKINS
+APPEARANCE
 ------
 MISCELLANEOUS
 ------
@@ -15389,6 +16291,8 @@ EXTRACTORS
 KEYS
 ------
 GEAR
+------
+RESOURCES
 ------
 CATEGORY
 ------
@@ -15532,6 +16436,8 @@ EVENT BADGE
 ------
 SYANDANA
 ------
+ACCESSORIES
+------
 RANDOM COLORS
 ------
 DEFAULT COLORS
@@ -15548,7 +16454,7 @@ Master Volume
 ------
 INTRUSION DETECTED!
 ------
-GRINEER CIPHER
+CIPHER
 ------
 SOLVED!
 ------
@@ -15598,11 +16504,17 @@ Clan Invite
 ------
 You have been invited to the clan |clan|.
 ------
+Alliance Invite
+------
+The Clan |THEIR_CLAN| has invited |CLAN| to join the Alliance |ALLIANCE|.
+------
 Your clan emblem has been approved.
 ------
 It will be added to the game with the next game update.
 ------
 Your clan emblem has been rejected.
+------
+QUESTS
 ------
 RECRUIT
 ------
@@ -15790,6 +16702,10 @@ STAR CHART
 ------
 Explore the stars.
 ------
+WORLD STATE
+------
+What is happening?
+------
 CHOOSE YOUR WARFRAME
 ------
 BEGIN!
@@ -15854,21 +16770,21 @@ FOCUS
 ------
 UNIVERSAL
 ------
-VOID
+ZENURIK
 ------
 PRECEPT
 ------
 FUSION
 ------
-WARD
+UNAIRU
 ------
 EXTRA
 ------
-GUARDIAN
+VAZARIN
 ------
-TACTICAN
+NARAMON
 ------
-WARRIOR
+MADURAI
 ------
 Orokin
 ------
@@ -16015,6 +16931,8 @@ Zoom <MENU_RIGHT_Y>
 ------
 NEXT <PAGINATION_NEXT>
 ------
+<PAGINATION_PREVIOUS> PREVIOUS
+------
 Replay Mission
 ------
 Replay Tutorial
@@ -16026,6 +16944,8 @@ Fight to rescue your captured Warframe and weapons from the clutches of Alad V. 
 Your weapons have been captured by Alad V's Zanuka. You must reclaim them before they can be used in another game session.
 ------
 This weapon has been captured by Alad V's Zanuka. You must reclaim it before it can be sold.
+------
+Leave Squad
 ------
 Start Timer
 ------
@@ -16127,7 +17047,266 @@ CHOOSE THE |ITEM_NAME| TO DISENGAGE THE GRUSTRAG BOLT FROM
 ------
 MEMBERS
 ------
+CLANS
+------
 -|SECONDS|
+------
+Special Event
+------
+Send Join Request
+------
+New Search
+------
+Search Name
+------
++ INVITE SQUAD MEMBER +
+------
+Test your skills to rank up
+------
+|TYPE| ON |PLANET|-|NODE|
+------
+DEPLOY A SOLAR RAIL
+------
+CONTINUE
+------
+DARK SECTORS
+------
+STEP
+------
+WELCOME TO THE DARK SECTORS!
+------
+Click the button below to familiarize yourself with the basics of the Dark Sectors.
+------
+BUILD A OROKIN LAB
+------
+An Orokin Lab will allow you to begin research on Solar Rails.
+------
+OROKIN LAB CONSTRUCTION
+------
+Your clan can now begin researching Solar Rails in the Orokin Lab.
+------
+Research Solar Rails to be able to start building them.
+------
+Your clan can now build Solar Rails in the Orokin Lab.
+------
+HEALTH
+------
+MATERIALS GATHERED
+------
+GATHERING MATERIALS
+------
+UNTIL BUILT
+------
+BUILDING
+------
+RESEARCHING
+------
+COMPLETE!
+------
+READY FOR DEPLOYMENT
+------
+UNTIL DEPLOYED
+------
+TO DEPLOY
+------
+DESTROYED
+------
+NO AVAILABLE ACTIONS
+------
+Solar Rail - Deploying
+------
+This Solar Rail is currently being deployed to |PLANET|:|NODE|
+------
+Solar Rail - Deployed
+------
+This Solar Rail is deployed at |PLANET|:|NODE|
+------
+Solar Rail - Defending
+------
+This Solar Rail is currently being attacked at |PLANET|:|NODE|
+------
+Solar Rail - Attacking
+------
+This Solar Rail is currently attacking the Solar Rail deployed at |PLANET|:|NODE|
+------
+Rail Health
+------
+Solar Rail - Destroyed
+------
+This Solar Rail was destroyed at |PLANET|:|NODE| on |TIME|
+------
+LEARN ABOUT THE DARK SECTORS
+------
+CONTRIBUTE
+------
+RUSH BUILD
+------
+RUSH RESEARCH
+------
+BUILD SOLAR RAIL
+------
+GO TO |PLANET|-|NODE|
+------
+This action will take you to your dojo. Do you want to proceed?
+------
+This area can't be explored yet.
+A Solar Rail is required in order to travel here.
+------
+You can challenge this Solar Rail to gain control over this area.
+------
+You can challenge this Solar Rail once it has finished deploying.
+------
+CREDIT TRIBUTE
+------
+RESOURCE TRIBUTE
+------
+Public Resource Tribute
+------
+Clan Mate Resource Tribute
+------
+Alliance Member Resource Tribute
+------
+Clan Mate Credit Tribute
+------
+Alliance Member Credit Tribute
+------
+Public Credit Tribute
+------
+Custom Message
+------
+Supporter Bonus Per Mission
+------
+Maximum Supporters Paid
+------
+Total Budget
+------
+Vault Bank
+------
+Vault Alliance
+------
+Add Credits to Repair Reserve
+------
+Current Repair Reserve
+------
+Not enough credits in Vault.
+------
+You need to give a budget.
+------
+Battle Pay cannot be changed until your Budget runs out.
+------
+Tributes are disabled in conflict.
+------
+Tributes are locked for |TIMELEFT|.
+------
+RAIL DEPLOYMENT
+------
+RAIL INTEGRITY
+------
+|HOURS|:|MINUTES|:|SECONDS|
+------
+REMAINING TIME IN CONFLICT
+------
+These bonuses do not apply when this node is in conflict.
+------
+No battle pay is received when playing for your own |TEAM|.
+------
+no message
+------
+Has defeated |CLAN_NAME| on the conflict for |NODE_NAME|
+------
+Determining conflict winner. Please check back in a few minutes.
+------
+Determining...
+------
+VIEW HISTORY
+------
+CONFLICT HISTORY
+------
+Occupant
+------
+Date of Conflict (Duration)
+------
+Challenger
+------
+LAUNCH MISSION
+------
+RAIL NOT READY
+------
+PLAY FOR OCCUPANT
+------
+PLAY FOR CHALLENGER
+------
+ALLIANCE
+------
+Alliance
+------
+ALLIES
+------
+RAIL MANAGEMENT
+------
+RAIL INITIALIZATION
+------
+DEPLOY
+------
+LEX PRIME BARREL
+------
+LEX PRIME RECEIVER
+------
+HYDROID CHASSIS
+------
+HYDROID CHASSIS
+------
+HYDROID HELMET
+------
+HYDROID HELMET
+------
+HYDROID SYSTEMS
+------
+HYDROID SYSTEMS
+------
+CHOOSE SOLAR RAIL
+------
+OPEN SHUTTERS
+------
+CLOSE SHUTTERS
+------
+RESEARCH SOLAR RAIL
+------
+CONSTRUCT SOLAR RAIL
+------
+SOLAR RAIL (ALLIANCE)
+------
+MELEE COMBOS
+------
+Move
+------
+Button Combination
+------
+HOLD
+------
+PAUSE
+------
+(During Knee Slide)
+------
+(In Air)
+------
+PARRY
+------
+(While Wall-Running)
+------
+(Aiming at Downed Enemy)
+------
+Fusion |LEVEL| required
+------
++|VALUE|% CHANCE OF RESOURCE DROP
+------
++|VALUE|% RESOURCES FROM PICKUPS
+------
+CLAN LOG
+------
+You cannot enter your dojo while a mission lobby is active. Please exit the lobby and try again.
+------
+Switch Gun
 ------
 SocialOverlay_CloseFriendsTabBtn
 ------
@@ -16150,6 +17329,8 @@ Options_Game_Region
 Options_Display_Contrast
 ------
 Options_Audio_Enable_Voice
+------
+Options_DisplayCustomize_GeometryDetail
 ------
 NavBar_Offlinet):R
 ------
@@ -16228,6 +17409,14 @@ WarframeSEN_NoPlatinumTransfer
 Options_LockHudMapRotationoqy)
 ------
 CraftingComponent_RhinoPrimeHelmetName'`^~
+------
+SpecialEvent!+;4
+------
+Badlands_NotEnoughCreditsInVault:+nP
+------
+Badlands_ConflictHistoryfnly
+------
+LaunchMissionyD~ 
 ------
 1:00 AM EST
 ------
@@ -16989,6 +18178,20 @@ MIDDLE MASTER
 ------
 GRAND MASTER
 ------
+(grunts)
+------
+We tire of failure. Who put their faith in you Admiral.
+------
+You did. I have a life debt.
+------
+To be paid in Tenno blood.
+------
+I understand.
+------
+Do not awaken the vipers. Do not study them. Crush these eggs before they hatch. This we command.
+------
+My Queens... Hu rrhus okey. 
+------
 You are approaching the holding area. Careful, if the wardens detect you they will surely initiate the execution sequence.
 ------
 Execution sequence initiated. Get the hostage out of there before it's too late.
@@ -17386,6 +18589,118 @@ You are only delaying the inevitable. My Fomorians will be built. My ships will 
 We will build the cores faster than you can destroy them Tenno. Mark my words!
 ------
 You can not stop progress. All will be Grineer dominion.
+------
+Thank you Tenno. It should be a long time before we hear Vay Hek's ugly voice again. Now get to extraction, you have earned it.
+------
+(Death scream)
+------
+(Death scream)
+------
+(Pain)
+------
+(Pain)
+------
+(Pain)
+------
+(Pain)
+------
+(Pain)
+------
+This is too easy. Tell your Lotus to send more capable fighters next time.
+------
+You are not ready for this fight.
+------
+Tenno. What makes you think you are ready to fight Vay Hek?
+------
+The first Grineer who brings me the head of a Tenno will be permitted to wear its skull as a helmet.
+------
+Kill. Kill. Kill. Kill the Tenno scum.
+------
+Your Lotus is leading you to destruction.
+------
+You Tenno are such a waste of good violence.
+------
+Councillor Vay Hek rose to power by 'eliminating' his enemies on the Grineer council. He now has near complete control which makes him one of the most influential Grineer.
+------
+Vay Hek's plans for complete system domination make him too dangerous. You know what to do.
+------
+Our operatives tell us Vay Hek has undergone an expensive regime of combat enhancement. Expect the worst.
+------
+I knew this day would come. I've prepared, changed myself. I've made sacrifices.  Tenno, Are you ready for a sacrifice?
+------
+These criminals think they are commiting a justice.  Not in my court.
+------
+Why are these fools still breathing my air? This is unacceptable.
+------
+Must I do everything myself.
+------
+Now we finish this business. Once and for all.
+------
+Grineer Brothers. I've done my part, now clean up this mess.
+------
+I am too important for this nonsense. Finish them off. 
+------
+Do not think we are done here Tenno.
+------
+Nothing can stop the Grineer.  We are progress.
+------
+Tenno hate Grineer strength.  They want to tear down anything they are too weak to build for themselves.
+------
+Death! Death! Death! Death to the Tenno!
+------
+No mercy for Tenno.  No mercy for their Lotus.
+------
+Our Queens demand justice for your trespasses, Tenno.
+------
+The Tenno hate our superiority.  We will put them out of their jealous misery.
+------
+The Tenno are nothing but an obstacle on the path to victory. Crush this obstacle.
+------
+Tenno are the cancer of greatness. 
+------
+Tenno are tyrants, tearing down all who dare to stand tall. Only the Grineer can end Tenno tyranny.
+------
+These theives would deny us the spoils of our strength? Brothers, will you let them take what is rightfully yours?
+------
+These Tenno used to be ghosts of history. Let us make them ghosts once again.
+------
+Tenno are scavengers. Surviving on our scraps.
+------
+Thank you for your service, Brother.
+------
+Look what these Tenno made me do.
+------
+This one fullfills his duty with honor.
+------
+This one honors the Grineer with his sacrifice.
+------
+A sacrifice worthy of a warrior.
+------
+Crush them.
+------
+You. Hurt Tenno.
+------
+Now, take your glory Brother.
+------
+This is an honor.
+------
+Use this gift Brother.
+------
+This will make you see the light.
+------
+ I knew I could count on your support Tenno.
+------
+Finally, a use for these theives.
+------
+CO-OPERATE!
+------
+Betray!
+------
+Ahhh!!! Curse you Tenno. You got me!
+------
+There is only one truth in politics: evolve or die. I have evolved. You must die.
+------
+Ahhh!!! Engines failing... ah. Curse you, curse you Tenno. You got me. You got me! 
 ------
 Tenno, stand... something is happening. 
 ------
@@ -17814,8 +19129,8 @@ Notice how the shields will recharge.
 I will show you the Tenno fighting system. It has three forms. The first is your blade. A Tenno's melee weapon is always with them, always at the ready. 
 ------
 Cut down this target.
-Tap <MELEE> to quick strike. 
-Hold <MELEE> to charge your attacks.
+Hold <NEXT_INV> to draw or sheath your melee weapon. 
+Tap <MELEE> when you blade is drawn to strike.
 ------
 This display shows the clip size and the total ammo you have.
 ------
@@ -17838,8 +19153,8 @@ Your third and final form is your secondary weapon. Switch weapons now.
 Use <NEXT_INV> to switch weapons.
 ------
 Destroy this target with your blade.
-Tap <MELEE> to quick strike. 
-Hold <MELEE> to charge your attacks.
+Hold <NEXT_INV> to draw or sheath your melee weapon. 
+Tap <MELEE> when you blade is drawn to strike.
 ------
 A Tenno must use these forms in combination to destroy their enemies.
 ------
@@ -17973,6 +19288,10 @@ How well do you shoot under pressure? You must traverse this space before the ti
 A full frontal attack is not always the best option. Using your stealth abilities eliminate all enemies without being detected.
 ------
 This will be your hardest test yet. Defeat all incoming enemies.
+------
+Show me you are capable of fighting on multiple fronts. Capture and hold more points than the enemy to succeed.
+------
+Let's see how you work under pressure. Eliminate all enemies before the timer reaches zero. Melee strike the orbs to have extra seconds added to the clock.
 ------
 Tenno, you are but one against the hoard. Your survival depends on speed. Go.
 ------
@@ -18468,11 +19787,11 @@ Another job well executed.
 ------
 We are here to hijack the transport of a Fomorian Power core before it can be installed in the growing Fomorian fleet. 
 ------
-A Fomorian Core is being transported from the factory for installation. You are here to make sure that core never reaches a Formain class ship.
+A Fomorian Core is being transported from the factory for installation. You are here to make sure that core never reaches a Fomorian class ship.
 ------
 We need to take these cores into deep space for destruction. A core rupture here would turn this outpost into an uninhabitable wasteland.
 ------
-Left unchecked, Project Tethra will create hundreds of new Formain class ships. We plan to stop as many ships being built as possible by destroying their most critical components, the Fomorian Core.
+Left unchecked, Project Tethra will create hundreds of new Fomorian class ships. We plan to stop as many ships being built as possible by destroying their most critical components, the Fomorian Core.
 ------
 The Grineer are transporting the core by cargo tram. Find the control console to reroute the tram.
 ------
@@ -18511,8 +19830,6 @@ They are trying to lock you in. Get the bay doors open.
 Careful, the tram has drawn too much power and is about to discharge.
 ------
 Stand back Tenno, the tram is about to discharge excess power.
-------
-Watch out for a tram discharge.
 ------
 Watch out for mines on the track. The enemy will use everything they can to stop us.
 ------
@@ -19086,6 +20403,16 @@ Huh?
 ------
 Over there!
 ------
+Grunt
+------
+Grunt
+------
+Grunt
+------
+Grunt
+------
+Grunt
+------
 This is not over.
 ------
 Attack!
@@ -19232,6 +20559,16 @@ This one has your name on it.
 ------
 This will hurt.
 ------
+Grunt
+------
+Grunt
+------
+Grunt
+------
+Grunt
+------
+Grunt
+------
 Impressive, pity you must die.
 ------
 That will not happen again.
@@ -19368,6 +20705,16 @@ Huh?
 ------
 Over there!
 ------
+Grunt
+------
+Grunt
+------
+Grunt
+------
+Grunt
+------
+Grunt
+------
 Attack!
 ------
 Battle stance, kill.
@@ -19439,6 +20786,16 @@ What the...
 Security breach!
 ------
 Huh?
+------
+Grunt
+------
+Grunt
+------
+Grunt
+------
+Grunt
+------
+Grunt
 ------
 Corpus Ship PA: WARNING: Vessel is changing course, please stabilize yourself while the ship adjusts its flight pattern.
 ------
@@ -19644,6 +21001,10 @@ DSabotageDefendLong190LotusC>nx
 ------
 DSabDefendNoToxin170Lotus
 ------
+DCinIntro030VayHek%
+------
+DCinIntro020VayHekfNiu
+------
 LotusBossGrineerGeneralSargasRukSaturn<m+\
 ------
 Tutorial13
@@ -19655,10 +21016,6 @@ DSurvActivated010Lotus'
 BN
 ------
 DSurvFirstRaid010Lotus0wlq
-------
-DHijackDishcharge060Lotusw
-------
-ul
 ------
 DExtermGrinMid001Lotus3g|i
 ------
@@ -19710,7 +21067,7 @@ Convert |val|% of Damage on Health to Energy
 ------
 Increase Shield Resistant to Ice Levels by |val|%
 ------
-|val|% Chance to knock down melee attacker while blocking
+|val|% COUNTER CHANCE
 ------
 Reflect |val|% damage back at attacker while blocking
 ------
@@ -19731,6 +21088,8 @@ Store up to |val| Bonus Damage
 |val|% Accuracy
 ------
 |val|% Damage
+------
+|val|% Life Steal
 ------
 |val|% Charge Damage
 ------
