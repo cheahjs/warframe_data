@@ -1,4 +1,4 @@
-_zh(
+_zh)
 ------
 ACHIEVEMENTS
 ------
@@ -1142,7 +1142,7 @@ TEKNA BURST
 ------
 Semi-auto burst pistol.
 ------
-SPECTRE
+SPECTER
 ------
 Sawed of shotgun. Who needs more than two shots, anyway?
 ------
@@ -3513,17 +3513,17 @@ Dark Sectors
 ------
 Solar Rails are colossal Orokin devices that distort the Void and allow players to reach otherwise inaccessible regions of space, known as Dark Sectors. Clans and Alliances can deploy Solar Rails to control these areas on the Solar Map, collecting tributes from players who access areas within their territory.
 ------
-Once an Oracle has been built, Clans are able to construct Orokin Labs in their Dojos. Clan Warlords and Tacticians can research blueprints and construct Solar Rails from the terminals located inside the Orokin Lab. Small clans can unite to form Alliances, and are able to construct an Alliance Solar Rail. All clans within the Alliance may contribute toward the research and construction of the Solar Rail.
+Once and Oracle has been built, Clans are able to construct Orokin Labs in their Dojos. Clan Warlords and Tacticians can research blueprints and construct Solar Rails from the terminals located inside the Orokin Lab. Small clans can unite to form Alliances, and are able to construct an Alliance Solar Rail. All clans within the Alliance may contribute toward the research and construction of the Solar Rail.
 ------
-Researching a Solar Rail blueprint requires resource contributions from clan members. The resources required scales with the size of the Clan. Once research is complete, construction on the Solar Rail can begin. The resource requirements of a Solar Rail however, do not scale with the size of the clan, so it is imperative for small clans to form an Alliance to expedite the construction process.
+Reseaching a Solar Rail blueprint requires resource contributions from clan members. The resources required scales with the size of the Clan. Once research is complete, construction on the Solar Rail can begin. The resource requirements of a Solar Rail however, do not scale with the size of the clan, so it is imperative for small clans to form an Alliance to expidite the construction process.
 ------
-Once construction has been completed, clans and Alliances are able to deploy their Solar Rails on specified Dark Sectors of the Solar Map. The Clan or Alliance controlling the Solar Rail will be able to specify a tribute, collecting a percentage of any resources or credits collected by players using the Solar Rail.
+Once construction has been completed, clans and Alliances are able to deploy their Solar Rails on specified Dark Sectors of the Solar Map. The Clan or Alliance controlling the Solor Rail will be able to specify a tribute, collecting a percentage of any resources or credits collected by players using the Solar Rail.
 ------
-If another clan already controls a Dark Sector, ownership can be contested by deploying a Solar Rail into their territory. Deploying a second Solar Rail within close proximity of another causes interference with the Void-Disruption Technology used to reach the Dark Sectors. This prevents other Tenno from accessing these regions of space while both Solar Rails are active.
+If another clan already controls a Dark Sector, owner ship can be contested by deploying a Solar Rail into their territory. Deploying a second Solar Rail within close proximity of another, causes interference with the Void-Disruption Technology used to reach the Dark Sectors. This prevents other Tenno from accessing these regions of space while both Solar Rails are active.
 ------
 When conflict over Solar Rails controlled by rival Clans or Alliances arises, Tenno have the opportunity to fight for either side by undertaking missions. Missions played for one side cause damage to the opposing Solar Rail. Clans may offer Battle Pay to those who side with them to gain additional support.
 ------
-Once one Solar Rail has taken critical damage, it is destroyed. The clan that controls the surviving Solar Rail takes control of that Dark Sector, and begins collecting tribute from other Tenno who access it.
+Once one Solar Rail has taken critical damage, it is destroyed. The clan that controls the surviving Solar Rail takes control of that Dark Sector, and begin collecting tribute from other Tenno who access it.
 
 If both rails still exist after two days, the energy interference of the two conflicting rails increases exponentially. This causes a meltdown in the Solar Rail which sustained the most damage, leading to its destruction. The energy of the remaining Solar Rail then stabilizes, allowing all Tenno to access the Dark Sector again and resume paying tribute to the Clan or Alliance controlling the Solar Rail.
 ------
@@ -4541,13 +4541,27 @@ Alliance vault successfully distributed.
 ------
 Failed to distribute alliance vault.
 ------
-Only Warlords of the clan that created this Alliance can perform this action.
+Only Warlords of clans with the |NAME| permission can perform this action.
 ------
 The founder clan can only leave the Alliance when it's the only clan in it.
 ------
 Expel From Alliance
 ------
 Are you sure you want to remove |CLAN| from the Alliance?
+------
+View Permissions
+------
+|CLAN|s Permissions
+------
+Warlords of this clan can invite other clans to the Alliance.
+------
+Warlords of this clan can distribute Alliance resources.
+------
+Warlords of this clan can deploy Alliance Solar Rails.
+------
+|CLAN|s permissions successfully updated!
+------
+Could not update |CLAN|s permissions.
 ------
 INVITE CLAN
 ------
@@ -4642,6 +4656,8 @@ As the creator of this Alliance, your Clan may not leave the Alliance until all 
 Could not remove from Alliance at this time, please try again.
 ------
 Could not remove from Alliance.
+------
+Your Clan does not have permission to perform this Alliance operation.
 ------
 Edit_RanksConfirm.n
 C
@@ -8231,11 +8247,11 @@ DRONE GUARDIAN
 ------
 TENNO GUARDIAN
 ------
-|PLAYER_NAME| SPECTRE
+|PLAYER_NAME| SPECTER
 ------
 INITIATE
 ------
-TENNO SPECTRE
+TENNO SPECTER
 ------
 Attempts Left
 ------
@@ -12541,7 +12557,7 @@ Features earthen hues of brown, and dusky shades of blue and purple.
 ------
 TWT
 ------
-Grustrag Bolt Release
+GRUSTRAG BOLT RELEASE
 ------
 Safely disengages the Grustrag Bolt from a Warframe
 ------
@@ -12749,7 +12765,7 @@ DRAGON NIKANA
 ------
 The Dragon Nikana is forged from ancient Tenno steel. This is a master's weapon, only the most worthy of Tenno may wield it.
 ------
-The Nikana reintroduces a lost Tenno blade and with it another fragment of the old ways.
+The Nikana katana reintroduces a lost Tenno blade and with it another fragment of the old ways.
 ------
 UPDATE 13 MEGA PACK
 ------
@@ -13815,6 +13831,16 @@ OPERATION
 NEWS
 ------
 Expires in %s.
+------
+DARK SECTOR: |CLAN_NAME| DEPLOYING Solar Rail in |NODE_NAME| (|REGION_NAME|)
+------
+DARK SECTOR: |CLAN_NAME| DEPLOYED Solar Rail in |NODE_NAME| (|REGION_NAME|)
+------
+DARK SECTOR: |CLAN_NAME_ATTACKING| MOBILIZING against |CLAN_NAME| in |NODE_NAME| (|REGION_NAME|)
+------
+DARK SECTOR: |CLAN_NAME_ATTACKING| ATTACKING |CLAN_NAME| in |NODE_NAME| (|REGION_NAME|)
+------
+DARK SECTOR: |CLAN_NAME| DEFEATED |CLAN_NAME_ATTACKING| in |NODE_NAME| (|REGION_NAME|)
 ------
 ALERT
 ------
@@ -15932,6 +15958,8 @@ SECONDARY
 ------
 MELEE
 ------
+STANCE
+------
 SENTINEL
 ------
 CORES
@@ -17200,6 +17228,8 @@ You can challenge this Solar Rail to gain control over this area.
 ------
 You can challenge this Solar Rail once it has finished deploying.
 ------
+Repair to |PERCENT|% in |TIME|
+------
 CREDIT TRIBUTE
 ------
 RESOURCE TRIBUTE
@@ -17241,6 +17271,8 @@ Battle Pay cannot be changed until your Budget runs out.
 Tributes are disabled in conflict.
 ------
 Tributes are locked for |TIMELEFT|.
+------
+Deployed By: |NAME|
 ------
 RAIL DEPLOYMENT
 ------
@@ -17351,6 +17383,8 @@ CLAN LOG
 You cannot enter your dojo while a mission lobby is active. Please exit the lobby and try again.
 ------
 Switch Gun
+------
+You must equip a weapon of each type to start a rank up test! Go to Arsenal?
 ------
 SocialOverlay_CloseFriendsTabBtn
 ------
@@ -19885,7 +19919,7 @@ We are making progress. Stay sharp Tenno.
 ------
 So far so good. Keep moving the tram toward extraction.
 ------
-You have reached the midpoint. Disposing of these cores will be a massive blow to project Tethra.
+You have reached the midpoint. Disposing of these cores will be a massive blow to Vay Hek.
 ------
 You are making solid progress. Keep moving.
 ------
@@ -21322,3 +21356,45 @@ UPGRADE YOUR FOUNDERS PACKAGE!
 WP_Ash08Iz
 ------
 WP_FoundersPackc,E"
+------
+Welcome fellow Tenno. This is a sabotage mission. Damage |CLAN_NAME_ATTACKING|'s rail by destroying the nearby reactor.
+------
+Find and destroy the nearby reactor. Be on guard for Specters from clan |CLAN_NAME_ATTACKING|.
+------
+The reactor is our target. Destroy it and loosen clan |CLAN_NAME_ATTACKING|'s grip on this Dark Sector.
+------
+You are working for clan |CLAN_NAME_SUPPORTING|. Destroy the reactor and we will reward you for your efforts.
+------
+The Tenno of |CLAN_NAME_SUPPORTING| are grateful for your attacks on this rail.
+------
+You found the reactor, now destroy it to send a message to |CLAN_NAME_ATTACKING|: |NODE_NAME| does not belong to them for long.
+------
+There's the reactor, destroy it.
+------
+Target destroyed. Get to extraction |PLAYER_NAME|.
+------
+Mission accomplished. Thank you |PLAYER_NAME|. Now find extraction.
+------
+How dare you oppose |CLAN_NAME_ATTACKING|?! We will defend this Sector with everything we've got.
+------
+This betrayal will not go unanswered. This Dark Sector belongs to |CLAN_NAME_ATTACKING|!
+------
+You really think |CLAN_NAME_SUPPORTING| should own this Dark Sector?
+------
+Tenno or not, we will crush |CLAN_NAME_SUPPORTING| for opposing us here.
+------
+|CLAN_NAME_ATTACKING| will regret this agggression!
+------
+|CLAN_NAME_ATTACKING| will not forgot what your actions here today |PLAYER_NAME|.
+------
+You are wasting your time |PLAYER_NAME|. |NODE_NAME| belongs to |CLAN_NAME_ATTACKING|.
+------
+Know this. |CLAN_NAME_SUPPORTING| will never take |NODE_NAME| from |CLAN_NAME_ATTACKING|. This is our rail.
+------
+|CLAN_NAME_SUPPORTING| will remember this day. Thank you |PLAYER_NAME|.
+------
+Thank you for supporting |CLAN_NAME_SUPPORTING|. We must control this Dark Sector!
+------
+I see you're supporting us |PLAYER_NAME|. |CLAN_NAME_SUPPORTING| honors you.
+------
+We must defeat |CLAN_NAME_ATTACKING|. Thank you for siding with |CLAN_NAME_SUPPORTING|.
