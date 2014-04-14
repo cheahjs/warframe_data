@@ -12949,13 +12949,9 @@ Mirrored Spike
 ------
 Skyward Limb
 ------
-Skyward Limb
-------
 Battering Roots
 ------
 Crushing Reach
-------
-Planting Widow
 ------
 Planting Widow
 ------
@@ -13186,6 +13182,14 @@ SCYTHES
 WHIPS
 ------
 GLAIVES
+------
+SPRITE SHADE
+------
+Sprite skin for the Shade Sentinel.
+------
+[Placeholder] CHAIN LIGHTNING GUN
+------
+[Placeholder] Description of Chain Lightning Gun.
 ------
 MagPrimeDesc]CK;
 ------
@@ -17265,6 +17269,8 @@ Current Repair Reserve
 Not enough credits in Vault.
 ------
 You need to give a budget.
+------
+You need to give a repair budget.
 ------
 Battle Pay cannot be changed until your Budget runs out.
 ------
