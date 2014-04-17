@@ -1103,7 +1103,7 @@ Warframe Slot(/Lotus/StoreItems/Types/StoreItems/SlotItems/SuitSlotItem),SlotIte
 Weapon Slot(/Lotus/StoreItems/Types/StoreItems/SlotItems/WeaponSlotItem),SlotItems,NO,NO,?,?,
 Bastille(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerBastilleItem),FlavourItems,NO,NO,?,75,
 Daybreak(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerDaybreakItemA),FlavourItems,YES,NO,?,75,
-Easter(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerEasterItemA),FlavourItems,NO,NO,1,?,
+Easter(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerEasterItemA),FlavourItems,YES,NO,1,?,
 Fire(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerFireItemA),FlavourItems,YES,NO,?,75,
 Grineer(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerGrineerItemA),FlavourItems,YES,NO,?,75,
 Halloween(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerHalloweenItemA),FlavourItems,NO,NO,1,?,"Fri Nov 01 08:00:00 2013"
@@ -1115,7 +1115,7 @@ Storm(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerItemC),F
 Color Picker D(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerItemD),FlavourItems,NO,NO,?,75,
 Psiv(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerPS4ItemA),FlavourItems,NO,NO,?,75,
 Red/White/Blue(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerRWBItem),FlavourItems,NO,NO,?,75,
-Shamrock(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerShamrockItem),FlavourItems,YES,NO,1000,?,
+Shamrock(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerShamrockItem),FlavourItems,NO,NO,1000,?,
 Twilight(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerTwilightItemA),FlavourItems,YES,NO,?,75,
 Valentine(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerValItemA),FlavourItems,NO,NO,1,?,
 Smoke Colors(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/NinjaColourPickerItem),FlavourItems,YES,NO,?,75,

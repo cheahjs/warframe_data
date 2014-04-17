@@ -1,4 +1,4 @@
-_zh)
+_zh*
 ------
 ACHIEVEMENTS
 ------
@@ -6166,6 +6166,8 @@ TOXIC
 ------
 Vulnerable to Toxic damage
 ------
+PARASITIC
+------
 ProsecutorLeaderFireDesc6aiD
 ------
 VOID
@@ -11088,7 +11090,7 @@ FEMALE HELMET PACK
 ------
 A series 2 helmet for every single one of your male Warframes!
 ------
-A series 2 helmet for every single one of your female Warframes!
+A series 2 helmet for Banshee, Ember, Nyx, Mag, Saryn, Trinity and Nova!
 ------
 MECH HEAD SENTINEL MASK
 ------
@@ -12933,108 +12935,6 @@ Fanning, multi-hit strikes.
 ------
 Crossing Snakes
 ------
-Raking Flesh
-------
-Winding Claws
-------
-East to West
-------
-Northern Coil
-------
-Trimming Flowers
-------
-Red Soil
-------
-Mirrored Spike
-------
-Skyward Limb
-------
-Battering Roots
-------
-Crushing Reach
-------
-Planting Widow
-------
-Guiding Plank
-------
-Wide Dispatch
-------
-Battered Thread
-------
-Rising Falls
-------
-Gaining Humility
-------
-Rising Wind
-------
-Trailing Doom
-------
-Launching Spring
-------
-One Point
-------
-Through Strike
-------
-Roaring Drums
-------
-Quaking Touch
-------
-Echoing Hands
-------
-Parting Edge
-------
-Striking Gale
-------
-Splitting Brush
-------
-Scorpion Fall
-------
-Fanning Sting
-------
-Relentless Point
-------
-Lashing Forward
-------
-Cutting Arches
-------
-Life Eater
-------
-Reclaimation
-------
-Abyssal Automaton
-------
-Hell's Wave
-------
-Mountain's Chisel
-------
-Flaying Home
-------
-Tunneling Spike
-------
-Many Tears
-------
-Shadow Wing
-------
-Skull Splitter
-------
-Landing Dragon
-------
-Crowd Fall
-------
-Broken Bull
-------
-Ruin
-------
-Silver Reach
-------
-Nemesis
-------
-Pirouette
-------
-Auger
-------
-Final Word
-------
 Multi-angle strikes and deadly thrust attacks.
 ------
 Sinking Talon
@@ -13073,23 +12973,7 @@ Life Strike
 ------
 Life Strike
 ------
-Wings and Beak
-------
-Taking Flight
-------
 Shatterfall
-------
-Spiral Cut
-------
-Coiling Impale
-------
-Twisting Flurry
-------
-Crimson Orbit
-------
-Sky Doom
-------
-Weightless Steel
 ------
 PSIV
 ------
@@ -13120,40 +13004,6 @@ An profile icon depicting Triton Hydroid on a dark background.
 HYDROID PROFILE ICON PACK
 ------
 Contains four variations of Hydroid and Triton Hydroid profile icons.
-------
-Rising Thunder
-------
-Falling Rock
-------
-Tidal Force
-------
-Shattered Village
-------
-Windless Cuts
-------
-Breathless Lunge
-------
-Beyond Reproach
-------
-Hook And Eye
-------
-Parting Knee
-------
-Setting Sun
-------
-Guiding Wire
-------
-Resting Place
-------
-Buzzing Sting
-------
-Sparking Torture
-------
-Guided Claw
-------
-Resounding Fear
-------
-Tumbling King
 ------
 AXES
 ------
@@ -13190,6 +13040,12 @@ Sprite skin for the Shade Sentinel.
 [Placeholder] CHAIN LIGHTNING GUN
 ------
 [Placeholder] Description of Chain Lightning Gun.
+------
+BOW
+------
+CARBUNCLE DETHCUBE
+------
+Carbuncle skin for the Dethcube Sentinel.
 ------
 MagPrimeDesc]CK;
 ------
@@ -13335,12 +13191,6 @@ DazzleCamoDetronName_n
 DazzleCamoLankaName$d)a
 ------
 HydroidDefaultHelmetCOEQ
-------
-DualSwordGroundHitsDefault9tp/
-------
-iz
-------
-AxeEquippedAttacksDefaultcS
 ------
 ParrotWingsName}f2#
 ------
@@ -13889,6 +13739,10 @@ LOGIN
 https://warframe.com/signup
 ------
 An updated version of Warframe is available! Please exit and run the launcher.
+------
+You will automatically be logged out in |MINUTES| minutes.
+------
+You have been automatically logged out.
 ------
 An updated version of Warframe is now available. Missions cannot be entered until the update is installed. Please exit and run the launcher.
 ------
@@ -16764,6 +16618,10 @@ Personal, Clan and World statistics.
 ------
 Messages from the void.
 ------
+View members, DarkSector info, and Clan Management.
+------
+View friends and recently met players.
+------
 All the knowledge you've acquired.
 ------
 OPTIONS
@@ -17179,7 +17037,7 @@ RESEARCHING
 ------
 COMPLETE!
 ------
-READY FOR DEPLOYMENT
+UNDEPLOYED RAILS
 ------
 UNTIL DEPLOYED
 ------
@@ -17391,6 +17249,8 @@ You cannot enter your dojo while a mission lobby is active. Please exit the lobb
 Switch Gun
 ------
 You must equip a weapon of each type to start a rank up test! Go to Arsenal?
+------
+Alliance invitation successfully sent to |CLAN_NAME|!
 ------
 SocialOverlay_CloseFriendsTabBtn
 ------
@@ -18163,6 +18023,8 @@ shitting
 shittings
 ------
 shitty
+------
+shithouse
 ------
 slag
 ------
@@ -21369,7 +21231,7 @@ Find and destroy the nearby reactor. Be on guard for Specters from clan |CLAN_NA
 ------
 The reactor is our target. Destroy it and loosen clan |CLAN_NAME_ATTACKING|'s grip on this Dark Sector.
 ------
-You are working for clan |CLAN_NAME_SUPPORTING|. Destroy the reactor and we will reward you for your efforts.
+You are working for |CLAN_NAME_SUPPORTING|. Destroy the reactor and we will reward you for your efforts.
 ------
 The Tenno of |CLAN_NAME_SUPPORTING| are grateful for your attacks on this rail.
 ------
@@ -21389,11 +21251,11 @@ You really think |CLAN_NAME_SUPPORTING| should own this Dark Sector?
 ------
 Tenno or not, we will crush |CLAN_NAME_SUPPORTING| for opposing us here.
 ------
-|CLAN_NAME_ATTACKING| will regret this agggression!
+|CLAN_NAME_SUPPORTING| will regret this agggression!
 ------
-|CLAN_NAME_ATTACKING| will not forgot what your actions here today |PLAYER_NAME|.
+|CLAN_NAME_ATTACKING| will not forget what your actions here today |PLAYER_NAME|.
 ------
-You are wasting your time |PLAYER_NAME|. |NODE_NAME| belongs to |CLAN_NAME_ATTACKING|.
+You are wasting your time |PLAYER_NAME|. |NODE_NAME| belongs to |CLAN_NAME_ATTACKING|!
 ------
 Know this. |CLAN_NAME_SUPPORTING| will never take |NODE_NAME| from |CLAN_NAME_ATTACKING|. This is our rail.
 ------
@@ -21404,3 +21266,323 @@ Thank you for supporting |CLAN_NAME_SUPPORTING|. We must control this Dark Secto
 I see you're supporting us |PLAYER_NAME|. |CLAN_NAME_SUPPORTING| honors you.
 ------
 We must defeat |CLAN_NAME_ATTACKING|. Thank you for siding with |CLAN_NAME_SUPPORTING|.
+------
+Raking Flesh
+------
+Winding Claws
+------
+East to West
+------
+Northern Coil
+------
+Trimming Flowers
+------
+Red Soil
+------
+Mirrored Spike
+------
+Skyward Limb
+------
+Battering Roots
+------
+Crushing Reach
+------
+Planting Widow
+------
+Guiding Plank
+------
+Wide Dispatch
+------
+Battered Thread
+------
+Rising Falls
+------
+Gaining Humility
+------
+Rising Wind
+------
+Trailing Doom
+------
+Launching Spring
+------
+One Point
+------
+Through Strike
+------
+Roaring Drums
+------
+Quaking Touch
+------
+Echoing Hands
+------
+Parting Edge
+------
+Striking Gale
+------
+Splitting Brush
+------
+Scorpion Fall
+------
+Fanning Sting
+------
+Relentless Point
+------
+Lashing Forward
+------
+Cutting Arches
+------
+Life Eater
+------
+Reclaimation
+------
+Abyssal Automaton
+------
+Hell's Wave
+------
+Mountain's Chisel
+------
+Flaying Home
+------
+Tunneling Spike
+------
+Many Tears
+------
+Shadow Wing
+------
+Skull Splitter
+------
+Landing Dragon
+------
+Crowd Fall
+------
+Broken Bull
+------
+Ruin
+------
+Silver Reach
+------
+Nemesis
+------
+Pirouette
+------
+Auger
+------
+Final Word
+------
+Wings and Beak
+------
+Taking Flight
+------
+Spiral Cut
+------
+Coiling Impale
+------
+Twisting Flurry
+------
+Crimson Orbit
+------
+Sky Doom
+------
+Weightless Steel
+------
+Rising Thunder
+------
+Falling Rock
+------
+Tidal Force
+------
+Shattered Village
+------
+Windless Cuts
+------
+Breathless Lunge
+------
+Beyond Reproach
+------
+Hook And Eye
+------
+Parting Knee
+------
+Setting Sun
+------
+Guiding Wire
+------
+Resting Place
+------
+Buzzing Sting
+------
+Sparking Torture
+------
+Guided Claw
+------
+Resounding Fear
+------
+Tumbling King
+------
+Lashing Tempest
+------
+Arcing Fang
+------
+Cleaving Strike
+------
+Hysteria
+------
+Butterfly Slash
+------
+Viper's Bite
+------
+Twin Bite
+------
+Rising Lion
+------
+Flash Flurry
+------
+Evisceration
+------
+Flurry of Claws
+------
+Final Strike
+------
+Lion's Roar
+------
+Jaguar Strike
+------
+Bestial Ravager
+------
+Lurking Cougar
+------
+Lacerating Leap
+------
+Parting Mist
+------
+Flowing River
+------
+Hidden Meaning
+------
+Hidden Meaning
+------
+Falling Star
+------
+Returning Edge
+------
+Quaking Earth
+------
+Roaring Cyclone
+------
+Resonating Arc
+------
+Surging Force
+------
+Cresting Surf
+------
+Crashing Wave
+------
+Rippling Current
+------
+Flowing River
+------
+Howling Gale
+------
+Drifting Steel
+------
+Fatal Breeze
+------
+Slashing Wind
+------
+Lethal Gust
+------
+Violent Tempest
+------
+Deadly Circle
+------
+Cyclone Strike
+------
+Burning Desire
+------
+Fanning Flame
+------
+Rushing Fire
+------
+Flaming Tongue
+------
+Bright Blaze
+------
+Inferno
+------
+Sudden Spark
+------
+Roling Blast
+------
+Silent Repose
+------
+Deep Resentment
+------
+Brooding Thoughts
+------
+The Way
+------
+Falling Branch
+------
+Rustling Leaves
+------
+Sudden Silence
+------
+Calculated Strike
+------
+Rolling Thunder
+------
+Justified Punishment
+------
+Cerberus Fang
+------
+Sanguine Storm
+------
+Crimson Dance
+------
+Pincer Strike
+------
+Savage Tiger
+------
+Lashing Panther
+------
+Cheetah's Guile
+------
+Swooping Talons
+------
+Three Lessons
+------
+Last Lesson
+------
+Falling Star
+------
+Rolling Wave
+------
+Rapid Current
+------
+Coming Tide
+------
+Storm's Eye
+------
+Rise From Ashes
+------
+Dying Light
+------
+Fading Hope
+------
+Perfect Cut
+------
+Death's Mark
+------
+Double Slash
+------
+Whistling Wind
+------
+DualSwordGroundHitsDefault9tp/
+------
+iz
+------
+AxeEquippedAttacksDefaultcS
+------
+DualDaggerSlideDefaults=SSO
+------
+FistQuickDefaults[^T<
