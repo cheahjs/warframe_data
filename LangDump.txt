@@ -3513,13 +3513,13 @@ Dark Sectors
 ------
 Solar Rails are colossal Orokin devices that distort the Void and allow players to reach otherwise inaccessible regions of space, known as Dark Sectors. Clans and Alliances can deploy Solar Rails to control these areas on the Solar Map, collecting tributes from players who access areas within their territory.
 ------
-Once and Oracle has been built, Clans are able to construct Orokin Labs in their Dojos. Clan Warlords and Tacticians can research blueprints and construct Solar Rails from the terminals located inside the Orokin Lab. Small clans can unite to form Alliances, and are able to construct an Alliance Solar Rail. All clans within the Alliance may contribute toward the research and construction of the Solar Rail.
+Once an Oracle has been built, Clans are able to construct Orokin Labs in their Dojos. Clan Warlords and Tacticians can research blueprints and construct Solar Rails from the terminals located inside the Orokin Lab. Small clans can unite to form Alliances, and are able to construct an Alliance Solar Rail. All clans within the Alliance may contribute toward the research and construction of the Solar Rail.
 ------
-Reseaching a Solar Rail blueprint requires resource contributions from clan members. The resources required scales with the size of the Clan. Once research is complete, construction on the Solar Rail can begin. The resource requirements of a Solar Rail however, do not scale with the size of the clan, so it is imperative for small clans to form an Alliance to expidite the construction process.
+Researching a Solar Rail blueprint requires resource contributions from clan members. The resources required scales with the size of the Clan. Once research is complete, construction on the Solar Rail can begin. The resource requirements of a Solar Rail however, do not scale with the size of the clan, so it is imperative for small clans to form an Alliance to expidite the construction process.
 ------
-Once construction has been completed, clans and Alliances are able to deploy their Solar Rails on specified Dark Sectors of the Solar Map. The Clan or Alliance controlling the Solor Rail will be able to specify a tribute, collecting a percentage of any resources or credits collected by players using the Solar Rail.
+Once construction has been completed, clans and Alliances are able to deploy their Solar Rails on specified Dark Sectors of the Solar Map. The Clan or Alliance controlling the Solar Rail will be able to specify a tribute, collecting a percentage of any resources or credits collected by players using the Solar Rail.
 ------
-If another clan already controls a Dark Sector, owner ship can be contested by deploying a Solar Rail into their territory. Deploying a second Solar Rail within close proximity of another, causes interference with the Void-Disruption Technology used to reach the Dark Sectors. This prevents other Tenno from accessing these regions of space while both Solar Rails are active.
+If another clan already controls a Dark Sector, owner ship can be contested by deploying a Solar Rail into their territory. Deploying a second Solar Rail within close proximity of another causes interference with the Void-Disruption Technology used to reach the Dark Sectors. This prevents other Tenno from accessing these regions of space while both Solar Rails are active.
 ------
 When conflict over Solar Rails controlled by rival Clans or Alliances arises, Tenno have the opportunity to fight for either side by undertaking missions. Missions played for one side cause damage to the opposing Solar Rail. Clans may offer Battle Pay to those who side with them to gain additional support.
 ------
@@ -4406,6 +4406,38 @@ Completed. Affinity +|AFFINITY|
 ------
 |AMOUNT| Other Challenges
 ------
+Alchemist 
+------
+Complete 10 successful Mod Transmutes 
+------
+The Sword Alone 
+------
+Complete 10 missions without any primary or secondary weapons equipped. 
+------
+Without a Hitch 
+------
+Complete a Hijack mission without allowing the payload to travel backwards. 
+------
+Mercenary 
+------
+Earn 100,000 credits in Battle Pay. 
+------
+Dark Sectors 
+------
+Complete 5 missions for a Clan that then wins a contested Dark Sector. 
+------
+Shield Saver 
+------
+Deflect 1,000 projectiles with your melee weapon. 
+------
+No Witnesses 
+------
+Successfully perform 50 stealth kills 
+------
+Control Freak 
+------
+Complete an Interception node and extract with the enemy capturing 40% or less territory. 
+------
 Challenge_Win1000Missions_Descriptionc!?2
 ------
 Challenge_KillPhorid_DescriptionMy*k
@@ -4601,7 +4633,7 @@ LEARN ABOUT CLANS
 ------
 DOJO
 ------
-Enter Clan Dojo
+ENTER CLAN DOJO
 ------
 Request for clan invite
 ------
@@ -6070,6 +6102,8 @@ Contribution successful!
 The contribution failed.
 ------
 You may contribute to your Clan's vault only from within your Clan's Dojo.
+------
+Undeployed Rails: |COUNT|
 ------
 Trans_Dojo3Intro
 ------
@@ -11476,11 +11510,11 @@ VOLT AGILE ANIMATION SET
 ------
 The Agile Animation Set for Volt.
 ------
-NEKROS NOBLE ANIMATIONS
+NEKROS NOBLE ANIMATION SET
 ------
 The Noble Animation Set for Nekros.
 ------
-NEKROS AGILE ANIMATIONS
+NEKROS AGILE ANIMATION SET
 ------
 The Agile Animation Set for Nekros.
 ------
@@ -12507,7 +12541,9 @@ A uniquely-styled alternate helmet for Zephyr.
 ------
 U12 COSMETIC PACK
 ------
-Find all the latest cosmetic accessories bundled in this pack! It contains Immortal Skins for Vauban, Saryn, Volt and Nova Warframes, Cierzo Zephyr Helmet and Oryx Oberon Helmet.
+Find all the latest cosmetic accessories for Update 12, bundled in this pack! 
+
+It contains Immortal Skins for Vauban, Saryn, Volt and Nova Warframes, Cierzo Zephyr Helmet and Oryx Oberon Helmet.
 ------
 GRINLOK
 ------
@@ -12935,6 +12971,108 @@ Fanning, multi-hit strikes.
 ------
 Crossing Snakes
 ------
+Raking Flesh
+------
+Winding Claws
+------
+East to West
+------
+Northern Coil
+------
+Trimming Flowers
+------
+Red Soil
+------
+Mirrored Spike
+------
+Skyward Limb
+------
+Battering Roots
+------
+Crushing Reach
+------
+Planting Widow
+------
+Guiding Plank
+------
+Wide Dispatch
+------
+Battered Thread
+------
+Rising Falls
+------
+Gaining Humility
+------
+Rising Wind
+------
+Trailing Doom
+------
+Launching Spring
+------
+One Point
+------
+Through Strike
+------
+Roaring Drums
+------
+Quaking Touch
+------
+Echoing Hands
+------
+Parting Edge
+------
+Striking Gale
+------
+Splitting Brush
+------
+Scorpion Fall
+------
+Fanning Sting
+------
+Relentless Point
+------
+Lashing Forward
+------
+Cutting Arches
+------
+Life Eater
+------
+Reclaimation
+------
+Abyssal Automaton
+------
+Hell's Wave
+------
+Mountain's Chisel
+------
+Flaying Home
+------
+Tunneling Spike
+------
+Many Tears
+------
+Shadow Wing
+------
+Skull Splitter
+------
+Landing Dragon
+------
+Crowd Fall
+------
+Broken Bull
+------
+Ruin
+------
+Silver Reach
+------
+Nemesis
+------
+Pirouette
+------
+Auger
+------
+Final Word
+------
 Multi-angle strikes and deadly thrust attacks.
 ------
 Sinking Talon
@@ -12974,6 +13112,18 @@ Life Strike
 Life Strike
 ------
 Shatterfall
+------
+Spiral Cut
+------
+Coiling Impale
+------
+Twisting Flurry
+------
+Crimson Orbit
+------
+Sky Doom
+------
+Weightless Steel
 ------
 PSIV
 ------
@@ -13035,17 +13185,21 @@ GLAIVES
 ------
 SPRITE SHADE
 ------
-Sprite skin for the Shade Sentinel.
+The Sprite skin customization for the Shade Sentinel.
 ------
-[Placeholder] CHAIN LIGHTNING GUN
+AMPREX
 ------
-[Placeholder] Description of Chain Lightning Gun.
+The Amprex rifle fires a continuous beam of high voltage electricity that arcs among nearby enemies. This weapon excels at crowd control.
 ------
 BOW
 ------
-CARBUNCLE DETHCUBE
+CARABUS DETHCUBE
 ------
-Carbuncle skin for the Dethcube Sentinel.
+The Carabus skin customization for the Dethcube Sentinel.
+------
+[Placeholder] TENNO CLAWS
+------
+[Placeholder] Description of Tenno Claws
 ------
 MagPrimeDesc]CK;
 ------
@@ -13191,6 +13345,12 @@ DazzleCamoDetronName_n
 DazzleCamoLankaName$d)a
 ------
 HydroidDefaultHelmetCOEQ
+------
+DualSwordGroundHitsDefault9tp/
+------
+iz
+------
+AxeEquippedAttacksDefaultcS
 ------
 ParrotWingsName}f2#
 ------
@@ -13465,6 +13625,10 @@ GF_ENTER_WARFRAME_CREDENTAILSY}=F
 UNUSABLE_INSTALL_FOLDER
 ------
 You are currently hosting a game session. Please exit it before joining another session.
+------
+INVITE PLAYER
+------
+PLAYER NAME
 ------
 CONTACTS
 ------
@@ -14491,6 +14655,8 @@ Anti-aliasing
 Show HUD
 ------
 Character Shadows
+------
+Constant Weapon Trail
 ------
 Global Notifications in Chat
 ------
@@ -16354,7 +16520,13 @@ MASK
 ------
 TAIL
 ------
-WINGS
+LEFT ARM
+------
+RIGHT ARM
+------
+LEFT WING
+------
+RIGHT WING
 ------
 BADGE
 ------
@@ -16538,6 +16710,10 @@ CONTROLLER
 ------
 POWER ACTIVATION
 ------
+Touch Screen Swipe Movements
+------
+Rear Touch Pad
+------
 STICK CONFIGURATION
 ------
 Use Touch Pad
@@ -16634,7 +16810,7 @@ Test your skills to reach the next rank.
 ------
 STAR CHART
 ------
-Explore the stars.
+Defend the solar system
 ------
 WORLD STATE
 ------
@@ -17071,6 +17247,8 @@ This Solar Rail was destroyed at |PLANET|:|NODE| on |TIME|
 ------
 LEARN ABOUT THE DARK SECTORS
 ------
+Dark Sectors tutorial not available in-game.
+------
 CONTRIBUTE
 ------
 RUSH BUILD
@@ -17087,6 +17265,8 @@ This area can't be explored yet.
 A Solar Rail is required in order to travel here.
 ------
 You can challenge this Solar Rail to gain control over this area.
+------
+Honor Armistice prevents you from attacking this location. Armistice ends in |CONFLICT_TIME_LEFT|.
 ------
 You can challenge this Solar Rail once it has finished deploying.
 ------
@@ -17215,6 +17395,8 @@ RESEARCH SOLAR RAIL
 CONSTRUCT SOLAR RAIL
 ------
 SOLAR RAIL (ALLIANCE)
+------
+COMBOS
 ------
 MELEE COMBOS
 ------
@@ -20233,6 +20415,26 @@ Alad V sees the power of the Tenno and thinks he can take it for himself. That p
 ------
 If Alad V is victorious today he will dissect your Warframe and use the pieces to build more of his 'pets'. You must not let this happen.
 ------
+I am detecting a Prosecutor. Get ready for a tough fight.
+------
+Tenno. Get ready. A Prosecutor is approaching.
+------
+Use caution. I am picking up traces of Prosecutor shield auras in your vicinity. 
+------
+That Prosecutor shield aura has to be vulnerable to something. You need to figure out what that is.
+------
+The aura from these Prosecutors is blocking most damage types. Throw everything you've got at him, something has to get through.
+------
+The Prosecutors vulnerabilities appear variable, your squad will need to come to battle ready to break any type of defense.
+------
+My scans show that the Prosecutor shield aura may be vulnerable to some elemental damage but I am having difficulty discerning specifics.
+------
+Prosecutor down. Stay alert, there could be more ahead.
+------
+Good work. You have proven the Prosecutors are not invincible.
+------
+Prosecutor eliminated. Watch out for more.
+------
 Attack!
 ------
 Attack!
@@ -20991,7 +21193,7 @@ DApproachNeutral100SargasRuk]uWz
 ------
 |val|% Bleedout Reduction
 ------
-|val|% Item Drop Chance
+|val|% Rare Item Drop Chance On Death
 ------
 |val|% chance to unlock locked lockers
 ------
@@ -21251,11 +21453,11 @@ You really think |CLAN_NAME_SUPPORTING| should own this Dark Sector?
 ------
 Tenno or not, we will crush |CLAN_NAME_SUPPORTING| for opposing us here.
 ------
-|CLAN_NAME_SUPPORTING| will regret this agggression!
+|CLAN_NAME_SUPPORTING| will regret this aggression!
 ------
-|CLAN_NAME_ATTACKING| will not forget what your actions here today |PLAYER_NAME|.
+|CLAN_NAME_ATTACKING| will not forgot what your actions here today |PLAYER_NAME|.
 ------
-You are wasting your time |PLAYER_NAME|. |NODE_NAME| belongs to |CLAN_NAME_ATTACKING|!
+You are wasting your time |PLAYER_NAME|. |NODE_NAME| belongs to |CLAN_NAME_ATTACKING|.
 ------
 Know this. |CLAN_NAME_SUPPORTING| will never take |NODE_NAME| from |CLAN_NAME_ATTACKING|. This is our rail.
 ------
