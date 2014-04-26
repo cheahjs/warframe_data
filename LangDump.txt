@@ -4567,7 +4567,7 @@ Are you sure you want to leave '|ALLIANCE|'?
 ------
 DISTRIBUTE VAULT RESOURCES
 ------
-A Clan's share is calculated based on its non-pending members compared to the size of the Alliance. The Alliance Vault is also divvied automatically before a new Clan joins the Alliance, and before a Clan leaves the Alliance. Are you sure you want to divvy the Alliance Vault to each of the Clans in the Alliance?
+A Clan's share is calculated based on its non-pending members compared to the size of the Alliance. Are you sure you want to divvy the Alliance Vault to each of the Clans in the Alliance?
 ------
 Alliance vault successfully distributed.
 ------
@@ -6091,11 +6091,19 @@ Contribute credits directly to your Clan or Alliance vault
 ------
 Would you like to contribute to your Clan's Vault or your Alliance's Vault?
 ------
+Would you like to contribute funds from your personal reserve, or from the Clan Vault?
+------
 |VAULT_NAME| VAULT <CREDITS> |CREDS|
 ------
 Contribute <CREDITS> Credits to your |VAULT_NAME| Vault
 ------
 Are you sure you want to contribute |AMOUNT| <CREDITS> Credits to your |VAULT_NAME| Vault? Direct Vault contributions are NEVER refunded!
+------
+This contribution is coming from your |SOURCE|.
+------
+PERSONAL RESERVE
+------
+CLAN VAULT
 ------
 Contribution successful!
 ------
@@ -13201,6 +13209,10 @@ The Carabus skin customization for the Dethcube Sentinel.
 ------
 [Placeholder] Description of Tenno Claws
 ------
+Decisive Judgement
+------
+Fierce, double-handed strikes.
+------
 MagPrimeDesc]CK;
 ------
 BurstRifleNames(k%
@@ -15587,6 +15599,8 @@ Use
 ------
 Roll
 ------
+Quick Melee
+------
 Melee Attack
 ------
 Melee Block
@@ -17248,6 +17262,10 @@ This Solar Rail was destroyed at |PLANET|:|NODE| on |TIME|
 LEARN ABOUT THE DARK SECTORS
 ------
 Dark Sectors tutorial not available in-game.
+------
+Cannot enter dojo if you are already in-game.
+------
+Cannot view Starchart while in-game.
 ------
 CONTRIBUTE
 ------
@@ -21778,6 +21796,20 @@ Death's Mark
 Double Slash
 ------
 Whistling Wind
+------
+Final Verdict
+------
+Consent Decree
+------
+Swift Retribution
+------
+Resolute Flurry
+------
+Eternal Nocturne
+------
+Autumn Leaf
+------
+Mercury Vortex
 ------
 DualSwordGroundHitsDefault9tp/
 ------
