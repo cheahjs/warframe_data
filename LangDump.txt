@@ -3181,6 +3181,14 @@ The Basics
 ------
 <LOOK_X>
 ------
+<PRE_RUN>
+------
+<TOGGLE_RUN>
+------
+<PRE_RUN>
+------
+<PRE_CROUCH>
+------
 DENY YOUR ENEMY
 
 Move and strafe {MOVEMENT_CONTROLS}
@@ -3189,7 +3197,7 @@ Camera and direction is controlled with {CAMERA_CONTROLS}
 More advanced moves drain Stamina. Stamina regenerates.
 Jump using <JUMP>
 
-Hold <PRE_RUN> to sprint - Tap <PRE_RUN> to dodge and reduce the damage you take
+Hold {SPRINT_CONTROLS} to sprint - Tap {DODGE_CONTROLS} to dodge and reduce the damage you take
 ------
 GUIDE YOUR STRIKES
 
@@ -3204,7 +3212,7 @@ Tap <MELEE> while you have a firearm equipped to strike out with a quick attack 
 
 Hold <NEXT_INV> to holster your current weapon, and draw your melee weapon.
 
-You will then be able to unleash devastating combos by tapping <MELEE> when you have a Stance Mod equipped.
+You will then be able to unleash devastating combos by tapping <MELEE_SWING> when you have a Stance Mod equipped.
 
 You can switch back to your firearms by holding <NEXT_INV>
 ------
@@ -3238,15 +3246,15 @@ Become airborne with <JUMP> to open up new attack possibilities. You can aim and
 
 Mobility opens up new melee combos. Tap <MELEE> after jumping to ground strike.
 
-Perform a quick flip from a sprint with <PRE_RUN> and tapping <JUMP>.
+Perform a quick flip from a sprint with {SPRINT_CONTROLS} and tapping <JUMP>.
 
-Advanced lateral dodges can be done while aiming with <AIM_WEAPON>: tap <PRE_RUN> to dodge in the direction of your movement.
+Advanced lateral dodges can be done while aiming with <AIM_WEAPON>: tap {DODGE_CONTROLS} to dodge in the direction of your movement.
 ------
 ATTACK FROM EVERY ANGLE
 
 Crouch with <PRE_CROUCH>
 
-To slide - sprint for a moment with <PRE_RUN>, then release and hold <PRE_CROUCH>
+To slide - sprint for a moment with <TOGGLE_RUN>, then release and hold <PRE_CROUCH>
 
 You are harder to hit from this angle and still free to attack with your weapons!
 ------
@@ -3261,7 +3269,7 @@ You are harder to hit from this angle and still free to attack with your weapons
 COMBINE FORMS
 
 Strike with your melee weapon during a slide to unleash a devastating spin attack!
-   <PRE_RUN> ... <PRE_CROUCH> ... <MELEE>
+   <TOGGLE_RUN> ... <PRE_CROUCH> ... <MELEE>
 
 All of your movement states allow unrestricted freedom to flow into a full attack. An experienced Tenno can run, slide, leap and ground strike in a single, fluid motion.
 ------
@@ -3515,7 +3523,7 @@ Solar Rails are colossal Orokin devices that distort the Void and allow players 
 ------
 Once an Oracle has been built, Clans are able to construct Orokin Labs in their Dojos. Clan Warlords and Tacticians can research blueprints and construct Solar Rails from the terminals located inside the Orokin Lab. Small clans can unite to form Alliances, and are able to construct an Alliance Solar Rail. All clans within the Alliance may contribute toward the research and construction of the Solar Rail.
 ------
-Researching a Solar Rail blueprint requires resource contributions from clan members. The resources required scales with the size of the Clan. Once research is complete, construction on the Solar Rail can begin. The resource requirements of a Solar Rail however, do not scale with the size of the clan, so it is imperative for small clans to form an Alliance to expidite the construction process.
+Researching a Solar Rail blueprint requires resource contributions from clan members. The resources required scales with the size of the Clan. Once research is complete, construction on the Solar Rail can begin. The resource requirements of a Solar Rail however, do not scale with the size of the clan, so it is imperative for small clans to form an Alliance to expedite the construction process.
 ------
 Once construction has been completed, clans and Alliances are able to deploy their Solar Rails on specified Dark Sectors of the Solar Map. The Clan or Alliance controlling the Solar Rail will be able to specify a tribute, collecting a percentage of any resources or credits collected by players using the Solar Rail.
 ------
@@ -3584,6 +3592,10 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 (No quote available)
 ------
+Frohd Bek
+------
+Tenno
+------
 Captain Vor
 ------
 Councilor Vay Hek
@@ -3621,6 +3633,16 @@ Hyena LN2
 Hyena Th
 ------
 Hyena Pb
+------
+Darvo
+------
+Vem Tabook
+------
+Leekter
+------
+Shik Tal
+------
+Lotus
 ------
 BossHyenaGun&x)<
 ------
@@ -4473,6 +4495,8 @@ Update 12.4.5: Tethra's Doom
 ------
 Update 12.4.6: Tethra's Doom
 ------
+Update 13: Dark Sectors
+------
 ALLIANCE:
 ------
 CLANS:
@@ -4888,6 +4912,48 @@ Issue has been resolved
 Please include the following bug number when contacting support:
 ------
 STRING_OUTRO_SUMMARY_FIXEDY*7J
+------
+Welcome fellow Tenno. This is a sabotage mission. Damage |CLAN_NAME_ATTACKING|'s rail by destroying the nearby reactor.
+------
+Find and destroy the nearby reactor. Be on guard for Specters from clan |CLAN_NAME_ATTACKING|.
+------
+The reactor is our target. Destroy it and loosen clan |CLAN_NAME_ATTACKING|'s grip on this Dark Sector.
+------
+You are working for |CLAN_NAME_SUPPORTING|. Destroy the reactor and we will reward you for your efforts.
+------
+The Tenno of |CLAN_NAME_SUPPORTING| are grateful for your attacks on this rail.
+------
+You found the reactor, now destroy it to send a message to |CLAN_NAME_ATTACKING|: |NODE_NAME| does not belong to them for long.
+------
+There's the reactor, destroy it.
+------
+Target destroyed. Get to extraction |PLAYER_NAME|.
+------
+Mission accomplished. Thank you |PLAYER_NAME|. Now find extraction.
+------
+How dare you oppose |CLAN_NAME_ATTACKING|?! We will defend this Sector with everything we've got.
+------
+This betrayal will not go unanswered. This Dark Sector belongs to |CLAN_NAME_ATTACKING|!
+------
+You really think |CLAN_NAME_SUPPORTING| should own this Dark Sector?
+------
+Tenno or not, we will crush |CLAN_NAME_SUPPORTING| for opposing us here.
+------
+|CLAN_NAME_SUPPORTING| will regret this aggression!
+------
+|CLAN_NAME_ATTACKING| will not forgot what your actions here today |PLAYER_NAME|.
+------
+You are wasting your time |PLAYER_NAME|. |NODE_NAME| belongs to |CLAN_NAME_ATTACKING|.
+------
+Know this. |CLAN_NAME_SUPPORTING| will never take |NODE_NAME| from |CLAN_NAME_ATTACKING|. This is our rail.
+------
+|CLAN_NAME_SUPPORTING| will remember this day. Thank you |PLAYER_NAME|.
+------
+Thank you for supporting |CLAN_NAME_SUPPORTING|. We must control this Dark Sector!
+------
+I see you're supporting us |PLAYER_NAME|. |CLAN_NAME_SUPPORTING| honors you.
+------
+We must defeat |CLAN_NAME_ATTACKING|. Thank you for siding with |CLAN_NAME_SUPPORTING|.
 ------
 A Tenno must be a master of all their weapons. Prove yourself with your primary weapon.
 ------
@@ -6073,7 +6139,7 @@ DOJO TACTICIAN (CLAN)
 ------
 DOJO TACTICIAN (ALLIANCE)
 ------
-Are you sure you want to start this project? Only one project can be active in a room at any time.
+Are you sure you want to start this project? Only one project of each type can be active in a room at any time.
 ------
 You must research blueprints for projects before you can begin construction.
 ------
@@ -6890,11 +6956,53 @@ Go to Ceres, defeat the Prosecutors to locate Vay Hek, and then take the fight t
 -The Lotus
 
 ------
+SPECTERS OF LIBERTY
+------
+We need your help...
+------
+Tenno,
+
+This is Cantis of the Red Veil Resistance and I am asking for your help. You fight the Grineer and Corpus and so do we, that makes us allies. We aren't as strong as you and we don't have your weapons but we've pissed off those bastards just the same. Now they're coming after us, systematically capturing our comrades and holding them hostage. Using our brothers and sisters as pawns against us. Tenno, will you help us bring them home?
+
+If you are going to do this, you must strike quickly and quietly. If you are seen, the enemy will execute our hostage before you can rescue them. Please, do not give them this chance. 
+
+We can't offer you much but we do have large cache of Specter blueprints. Bring home our people and we will share these with you. Those who go above and beyond will receive a special token of our appreciation.
+
+Thank you Tenno,
+
+Cantis
+------
+You Are Making the Difference
+------
+Tenno,
+
+We are in your debt. The hostages you saved would have been doomed without you. Take this badge. It shows your solidarity with the Red Veil movement. 
+
+Remember, there are still many more operatives out there and we're counting on you to bring them home.
+
+Cantis
+
+------
+A Symbol of Our Gratitude
+------
+Tenno,
+
+You have brought so many of our comrades home. We never thought we would see them again, yet here they are, thanks to you. Take this Rakta Syandana, it is one of the highest honors bestowed on our operatives. The Red Veil would be proud to see you wear it |PLAYER_NAME|.
+
+Keep up the fight Tenno,
+
+Cantis
+
+------
+Cantis
+------
 LotusCorpusRaptorEuropak,?{
 ------
 FC_CORPUS_InvasionThankyouMessageBodyCredits
 ------
 ProperctorIntroTitlep7xq
+------
+RescueEventRewardOneMessageDescH*R\
 ------
 (We were countless. Consume us. Be reborn.)
 ------
@@ -7233,7 +7341,7 @@ Ambulas_Taunt5gV
 ------
 Stalker_TauntIntro2a
 ------
-55
+!6
 ------
 Insert Antitoxin
 ------
@@ -7597,6 +7705,14 @@ FOMORIAN POWER CORE
 ------
 Extract with the power core
 ------
+SECTOR DEFENSE POINT
+------
+DEFEND THE SECTOR
+------
+SECTOR DEFENSE BASE
+------
+DEFEND THE BASE
+------
 VOID LURE
 ------
 Attracts enemies
@@ -7793,9 +7909,9 @@ NERVO
 ------
 STALKER
 ------
-<MELEE> STEALTH ATTACK
+STEALTH ATTACK
 ------
-<MELEE> STEALTH ATTACK
+STEALTH ATTACK
 ------
 WYRM
 ------
@@ -7898,6 +8014,20 @@ Wave |WAVENUM| Completed
 DEFEND THE SYSTEM
 ------
 Nightmare Mode Timer Enabled
+------
+No Shield Mode!
+------
+Timed Mode!
+------
+Vampire Mode!
+------
+Energy Drain Mode!
+------
+No Shield Mode!
+------
+No HUD Mode!
+------
+Low Gravity Mode!
 ------
 TIMER INITIATED
 ------
@@ -8231,7 +8361,7 @@ Delta
 ------
 Mission ends in |Seconds|...
 ------
-Give Secondary Weapon
+GIVE SECONDARY WEAPON
 ------
 Vem Tabook
 ------
@@ -8253,19 +8383,21 @@ Activate Tram
 ------
 Detach Cargo
 ------
-Save the hostage!
+SAVE THE HOSTAGE!
 ------
-Corpus Warden
+CORPUS WARDEN
 ------
 Highly shielded, heavy weaponry
 ------
-Grineer Warden
+GRINEER WARDEN
 ------
 Weak to stealth attacks
 ------
-WARDEN EXIMUS
+WARDEN
 ------
 Life leech weapon, increased speed, weak to stealth attacks
+------
+WARDEN EXIMUS
 ------
 Prox Mine
 ------
@@ -8273,9 +8405,9 @@ PROPAGANDA DRONE
 ------
 ORBITAL STRIKE DRONE
 ------
-Rescued hostage
+RESCUED HOSTAGE
 ------
-Rescued hostage undetected
+STEALTH RESCUE
 ------
 Boosts Grineer morale while weakening enemies
 ------
@@ -8303,6 +8435,16 @@ Attempt Left
 ------
 Kill |COUNT| enemies - melee orbs for extra time!
 ------
+RETURN SECONDARY WEAPON
+------
+Kubrow Den
+------
+Feral Kubrow
+------
+KUBROW
+------
+KILLED ALL WARDENS
+------
 wc
 ------
 BlastDoorTimerMessageH3.L
@@ -8324,6 +8466,8 @@ GrineerBombardIncendiary+ho_
 GrineerBombardMinigunze;9
 ------
 TutorialBoostersIntro+u] 
+------
+WardenLeaderCodex}&/u
 ------
 TennoMoaaw'|
 ------
@@ -10040,6 +10184,10 @@ The standard issue helmet for the Ember warframe.
 ------
 PHOENIX EMBER HELMET
 ------
+ARCANE PHOENIX HELMET
+------
+Pheonix Helmet for the Ember Warframe.
+------
 Pheonix reduces shields in order to boost energy capacity.
 ------
 By purchasing this item you can directly exchange 30<PLATINUM_CREDITS>(Platinum) for 9000<CREDITS>(Credits).
@@ -10068,6 +10216,10 @@ The standard issue helmet for the Excalibur warframe.
 ------
 AVALON EXCALIBUR HELMET
 ------
+ARCANE AVALON HELMET
+------
+Avalon Helmet for the Excalibur Warframe.
+------
 Avalon increases shields at the expense of health.
 ------
 FROST HELMET
@@ -10075,6 +10227,10 @@ FROST HELMET
 The standard issue helmet for the Frost warframe.
 ------
 AURORA FROST HELMET
+------
+ARCANE AURORA HELMET
+------
+Aurora Helmet for the Frost Warframe.
 ------
 Aurora increases armour at the expense of health.
 ------
@@ -10084,6 +10240,10 @@ The standard issue helmet for the Nyx warframe.
 ------
 MENTICIDE NYX HELMET
 ------
+ARCANE MENTICIDE HELMET
+------
+Menticide Helmet for the Nyx Warframe.
+------
 Menticide increases stamina with a drain on shields.
 ------
 LOKI HELMET
@@ -10091,6 +10251,10 @@ LOKI HELMET
 The standard issue helmet for the Loki warframe.
 ------
 ESSENCE LOKI HELMET
+------
+ARCANE ESSENCE HELMET
+------
+Essence Helmet for the Loki Warframe.
 ------
 Essence increases power efficiency, but reduces armor rating.
 ------
@@ -10100,6 +10264,10 @@ The standard issue helmet for the Mag warframe.
 ------
 COIL MAG HELMET
 ------
+ARCANE COIL HELMET
+------
+Coil Helmet for the Mag Warframe.
+------
 Coil gives increased power range with a drain on shields.
 ------
 ASH HELMET
@@ -10107,6 +10275,10 @@ ASH HELMET
 The standard issue helmet for the Ash warframe.
 ------
 SCORPION ASH HELMET
+------
+ARCANE SCORPION HELMET
+------
+Scorpion Helmet for the Ash Warframe.
 ------
 Scorpion increases stamina while sacrificing power efficiency.
 ------
@@ -10116,6 +10288,10 @@ Standard helmet.
 ------
 THRAK RHINO HELMET
 ------
+ARCANE THRAK HELMET
+------
+Thrak Helmet for the Rhino Warframe.
+------
 Thrak increases health but reduces sprint speed.
 ------
 VAUBAN HELMET
@@ -10123,6 +10299,10 @@ VAUBAN HELMET
 The standard issue helmet for the Vauban warframe.
 ------
 ESPRIT VAUBAN HELMET
+------
+ARCANE ESPRIT HELMET
+------
+Esprit Helmet for the Vauban Warframe.
 ------
 Esprit increases power max with a reduction to shields.
 ------
@@ -10132,6 +10312,10 @@ The standard issue helmet for the Trinity warframe.
 ------
 AURA TRINITY HELMET
 ------
+ARCANE AURA HELMET
+------
+Aura Helmet for the Trinity Warframe.
+------
 Aura increases the power duration but adversely affects health.
 ------
 VOLT HELMET
@@ -10139,6 +10323,10 @@ VOLT HELMET
 The standard issue helmet for the Volt warframe.
 ------
 STORM VOLT HELMET
+------
+ARCANE STORM HELMET
+------
+Storm Helmet for the Volt Warframe.
 ------
 Storm increases ability power but reduces stamina.
 ------
@@ -10428,6 +10616,10 @@ The standard issue helmet for the Saryn warframe.
 ------
 HEMLOCK SARYN HELMET
 ------
+ARCANE HEMLOCK HELMET
+------
+Hemlock Helmet for the Saryn Warframe.
+------
 Hemlock increases movement speed with a reduction to max health
 ------
 BANSHEE HELMET
@@ -10435,6 +10627,10 @@ BANSHEE HELMET
 The standard issue helmet for the Banshee warframe.
 ------
 REVERB BANSHEE HELMET
+------
+ARCANE REVERB HELMET
+------
+Reverb Helmet for the Banshee Warframe.
 ------
 Reverb grants max energy boost with a reduction to health
 ------
@@ -10998,57 +11194,113 @@ Creates anti-matter particles that orbit Nova and seek nearby targets.
 ------
 PENDRAGON EXCALIBUR HELMET
 ------
+ARCANE PENDRAGON HELMET
+------
+Pendragon Helmet for the Excalibur Warframe.
+------
 Adds Power Strength, with a reduction to Armor
 ------
 PULSE VOLT HELMET
+------
+ARCANE PULSE HELMET
+------
+Pulse Helmet for the Volt Warframe.
 ------
 Adds Power Duration, with a reduction to Shields
 ------
 SWINDLE LOKI HELMET
 ------
+ARCANE SWINDLE HELMET
+------
+Swindle Helmet for the Loki Warframe.
+------
 Adds Power Range, with a reduction to Health
 ------
 GAUSS MAG HELMET
+------
+ARCANE GAUSS HELMET
+------
+Gauss Helmet for the Mag Warframe.
 ------
 Adds Max Energy, with a reduction to Speed
 ------
 VANGUARD RHINO HELMET
 ------
+ARCANE VANGUARD HELMET
+------
+Vanguard Helmet for the Rhino Warframe.
+------
 Adds Speed, with a reduction to Power Strength
 ------
 LOCUST ASH HELMET
+------
+ARCANE LOCUST HELMET
+------
+Locust Helmet for the Ash Warframe.
 ------
 Adds Energy Capacity, with a reduction to Speed
 ------
 SQUALL FROST HELMET
 ------
+ARCANE SQUALL HELMET
+------
+Squall Helmet for the Frost Warframe.
+------
 Adds Power Strength, with a reduction to Shields
 ------
 VESPA NYX HELMET
+------
+ARCANE VESPA HELMET
+------
+Vespa Helmet for the Nyx Warframe.
 ------
 Adds Power Efficiency, with a reduction to Armor
 ------
 CHLORA SARYN HELMET
 ------
+ARCANE CHLORA HELMET
+------
+Chlora Helmet for the Saryn Warframe.
+------
 Adds Stamina, with a reduction to Power Duration
 ------
 CHORUS BANSHEE HELMET
+------
+ARCANE CHORUS HELMET
+------
+Chorus Helmet for the Banshee Warframe.
 ------
 Adds Power Efficiency, with a reduction to Stamina
 ------
 GAMBIT VAUBAN HELMET
 ------
+ARCANE GAMBIT HELMET
+------
+Gambit Helmet for the Vauban Warframe.
+------
 Adds Stamina, with a reduction to Power Duration
 ------
 FLUX NOVA HELMET
+------
+ARCANE FLUX HELMET
+------
+Flux Helmet for the Nova Warframe.
 ------
 Adds Stamina, with a reduction to Health
 ------
 MERIDIAN TRINITY HELMET
 ------
+ARCANE MERIDIAN HELMET
+------
+Meridian Helmet for the Trinity Warframe.
+------
 Adds Shield Capacity, with a reduction to Power Efficiency
 ------
 BACKDRAFT EMBER HELMET
+------
+ARCANE BACKDRAFT HELMET
+------
+Backdraft Helmet for the Ember Warframe.
 ------
 Adds Health, with a reduction to Speed
 ------
@@ -11831,15 +12083,15 @@ DAY OF THE DEAD DUAL ZOREN SKIN
 ------
 A morbidly festive skin for the Dual Zoren.
 ------
-BRATON PSIV
+OBSIDIAN BRATON SKIN
 ------
 A next-generation skin for the Braton.
 ------
-LATO PSIV
+OBSIDIAN LATO SKIN
 ------
 A next-generation skin for the Lato.
 ------
-SKANA PSIV
+OBSIDIAN SKANA SKIN
 ------
 A next-generation skin for the Skana.
 ------
@@ -12462,10 +12714,6 @@ These diminutive rapid-fire Stiletto machine-pistols are just the right size to 
 PHAGE
 ------
 Fires seven beams of continuous biochemical energy which instantly corrode any surface they contact.
-------
-ORYX OBERON HELMET
-------
-A uniquely-styled alternate helmet for Oberon.
 ------
 UPDATE 12 MEGA BUNDLE
 ------
@@ -13139,7 +13387,7 @@ PSIV
 ------
 Unlocks additional color options for Warframe customization.
 ------
-YOMO SYANDANA PSIV
+OBSIDIAN YOMO SYANDANA
 ------
 A next-generation syandana.
 ------
@@ -13209,9 +13457,93 @@ The Carabus skin customization for the Dethcube Sentinel.
 ------
 [Placeholder] Description of Tenno Claws
 ------
+[Placeholder] DINO SPIKE SYANDANA
+------
+[Placeholder] Description of Dino Spike Syandana
+------
 Decisive Judgement
 ------
 Fierce, double-handed strikes.
+------
+ORYX OBERON HELMET
+------
+A uniquely-styled alternate helmet for Oberon.
+------
+BANSHEE ARMOR
+------
+Default armor set for the Banshee Warframe.
+------
+EMBER PRIME ARMOR
+------
+Default armor set for the Ember Prime Warframe.
+------
+FROST ARMOR
+------
+Default armor set for the Frost Warframe.
+------
+FROST PRIME ARMOR
+------
+Default armor set for the Frost Prime Warframe.
+------
+MAG PRIME ARMOR
+------
+Default armor set for the Mag Prime Warframe.
+------
+OBERON ARMOR
+------
+Default armor set for the Oberon Warframe.
+------
+VOLT ARMOR
+------
+Default armor set for the Volt Warframe.
+------
+RAKTA SYANDANA
+------
+The Rakta Syandana is awarded by the Red Veil for exemplary valor. This honor is rarely given to outsiders.
+------
+VAPOR SPECTER
+------
+PHASE SPECTER
+------
+FORCE SPECTER
+------
+COSMIC SPECTER
+------
+A replicant cloned from a Warframe which can be deployed to assist Tenno on their missions.
+
+Once crafted this Specter may be donated to a clan and used by a Tactician to craft a Vapor Specter Regiment to assist in Solar Rail defense.
+------
+A replicant cloned from a Warframe which can be deployed to assist Tenno on their missions.
+
+Once crafted this Specter may be donated to a clan and used by a Tactician to craft a Phase Specter Regiment to assist in Solar Rail defense.
+------
+A replicant cloned from a Warframe which can be deployed to assist Tenno on their missions.
+
+Once crafted this Specter may be donated to a clan and used by a Tactician to craft a Force Specter Regiment to assist in Solar Rail defense.
+------
+A replicant cloned from a Warframe which can be deployed to assist Tenno on their missions.
+
+Once crafted this Specter may be donated to a clan and used by a Tactician to craft a Cosmic Specter Regiment to assist in Solar Rail defense.
+------
+VAPOR SPECTER REGIMENT
+------
+PHASE SPECTER REGIMENT
+------
+FORCE SPECTER REGIMENT
+------
+COSMIC SPECTER REGIMENT
+------
+An army composed of vapor-level Specter clones to be used in defense of the clan's Solar Rail.
+------
+An army composed of phase-level Specter clones to be used in defense of the clan's Solar Rail.
+------
+An army composed of force-level Specter clones to be used in defense of the clan's Solar Rail.
+------
+An army composed of cosmic-level Specter clones to be used in defense of the clan's Solar Rail.
+------
+SPECTERS OF LIBERTY BADGE
+------
+Awarded for the safe return of Red Veil Operatives during the Specters of Liberty operation.
 ------
 MagPrimeDesc]CK;
 ------
@@ -13348,8 +13680,6 @@ ZephyrTornadoAbilityDescBtzc
 ------
 DualCorpusMinigunDescv3<A
 ------
-PaladinAltHelmetDescdpN:
-------
 ImperatorSyandanaDescC6aT
 ------
 DazzleCamoDetronName_n
@@ -13365,6 +13695,12 @@ iz
 AxeEquippedAttacksDefaultcS
 ------
 ParrotWingsName}f2#
+------
+PaladinAltHelmetDescdpN:
+------
+HornSkullScarfDesc\7!S
+------
+PlatinumSpectre` e3
 ------
 Connecting...
 ------
@@ -13635,6 +13971,340 @@ VERSIONS;ulX
 GF_ENTER_WARFRAME_CREDENTAILSY}=F
 ------
 UNUSABLE_INSTALL_FOLDER
+------
+Raking Flesh
+------
+Winding Claws
+------
+East to West
+------
+Northern Coil
+------
+Trimming Flowers
+------
+Red Soil
+------
+Mirrored Spike
+------
+Skyward Limb
+------
+Battering Roots
+------
+Crushing Reach
+------
+Planting Widow
+------
+Guiding Plank
+------
+Wide Dispatch
+------
+Battered Thread
+------
+Rising Falls
+------
+Gaining Humility
+------
+Rising Wind
+------
+Trailing Doom
+------
+Launching Spring
+------
+One Point
+------
+Through Strike
+------
+Roaring Drums
+------
+Quaking Touch
+------
+Echoing Hands
+------
+Parting Edge
+------
+Striking Gale
+------
+Splitting Brush
+------
+Scorpion Fall
+------
+Fanning Sting
+------
+Relentless Point
+------
+Lashing Forward
+------
+Cutting Arches
+------
+Life Eater
+------
+Reclaimation
+------
+Abyssal Automaton
+------
+Hell's Wave
+------
+Mountain's Chisel
+------
+Flaying Home
+------
+Tunneling Spike
+------
+Many Tears
+------
+Shadow Wing
+------
+Skull Splitter
+------
+Landing Dragon
+------
+Crowd Fall
+------
+Broken Bull
+------
+Ruin
+------
+Silver Reach
+------
+Nemesis
+------
+Pirouette
+------
+Auger
+------
+Final Word
+------
+Wings and Beak
+------
+Taking Flight
+------
+Spiral Cut
+------
+Coiling Impale
+------
+Twisting Flurry
+------
+Crimson Orbit
+------
+Sky Doom
+------
+Weightless Steel
+------
+Rising Thunder
+------
+Falling Rock
+------
+Tidal Force
+------
+Shattered Village
+------
+Windless Cuts
+------
+Breathless Lunge
+------
+Beyond Reproach
+------
+Hook And Eye
+------
+Parting Knee
+------
+Setting Sun
+------
+Guiding Wire
+------
+Resting Place
+------
+Buzzing Sting
+------
+Sparking Torture
+------
+Guided Claw
+------
+Resounding Fear
+------
+Tumbling King
+------
+Lashing Tempest
+------
+Arcing Fang
+------
+Cleaving Strike
+------
+Hysteria
+------
+Butterfly Slash
+------
+Viper's Bite
+------
+Twin Bite
+------
+Rising Lion
+------
+Flash Flurry
+------
+Evisceration
+------
+Flurry of Claws
+------
+Final Strike
+------
+Lion's Roar
+------
+Jaguar Strike
+------
+Bestial Ravager
+------
+Lurking Cougar
+------
+Lacerating Leap
+------
+Parting Mist
+------
+Flowing River
+------
+Hidden Meaning
+------
+Hidden Meaning
+------
+Falling Star
+------
+Returning Edge
+------
+Quaking Earth
+------
+Roaring Cyclone
+------
+Resonating Arc
+------
+Surging Force
+------
+Cresting Surf
+------
+Crashing Wave
+------
+Rippling Current
+------
+Flowing River
+------
+Howling Gale
+------
+Drifting Steel
+------
+Fatal Breeze
+------
+Slashing Wind
+------
+Lethal Gust
+------
+Violent Tempest
+------
+Deadly Circle
+------
+Cyclone Strike
+------
+Burning Desire
+------
+Fanning Flame
+------
+Rushing Fire
+------
+Flaming Tongue
+------
+Bright Blaze
+------
+Inferno
+------
+Sudden Spark
+------
+Roling Blast
+------
+Silent Repose
+------
+Deep Resentment
+------
+Brooding Thoughts
+------
+The Way
+------
+Falling Branch
+------
+Rustling Leaves
+------
+Sudden Silence
+------
+Calculated Strike
+------
+Rolling Thunder
+------
+Justified Punishment
+------
+Cerberus Fang
+------
+Sanguine Storm
+------
+Crimson Dance
+------
+Pincer Strike
+------
+Savage Tiger
+------
+Lashing Panther
+------
+Cheetah's Guile
+------
+Swooping Talons
+------
+Three Lessons
+------
+Last Lesson
+------
+Falling Star
+------
+Rolling Wave
+------
+Rapid Current
+------
+Coming Tide
+------
+Storm's Eye
+------
+Rise From Ashes
+------
+Dying Light
+------
+Fading Hope
+------
+Perfect Cut
+------
+Death's Mark
+------
+Double Slash
+------
+Whistling Wind
+------
+Final Verdict
+------
+Consent Decree
+------
+Swift Retribution
+------
+Resolute Flurry
+------
+Eternal Nocturne
+------
+Autumn Leaf
+------
+Mercury Vortex
+------
+DualSwordGroundHitsDefault9tp/
+------
+iz
+------
+AxeEquippedAttacksDefaultcS
+------
+DualDaggerSlideDefaults=SSO
+------
+FistQuickDefaults[^T<
 ------
 You are currently hosting a game session. Please exit it before joining another session.
 ------
@@ -14208,6 +14878,8 @@ FEATURED BOOSTER
 XP LOCKED
 ------
 This item is XP Locked. You must reach rank |RANK| before you can purchase it.
+------
+CONCLAVE RATING |RATING| REQUIRED
 ------
 Includes:
 ------
@@ -14804,6 +15476,8 @@ REVIVES: %i/%i
 ------
 Revives Remaining: %i/%i
 ------
+SPECTERS
+------
 Updating account information, please wait...
 ------
 Could not update account information, progress was not saved!
@@ -14896,6 +15570,8 @@ OPERATION SCORES
 ------
 ARID FEAR
 ------
+RESCUE EVENT
+------
 TETHRA'S DOOM
 ------
 CICERO CRISIS
@@ -14952,7 +15628,7 @@ Infestation Boss Kills
 ------
 Corpus Boss Kills
 ------
-Headshots
+Headshot Kills
 ------
 Deaths
 ------
@@ -15318,6 +15994,8 @@ APPLY
 ------
 APPLY CHANGES
 ------
+TRANSFER
+------
 SELECT SKIN
 ------
 Visit the STORE to view more skins.
@@ -15659,6 +16337,10 @@ Gear Hotkey 8
 ------
 Use Selected Power
 ------
+Melee stance actions can only be bound to buttons with bindings for Quick Melee, Aim Weapon and Fire Weapon
+------
+You can't bind |BUTTON| to a button that has a melee stance action bound to it.
+------
 BUILD
 ------
 RUSH
@@ -15842,6 +16524,8 @@ Blueprints
 Please run Warframe from the Launcher.
 ------
 Insufficient rank to build this item.
+------
+Insufficient Conclave rating to build this item.
 ------
 Global Chat
 ------
@@ -16550,6 +17234,8 @@ SYANDANA
 ------
 ACCESSORIES
 ------
+ATTACHMENTS
+------
 RANDOM COLORS
 ------
 DEFAULT COLORS
@@ -16573,6 +17259,12 @@ SOLVED!
 FAILED!
 ------
 SKIN
+------
+CHEST
+------
+LEFT LEG
+------
+RIGHT LEG
 ------
 ANIMATION SET
 ------
@@ -16608,7 +17300,7 @@ ATTACHMENTS
 ------
 (|ATTACH_INDEX| of |NUM_ATTACHMENTS|)
 ------
-The Lotus
+Lotus
 ------
 Warframe Support Team
 ------
@@ -16747,6 +17439,8 @@ Fire Weapon
 Melee Attack
 ------
 Switch Weapon
+------
+Hold To Enter Melee Mode
 ------
 Context Action
 ------
@@ -17213,8 +17907,6 @@ Research Solar Rails to be able to start building them.
 ------
 Your clan can now build Solar Rails in the Orokin Lab.
 ------
-HEALTH
-------
 MATERIALS GATHERED
 ------
 GATHERING MATERIALS
@@ -17236,6 +17928,8 @@ TO DEPLOY
 DESTROYED
 ------
 NO AVAILABLE ACTIONS
+------
+INITIALIZING...
 ------
 Solar Rail - Deploying
 ------
@@ -17259,13 +17953,13 @@ Solar Rail - Destroyed
 ------
 This Solar Rail was destroyed at |PLANET|:|NODE| on |TIME|
 ------
-LEARN ABOUT THE DARK SECTORS
+LEARN MORE
 ------
 Dark Sectors tutorial not available in-game.
 ------
 Cannot enter dojo if you are already in-game.
 ------
-Cannot view Starchart while in-game.
+Cannot view Star Chart while in-game.
 ------
 CONTRIBUTE
 ------
@@ -17366,6 +18060,8 @@ Date of Conflict (Duration)
 ------
 Challenger
 ------
+Retrieving Solar Rail counts, please wait...
+------
 LAUNCH MISSION
 ------
 RAIL NOT READY
@@ -17451,6 +18147,30 @@ Switch Gun
 You must equip a weapon of each type to start a rank up test! Go to Arsenal?
 ------
 Alliance invitation successfully sent to |CLAN_NAME|!
+------
+No Specter loadout stored.
+------
+COSMIC SPECTER
+------
+FORCE SPECTER
+------
+PHASE SPECTER
+------
+VAPOR SPECTER
+------
+REPLACE
+------
+PRESERVE
+------
+SPECTER LOADOUT
+------
+MIN CONCLAVE RATING:
+------
+Are you sure you want to override your existing loadout for this specter with your current loadout?
+------
+Cannot apply this loadout. Your specter loadout must include an equipped weapon in each slot.
+------
+Are you sure you want to leave your specter loadout unchanged?
 ------
 SocialOverlay_CloseFriendsTabBtn
 ------
@@ -17561,6 +18281,9 @@ Badlands_NotEnoughCreditsInVault:+nP
 Badlands_ConflictHistoryfnly
 ------
 LaunchMissionyD~ 
+------
+Spectre_ApplyDisabledNeedFullLoadout,v$
+
 ------
 1:00 AM EST
 ------
@@ -18812,6 +19535,14 @@ These Tenno used to be ghosts of history. Let us make them ghosts once again.
 ------
 Tenno are scavengers. Surviving on our scraps.
 ------
+(Maniacal Laughter)
+------
+(Maniacal Laughter)
+------
+(Maniacal Laughter)
+------
+(Maniacal Laughter)
+------
 Thank you for your service, Brother.
 ------
 Look what these Tenno made me do.
@@ -19707,6 +20438,8 @@ This is a rescue mission. We need to find and liberate the hostage before any ha
 ------
 Here are the holding cells. Search each one for the hostage. 
 ------
+An Operative from the Red Veil is being held hostage somewhere in this facility. Find the hostage and bring them home.
+------
 There is a prisoner here that is vital to our operations. Search for the holding location.
 ------
 The captive will be in one of these cells. Search them.
@@ -19723,6 +20456,12 @@ We can't leave without rescuing the prisoner, keep searching.
 ------
 There's no telling what the captors are doing to our rescue target, you need to find the holding cell immediately.
 ------
+The Red Veil is a newly formed resistance movement that has quickly gained traction across the system. We need to support them as much as we can.
+------
+Our enemies think they can force the Red Veil into submission by holding their members hostage. You're here to stop this from happening.
+------
+Popular resistance to Grineer and Corpus domination has been rare and fleeting. If we don't support their cause the Red Veil will surely fade into oblivion.
+------
 You've located the hostage. Escort the prisoner to the extraction point and I'll take care of the rest.
 ------
 Subject found. You need to bring the captive to safety. Protect them at all costs.
@@ -19734,6 +20473,38 @@ Mission complete. The captive has been liberated, you will be rewarded for this 
 Escort mission complete, the hostage is safe now. Let's get out of here.
 ------
 The captive has been secured, you've done your part Tenno, we'll take it from here.
+------
+I thought I was going to die in there. Thank you.
+------
+Thank you Tenno.
+------
+I am in your debt Tenno. Lets go home.
+------
+I can fight too, if you give me a weapon.
+------
+Give me a weapon and I'll watch your back. 
+------
+Got an extra weapon? They won't just let us walk out of here. 
+------
+I'm down.
+------
+Ahh... bleeding out.
+------
+They got me, Tenno help.
+------
+Hurry up, I'm running out of time.
+------
+In here. I'M IN HERE!
+------
+Tenno, in here!
+------
+[Mission Failed Death rattle]
+------
+[Mission Failed Death rattle]
+------
+[Death rattle]
+------
+[Death rattle]
 ------
 We need to take full control here. Get to the rally point and defend it from enemy attackers.
 ------
@@ -21155,8 +21926,6 @@ Are you sure you can't just let this go? We would make great partners you know. 
 Tenno, look. I believe so strongly in my Zanuka prototype that I'm willing to give you a demo. It will be quite the opportunity, most people don't get to see the future... before they die.
 
 ------
-With Alad V taken care of, no more Tenno will be sacrificed in the name of his progress.  Our operatives are recovering those still held within V's labs. Well done.
-------
 BbPlayerSpottedGrineerVIPB0207B|
 ------
 DDarvoMDefTerminalLoc030DarvocGbj
@@ -21444,379 +22213,3 @@ UPGRADE YOUR FOUNDERS PACKAGE!
 WP_Ash08Iz
 ------
 WP_FoundersPackc,E"
-------
-Welcome fellow Tenno. This is a sabotage mission. Damage |CLAN_NAME_ATTACKING|'s rail by destroying the nearby reactor.
-------
-Find and destroy the nearby reactor. Be on guard for Specters from clan |CLAN_NAME_ATTACKING|.
-------
-The reactor is our target. Destroy it and loosen clan |CLAN_NAME_ATTACKING|'s grip on this Dark Sector.
-------
-You are working for |CLAN_NAME_SUPPORTING|. Destroy the reactor and we will reward you for your efforts.
-------
-The Tenno of |CLAN_NAME_SUPPORTING| are grateful for your attacks on this rail.
-------
-You found the reactor, now destroy it to send a message to |CLAN_NAME_ATTACKING|: |NODE_NAME| does not belong to them for long.
-------
-There's the reactor, destroy it.
-------
-Target destroyed. Get to extraction |PLAYER_NAME|.
-------
-Mission accomplished. Thank you |PLAYER_NAME|. Now find extraction.
-------
-How dare you oppose |CLAN_NAME_ATTACKING|?! We will defend this Sector with everything we've got.
-------
-This betrayal will not go unanswered. This Dark Sector belongs to |CLAN_NAME_ATTACKING|!
-------
-You really think |CLAN_NAME_SUPPORTING| should own this Dark Sector?
-------
-Tenno or not, we will crush |CLAN_NAME_SUPPORTING| for opposing us here.
-------
-|CLAN_NAME_SUPPORTING| will regret this aggression!
-------
-|CLAN_NAME_ATTACKING| will not forgot what your actions here today |PLAYER_NAME|.
-------
-You are wasting your time |PLAYER_NAME|. |NODE_NAME| belongs to |CLAN_NAME_ATTACKING|.
-------
-Know this. |CLAN_NAME_SUPPORTING| will never take |NODE_NAME| from |CLAN_NAME_ATTACKING|. This is our rail.
-------
-|CLAN_NAME_SUPPORTING| will remember this day. Thank you |PLAYER_NAME|.
-------
-Thank you for supporting |CLAN_NAME_SUPPORTING|. We must control this Dark Sector!
-------
-I see you're supporting us |PLAYER_NAME|. |CLAN_NAME_SUPPORTING| honors you.
-------
-We must defeat |CLAN_NAME_ATTACKING|. Thank you for siding with |CLAN_NAME_SUPPORTING|.
-------
-Raking Flesh
-------
-Winding Claws
-------
-East to West
-------
-Northern Coil
-------
-Trimming Flowers
-------
-Red Soil
-------
-Mirrored Spike
-------
-Skyward Limb
-------
-Battering Roots
-------
-Crushing Reach
-------
-Planting Widow
-------
-Guiding Plank
-------
-Wide Dispatch
-------
-Battered Thread
-------
-Rising Falls
-------
-Gaining Humility
-------
-Rising Wind
-------
-Trailing Doom
-------
-Launching Spring
-------
-One Point
-------
-Through Strike
-------
-Roaring Drums
-------
-Quaking Touch
-------
-Echoing Hands
-------
-Parting Edge
-------
-Striking Gale
-------
-Splitting Brush
-------
-Scorpion Fall
-------
-Fanning Sting
-------
-Relentless Point
-------
-Lashing Forward
-------
-Cutting Arches
-------
-Life Eater
-------
-Reclaimation
-------
-Abyssal Automaton
-------
-Hell's Wave
-------
-Mountain's Chisel
-------
-Flaying Home
-------
-Tunneling Spike
-------
-Many Tears
-------
-Shadow Wing
-------
-Skull Splitter
-------
-Landing Dragon
-------
-Crowd Fall
-------
-Broken Bull
-------
-Ruin
-------
-Silver Reach
-------
-Nemesis
-------
-Pirouette
-------
-Auger
-------
-Final Word
-------
-Wings and Beak
-------
-Taking Flight
-------
-Spiral Cut
-------
-Coiling Impale
-------
-Twisting Flurry
-------
-Crimson Orbit
-------
-Sky Doom
-------
-Weightless Steel
-------
-Rising Thunder
-------
-Falling Rock
-------
-Tidal Force
-------
-Shattered Village
-------
-Windless Cuts
-------
-Breathless Lunge
-------
-Beyond Reproach
-------
-Hook And Eye
-------
-Parting Knee
-------
-Setting Sun
-------
-Guiding Wire
-------
-Resting Place
-------
-Buzzing Sting
-------
-Sparking Torture
-------
-Guided Claw
-------
-Resounding Fear
-------
-Tumbling King
-------
-Lashing Tempest
-------
-Arcing Fang
-------
-Cleaving Strike
-------
-Hysteria
-------
-Butterfly Slash
-------
-Viper's Bite
-------
-Twin Bite
-------
-Rising Lion
-------
-Flash Flurry
-------
-Evisceration
-------
-Flurry of Claws
-------
-Final Strike
-------
-Lion's Roar
-------
-Jaguar Strike
-------
-Bestial Ravager
-------
-Lurking Cougar
-------
-Lacerating Leap
-------
-Parting Mist
-------
-Flowing River
-------
-Hidden Meaning
-------
-Hidden Meaning
-------
-Falling Star
-------
-Returning Edge
-------
-Quaking Earth
-------
-Roaring Cyclone
-------
-Resonating Arc
-------
-Surging Force
-------
-Cresting Surf
-------
-Crashing Wave
-------
-Rippling Current
-------
-Flowing River
-------
-Howling Gale
-------
-Drifting Steel
-------
-Fatal Breeze
-------
-Slashing Wind
-------
-Lethal Gust
-------
-Violent Tempest
-------
-Deadly Circle
-------
-Cyclone Strike
-------
-Burning Desire
-------
-Fanning Flame
-------
-Rushing Fire
-------
-Flaming Tongue
-------
-Bright Blaze
-------
-Inferno
-------
-Sudden Spark
-------
-Roling Blast
-------
-Silent Repose
-------
-Deep Resentment
-------
-Brooding Thoughts
-------
-The Way
-------
-Falling Branch
-------
-Rustling Leaves
-------
-Sudden Silence
-------
-Calculated Strike
-------
-Rolling Thunder
-------
-Justified Punishment
-------
-Cerberus Fang
-------
-Sanguine Storm
-------
-Crimson Dance
-------
-Pincer Strike
-------
-Savage Tiger
-------
-Lashing Panther
-------
-Cheetah's Guile
-------
-Swooping Talons
-------
-Three Lessons
-------
-Last Lesson
-------
-Falling Star
-------
-Rolling Wave
-------
-Rapid Current
-------
-Coming Tide
-------
-Storm's Eye
-------
-Rise From Ashes
-------
-Dying Light
-------
-Fading Hope
-------
-Perfect Cut
-------
-Death's Mark
-------
-Double Slash
-------
-Whistling Wind
-------
-Final Verdict
-------
-Consent Decree
-------
-Swift Retribution
-------
-Resolute Flurry
-------
-Eternal Nocturne
-------
-Autumn Leaf
-------
-Mercury Vortex
-------
-DualSwordGroundHitsDefault9tp/
-------
-iz
-------
-AxeEquippedAttacksDefaultcS
-------
-DualDaggerSlideDefaults=SSO
-------
-FistQuickDefaults[^T<

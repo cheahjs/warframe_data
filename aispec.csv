@@ -393,7 +393,7 @@ ForestKubrowTestSquad,Forest/RifleLancer,1,0,0
 ,Forest/EliteRifleLancer,0.25,3,1
 ,Forest/EvisceratorLancer,0.1,1,1
 ,AIWeek/FlameLancer,0.1,1,2
-,/Lotus/Types/NeutralCreatures/Kubrow/KubrowAgent,1,0,0
+,Kubrow (/Lotus/Types/NeutralCreatures/Kubrow/KubrowAgent),1,0,0
 GrineerDefenseA,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawmanNoCover,0.30000001,0,0
@@ -1003,6 +1003,7 @@ SupCorpusInfestedMix,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 ,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
 ,AiWeek/Crawlers/GrenadeCrawler,0.1,0,0
+TestSectorGrineer,AIWeek/RifleLancer,1,0,0
 GrineerShipyardsA,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/MacheteWoman,0.2,0,0
