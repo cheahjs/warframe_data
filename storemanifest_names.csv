@@ -1,0 +1,2009 @@
+Name,Type
+Arid Fear Bronze Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearBronzeTrophyRecipe
+Arid Fear Gold Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearGoldTrophyRecipe
+Arid Fear Silver Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearSilverTrophyRecipe
+Bronze Buddha Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueBuddhaRecipe
+Bronze Dragon Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueDragonRecipe
+Bronze Foo Dog Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueFooDogRecipe
+Bronze Incense Burner Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueIncenseBurnerRecipe
+Bronze Turtle Dragon Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueTurtleDragonRecipe
+Cicero Crisis Bronze Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CiceroCrisisBronzeTrophyRecipe
+Cicero Crisis Gold Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CiceroCrisisGoldTrophyRecipe
+Cicero Crisis Silver Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CiceroCrisisSilverTrophyRecipe
+Couch,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CouchTestRecipe
+Planter,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/DojoPlanterARecipe
+Chokkan Fountain,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainBambooARecipe
+Hokidachi Fountain,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainBambooBRecipe
+Shakan Fountain,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainBambooCRecipe
+Baseless Stone Fountain,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainRockARecipe
+Stone Fountain,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainRockBaseRecipe
+Wooden Fountain,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainWoodenARecipe
+Fusion Moa Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FusionMoaTrophyRecipe
+Yin-Yang Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GardenYinYangRecipe
+Gradivus Dilemma Bronze Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaCorpusBronzeTrophyRecipe
+Gradivus Dilemma Gold Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaCorpusGoldTrophyRecipe
+Gradivus Dilemma Silver Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaCorpusSilverTrophyRecipe
+Gradivus Dilemma Bronze Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaGrineerBronzeTrophyRecipe
+Gradivus Dilemma Gold Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaGrineerGoldTrophyRecipe
+Gradivus Dilemma Silver Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaGrineerSilverTrophyRecipe
+Armoured Grineer Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerArmouredStatueRecipe
+Female Grineer Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerFemaleStatueRecipe
+Grineer Marine Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerMarineStatueRecipe
+Lech Kril Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/HammerBossStatueRecipe
+Large Topiary Bush,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/LargeTopiaryBushRecipe
+Man,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ManTestRecipe
+Leaning Maple Tree,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeARecipe
+Autumn Maple Tree,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeBRecipe
+Spring Maple Tree,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeCRecipe
+Summer Maple Tree,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeDRecipe
+Ramu Pillar Lantern,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ModPathLightARecipe
+Cairn,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/RockStatueStonePileRecipe
+Tethra's Doom Bronze Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ShipyardsEventBronzeTrophyRecipe
+Tethra's Doom Gold Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ShipyardsEventGoldTrophyRecipe
+Tethra's Doom Silver Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ShipyardsEventSilverTrophyRecipe
+Sling Stone Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SlingStoneTrophyRecipe
+Pruned Bush,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SmallPrunedBushRecipe
+Small Topiary Bush,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SmallTopiaryBushRecipe
+Spy Drone Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SpyDroneTrophyRecipe
+Aru Stone Lantern,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/StoneLanternARecipe
+Soru Stone Lantern,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/StoneLanternBRecipe
+Survival Event Bronze Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SurvivalEventBronzeTrophyRecipe
+Survival Event Gold Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SurvivalEventGoldTrophyRecipe
+Survival Event Silver Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SurvivalEventSilverTrophyRecipe
+Iyoro Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoArchBARecipe
+Tetuon Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoArchBBRecipe
+Gomeka Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoArchBCRecipe
+Sinsino Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoArchBDRecipe
+Tenno Banner A,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerARecipe
+Tenno Banner B,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerBRecipe
+Tenno Banner C,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerCRecipe
+Tenno Banner D,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerDRecipe
+Tenno Banner E,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerERecipe
+Tenno Banner F,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerFRecipe
+Tenno Banner G,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerGRecipe
+Tenno Banner H,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerHRecipe
+Tenno Banner I,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerIRecipe
+Tenno Banner J,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerJRecipe
+Tenno Banner K,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerKRecipe
+Tenno Banner L,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerLRecipe
+Tenno Banner M,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerMRecipe
+Tenno Banner N,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerNRecipe
+Tenno Banner O,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerORecipe
+Tenno Banner P,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerPRecipe
+Floor Medallion Eight,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoFloorMedallionEightLotusRecipe
+Floor Medallion Nine,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoFloorMedallionNineLotusRecipe
+Floor Medallion Three,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoFloorMedallionThreeBrainRecipe
+Koi Pond,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoKoiPondRecipe
+Statue Base,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoStatueBaseRecipe
+Statue Base (Small),/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoStatueBaseSmallRecipe
+Storage Crate,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoDojoLootCrateARecipe
+Shrine Totem A,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoDojoShrineTotemARecipe
+Floor Panel B,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoFloorPanelBRecipe
+Incense Container,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoIncenseContainerRecipe
+Rock Sculpture,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoRockSculptureRecipe
+Drum 1,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum1Recipe
+Drum 2,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum2Recipe
+Drum 3,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum3Recipe
+Drum 4,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum4Recipe
+Drum 5,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum5Recipe
+Drum 6,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum6Recipe
+Drum 7,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum7Recipe
+Drum 8,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum8Recipe
+Trading Post,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TradingPostRecipe
+Treasury,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/VaultContributionKioskRecipe
+?,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/VaultTestRecipe
+Garden Arch,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenArchRecipe
+Wooden Bench,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenBenchRecipe
+Wooden Bridge,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenBridgeRecipe
+Wooden Totem,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenTotemRecipe
+Dokomo Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenGardenArchBARecipe
+Jakari Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenGardenArchBBRecipe
+Katsuen Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenGardenArchBCRecipe
+Nishan Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenGardenArchBDRecipe
+Miyeti Zen Garden Island,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenIslandCRecipe
+Rodoko Zen Garden Island,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenIslandDRecipe
+Ligumi Zen Garden Island,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenIslandERecipe
+Daru Zen Sand Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenSandGardenFRecipe
+Maho Zen Sand Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenSandGardenGRecipe
+Fumiro Zen Sand Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenSandGardenHRecipe
+Yoshijo Zen Sand Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenSandGardenJRecipe
+Elbow Connector,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanConnectorElbowARecipe
+Cross Connector,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanConnectorPlusARecipe
+Small Hallway,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanConnectorSmallARecipe
+T-Shaped Connector,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanConnectorTJunctionARecipe
+Elevator,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanElevatorARecipe
+Grand Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGrandHallARecipe
+Grandest Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGrandestHallARecipe
+Great Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGreatHallARecipe
+Greater Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGreaterHallARecipe
+Clan Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanHallARecipe
+Obstacle Course,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanObstacleCourseARecipe
+Reactor,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanPowerRoomARecipe
+Storage,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanStorageARecipe
+Target Challenge,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoChallengeRoomA
+Elbow Connector,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorElbowRecipe
+Elevator,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorElevatorRecipe
+Cross Connector,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorPlusRecipe
+Extended Straight Hallway,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorStraightLongRecipe
+Straight Hallway,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorStraightRecipe
+T-Shaped Connector,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorTJunctionRecipe
+Dueling Room,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoDuelRoomARecipe
+Castitas Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenA
+Temperantia Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenALarge
+Industria Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenB
+Humilitas Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenC
+Equinox Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenD
+Caritas Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenDLarge
+Wooden Sand Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenE
+Aestas Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenF
+Vosen Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenFLarge
+Autumn Garden Stone,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenG
+Leto Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenGLarge
+Stone Sand Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenH
+Zen Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenI
+Solace Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenILarge
+Mosaic Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenJLarge
+Junno Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenLLarge
+Soleto Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenMLarge
+Clan Grand Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGrandHallRecipe
+Clan Grandest Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGrandestHallRecipe
+Clan Great Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGreatHallRecipe
+Clan Greater Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGreaterHallRecipe
+Clan Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoHallRecipe
+Reactor,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoPowerRoomRecipe
+Arc Furnace,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/FabricatorBaseRecipe
+Particle Accelerator,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/FabricatorCorpusRecipe
+Chem Refinery,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/FabricatorGrineerRecipe
+Transmuter,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/FabricatorInfestedRecipe
+Observatory,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ObservatoryRecipe
+Dueling Room,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/OroDojoRoomARecipe
+Dueling Room II,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/OroDojoRoomBRecipe
+Dueling Room III,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/OroDojoRoomCRecipe
+Oracle,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabBaseRecipe
+Energy Lab,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabCorpusRecipe
+Chem Lab,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabGrineerRecipe
+Bio Lab,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabInfestedRecipe
+Orokin Lab,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabOrokinRecipe
+Tenno Lab,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabTennoRecipe
+Shadow Barracks,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier2BarracksRecipe
+Storm Barracks,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier3BarracksRecipe
+Mountain Barracks,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier4BarracksRecipe
+Moon Barracks,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier5BarracksRecipe
+Temple of Honor,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/TrophyRoomRecipe
+Void Carry,/Lotus/StoreItems/Powersuits/All/CarryAbilityCard
+Void Lure,/Lotus/StoreItems/Powersuits/All/LureAbilityCard
+Repel,/Lotus/StoreItems/Powersuits/All/RepelAbilityCard
+Deja Vu,/Lotus/StoreItems/Powersuits/All/ReturnAbilityCard
+Invisibility,/Lotus/StoreItems/Powersuits/All/TeamInvisibilityAbilityCard
+Nova,/Lotus/StoreItems/Powersuits/AntiMatter/Anti
+Antimatter Drop,/Lotus/StoreItems/Powersuits/AntiMatter/AntiMatterDropAbilityCard
+Molecular Prime,/Lotus/StoreItems/Powersuits/AntiMatter/MolecularPrimeAbilityCard
+Null Star,/Lotus/StoreItems/Powersuits/AntiMatter/NullStarAbilityCard
+Worm Hole,/Lotus/StoreItems/Powersuits/AntiMatter/WormHoleAbilityCard
+Banshee,/Lotus/StoreItems/Powersuits/Banshee/Banshee
+Sound Quake,/Lotus/StoreItems/Powersuits/Banshee/EarthQuakeAbilityCard
+Sonic Boom,/Lotus/StoreItems/Powersuits/Banshee/PushAbilityCard
+Silence,/Lotus/StoreItems/Powersuits/Banshee/SilenceAbilityCard
+Sonar,/Lotus/StoreItems/Powersuits/Banshee/SonarAbilityCard
+Valkyr,/Lotus/StoreItems/Powersuits/Berserker/Berserker
+Rip Line,/Lotus/StoreItems/Powersuits/Berserker/GrappleAbilityCard
+Warcry,/Lotus/StoreItems/Powersuits/Berserker/IntimidateAbilityCard
+Hysteria,/Lotus/StoreItems/Powersuits/Berserker/LastStandAbilityCard
+Paralysis,/Lotus/StoreItems/Powersuits/Berserker/ShieldBlastAbilityCard
+Ember,/Lotus/StoreItems/Powersuits/Ember/Ember
+Ember Prime,/Lotus/StoreItems/Powersuits/Ember/EmberPrime
+Fireball,/Lotus/StoreItems/Powersuits/Ember/FireBallAbilityCard
+Fire Blast,/Lotus/StoreItems/Powersuits/Ember/FireBlastAbilityCard
+Accelerant,/Lotus/StoreItems/Powersuits/Ember/FireSkinAbilityCard
+World On Fire,/Lotus/StoreItems/Powersuits/Ember/WorldOnFireAbilityCard
+Excalibur,/Lotus/StoreItems/Powersuits/Excalibur/Excalibur
+Excalibur Prime,/Lotus/StoreItems/Powersuits/Excalibur/ExcaliburPrime
+Radial Blind,/Lotus/StoreItems/Powersuits/Excalibur/RadialBlindAbilityCard
+Radial Javelin,/Lotus/StoreItems/Powersuits/Excalibur/RadialJavelinAbilityCard
+Slash Dash,/Lotus/StoreItems/Powersuits/Excalibur/SlashDashAbilityCard
+Super Jump,/Lotus/StoreItems/Powersuits/Excalibur/SuperJumpAbilityCard
+Avalanche,/Lotus/StoreItems/Powersuits/Frost/AvalancheAbilityCard
+Frost,/Lotus/StoreItems/Powersuits/Frost/Frost
+Frost Prime,/Lotus/StoreItems/Powersuits/Frost/FrostPrime
+Snow Globe,/Lotus/StoreItems/Powersuits/Frost/IceShieldAbilityCard
+Ice Wave,/Lotus/StoreItems/Powersuits/Frost/IceSpikeAbilityCard
+Freeze,/Lotus/StoreItems/Powersuits/Frost/IcicleAbilityCard
+Chaos,/Lotus/StoreItems/Powersuits/Jade/ChaosAbilityCard
+Psychic Bolts,/Lotus/StoreItems/Powersuits/Jade/DaggerAbilityCard
+Nyx,/Lotus/StoreItems/Powersuits/Jade/Jade
+Mind Control,/Lotus/StoreItems/Powersuits/Jade/MindControlAbilityCard
+Absorb,/Lotus/StoreItems/Powersuits/Jade/SelfBulletAttractorAbilityCard
+Decoy,/Lotus/StoreItems/Powersuits/Loki/DecoyAbilityCard
+Radial Disarm,/Lotus/StoreItems/Powersuits/Loki/DisarmAbilityCard
+Invisibility,/Lotus/StoreItems/Powersuits/Loki/InvisibilityAbilityCard
+Loki,/Lotus/StoreItems/Powersuits/Loki/Loki
+Switch Teleport,/Lotus/StoreItems/Powersuits/Loki/SwitchAbilityCard
+Bullet Attractor,/Lotus/StoreItems/Powersuits/Mag/BulletAttractorAbilityCard
+Crush,/Lotus/StoreItems/Powersuits/Mag/CrushAbilityCard
+Mag,/Lotus/StoreItems/Powersuits/Mag/Mag
+Mag Prime,/Lotus/StoreItems/Powersuits/Mag/MagPrime
+Pull,/Lotus/StoreItems/Powersuits/Mag/PullAbilityCard
+Shield Polarize,/Lotus/StoreItems/Powersuits/Mag/ShieldRegenAbilityCard
+Shadows of the Dead,/Lotus/StoreItems/Powersuits/Necro/CloneTheDeadAbilityCard
+Nekros,/Lotus/StoreItems/Powersuits/Necro/Necro
+Desecrate,/Lotus/StoreItems/Powersuits/Necro/SearchTheDeadAbilityCard
+Soul Punch,/Lotus/StoreItems/Powersuits/Necro/SoulPunchAbilityCard
+Terrify,/Lotus/StoreItems/Powersuits/Necro/TerrorTotemAbilityCard
+Shuriken,/Lotus/StoreItems/Powersuits/Ninja/GlaiveAbilityCard
+Ash,/Lotus/StoreItems/Powersuits/Ninja/Ninja
+Blade Storm,/Lotus/StoreItems/Powersuits/Ninja/NinjaStormAbilityCard
+Smoke Screen,/Lotus/StoreItems/Powersuits/Ninja/SmokeScreenAbilityCard
+Teleport,/Lotus/StoreItems/Powersuits/Ninja/TelelportToAbilityCard
+Oberon,/Lotus/StoreItems/Powersuits/Paladin/Paladin
+Reckoning,/Lotus/StoreItems/Powersuits/Paladin/ReckoningAbilityCard
+Renewal,/Lotus/StoreItems/Powersuits/Paladin/RegenerationAbilityCard
+Smite,/Lotus/StoreItems/Powersuits/Paladin/SmiteAbilityCard
+Hallowed Ground,/Lotus/StoreItems/Powersuits/Paladin/StairwayToHeavenAbilityCard
+Tempest Barrage,/Lotus/StoreItems/Powersuits/Pirate/CannonBarrageAbilityCard
+Tentacle Swarm,/Lotus/StoreItems/Powersuits/Pirate/KrakenAbilityCard
+Undertow,/Lotus/StoreItems/Powersuits/Pirate/LiquifyAbilityCard
+Hydroid,/Lotus/StoreItems/Powersuits/Pirate/Pirate
+Tidal Surge,/Lotus/StoreItems/Powersuits/Pirate/TidalWaveAbilityCard
+Radial Blast,/Lotus/StoreItems/Powersuits/PowersuitAbilities/RadialBlastAbilityCard
+Iron Skin,/Lotus/StoreItems/Powersuits/Rhino/IronSkinAbilityCard
+Roar,/Lotus/StoreItems/Powersuits/Rhino/RadialBlastAbilityCard
+Rhino,/Lotus/StoreItems/Powersuits/Rhino/Rhino
+Rhino Charge,/Lotus/StoreItems/Powersuits/Rhino/RhinoChargeAbilityCard
+Rhino Prime,/Lotus/StoreItems/Powersuits/Rhino/RhinoPrime
+Rhino Stomp,/Lotus/StoreItems/Powersuits/Rhino/RhinoStompAbilityCard
+Miasma,/Lotus/StoreItems/Powersuits/Saryn/ExplosiveDissolveAbilityCard
+Venom,/Lotus/StoreItems/Powersuits/Saryn/PoisonAbilityCard
+Saryn,/Lotus/StoreItems/Powersuits/Saryn/Saryn
+Molt,/Lotus/StoreItems/Powersuits/Saryn/ShedAbilityCard
+Contagion,/Lotus/StoreItems/Powersuits/Saryn/WeaponPoisonAbilityCard
+Dive Bomb,/Lotus/StoreItems/Powersuits/Tengu/DiveBombAbilityCard
+Tail Wind,/Lotus/StoreItems/Powersuits/Tengu/TailWindAbilityCard
+Zephyr,/Lotus/StoreItems/Powersuits/Tengu/Tengu
+Tornado,/Lotus/StoreItems/Powersuits/Tengu/TornadoAbilityCard
+Turbulence,/Lotus/StoreItems/Powersuits/Tengu/TurbulenceAbilityCard
+Bounce,/Lotus/StoreItems/Powersuits/Trapper/BounceTrapAbilityCard
+Bastille,/Lotus/StoreItems/Powersuits/Trapper/LevTrapAbilityCard
+Vortex,/Lotus/StoreItems/Powersuits/Trapper/MagHoleAbilityCard
+Vauban,/Lotus/StoreItems/Powersuits/Trapper/Trapper
+Tesla,/Lotus/StoreItems/Powersuits/Trapper/ZapTrapAbilityCard
+Blessing,/Lotus/StoreItems/Powersuits/Trinity/BlessingAbilityCard
+Energy Vampire,/Lotus/StoreItems/Powersuits/Trinity/EnergyVampireAbilityCard
+Link,/Lotus/StoreItems/Powersuits/Trinity/LinkAbilityCard
+Trinity,/Lotus/StoreItems/Powersuits/Trinity/Trinity
+Well Of Life,/Lotus/StoreItems/Powersuits/Trinity/WellOfLifeAbilityCard
+Overload,/Lotus/StoreItems/Powersuits/Volt/OverloadAbilityCard
+Electric Shield,/Lotus/StoreItems/Powersuits/Volt/ShieldAbilityCard
+Shock,/Lotus/StoreItems/Powersuits/Volt/ShockAbilityCard
+Speed,/Lotus/StoreItems/Powersuits/Volt/SpeedAbilityCard
+Volt,/Lotus/StoreItems/Powersuits/Volt/Volt
+Hawk Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/CommonArtifactPack
+Bronze Fusion Pack,/Lotus/StoreItems/Types/BoosterPacks/CommonFusionPack
+Mod Fuser,/Lotus/StoreItems/Types/BoosterPacks/ModFuserResult
+Dragon Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/PremiumRareArtifactPack
+Gold Fusion Pack,/Lotus/StoreItems/Types/BoosterPacks/PremiumRareFusionPack
+Phoenix Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/PremiumUncommonArtifactPack
+Silver Fusion Pack,/Lotus/StoreItems/Types/BoosterPacks/PremiumUncommonFusionPack
+Void Key Pack,/Lotus/StoreItems/Types/BoosterPacks/RandomKey
+Eagle Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/RareArtifactPack
+Wolf Fusion Pack,/Lotus/StoreItems/Types/BoosterPacks/RareFusionPack
+Eagle Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/SingleCommonArtifact
+Eagle Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/SingleRareArtifact
+Falcon Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/UncommonArtifactPack
+Fox Fusion Pack,/Lotus/StoreItems/Types/BoosterPacks/UncommonFusionPack
+Solar Rail - Tower Class,/Lotus/StoreItems/Types/Game/SolarRails/BasicSolarRail
+Solar Rail - Tower Class Blueprint,/Lotus/StoreItems/Types/Game/SolarRails/BasicSolarRailBlueprint
+Vapor Specter Regiment,/Lotus/StoreItems/Types/Game/SpectreArmies/BronzeSpectreArmy
+Vapor Specter Regiment Blueprint,/Lotus/StoreItems/Types/Game/SpectreArmies/BronzeSpectreArmyBlueprint
+Force Specter Regiment,/Lotus/StoreItems/Types/Game/SpectreArmies/GoldSpectreArmy
+Force Specter Regiment Blueprint,/Lotus/StoreItems/Types/Game/SpectreArmies/GoldSpectreArmyBlueprint
+Cosmic Specter Regiment,/Lotus/StoreItems/Types/Game/SpectreArmies/PlatinumSpectreArmy
+Cosmic Specter Regiment Blueprint,/Lotus/StoreItems/Types/Game/SpectreArmies/PlatinumSpectreArmyBlueprint
+Phase Specter Regiment,/Lotus/StoreItems/Types/Game/SpectreArmies/SilverSpectreArmy
+Phase Specter Regiment Blueprint,/Lotus/StoreItems/Types/Game/SpectreArmies/SilverSpectreArmyBlueprint
+?,/Lotus/StoreItems/Types/Game/DojoDecorationRecipeItem
+?,/Lotus/StoreItems/Types/Game/DojoRecipeItem
+Any,/Lotus/StoreItems/Types/Game/LotusWeapon
+Warframe,/Lotus/StoreItems/Types/Game/PlayerPowerSuit
+?,/Lotus/StoreItems/Types/Game/RecipeItem
+Orokin Void Key,/Lotus/StoreItems/Types/Game/VoidKeyItem
+Alloy Plate,/Lotus/StoreItems/Types/Items/MiscItems/AlloyPlate
+Argon Crystal,/Lotus/StoreItems/Types/Items/MiscItems/ArgonCrystal
+Golem Nav Coordinate,/Lotus/StoreItems/Types/Items/MiscItems/BossNavCode
+Circuits,/Lotus/StoreItems/Types/Items/MiscItems/Circuits
+?,/Lotus/StoreItems/Types/Items/MiscItems/ClanCreator
+Control Module,/Lotus/StoreItems/Types/Items/MiscItems/ControlModule
+Tethra Data Fragments,/Lotus/StoreItems/Types/Items/MiscItems/DataFragment
+Ferrite,/Lotus/StoreItems/Types/Items/MiscItems/Ferrite
+Forma,/Lotus/StoreItems/Types/Items/MiscItems/Forma
+Gallium,/Lotus/StoreItems/Types/Items/MiscItems/Gallium
+VAY HEK NAV COORDINATE [obsolete??],/Lotus/StoreItems/Types/Items/MiscItems/HekNavCode
+Morphics,/Lotus/StoreItems/Types/Items/MiscItems/Morphic
+Nano Spores,/Lotus/StoreItems/Types/Items/MiscItems/Nanospores
+Nav Coordinate,/Lotus/StoreItems/Types/Items/MiscItems/NavCode
+Neural Sensors,/Lotus/StoreItems/Types/Items/MiscItems/NeuralSensor
+Neurodes,/Lotus/StoreItems/Types/Items/MiscItems/Neurode
+Orokin Catalyst,/Lotus/StoreItems/Types/Items/MiscItems/OrokinCatalyst
+Orokin Cell,/Lotus/StoreItems/Types/Items/MiscItems/OrokinCell
+Orokin Reactor,/Lotus/StoreItems/Types/Items/MiscItems/OrokinReactor
+Oxium,/Lotus/StoreItems/Types/Items/MiscItems/OxiumAlloy
+Plastids,/Lotus/StoreItems/Types/Items/MiscItems/Plastids
+Polymer Bundle,/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle
+Rubedo,/Lotus/StoreItems/Types/Items/MiscItems/Rubedo
+Salvage,/Lotus/StoreItems/Types/Items/MiscItems/Salvage
+Delta Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentA
+Gamma Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentB
+Kappa Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentC
+Omega Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentD
+Sunlight Threshcone Extract,/Lotus/StoreItems/Types/Items/Plants/MiscItems/CommonDayPlantItem
+Moonlight Threshcone Extract,/Lotus/StoreItems/Types/Items/Plants/MiscItems/CommonNightPlantItem
+?,/Lotus/StoreItems/Types/Items/Plants/MiscItems/PlantItem
+Sunlight Jadeleaf Extract,/Lotus/StoreItems/Types/Items/Plants/MiscItems/RareDayPlantItem
+Moonlight Jadeleaf Extract,/Lotus/StoreItems/Types/Items/Plants/MiscItems/RareNightPlantItem
+Sunlight Dragonlily Extract,/Lotus/StoreItems/Types/Items/Plants/MiscItems/UnCommonDayPlantItem
+Moonlight Dragonlily Extract,/Lotus/StoreItems/Types/Items/Plants/MiscItems/UnCommonNightPlantItem
+Mutagen Mass,/Lotus/StoreItems/Types/Items/Research/BioComponent
+Mutagen Mass Blueprint,/Lotus/StoreItems/Types/Items/Research/BioComponentBlueprint
+Mutagen Sample,/Lotus/StoreItems/Types/Items/Research/BioFragment
+Corpus Void Key Blueprint,/Lotus/StoreItems/Types/Items/Research/CaptureKeyBlueprint
+Detonite Injector,/Lotus/StoreItems/Types/Items/Research/ChemComponent
+Detonite Injector Blueprint,/Lotus/StoreItems/Types/Items/Research/ChemComponentBlueprint
+Detonite Ampule,/Lotus/StoreItems/Types/Items/Research/ChemFragment
+Corpus Cipher,/Lotus/StoreItems/Types/Items/Research/CipherPlus
+Corpus Datamass,/Lotus/StoreItems/Types/Items/Research/DataMassPlus
+Fieldron,/Lotus/StoreItems/Types/Items/Research/EnergyComponent
+Fieldron Blueprint,/Lotus/StoreItems/Types/Items/Research/EnergyComponentBlueprint
+Fieldron Sample,/Lotus/StoreItems/Types/Items/Research/EnergyFragment
+?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalAsteroidGrn
+?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalAsteroidInf
+?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalGalleonGrn
+?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalGalleonInf
+?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalOutpostCrp
+?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalOutpostInf
+?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalShipCrp
+?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalShipInf
+?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalVoidOro
+Corpus Void Key,/Lotus/StoreItems/Types/Keys/CorpusCaptureKey
+Orokin Derelict Capture,/Lotus/StoreItems/Types/Keys/DerelictCaptureKey
+Orokin Derelict Capture Blueprint,/Lotus/StoreItems/Types/Keys/DerelictCaptureKeyBlueprint
+Orokin Derelict Defense,/Lotus/StoreItems/Types/Keys/DerelictDefenseKey
+Orokin Derelict Defense Blueprint,/Lotus/StoreItems/Types/Keys/DerelictDefenseKeyBlueprint
+Orokin Derelict Exterminate,/Lotus/StoreItems/Types/Keys/DerelictExterminateKey
+Orokin Derelict Exterminate Blueprint,/Lotus/StoreItems/Types/Keys/DerelictExterminateKeyBlueprint
+Orokin Derelict Assassinate,/Lotus/StoreItems/Types/Keys/DerelictGolemKey
+?,/Lotus/StoreItems/Types/Keys/DerelictKeyBlueprint
+Orokin Derelict Survival,/Lotus/StoreItems/Types/Keys/DerelictSurvivalKey
+Orokin Derelict Survival Blueprint,/Lotus/StoreItems/Types/Keys/DerelictSurvivalKeyBlueprint
+Clan Key,/Lotus/StoreItems/Types/Keys/DojoKey
+Clan Key Blueprint,/Lotus/StoreItems/Types/Keys/DojoKeyBlueprint
+Orokin Derelict Assassinate Blueprint,/Lotus/StoreItems/Types/Keys/GolemKeyBlueprint
+Tethra Shield Cipher,/Lotus/StoreItems/Types/Keys/NightmareKeyShipyardsRetrieval
+Tethra Shield Cipher Blueprint,/Lotus/StoreItems/Types/Keys/NightmareRetrievalKeyBlueprint
+Tower I Capture,/Lotus/StoreItems/Types/Keys/OrokinCaptureKeyA
+Tower Ii Capture,/Lotus/StoreItems/Types/Keys/OrokinCaptureKeyB
+Tower Iii Capture,/Lotus/StoreItems/Types/Keys/OrokinCaptureKeyC
+Tower I Defense,/Lotus/StoreItems/Types/Keys/OrokinDefenseKeyA
+Tower Ii Defense,/Lotus/StoreItems/Types/Keys/OrokinDefenseKeyB
+Tower Iii Defense,/Lotus/StoreItems/Types/Keys/OrokinDefenseKeyC
+Tower I Exterminate,/Lotus/StoreItems/Types/Keys/OrokinKeyA
+Tower I Survival,/Lotus/StoreItems/Types/Keys/OrokinKeyB
+Tower Ii Exterminate,/Lotus/StoreItems/Types/Keys/OrokinKeyC
+Tower Ii Survival,/Lotus/StoreItems/Types/Keys/OrokinKeyD
+Tower Iii Exterminate,/Lotus/StoreItems/Types/Keys/OrokinKeyE
+Tower I Mobile Defense,/Lotus/StoreItems/Types/Keys/OrokinMobileDefenseKeyA
+Tower Ii Mobile Defense,/Lotus/StoreItems/Types/Keys/OrokinMobileDefenseKeyB
+Tower Iii Mobile Defense,/Lotus/StoreItems/Types/Keys/OrokinMobileDefenseKeyC
+Tower Iii Survival,/Lotus/StoreItems/Types/Keys/OrokinTowerSurvivalT3Key
+?,/Lotus/StoreItems/Types/Keys/QuestKeyA
+?,/Lotus/StoreItems/Types/Keys/QuestKeyB
+?,/Lotus/StoreItems/Types/Keys/QuestKeyC
+?,/Lotus/StoreItems/Types/Keys/QuestKeyChainA
+?,/Lotus/StoreItems/Types/Keys/QuestKeyChainB
+?,/Lotus/StoreItems/Types/Keys/QuestKeyChainC
+?,/Lotus/StoreItems/Types/Keys/QuestKeyChainD
+Tethra Cipher Blueprint,/Lotus/StoreItems/Types/Keys/RetrievalKeyBlueprint
+Tower I Exterminate,/Lotus/StoreItems/Types/Keys/SettlementTestKey
+?,/Lotus/StoreItems/Types/Keys/TestKeyA
+?,/Lotus/StoreItems/Types/Keys/TestKeyB
+?,/Lotus/StoreItems/Types/Keys/TestKeyC
+?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusOutpostRescueMed
+?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescue
+?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescueHard
+?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescueMed
+?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescueNightmare
+?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusToCorpusInfested
+?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusToGrineerTeleport
+?,/Lotus/StoreItems/Types/Keys/TestKeyForestBoss
+?,/Lotus/StoreItems/Types/Keys/TestKeyForestCapture
+?,/Lotus/StoreItems/Types/Keys/TestKeyForestEndlessDefense
+Cicero Injector,/Lotus/StoreItems/Types/Keys/TestKeyForestEvent
+?,/Lotus/StoreItems/Types/Keys/TestKeyForestExtermination
+?,/Lotus/StoreItems/Types/Keys/TestKeyForestMobileDefense
+?,/Lotus/StoreItems/Types/Keys/TestKeyForestSurvival
+?,/Lotus/StoreItems/Types/Keys/TestKeyForestTerritories
+?,/Lotus/StoreItems/Types/Keys/TestKeyGasCapture
+?,/Lotus/StoreItems/Types/Keys/TestKeyGasCounterIntel
+?,/Lotus/StoreItems/Types/Keys/TestKeyGasDefense
+?,/Lotus/StoreItems/Types/Keys/TestKeyGasExterminate
+?,/Lotus/StoreItems/Types/Keys/TestKeyGasIntel
+?,/Lotus/StoreItems/Types/Keys/TestKeyGasMobileDefense
+?,/Lotus/StoreItems/Types/Keys/TestKeyGasRescue
+?,/Lotus/StoreItems/Types/Keys/TestKeyGasSabotage
+?,/Lotus/StoreItems/Types/Keys/TestKeyGasSurvival
+?,/Lotus/StoreItems/Types/Keys/TestKeyGrineerGalleonBoss
+?,/Lotus/StoreItems/Types/Keys/TestKeyGrineerToCorpusTorpedo
+?,/Lotus/StoreItems/Types/Keys/TestKeyHyenaPack
+?,/Lotus/StoreItems/Types/Keys/TestKeyInfestedCorpusHive
+?,/Lotus/StoreItems/Types/Keys/TestKeyKubrow
+?,/Lotus/StoreItems/Types/Keys/TestKeyOrokinSabotageOne
+?,/Lotus/StoreItems/Types/Keys/TestKeySectorWars
+?,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsBoss
+?,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsDefense
+?,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsHekEvent
+Tethra's Doom,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsInterception
+?,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsMobileDefense
+?,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsRescueMed
+Tethra Cipher,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsRetrieval
+?,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsSabotage
+?,/Lotus/StoreItems/Types/Keys/TestKeySurvival
+?,/Lotus/StoreItems/Types/Keys/TestKeyTransitional
+?,/Lotus/StoreItems/Types/Keys/TestKeyTransitionalB
+?,/Lotus/StoreItems/Types/Keys/TestKeyTransitionalC
+Vay Hek Frequency Triangulator,/Lotus/StoreItems/Types/Keys/VeyHekKey
+Vay Hek Frequency Triangulator Blueprint,/Lotus/StoreItems/Types/Keys/VeyHekKeyBlueprint
+1000 Credits Cache,/Lotus/StoreItems/Types/PickUps/Credits/1000Credits
+1500 Credits Cache,/Lotus/StoreItems/Types/PickUps/Credits/1500Credits
+2000 Credits Cache,/Lotus/StoreItems/Types/PickUps/Credits/2000Credits
+2500 Credits Cache,/Lotus/StoreItems/Types/PickUps/Credits/2500Credits
+3000 Credits Cache,/Lotus/StoreItems/Types/PickUps/Credits/3000Credits
+4000 Credits Cache,/Lotus/StoreItems/Types/PickUps/Credits/4000Credits
+5000 Credits Cache,/Lotus/StoreItems/Types/PickUps/Credits/5000Credits
+500 Credits Cache,/Lotus/StoreItems/Types/PickUps/Credits/500Credits
+Grustrag Bolt Release Blueprint,/Lotus/StoreItems/Types/Recipes/Components/BrandRemovalBlueprint
+Grustrag Bolt Release,/Lotus/StoreItems/Types/Recipes/Components/BrandRemovalFakeItem
+Vapor Specter x10 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/BronzeSpectreBlueprint
+?,/Lotus/StoreItems/Types/Recipes/Components/ClanCreatorBlueprint
+Forma Blueprint,/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint
+Force Specter x3 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/GoldSpectreBlueprint
+Orokin Catalyst Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinCatalystBlueprint
+Orokin Reactor Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinReactorBlueprint
+Cosmic Specter Blueprint,/Lotus/StoreItems/Types/Recipes/Components/PlatinumSpectreBlueprint
+Phase Specter x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/SilverSpectreBlueprint
+Titan Extractor Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Drones/AdvancedResourceDroneBlueprint
+Distilling Extractor Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Drones/AdvancedUcResourceDroneBlueprint
+Titan Extractor Blueprint,/Lotus/StoreItems/Types/Recipes/Drones/BasicResourceDroneBlueprint
+Distilling Extractor Blueprint,/Lotus/StoreItems/Types/Recipes/Drones/BasicUcResourceDroneBlueprint
+Flux Nova Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/AntiAltHelmetStatlessBlueprint
+Arcane Scorpion Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/AshAltHelmetBlueprint
+Chlora Saryn Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/AspAltHelmetBStatlessBlueprint
+Hemlock Saryn Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/AspAltHelmetStatlessBlueprint
+Arcane Reverb Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/BansheeAltHelmetBlueprint
+Chorus Banshee Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/DecreeAltHelmetBStatlessBlueprint
+Reverb Banshee Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/DecreeAltHelmetStatlessBlueprint
+Arcane Phoenix Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/EmberAltHelmetBlueprint
+Backdraft Ember Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/EmberHelmetAltBStatlessBlueprint
+Phoenix Ember Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/EmberHelmetAltStatlessBlueprint
+Arcane Avalon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ExcaliburAltHelmetBlueprint
+Pendragon Excalibur Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ExcaliburHelmetAltBStatlessBlueprint
+Avalon Excalibur Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ExcaliburHelmetAltStatlessBlueprint
+Arcane Aurora Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/FrostAltHelmetBlueprint
+Squall Frost Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/FrostHelmetAltBStatlessBlueprint
+Aurora Frost Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/FrostHelmetAltStatlessBlueprint
+Vespa Nyx Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/JadeHelmetAltBStatlessBlueprint
+Menticide Nyx Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/JadeHelmetAltStatlessBlueprint
+Arcane Essence Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LokiAltHelmetBlueprint
+Swindle Loki Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LokiHelmetAltBStatlessBlueprint
+Essence Loki Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LokiHelmetAltStatlessBlueprint
+Arcane Coil Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/MagAltHelmetBlueprint
+Gauss Mag Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/MagHelmetAltBStatlessBlueprint
+Coil Mag Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/MagHelmetAltStatlessBlueprint
+Raknis Nekros Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NekrosAraknidHelmetBlueprint
+Shroud Nekros Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NekrosShroudHelmetBlueprint
+Locust Ash Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NinjaHelmetAltBStatlessBlueprint
+Scorpion Ash Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NinjaHelmetAltStatlessBlueprint
+Arcane Flux Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NovaAltHelmetBlueprint
+Quantum Nova Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NovaQuantumHelmetBlueprint
+Arcane Menticide Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NyxAltHelmetBlueprint
+Markhor Oberon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/OberonAltBHelmetBlueprint
+Oryx Oberon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/OberonAltHelmetBlueprint
+Triton Hydroid Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/PirateAltHelmetBlueprint
+Arcane Thrak Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/RhinoAltHelmetBlueprint
+Vanguard Rhino Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/RhinoHelmetAltBStatlessBlueprint
+Thrak Rhino Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/RhinoHelmetAltStatlessBlueprint
+Arcane Hemlock Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/SarynAltHelmetBlueprint
+Gambit Vauban Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/TrapperHelmetAltBStatlessBlueprint
+Esprit Vauban Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/TrapperHelmetAltStatlessBlueprint
+Arcane Aura Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/TrinityAltHelmetBlueprint
+Meridian Trinity Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/TrinityHelmetAltBStatlessBlueprint
+Aura Trinity Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/TrinityHelmetAltStatlessBlueprint
+Arcane Locust Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2AshAltHelmetBlueprint
+Arcane Chorus Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2BansheeAltHelmetBlueprint
+Arcane Backdraft Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2EmberAltHelmetBlueprint
+Arcane Pendragon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2ExcaliburAltHelmetBlueprint
+Arcane Squall Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2FrostAltHelmetBlueprint
+Arcane Swindle Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2LokiAltHelmetBlueprint
+Arcane Gauss Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2MagAltHelmetBlueprint
+Arcane Vespa Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2NyxAltHelmetBlueprint
+Arcane Vanguard Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2RhinoAltHelmetBlueprint
+Arcane Chlora Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2SarynAltHelmetBlueprint
+Arcane Meridian Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2TrinityAltHelmetBlueprint
+Arcane Gambit Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2VaubanAltHelmetBlueprint
+Arcane Pulse Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/V2VoltAltHelmetBlueprint
+Kara Valkyr Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ValkyrAltBHelmetBlueprint
+Bastet Valkyr Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ValkyrBastetHelmetBlueprint
+Arcane Esprit Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/VaubanAltHelmetBlueprint
+Arcane Storm Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/VoltAltHelmetBlueprint
+Pulse Volt Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/VoltHelmetAltBStatlessBlueprint
+Storm Volt Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/VoltHelmetAltStatlessBlueprint
+Cierzo Zephyr Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ZephyrCierzoHelmetBlueprint
+Carrier Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/CarrierSentinelBlueprint
+Dethcube Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/DethCubeSentinelBlueprint
+Shade Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/ShadeSentinelBlueprint
+Wyrm Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/WyrmSentinelBlueprint
+Ash Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshBlueprint
+Ash Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshChassisBlueprint
+Ash Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshChassisComponent
+Ash Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshHelmetBlueprint
+Ash Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshHelmetComponent
+Ash Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshSystemsBlueprint
+Ash Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshSystemsComponent
+Banshee Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BansheeBlueprint
+Banshee Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BansheeChassisBlueprint
+Banshee Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BansheeChassisComponent
+Banshee Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BansheeHelmetBlueprint
+Banshee Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BansheeHelmetComponent
+Banshee Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BansheeSystemsBlueprint
+Banshee Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BansheeSystemsComponent
+Valkyr Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BerserkerBlueprint
+Valkyr Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BerserkerChassisBlueprint
+Valkyr Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BerserkerChassisComponent
+Valkyr Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BerserkerHelmetBlueprint
+Valkyr Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BerserkerHelmetComponent
+Valkyr Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BerserkerSystemsBlueprint
+Valkyr Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BerserkerSystemsComponent
+Ember Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberBlueprint
+Ember Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberChassisBlueprint
+Ember Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberChassisComponent
+Ember Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberHelmetBlueprint
+Ember Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberHelmetComponent
+Ember Prime Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberPrimeBlueprint
+Ember Prime Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberPrimeChassisBlueprint
+Ember Prime Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberPrimeChassisComponent
+Ember Prime Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberPrimeHelmetBlueprint
+Ember Prime Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberPrimeHelmetComponent
+Ember Prime Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberPrimeSystemsBlueprint
+Ember Prime Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberPrimeSystemsComponent
+Ember Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberSystemsBlueprint
+Ember Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/EmberSystemsComponent
+Excalibur Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/ExcaliburBlueprint
+Excalibur Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/ExcaliburChassisBlueprint
+Excalibur Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/ExcaliburChassisComponent
+Excalibur Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/ExcaliburHelmetBlueprint
+Excalibur Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/ExcaliburHelmetComponent
+Excalibur Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/ExcaliburSystemsBlueprint
+Excalibur Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/ExcaliburSystemsComponent
+Frost Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostBlueprint
+Frost Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostChassisBlueprint
+Frost Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostChassisComponent
+Frost Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostHelmetBlueprint
+Frost Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostHelmetComponent
+Frost Prime Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostPrimeBlueprint
+Frost Prime Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostPrimeChassisBlueprint
+Frost Prime Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostPrimeChassisComponent
+Frost Prime Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostPrimeHelmetBlueprint
+Frost Prime Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostPrimeHelmetComponent
+Frost Prime Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostPrimeSystemsBlueprint
+Frost Prime Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostPrimeSystemsComponent
+Frost Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostSystemsBlueprint
+Frost Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostSystemsComponent
+Hydroid Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidBlueprint
+Hydroid Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidChassisBlueprint
+Hydroid Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidChassisComponent
+Hydroid Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidHelmetBlueprint
+Hydroid Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidHelmetComponent
+Hydroid Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidSystemsBlueprint
+Hydroid Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidSystemsComponent
+Loki Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LOKIBlueprint
+Loki Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LOKIChassisBlueprint
+Loki Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LOKIChassisComponent
+Loki Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LOKIHelmetBlueprint
+Loki Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LOKIHelmetComponent
+Loki Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LOKISystemsBlueprint
+Loki Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LOKISystemsComponent
+Mag Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagBlueprint
+Mag Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagChassisBlueprint
+Mag Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagChassisComponent
+Mag Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagHelmetBlueprint
+Mag Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagHelmetComponent
+Mag Prime Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagPrimeBlueprint
+Mag Prime Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagPrimeChassisBlueprint
+Mag Prime Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagPrimeChassisComponent
+Mag Prime Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagPrimeHelmetBlueprint
+Mag Prime Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagPrimeHelmetComponent
+Mag Prime Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagPrimeSystemsBlueprint
+Mag Prime Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagPrimeSystemsComponent
+Mag Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagSystemsBlueprint
+Mag Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagSystemsComponent
+Nekros Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NecroBlueprint
+Nekros Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NecroChassisBlueprint
+Nekros Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NecroChassisComponent
+Nekros Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NecroHelmetBlueprint
+Nekros Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NecroHelmetComponent
+Nekros Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NecroSystemsBlueprint
+Nekros Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NecroSystemsComponent
+Nova Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaBlueprint
+Nova Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaChassisBlueprint
+Nova Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaChassisComponent
+Nova Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaHelmetBlueprint
+Nova Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaHelmetComponent
+Nova Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaSystemsBlueprint
+Nova Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaSystemsComponent
+Nyx Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxBlueprint
+Nyx Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxChassisBlueprint
+Nyx Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxChassisComponent
+Nyx Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxHelmetBlueprint
+Nyx Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxHelmetComponent
+Nyx Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxSystemsBlueprint
+Nyx Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxSystemsComponent
+Oberon Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/PaladinBlueprint
+Oberon Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/PaladinChassisBlueprint
+Oberon Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/PaladinChassisComponent
+Oberon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/PaladinHelmetBlueprint
+Oberon Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/PaladinHelmetComponent
+Oberon Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/PaladinSystemsBlueprint
+Oberon Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/PaladinSystemsComponent
+Rhino Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoBlueprint
+Rhino Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoChassisBlueprint
+Rhino Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoChassisComponent
+Rhino Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoHelmetBlueprint
+Rhino Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoHelmetComponent
+Rhino Prime Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoPrimeBlueprint
+Rhino Prime Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoPrimeChassisBlueprint
+Rhino Prime Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoPrimeChassisComponent
+Rhino Prime Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoPrimeHelmetBlueprint
+Rhino Prime Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoPrimeHelmetComponent
+Rhino Prime Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoPrimeSystemsBlueprint
+Rhino Prime Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoPrimeSystemsComponent
+Rhino Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoSystemsBlueprint
+Rhino Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/RhinoSystemsComponent
+Saryn Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SarynBlueprint
+Saryn Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SarynChassisBlueprint
+Saryn Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SarynChassisComponent
+Saryn Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SarynHelmetBlueprint
+Saryn Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SarynHelmetComponent
+Saryn Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SarynSystemsBlueprint
+Saryn Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SarynSystemsComponent
+Zephyr Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguBlueprint
+Zephyr Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguChassisBlueprint
+Zephyr Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguChassisComponent
+Zephyr Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguHelmetBlueprint
+Zephyr Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguHelmetComponent
+Zephyr Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguSystemsBlueprint
+Zephyr Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguSystemsComponent
+Vauban Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperBlueprint
+Vauban Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperChassisBlueprint
+Vauban Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperChassisComponent
+Vauban Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperHelmetBlueprint
+Vauban Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperHelmetComponent
+Vauban Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperSystemsBlueprint
+Vauban Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperSystemsComponent
+Trinity Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrinityBlueprint
+Trinity Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrinityChassisBlueprint
+Trinity Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrinityChassisComponent
+Trinity Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrinityHelmetBlueprint
+Trinity Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrinityHelmetComponent
+Trinity Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrinitySystemsBlueprint
+Trinity Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrinitySystemsComponent
+Volt Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VOLTBlueprint
+Volt Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VOLTChassisBlueprint
+Volt Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VOLTChassisComponent
+Volt Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VOLTHelmetBlueprint
+Volt Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VOLTHelmetComponent
+Volt Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VOLTSystemsBlueprint
+Volt Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VOLTSystemsComponent
+Dagger Axe Skin Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/Skins/DaggerAxeBlueprint
+Dagger Zoren Skin Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/Skins/DualDaggerAxeBlueprint
+Manticore Axe Skin Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/Skins/GrnAxeBlueprint
+Brokk Hammer Skin Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/Skins/GrnHammerBlueprint
+Akbronco Prime Link,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/AkbroncoPrimeLink
+Ankyros Prime Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/AnkyrosPrimeBlade
+Ankyros Prime Gauntlet,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/AnkyrosPrimeGauntlet
+Boar Prime Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BoarPrimeBarrel
+Boar Prime Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BoarPrimeReceiver
+Boar Prime Stock,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BoarPrimeStock
+Boltor Prime Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BoltorPrimeBarrel
+Boltor Prime Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BoltorPrimeReceiver
+Boltor Prime Stock,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BoltorPrimeStock
+Brakk Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BrakkBarrel
+Brakk Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BrakkReceiver
+Braton Prime Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BratonPrimeBarrel
+Braton Prime Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BratonPrimeReceiver
+Braton Prime Stock,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BratonPrimeStock
+Bronco Prime Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel
+Bronco Prime Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver
+Burston Prime Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BurstonPrimeBarrel
+Burston Prime Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BurstonPrimeReceiver
+Burston Prime Stock,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock
+Detron Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/DetronBarrel
+Detron Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/DetronReceiver
+Glaive Prime Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/GlaivePrimeBlade
+Glaive Prime Disc,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/GlaivePrimeDisc
+Latron Prime Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LatronPrimeBarrel
+Latron Prime Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LatronPrimeReceiver
+Latron Prime Stock,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LatronPrimeStock
+Lex Prime Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LexPrimeBarrel
+Lex Prime Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LexPrimeReceiver
+Miter Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/MiterBarrel
+Miter Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/MiterBlade
+Miter Chassis,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/MiterChassis
+Miter Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/MiterHandle
+Paris Prime Grip,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowGrip
+Paris Prime Lower Limb,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowLowerLimb
+Paris Prime String,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowString
+Paris Prime Upper Limb,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowUpperLimb
+Dakra Prime Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCronusLongSwordBlade
+Dakra Prime Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCronusLongSwordHandle
+Fang Prime Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeFangBlade
+Fang Prime Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeFangHandle
+Orthos Prime Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimePolearmBlade
+Orthos Prime Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimePolearmHandle
+Reaper Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeScytheBlade
+Reaper Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeScytheHandle
+Sicarus Prime Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/SicarusPrimeBarrel
+Sicarus Prime Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/SicarusPrimeReceiver
+Seer Pistol Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VorsPistolBarrel
+Seer Pistol Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VorsPistolReceiver
+Afuris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AFurisBlueprint
+Akbolto Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AkBoltoBlueprint
+Akbronco Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AkbroncoPrimeBlueprint
+Aklex Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AklexBlueprint
+Ankyros Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AnkyrosPrimeBlueprint
+Cernos Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AntlerBowBlueprint
+Ballistica Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AutoCrossBowBlueprint
+Scindo Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AxeBlueprint
+Boar Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoarPrimeBlueprint
+Bolto Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoltoBlueprint
+Boltor Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoltorBlueprint
+Boltor Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoltorPrimeBlueprint
+Kestrel Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoomerangBlueprint
+Paris Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BowPrimeBlueprint
+Brakk Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BrakkBlueprint
+Braton Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BratonPrimeBlueprint
+Bronco Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BroncoBlueprint
+Bronco Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BroncoPrimeBlueprint
+Burston Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BurstonPrimeBlueprint
+Burston Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BurstonRifleBlueprint
+Ceramic Dagger Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/CeramicDaggerBlueprint
+Dragon Nikana Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ConvertKatanaBlueprint
+Detron Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/CorpusHandcannonBlueprint
+Cestra Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/CorpusMinigunBlueprint
+Tetra Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/CorpusUMPBlueprint
+Lecta Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/CorpusWhipBlueprint
+Nami Skyla Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/CutlassPoignardBlueprint
+Dark Dagger Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DarkDaggerBlueprint
+Detron Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DetronBlueprint
+Sobek Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DoubleBarrelShotgunBlueprint
+Dual Zoren Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualAxeBlueprint
+Akbronco Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualBroncosBlueprint
+Dual Cleavers Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualCleaversBlueprint
+Dual Cestra Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualCorpusMinigunBlueprint
+Fang Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualDaggerBlueprint
+Ether Daggers Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualEtherDaggerBlueprint
+Dual Ether Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualEtherSwordBlueprint
+Dual Heat Swords Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualHeatSwordBlueprint
+Dual Kamas Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualKamasBlueprint
+Akmagnus Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualMagnusBlueprint
+Dual Skana Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualSkanaSwordBlueprint
+Akvasto Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualVastosBlueprint
+Ether Reaper Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/EtherScytheBlueprint
+Ether Sword Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/EtherSwordBlueprint
+Fang Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/FangPrimeBlueprint
+Furax Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/FuraxBlueprint
+Furis Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/FurisBlueprint
+Ankyros Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GauntletBlueprint
+Glaive Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GlaiveBlueprint
+Glaive Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GlaivePrimeBlueprint
+Gorgon Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GorgonBlueprint
+Gram Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GreatSwordBlueprint
+Twin Gremlins Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GremlinBlueprint
+Penta Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrenadeLauncherBlueprint
+Drakgoon Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerFlakCannonBlueprint
+Stug Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerGooGunBlueprint
+Brakk Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerHandcannonBlueprint
+Jat Kittag Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerJetPolearmBlueprint
+Viper Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerLightPistolBlueprint
+Karak Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerM16RifleBlueprint
+Grakata Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnAssaultRifleBlueprint
+Hind Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnBurstRifleBlueprint
+Kraken Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnHeavyPistolBlueprint
+Vulkar Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnSniperRifleBlueprint
+Amphis Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnStaffBlueprint
+Fragor Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/HammerBlueprint
+Heat Dagger Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/HeatDaggerBlueprint
+Heat Sword Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/HeatSwordBlueprint
+Paris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/HuntingBowBlueprint
+Tysis Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/InfestedDartPistolBlueprint
+Phage Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/InfestedShotgunBlueprint
+Jaw Sword Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/JawBlueprint
+Nikana Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/KatanaBlueprint
+Obex Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/KickPunchWeaponBlueprint
+Kogake,/Lotus/StoreItems/Types/Recipes/Weapons/KogakeBlueprint
+Kunai Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/KunaiBlueprint
+Latron Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/LatronBlueprint
+Latron Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/LatronPrimeBlueprint
+Lex Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/LexPrimeBlueprint
+Dragon Nikana Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/LowKatanaBlueprint
+Machete Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/MacheteBlueprint
+Magnus Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/MagnumBlueprint
+Mire Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/MireSwordBlueprint
+Miter Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/MiterBlueprint
+Magistar Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PaladinMaceBlueprint
+Pangolin Sword Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PangolinSwordBlueprint
+Plasma Sword Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PlasmaSwordBlueprint
+Orthos Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PolearmBlueprint
+Orthos Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PolearmPrimeBlueprint
+Dakra Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PrimeCronusLongSwordBlueprint
+Reaper Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PrimeScytheBlueprint
+Hek Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/QuadShotgunBlueprint
+Vasto Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/RevolverPistolBlueprint
+Sicarus Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/SicarusPrimeBlueprint
+Kama Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/SingleKamaBlueprint
+Skana Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/SkanaSwordBlueprint
+Snipetron Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/SnipetronBlueprint
+Bo Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/StaffBlueprint
+Dread Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/StalkerBowBlueprint
+Despair Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/StalkerKunaiBlueprint
+Hate Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/StalkerReaperBlueprint
+Boar Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/StrunShotgunBlueprint
+Castanas Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TaserStarBlueprint
+Soma Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoARBlueprint
+Tigris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoDoubleBarrelShotgunBlueprint
+Galatine Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoGreatSwordBlueprint
+Vectis Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoSniperRifleBlueprint
+Hikou Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoStarsBlueprint
+Akstiletto Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoUziBlueprint
+Attica Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TnoPrmryXbowBlueprint
+Twin Vipers Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TwinViperBlueprint
+Seer Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/VorsPistolBlueprint
+Cronus Blueprint,/Lotus/StoreItems/Types/Recipes/CronusBlueprint
+Dark Sword Blueprint,/Lotus/StoreItems/Types/Recipes/DarkSwordBlueprint
+Inferno Blueprint,/Lotus/StoreItems/Types/Recipes/IncendiaryRifleModBlueprint
+Mod Fuser Blueprint,/Lotus/StoreItems/Types/Recipes/ModFuserBlueprint
+Beryl Antitoxin,/Lotus/StoreItems/Types/Restoratives/Consumable/Toxins/DayCommonAntitoxin
+Cirtine Antitoxin,/Lotus/StoreItems/Types/Restoratives/Consumable/Toxins/DayUnCommonAntitoxin
+Amethyst Antitoxin,/Lotus/StoreItems/Types/Restoratives/Consumable/Toxins/NightCommonAntitoxin
+Topaz Antitoxin,/Lotus/StoreItems/Types/Restoratives/Consumable/Toxins/NightUnCommonAntitoxin
+Lapis Antitoxin,/Lotus/StoreItems/Types/Restoratives/Consumable/Toxins/RareAntitoxin
+Vermillion Antitoxin,/Lotus/StoreItems/Types/Restoratives/Consumable/Toxins/SoloRareAntitoxin
+Alpha Corruptor,/Lotus/StoreItems/Types/Restoratives/Consumable/AlphaCorruptor
+Beta Corruptor,/Lotus/StoreItems/Types/Restoratives/Consumable/BetaCorruptor
+Vapor Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/BronzeSpectre
+Grand Finale,/Lotus/StoreItems/Types/Restoratives/Consumable/FireWorksCrate
+Starburst,/Lotus/StoreItems/Types/Restoratives/Consumable/FireWorksSingle
+Force Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/GoldSpectre
+Cosmic Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/PlatinumSpectre
+Codex Scanner,/Lotus/StoreItems/Types/Restoratives/Consumable/Scanner
+Phase Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/SilverSpectre
+Stable Corruptor,/Lotus/StoreItems/Types/Restoratives/Consumable/StableCorruptor
+Extinguished Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/DamageDebuffKey
+Bleeding Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/HealthDebuffKey
+Decaying Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/ShieldDebuffKey
+Hobbled Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/SpeedDebuffKey
+Chargeable Health Restore,/Lotus/StoreItems/Types/Restoratives/ChargeableSelfHeal
+Cipher,/Lotus/StoreItems/Types/Restoratives/Cipher
+Medium Team Ammo Restore,/Lotus/StoreItems/Types/Restoratives/ClanTeamAmmoTotem
+Medium Team Energy Restore,/Lotus/StoreItems/Types/Restoratives/ClanTeamEnergyTotem
+Medium Team Heal Restore,/Lotus/StoreItems/Types/Restoratives/ClanTeamHealTotem
+Medium Team Shield Restore,/Lotus/StoreItems/Types/Restoratives/ClanTeamShieldTotem
+Health Restore,/Lotus/StoreItems/Types/Restoratives/SelfHealLarge
+Small Health Restore,/Lotus/StoreItems/Types/Restoratives/SelfHealSmall
+Omni Ammo Box,/Lotus/StoreItems/Types/Restoratives/SelfOmniAmmo
+Pistol Ammo Box,/Lotus/StoreItems/Types/Restoratives/SelfPistolAmmo
+Revive Unit Refill,/Lotus/StoreItems/Types/Restoratives/SelfRespawn
+Revive,/Lotus/StoreItems/Types/Restoratives/SelfRevive
+Rifle Ammo Box,/Lotus/StoreItems/Types/Restoratives/SelfRifleAmmo
+Shield Restore,/Lotus/StoreItems/Types/Restoratives/SelfShieldHeal
+Shotgun Ammo Box,/Lotus/StoreItems/Types/Restoratives/SelfShotgunAmmo
+Sniper Ammo Box,/Lotus/StoreItems/Types/Restoratives/SelfSniperAmmo
+Team Ammo Restore,/Lotus/StoreItems/Types/Restoratives/TeamAmmoTotem
+Team Energy Restore,/Lotus/StoreItems/Types/Restoratives/TeamEnergyTotem
+Team Heal Restore,/Lotus/StoreItems/Types/Restoratives/TeamHeal
+Team Heal Restore,/Lotus/StoreItems/Types/Restoratives/TeamHealTotem
+Team Shield Restore,/Lotus/StoreItems/Types/Restoratives/TeamShieldTotem
+Carrier,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/CarrierPowerSuit
+Dethcube,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/DethCubePowerSuit
+Djinn,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/GubberPowerSuit
+Helios,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/MeleePetPowerSuit
+Shade,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/ShadePowerSuit
+Wyrm,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/WyrmPowerSuit
+Fatal Attraction,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/Bait
+Striker,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/BoomStick
+Investigator,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/CodexScannerPrecept
+Coolant Leak,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/CoolantLeak
+Crowd Dispersion,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/CrowdDispersion
+Ghost,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/Ghost
+Guardian,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/Guardian
+Vacuum,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/ItemVacum
+Looter,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/Looter
+Regen,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/Regen
+Revenge,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/Revenge
+Sacrifice,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/RevivePlayer
+Sanctuary,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/Sanctuary
+Swift Deth,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/SwiftDeth
+Targeting Receptor,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/ThrowGlaivePrecept
+Thumper,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/Thumper
+Vaporize,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/Vaporize
+Warrior,/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/Warrior
+Burst Laser,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/BurstLaserPistol
+Deth Machine Rifle,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/DethMachineRifle
+Laser Rifle,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/LaserRifle
+Stinger,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/SentBioWeapon
+Deconstructor,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon
+Sweeper,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/SentShotgun
+Titan Extractor Prime,/Lotus/StoreItems/Types/Ship/AdvancedResourceDrone
+Distilling Extractor Prime,/Lotus/StoreItems/Types/Ship/AdvancedUcResourceDrone
+Titan Extractor,/Lotus/StoreItems/Types/Ship/BasicResourceDrone
+Distilling Extractor,/Lotus/StoreItems/Types/Ship/BasicUcResourceDrone
+Excalibur profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem1
+Volt profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem2
+Trinity profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem3
+Rhino profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem4
+Mag profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem5
+Ash profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem6
+Ember profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem7
+Loki profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem8
+Loki profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItemFrostPrime
+Ash Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshBright
+Ash Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshDark
+Locust Ash Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshLocustBright
+Locust Ash Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshLocustDark
+Scorpion Ash Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshScorpionBright
+Scorpion Ash Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshScorpionDark
+Banshee Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheeBright
+Chorus Banshee Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheeChorusBright
+Chorus Banshee Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheeChorusDark
+Banshee Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheeDark
+Reverb Banshee Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheeReverbBright
+Reverb Banshee Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheeReverbDark
+Backdraft Ember Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageEmberBackdraftBright
+Backdraft Ember Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageEmberBackdraftDark
+Ember Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageEmberBright
+Ember Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageEmberDark
+Pheonix Ember Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageEmberPheonixBright
+Pheonix Ember Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageEmberPheonixDark
+Ember Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageEmberPrimeBright
+Ember Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageEmberPrimeDark
+Avalon Excalibur Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburAvalonBright
+Avalon Excalibur Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburAvalonDark
+Excalibur Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburBright
+Excalibur Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburDark
+Pendragon Excalibur Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburPendragonBright
+Pendragon Excalibur Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburPendragonDark
+Excalibur Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburPrimeBright
+Excalibur Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburPrimeDark
+Excalibur Proto-Suit Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburProto
+Aurora Frost Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostAuroraBright
+Aurora Frost Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostAuroraDark
+Frost Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostBright
+Frost Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostDark
+Frost Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostPrimeBright
+Frost Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostPrimeDark
+Squall Frost Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostSquallBright
+Squall Frost Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostSquallDark
+Loki Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiBright
+Loki Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiDark
+Essence Loki Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiEssenceBright
+Essence Loki Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiEssenceDark
+Swindle Loki Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiSwindleBright
+Swindle Loki Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiSwindleDark
+Mag Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagBright
+Coil Mag Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagCoilBright
+Coil Mag Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagCoilDark
+Mag Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagDark
+Gauss Mag Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagGaussBright
+Gauss Mag Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagGaussDark
+Mag Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagPrimeBright
+Mag Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagPrimeDark
+Raknis Nekros Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNekrosAraknidBright
+Raknis Nekros Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNekrosAraknidDark
+Nekros Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNekrosBright
+Nekros Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNekrosDark
+Shroud Nekros Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNekrosShroudBright
+Shroud Nekros Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNekrosShroudDark
+Flux Nova Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaAltBright
+Flux Nova Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaAltDark
+Nova Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaBright
+Nova Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaDark
+Quantum Nova Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaQuantumBright
+Quantum Nova Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaQuantumDark
+Nyx Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxBright
+Nyx Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxDark
+Menticide Nyx Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxMenticideBright
+Menticide Nyx Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxMenticideDark
+Vespa Nyx Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxVespaBright
+Vespa Nyx Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxVespaDark
+Oryx Oberon Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageOberonAltBright
+Oryx Oberon Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageOberonAltDark
+Oberon Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageOberonBright
+Oberon Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageOberonDark
+Markhor Oberon Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageOberonMarkhorBright
+Markhor Oberon Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageOberonMarkhorDark
+Hydroid Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImagePirateBright
+Hydroid Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImagePirateDark
+Triton Hydroid Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImagePirateTritonBright
+Triton Hydroid Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImagePirateTritonDark
+Rhino Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageRhinoBright
+Rhino Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageRhinoDark
+Rhino Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageRhinoPrimeBright
+Rhino Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageRhinoPrimeDark
+Thrak Rhino Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageRhinoThrakBright
+Thrak Rhino Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageRhinoThrakDark
+Vanguard Rhino Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageRhinoVanguardBright
+Vanguard Rhino Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageRhinoVanguardDark
+Saryn Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynBright
+Chlora Saryn Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynChloraBright
+Chlora Saryn Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynChloraDark
+Saryn Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynDark
+Hemlock Saryn Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynHemlockBright
+Hemlock Saryn Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynHemlockDark
+Esprit Vauban Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperAltBright
+Esprit Vauban Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperAltDark
+Vauban Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperBright
+Vauban Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperDark
+Gambit Vauban Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperGambitBright
+Gambit Vauban Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperGambitDark
+Aura Trinity Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrinityAuraBright
+Aura Trinity Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrinityAuraDark
+Trinity Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrinityBright
+Trinity Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrinityDark
+Meridian Trinity Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrinityMeridianBright
+Meridian Trinity Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrinityMeridianDark
+Bastet Valkyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageValkyrBastetBright
+Bastet Valkyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageValkyrBastetDark
+Valkyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageValkyrBright
+Valkyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageValkyrDark
+Kara Valkyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageValkyrKaraBright
+Kara Valkyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageValkyrKaraDark
+Volt Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageVoltBright
+Volt Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageVoltDark
+Pulse Volt Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageVoltPulseBright
+Pulse Volt Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageVoltPulseDark
+Storm Volt Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageVoltStormBright
+Storm Volt Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageVoltStormDark
+Zephyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageZephyrBright
+Cierzo Zephyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageZephyrCierzoBright
+Cierzo Zephyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageZephyrCierzoDark
+Zephyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageZephyrDark
+Beryl Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/DayCommonAntitoxinBlueprint
+Cirtine Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/DayUnCommonAntitoxinBlueprint
+Amethyst Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/NightCommonAntitoxinBlueprint
+Topaz Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/NightUnCommonAntitoxinBlueprint
+Lapis Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/RareAntitoxinBlueprint
+Vermillion Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/SoloRareAntitoxinBlueprint
+Extinguished Dragon Key Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/DamageDebuffKeyBlueprint
+Bleeding Dragon Key Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/HealthDebuffKeyBlueprint
+Team Ammo Restore x50 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/HundredTeamAmmoTotemBlueprint
+Team Energy Restore x50 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/HundredTeamEnergyTotemBlueprint
+Team Heal Restore x50 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/HundredTeamHealTotemBlueprint
+Team Shield Restore x50 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/HundredTeamShieldTotemBlueprint
+Health Restore Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/SelfHealBlueprint
+Decaying Dragon Key Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/ShieldDebuffKeyBlueprint
+Hobbled Dragon Key Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/SpeedDebuffKeyBlueprint
+Team Ammo Restore Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/TeamAmmoTotemBlueprint
+Team Energy Restore Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/TeamEnergyTotemBlueprint
+Team Heal Restore Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/TeamHealTotemBlueprint
+Team Shield Restore Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/TeamShieldTotemBlueprint
+Team Ammo Restore x10 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/TenTeamAmmoTotemBlueprint
+Team Energy Restore x10 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/TenTeamEnergyTotemBlueprint
+Team Heal Restore x10 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/TenTeamHealTotemBlueprint
+Team Shield Restore x10 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/TenTeamShieldTotemBlueprint
+Cipher Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/CipherBlueprint
+Cipher x50 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/HundredCipherBlueprint
+Cipher x10 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/TenCipherBlueprint
+Frugal Credit Bundle,/Lotus/StoreItems/Types/StoreItems/CreditBundles/CreditBundleA
+Prodigal Credit Bundle,/Lotus/StoreItems/Types/StoreItems/CreditBundles/CreditBundleB
+High Roller Credit Bundle,/Lotus/StoreItems/Types/StoreItems/CreditBundles/CreditBundleC
+Warframe Slot,/Lotus/StoreItems/Types/StoreItems/SlotItems/SuitSlotItem
+Weapon Slot,/Lotus/StoreItems/Types/StoreItems/SlotItems/WeaponSlotItem
+Bastille,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerBastilleItem
+Daybreak,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerDaybreakItemA
+Easter,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerEasterItemA
+Fire,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerFireItemA
+Grineer,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerGrineerItemA
+Halloween,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerHalloweenItemA
+Ice,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerIceItemA
+Infested,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerInfestedItemA
+Classic,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerItem
+Classic Saturated,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerItemB
+Storm,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerItemC
+Color Picker D,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerItemD
+Psiv,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerPS4ItemA
+Red/White/Blue,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerRWBItem
+Shamrock,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerShamrockItem
+Twilight,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerTwilightItemA
+Valentine,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerValItemA
+Smoke Colors,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/NinjaColourPickerItem
+Thick Skin,/Lotus/StoreItems/Upgrades/Focus/Guardian/ArmorIncreaseFocus
+Swift Wounds,/Lotus/StoreItems/Upgrades/Focus/Guardian/HealReceiveBuffFocus
+Energy Drink,/Lotus/StoreItems/Upgrades/Focus/Guardian/InstantMaxEnergyFocus
+Healthy Attitude,/Lotus/StoreItems/Upgrades/Focus/Guardian/InstantMaxHealthFocus
+Insta Shield,/Lotus/StoreItems/Upgrades/Focus/Guardian/InstantMaxShieldFocus
+Insta-Mina,/Lotus/StoreItems/Upgrades/Focus/Guardian/InstantMaxStaminaFocus
+Abyssal,/Lotus/StoreItems/Upgrades/Focus/Tactician/AlliesOnFireFocus
+Channeling,/Lotus/StoreItems/Upgrades/Focus/Void/EnergyEfficiencyFocus
+Martyr,/Lotus/StoreItems/Upgrades/Focus/Ward/DamageHealsTeamFocus
+Rust,/Lotus/StoreItems/Upgrades/Focus/Ward/EnemyArmorReductionFocus
+Faulty Battery,/Lotus/StoreItems/Upgrades/Focus/Ward/EnemyShieldReductionFocus
+Linked Fate,/Lotus/StoreItems/Upgrades/Focus/Ward/HealthIncreaseLinkFocus
+Lucky Medic,/Lotus/StoreItems/Upgrades/Focus/Ward/InstantReviverFocus
+Empathy,/Lotus/StoreItems/Upgrades/Focus/Ward/RegenWeakerTeammatesFocus
+Sentinel Rebirth,/Lotus/StoreItems/Upgrades/Focus/Ward/ReviveTeamSentinelsFocus
+Killer Generator,/Lotus/StoreItems/Upgrades/Focus/Warrior/KillerFocusSource
+Great Sword Master,/Lotus/StoreItems/Upgrades/Focus/Warrior/MeleeBuffGreatSwordsFocus
+Hammer And Axe Time,/Lotus/StoreItems/Upgrades/Focus/Warrior/MeleeBuffHammersAndAxesFocus
+Sword Master,/Lotus/StoreItems/Upgrades/Focus/Warrior/MeleeBuffSwordsFocus
+Evasion,/Lotus/StoreItems/Upgrades/Focus/Warrior/NpcAimReductionFocus
+Taunt,/Lotus/StoreItems/Upgrades/Focus/Warrior/PlayerThreatIncreaseFocus
+Pistol Master,/Lotus/StoreItems/Upgrades/Focus/Warrior/WeaponAimBonusPistolFocus
+Rifle Master,/Lotus/StoreItems/Upgrades/Focus/Warrior/WeaponAimBonusRifleFocus
+Shotgun Master,/Lotus/StoreItems/Upgrades/Focus/Warrior/WeaponAimBonusShotgunFocus
+Madurai Lens,/Lotus/StoreItems/Upgrades/Focus/AttackLens
+Vazarin Lens,/Lotus/StoreItems/Upgrades/Focus/DefenseLens
+Zenurik Lens,/Lotus/StoreItems/Upgrades/Focus/PowerLens
+Naramon Lens,/Lotus/StoreItems/Upgrades/Focus/TacticLens
+Unairu Lens,/Lotus/StoreItems/Upgrades/Focus/WardLens
+Corrosive Projection,/Lotus/StoreItems/Upgrades/Mods/Aura/EnemyArmorReductionAuraMod
+Shield Disruption,/Lotus/StoreItems/Upgrades/Mods/Aura/EnemyShieldReductionAuraMod
+Infested Impedance,/Lotus/StoreItems/Upgrades/Mods/Aura/InfestationSpeedReductionAuraMod
+Electrical Resistance,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerElectricityImmunityAuraMod
+Enemy Radar,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerEnemyRadarAuraMod
+Energy Siphon,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerEnergyRegenAuraMod
+Fire Resistance,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerFireImmunityAuraMod
+Frost Insulation,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerFreezeImmunityAuraMod
+Physique,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerHealthAuraMod
+Rejuvenation,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerHealthRegenAuraMod
+Speed Holster,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerHolsterSpeedAuraMod
+Team Armory,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerInfiniteClipAuraMod
+Laser Deflection,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerLaserImmunityAuraMod
+Loot Detector,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerLootRadarAuraMod
+Steel Charge,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerMeleeAuraMod
+Lightning Blades,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerMeleeElectricityDamageAuraMod
+Pistol Scavenger,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerPistolAmmoAuraMod
+Pistol Amp,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerPistolDamageAuraMod
+Toxin Resistance,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerPoisonImmunityAuraMod
+Rifle Scavenger,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerRifleAmmoAuraMod
+Rifle Amp,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerRifleDamageAuraMod
+Shotgun Scavenger,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerShellAmmoAuraMod
+Shotgun Amp,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerShellDamageAuraMod
+Sniper Scavenger,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSniperAmmoAuraMod
+Dead Eye,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSniperDamageAuraMod
+Sprint Boost,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSprintAuraMod
+Affinity Amp,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerXPAuraMod
+EMP Aura,/Lotus/StoreItems/Upgrades/Mods/Aura/RobotPoorAimAuraMod
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl1ModFuser
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl2ModFuser
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl3ModFuser
+Common Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonModFuser
+Legendary Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegendaryModFuser
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl1ModFuser
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl2ModFuser
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl3ModFuser
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl4ModFuser
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl5ModFuser
+Rare Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareModFuser
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl1ModFuser
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl2ModFuser
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl3ModFuser
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl4ModFuser
+Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl5ModFuser
+Uncommon Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonModFuser
+True Punishment,/Lotus/StoreItems/Upgrades/Mods/Melee/Channel/ChannelCritsMod
+Quickening,/Lotus/StoreItems/Upgrades/Mods/Melee/Channel/ChannelFireRateMod
+Warrior's Grip,/Lotus/StoreItems/Upgrades/Mods/Melee/Channel/ChannelParryStaminaRedMod
+Enduring Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/Channel/ChannelStatusMod
+Life Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/Channel/ChannelVampireMod
+Spoiled Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/CorruptedDamageSpeedMod
+Corrupt Charge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/CorruptedHeavyDamageChargeSpeedMod
+Voltaic Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/ElectEventMeleeMod
+Focus Energy,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/FocusEnergyMod
+Virulent Scourge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/PoisonEventMeleeMod
+Rending Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/RendingStrikeMod
+Sundering Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponArmorPiercingDamageMod
+True Steel,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponCritChanceMod
+Organ Shatter,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponCritDamageMod
+Berserker,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponCritFireRateBonusMod
+Shocking Touch,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponElectricityDamageMod
+Molten Impact,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponFireDamageMod
+Fury,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponFireRateMod
+North Wind,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponFreezeDamageMod
+Power Throw,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaivePowerthrowMod
+Quick Return,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveReflectionDecreaseMod
+Rebound,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveReflectionIncreaseMod
+Whirlwind,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveSpeedMod
+Heavy Trauma,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponImpactDamageMod
+Reflex Coil,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeChargeRateMod
+Pressure Point,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeDamageMod
+Smite Corpus,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeFactionDamageCorpus
+Smite Grineer,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeFactionDamageGrineer
+Smite Infested,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeFactionDamageInfested
+Finishing Touch,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeFinisherDamageMod
+Killing Blow,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeHeavyDamageMod
+Reach,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeRangeIncMod
+Energy Channel,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponPowerDamageMod
+Jagged Edge,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponSlashDamageMod
+Second Wind,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponStaminaBonusMod
+Melee Prowess,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponStunChanceMod
+Fever Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponToxinDamageMod
+Hollow Point,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedCritDamagePistol
+Magnum Force,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedDamageRecoilPistol
+Tainted Clip,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedMaxClipReloadSpeedPistol
+Jolt,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod
+Lethal Torrent,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/GrinderMod
+Ice Storm,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/IceStormMod
+Pistol Pestilence,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/PoisonEventPistolMod
+Stunning Speed,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/StunningSpeedMod
+Trick Mag,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponAmmoMaxMod
+No Return,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponArmorPiercingDamageMod
+Slip Magazine,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponClipMaxMod
+Pistol Gambit,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponCritChanceMod
+Target Cracker,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponCritDamageMod
+Hornet Strike,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponDamageAmountMod
+Convulsion,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponElectricityDamageMod
+Heated Charge,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponFireDamageMod
+Barrel Diffusion,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponFireIterationsMod
+Gunslinger,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponFireRateMod
+Deep Freeze,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponFreezeDamageMod
+Concussion Rounds,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponImpactDamageMod
+Suppress,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponNoiseReductionMod
+Pistol Ammo Mutation,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponPistolConvertAmmoMod
+Expel Corpus,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCorpus
+Expel Grineer,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponPistolFactionDamageGrineer
+Expel Infested,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponPistolFactionDamageInfested
+Hawk Eye,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponPistolZoomFovMod
+Seeker,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponPunctureDepthMod
+Steady Hands,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponRecoilReductionMod
+Quickdraw,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponReloadSpeedMod
+Razor Shot,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponSlashDamageMod
+Sure Shot,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponStunChanceMod
+Pathogen Rounds,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponToxinDamageMod
+Critical Delay,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedCritRateFireRateRifle
+Heavy Caliber,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedDamageRecoilRifle
+Tainted Mag,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedMaxClipReloadSpeedRifle
+Vile Precision,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedRecoilFireRateRifle
+High Voltage,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/ElectEventRifleMod
+Hammer Shot,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/HammerShotMod
+Malignant Force,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/PoisonEventRifleMod
+Shred,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/ShredMod
+Wildfire,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/WildfireMod
+Thunderbolt,/Lotus/StoreItems/Upgrades/Mods/Rifle/BowExplosionChanceMod
+Primed Chamber,/Lotus/StoreItems/Upgrades/Mods/Rifle/EventSniperReloadDamageMod
+Charged Chamber,/Lotus/StoreItems/Upgrades/Mods/Rifle/SniperReloadDamageMod
+Ammo Drum,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponAmmoMaxMod
+Piercing Hit,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponArmorPiercingDamageMod
+Arrow Mutation,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponBowConvertAmmoMod
+Magazine Warp,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponClipMaxMod
+Point Strike,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponCritChanceMod
+Vital Sense,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponCritDamageMod
+Serration,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponDamageAmountMod
+Stormbringer,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponElectricityDamageMod
+Bane of Corpus,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFactionDamageCorpus
+Bane of Grineer,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFactionDamageGrineer
+Bane of Infested,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFactionDamageInfested
+Hellfire,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFireDamageMod
+Split Chamber,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFireIterationsMod
+Speed Trigger,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFireRateMod
+Cryo Rounds,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFreezeDamageMod
+Rupture,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponImpactDamageMod
+Firestorm,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponIncreaseRadialExplosionMod
+Hush,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponNoiseReductionMod
+Metal Auger,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponPunctureDepthMod
+Stabilizer,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponRecoilReductionMod
+Fast Hands,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponReloadSpeedMod
+Rifle Ammo Mutation,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponRifleConvertAmmoMod
+Sawtooth Clip,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponSlashDamageMod
+Sniper Ammo Mutation,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponSnipersConvertAmmoMod
+Rifle Aptitude,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponStunChanceMod
+Infected Clip,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponToxinDamageMod
+Eagle Eye,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponZoomFovMod
+Steel Fiber,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelArmourMod
+Spare Parts,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelDropChanceMod
+Self Destruct,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelExplosionMod
+Vitality,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelHealthMaxMod
+Fired Up,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelOverheatDamageMod
+Redirection,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelShieldMaxMod
+Fast Deflection,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelShieldRechargeRateMod
+Accelerated Blast,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/AcceleratedBlastMod
+Blaze,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/BlazeMod
+Tainted Shell,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedAccuracyFireRateShotgun
+Vicious Spread,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedDamageAccuracyShotgun
+Burdened Magazine,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedMaxClipReloadSpeedShotgun
+Shell Shock,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/ElectEventShotgunMod
+Toxic Barrage,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/PoisonEventShotgunMod
+Shell Compression,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponAmmoMaxMod
+Flechette,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponArmorPiercingDamageMod
+Ammo Stock,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponClipMaxMod
+Blunderbuss,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponCritChanceMod
+Ravage,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponCritDamageMod
+Point Blank,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponDamageAmountMod
+Charged Shell,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponElectricityDamageMod
+Incendiary Coat,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponFireDamageMod
+Hell's Chamber,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponFireIterationsMod
+Shotgun Spazz,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponFireRateMod
+Chilling Grasp,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponFreezeDamageMod
+Disruptor,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponImpactDamageMod
+Seeking Force,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponPunctureDepthMod
+Tactical Pump,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponReloadSpeedMod
+Shotgun Ammo Mutation,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponShotgunConvertAmmoMod
+Cleanse Corpus,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageCorpus
+Cleanse Grineer,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageGrineer
+Cleanse Infested,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageInfested
+Shredder,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponSlashDamageMod
+Shotgun Savvy,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponStunChanceMod
+Contagious Spread,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponToxinDamageMod
+Constitution,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/ConstitutionMod
+Narrow Minded,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedDurationRangeWarframe
+Fleeting Expertise,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedEfficiencyDurationWarframe
+Blind Rage,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedPowerEfficiencyWarframe
+Overextended,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedRangePowerWarframe
+Fortitude,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/FortitudeMod
+Vigor,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/VigorMod
+Continuity,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarAbilityDurationMod
+Streamline,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarAbilityEfficiencyMod
+Stretch,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarAbilityRangeMod
+Intensify,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarAbilityStrengthMod
+Steel Fiber,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarArmourMod
+Reflex Guard,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarAutoParryMod
+Undying Will,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarBleedoutDelayMod
+Natural Talent,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarCastingSpeedMod
+Master Thief,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarChanceToLoot
+Aviator,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarDamageReductionInAir
+Lightning Rod,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarDamageResistanceElectricity
+Flame Repellent,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarDamageResistanceFire
+Insulation,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarDamageResistanceIce
+Shock Absorbers,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarDamageResistanceKnockdown
+Diamond Skin,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarDamageResistanceLaser
+Antitoxin,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarDamageResistancePoison
+Resilient Focus,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarDamageResistanceStun
+Rage,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarDamageToEnergyMod
+Enemy Sense,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarEnemyRadarMod
+Heavy Impact,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarFallingImpactMod
+Provoked,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarGroundFireDmgMod
+Vitality,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarHealthMaxMod
+Handspring,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarKnockdownRecoveryMod
+Sure Footed,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarKnockdownResistanceMod
+Thief's Wit,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarLootRadarMod
+Warm Coat,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarMissionSpecificResistanceIce
+Parry,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarParryMeleeMod
+Reflection,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarParryReflectMod
+Equilibrium,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarPickupBonusMod
+Flow,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarPowerMaxMod
+Quick Thinking,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarPowerToHealthOnDeathMod
+Retribution,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarRevengeDamageMelee
+Redirection,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarShieldMaxMod
+Fast Deflection,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarShieldRechargeRateMod
+Shield Flux,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarShieldToStaminaMod
+Maglev,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarSlideBoostMod
+Rush,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarSprintSpeedMod
+Acrobat,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarStaminaCostMultiplierMod
+Marathon,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarStaminaMaxMod
+Quick Rest,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarStaminaRechargeRateMod
+Intruder,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarTimeLimitIncreaseMod
+Inferno,/Lotus/StoreItems/Upgrades/Modules/Crafted/IncendiaryRifleMod
+?,/Lotus/StoreItems/Upgrades/Modules/RareGrineerMeleeModule
+?,/Lotus/StoreItems/Upgrades/Modules/RareGrineerRifleModule
+?,/Lotus/StoreItems/Upgrades/Modules/RareGrineerShotgunModule
+?,/Lotus/StoreItems/Upgrades/Modules/RareOrokinWarframeModule
+?,/Lotus/StoreItems/Upgrades/Modules/RarePistolModule
+Arcane Flux Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiAltHelmet
+Flux Nova Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiAltHelmetStatless
+Nova Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiHelmet
+Nova Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiMatterAgileAnims
+Nova Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiMatterNobleAnims
+Nova Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaAlternateSkin
+Quantum Nova Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaQuantumHelmet
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeArmLeftArmor
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeArmRightArmor
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeChestArmor
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeLegLeftArmor
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeLegRightArmor
+Banshee Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/BansheeArmLeftArmor
+Ember Prime Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/EmberPrimeArmLeftArmor
+Ember Prime Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/EmberPrimeArmRightArmor
+Frost Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/FrostArmLeftArmor
+Frost Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/FrostArmRightArmor
+Frost Prime Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/FrostPrimeArmLeftArmor
+Frost Prime Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/FrostPrimeArmRightArmor
+Mag Prime Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/MagPrimeArmLeftArmor
+Mag Prime Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/MagPrimeArmRightArmor
+Oberon Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/OberonArmLeftArmor
+Oberon Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/OberonArmRightArmor
+Volt Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/VoltArmLeftArmor
+Volt Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/VoltArmRightArmor
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/SetOneArmLeftArmor
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/SetOneArmRightArmor
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/SetOneChestArmor
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/SetOneLegLeftArmor
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/SetOneLegRightArmor
+Saryn Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Asp/AspAgileAnims
+Arcane Hemlock Helmet,/Lotus/StoreItems/Upgrades/Skins/Asp/AspAltHelmet
+Arcane Chlora Helmet,/Lotus/StoreItems/Upgrades/Skins/Asp/AspAltHelmetB
+Chlora Saryn Helmet,/Lotus/StoreItems/Upgrades/Skins/Asp/AspAltHelmetBStatless
+Hemlock Saryn Helmet,/Lotus/StoreItems/Upgrades/Skins/Asp/AspAltHelmetStatless
+Saryn Helmet,/Lotus/StoreItems/Upgrades/Skins/Asp/AspHelmet
+Saryn Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Asp/AspNobleAnims
+Saryn Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Asp/SarynAlternateSkin
+Dagger Axe Skin,/Lotus/StoreItems/Upgrades/Skins/Axe/DaggerAxe
+Valkyr Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerAgileAnims
+Bastet Valkyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerBastetHelmet
+Valkyr's Bonds,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerDangles
+Valkyr Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerNobleAnims
+Kara Valkyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Berserker/ValkyrAltBHelmet
+Valkyr Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Berserker/ValkyrAlternateSkin
+Desert-Camo Twin Vipers,/Lotus/StoreItems/Upgrades/Skins/Camo/AkimboViperCamo
+Desert-Camo Gorgon,/Lotus/StoreItems/Upgrades/Skins/Camo/GorgonCamo
+Desert-Camo Grakata,/Lotus/StoreItems/Upgrades/Skins/Camo/GrakataCamo
+Desert-Camo Gremlins,/Lotus/StoreItems/Upgrades/Skins/Camo/GrnAkimboPistolsCamo
+Desert-Camo Kraken,/Lotus/StoreItems/Upgrades/Skins/Camo/KrackenCamo
+Desert-Camo Sobek,/Lotus/StoreItems/Upgrades/Skins/Camo/SobekCamo
+Desert-Camo Viper,/Lotus/StoreItems/Upgrades/Skins/Camo/ViperCamo
+Desert-Camo Vulkar,/Lotus/StoreItems/Upgrades/Skins/Camo/VulkarCamo
+Gradivus: Sacrifice Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/AggressionEventCorpusBadgeItem
+Gradivus: Loyalty Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/AggressionEventGrineerBadgeItem
+Clan Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/ClanEmblemItem
+Arid Fear Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/CorpusVoidBadgeItem
+Disciple's Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeDiscipleItem
+Grandmaster's Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeGrandMasterItem
+Hunter's Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeHunterItem
+Master's Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeMasterItem
+Emblem Of The Hunt,/Lotus/StoreItems/Upgrades/Skins/Clan/InfestationEventEmblemItem
+Cicero Crisis Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/JungleEventBadgeItem
+Ghost Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeGhostItem
+Moon Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeMoonItem
+Mountain Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeMountainItem
+Shadow Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeShadowItem
+Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
+Specters Of Liberty Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/RescueEventBadgeItem
+Tethra's Doom Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/ShipyardsEventBadgeItem
+Tethra's Doom Quantum Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/ShipyardsEventQuantumBadgeItem
+Bronze Skull Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/SkullBadgeBronzeItem
+Gold Skull Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/SkullBadgeGoldItem
+Silver Skull Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/SkullBadgeSilverItem
+Sling Stone Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/SlingStoneEmblemItem
+Survival Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/SurvivalEventBadgeItem
+Tenno Operative Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/TranslatorBadgeItem
+Shock Camo Braton,/Lotus/StoreItems/Upgrades/Skins/Dazzle/BratonDazzleCamo
+Shock Camo Cestra,/Lotus/StoreItems/Upgrades/Skins/Dazzle/CestraDazzleCamo
+Shock Camo Dera,/Lotus/StoreItems/Upgrades/Skins/Dazzle/DeraDazzleCamo
+Shock Camo Detron,/Lotus/StoreItems/Upgrades/Skins/Dazzle/DetronDazzleCamo
+Shock Camo Dual Cestra,/Lotus/StoreItems/Upgrades/Skins/Dazzle/DualCestraDazzleCamo
+Shock Camo Flux Rifle,/Lotus/StoreItems/Upgrades/Skins/Dazzle/FluxRifleDazzleCamo
+Shock Camo Lanka,/Lotus/StoreItems/Upgrades/Skins/Dazzle/LankaDazzleCamo
+Shock Camo Lecta,/Lotus/StoreItems/Upgrades/Skins/Dazzle/LectaDazzleCamo
+Shock Camo Obex,/Lotus/StoreItems/Upgrades/Skins/Dazzle/ObexDazzleCamo
+Shock Camo Penta,/Lotus/StoreItems/Upgrades/Skins/Dazzle/PentaDazzleCamo
+Shock Camo Prova,/Lotus/StoreItems/Upgrades/Skins/Dazzle/ProvaDazzleCamo
+Shock Camo Snipetron,/Lotus/StoreItems/Upgrades/Skins/Dazzle/SnipetronDazzleCamo
+Shock Camo Spectra,/Lotus/StoreItems/Upgrades/Skins/Dazzle/SpectraDazzleCamo
+Shock Camo Supra,/Lotus/StoreItems/Upgrades/Skins/Dazzle/SupraDazzleCamo
+Shock Camo Tetra,/Lotus/StoreItems/Upgrades/Skins/Dazzle/TetraDazzleCamo
+Banshee Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Decree/BansheeAlternateSkin
+Banshee Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeAgileAnims
+Arcane Reverb Helmet,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeAltHelmet
+Arcane Chorus Helmet,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeAltHelmetB
+Chorus Banshee Helmet,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeAltHelmetBStatless
+Reverb Banshee Helmet,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeAltHelmetStatless
+Banshee Helmet,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeHelmet
+Banshee Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeNobleAnims
+Dagger Zoren Skin,/Lotus/StoreItems/Upgrades/Skins/DualAxe/DaggerAxe
+Ember Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberAgileAnims
+Ember Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberAlternateSkin
+Ember Helmet,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberHelmet
+Arcane Phoenix Helmet,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberHelmetAlt
+Arcane Backdraft Helmet,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberHelmetAltB
+Backdraft Ember Helmet,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberHelmetAltBStatless
+Phoenix Ember Helmet,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberHelmetAltStatless
+Ember Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberNobleAnims
+Ember Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberPrimeHelmet
+Excalibur Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburAgileAnims
+Excalibur Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburAlternateSkin
+Excalibur Helmet,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelmet
+Arcane Avalon Helmet,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelmetAlt
+Arcane Pendragon Helmet,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelmetAltB
+Pendragon Excalibur Helmet,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelmetAltBStatless
+Avalon Excalibur Helmet,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelmetAltStatless
+Excalibur Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburNobleAnims
+Alabaster Skin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeAlabasterSkin
+Excalibur Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeHelmet
+?,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoHelmet
+Excalibur Proto-Armor Skin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoSuit
+Excalibur Helmet,/Lotus/StoreItems/Upgrades/Skins/Excalibur/GeoffcaliburHelmet
+Frost Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostAgileAnims
+Frost Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostAlternateSkin
+Frost Helmet,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostHelmet
+Arcane Aurora Helmet,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostHelmetAlt
+Arcane Squall Helmet,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostHelmetAltB
+Squall Frost Helmet,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostHelmetAltBStatless
+Aurora Frost Helmet,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostHelmetAltStatless
+Frost Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostNobleAnims
+Frost Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostPrimeHelmet
+Forest-Camo Afuris,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestAfuris
+Forest-Camo Ballistica,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestBallistica
+Forest-Camo Boltor,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestBoltor
+Forest-Camo Braton,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestBraton
+Forest-Camo Dethcube,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestDethcube
+Forest-Camo Dual Heat Swords,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestDualHeatSwords
+Forest-Camo Akvasto,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestDualVastos
+Forest-Camo Dual Zoren,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestDualZoren
+Forest-Camo Furis,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestFuris
+Forest-Camo Heat Dagger,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestHeatDagger
+Forest-Camo Heat Sword,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestHeatSword
+Forest-Camo Orthos,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestOrthos
+Forest-Camo Paris,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestParis
+Forest-Camo Scindo,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestScindo
+Forest-Camo Soma,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestSoma
+Forest-Camo Vasto,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestVasto
+Forest-Camo Vectis,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestVectis
+Day Of The Dead Aklato Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenAklato
+Day Of The Dead Braton Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenBraton
+Day Of The Dead Dual Zoren Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenDualZoren
+Day Of The Dead Glaive Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenGlaive
+Day Of The Dead Gorgon Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenGorgon
+Day Of The Dead Lato Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenLato
+Day Of The Dead Lato Vandal Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenLatoVandal
+Day Of The Dead Orthos Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenOrthos
+Day Of The Dead Paris Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenParis
+Day Of The Dead Scindo Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenScindo
+Day Of The Dead Sobek Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenSobek
+Day Of The Dead Soma Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenSoma
+Day Of The Dead Gremlins Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenTwinGremlins
+Brokk Hammer Skin,/Lotus/StoreItems/Upgrades/Skins/Hammer/GrnHammer
+Manticore Axe Skin,/Lotus/StoreItems/Upgrades/Skins/HeavyAxe/GrnAxe
+Hydroid Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Hydroid/HydroidAgileAnims
+Hydroid Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Hydroid/HydroidNobleAnims
+Iahgames Braton,/Lotus/StoreItems/Upgrades/Skins/IAHGames/IAHGamesBratonSkin
+Nyx Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeAgileAnims
+Nyx Helmet,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmet
+Arcane Menticide Helmet,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmetAlt
+Arcane Vespa Helmet,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmetAltB
+Vespa Nyx Helmet,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmetAltBStatless
+Menticide Nyx Helmet,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmetAltStatless
+Nyx Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeNobleAnims
+Nyx Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Jade/NyxAlternateSkin
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/KatanaSheaths/KatanaSheathBasic
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/KatanaSheaths/KatanaSheathLightning
+Loki Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiAgileAnims
+Loki Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiAlternateSkin
+Loki Helmet,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmet
+Arcane Essence Helmet,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmetAlt
+Arcane Swindle Helmet,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmetAltB
+Swindle Loki Helmet,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmetAltBStatless
+Essence Loki Helmet,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmetAltStatless
+Loki Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiNobleAnims
+Mag Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Mag/MagAgileAnims
+Mag Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Mag/MagAlternateSkin
+Mag Helmet,/Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmet
+Arcane Coil Helmet,/Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmetAlt
+Arcane Gauss Helmet,/Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmetAltB
+Gauss Mag Helmet,/Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmetAltBStatless
+Coil Mag Helmet,/Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmetAltStatless
+Mag Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Mag/MagNobleAnims
+Mag Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Mag/MagPrimeHelmet
+Pazza Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/ChainTridentMeleeDangle
+Tantu Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/CordsMeleeDangle
+Suraka Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/LotusPointMeleeDangle
+Daman Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PolearmFriendlyMeleeDangle
+Nekros Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroAgileAnims
+Raknis Nekros Helmet,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroAraknidHelmet
+Mortos Syandana,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroDangles
+Nekros Helmet,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroHelmet
+Nekros Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroNobleAnims
+Shroud Nekros Helmet,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroShroudHelmet
+Nekros Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Necro/NekrosAlternateSkin
+Ash Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Ninja/AshAlternateSkin
+Ash Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaAgileAnims
+Ash Helmet,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmet
+Arcane Scorpion Helmet,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAlt
+Arcane Locust Helmet,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAltB
+Locust Ash Helmet,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAltBStatless
+Scorpion Ash Helmet,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAltStatless
+Ash Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaNobleAnims
+Nvidia Braton,/Lotus/StoreItems/Upgrades/Skins/Nvidia/NvidiaBratonSkin
+Oberon Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Paladin/OberonAlternateSkin
+Oberon Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinAgileAnims
+Oberon Helmet,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinHelmet
+Oryx Oberon Helmet,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinHelmetAlt
+Markhor Oberon Helmet,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinHelmetAltB
+Oberon Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinNobleAnims
+Triton Hydroid Helmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateAltHelmet
+Hydroid Helmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateDefaultHelmet
+RixtyMOL Aklato,/Lotus/StoreItems/Upgrades/Skins/Promo/RixtyMOL/RixtyMOLAklatoSkin
+Spearmint Scythe,/Lotus/StoreItems/Upgrades/Skins/Promo/Seasonal/CandyCaneEtherReaperSkin
+Spearmint Scythe,/Lotus/StoreItems/Upgrades/Skins/Promo/Seasonal/CandyCaneHateSkin
+Spearmint Scythe,/Lotus/StoreItems/Upgrades/Skins/Promo/Seasonal/CandyCaneReaperPrimeSkin
+Phased Akvasto Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/AkvastosVoidSkin
+Phased Ankyros Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/AnkyrosVoidSkin
+Phased Tigris Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/TigrisVoidSkin
+Phased Vasto Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/VastoVoidSkin
+Rhino Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoAgileAnims
+Rhino Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoAlternateSkin
+Rhino Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmet
+Arcane Thrak Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmetAlt
+Arcane Vanguard Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmetAltB
+Vanguard Rhino Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmetAltBStatless
+Thrak Rhino Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmetAltStatless
+Rhino Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoNobleAnims
+Rhino Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoPrimeHelmet
+Yomo Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/ArmScarf
+Uru Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/DinoSpikeScarf
+Asa Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarf
+Phased Asa Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarfVoidSkin
+Rakta Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/HornSkullScarf
+Noru Prime Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/NoruPrimeScarf
+Obsidian Braton Skin,/Lotus/StoreItems/Upgrades/Skins/Scarves/PS4ArmScarf
+Misa Prime Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeScarf
+Uru Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/RazorScarf
+Imperator Syandana ,/Lotus/StoreItems/Upgrades/Skins/Scarves/TurtleNeckScarf
+Coltek Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GunHeadMask
+Hunhow Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/HunhowMask
+Ictus Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/IctusMask
+Mandible Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/InfestedMask
+Kubrow Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/KubrowMask
+Lotus Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/LotusMask
+Mech Head Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/MechHeadMask
+Para Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/ParrotMask
+Capsule Sentinel Tail,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/CapsuleTail
+Coltek Sentinel Tail,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/ColtekTail
+Koi Sentinel Tail,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/FishTail
+Ictus Sentinel Tail,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/IctusTail
+Thorax Tail,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/InfestedTail
+Para Sentinel Tail,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/ParrotTail
+Coltek Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ColtekWings
+Coltek Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ColtekWingsRight
+Diamond Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/DiamondWings
+Diamond Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/DiamondWingsRight
+Dome Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/DomeWings
+Dome Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/DomeWingsRight
+Ictus Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/IctusWings
+Ictus Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/IctusWingsRight
+Chrysalis Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/InfestedWings
+Chrysalis Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/InfestedWingsRight
+Jet Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/JetWings
+Jet Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/JetWingsRight
+Para Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ParrotWings
+Para Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ParrotWingsRight
+Carabus Dethcube,/Lotus/StoreItems/Upgrades/Skins/Sentinels/CarbuncleDethcubeSkin
+Para Carrier,/Lotus/StoreItems/Upgrades/Skins/Sentinels/ParrotCarrierSkin
+Sprite Shade,/Lotus/StoreItems/Upgrades/Skins/Sentinels/SpriteShadeSkin
+Obsidian Braton Skin,/Lotus/StoreItems/Upgrades/Skins/Sony/PS4Braton
+Obsidian Lato Skin,/Lotus/StoreItems/Upgrades/Skins/Sony/PS4Lato
+Obsidian Braton Skin,/Lotus/StoreItems/Upgrades/Skins/Sony/PS4Mk1Braton
+Obsidian Skana Skin,/Lotus/StoreItems/Upgrades/Skins/Sony/PS4Skana
+Zephyr Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguAgileAnims
+Cierzo Zephyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguAltHelmet
+Zephyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguHelmet
+Zephyr Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguNobleAnims
+Vauban Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperAgileAnims
+Vauban Helmet,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperDefaultHelmet
+Arcane Esprit Helmet,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAlt
+Arcane Gambit Helmet,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAltB
+Gambit Vauban Helmet,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAltBStatless
+Esprit Vauban Helmet,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAltStatless
+Vauban Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperNobleAnims
+Vauban Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Trapper/VaubanAlternateSkin
+Phased Vauban Skin,/Lotus/StoreItems/Upgrades/Skins/Trapper/VaubanVoidSkin
+Phased Vauban Helmet,/Lotus/StoreItems/Upgrades/Skins/Trapper/VaubanVoidSkinHelmet
+Trinity Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityAgileAnims
+Trinity Helmet,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmet
+Arcane Aura Helmet,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAlt
+Arcane Meridian Helmet,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAltB
+Meridian Trinity Helmet,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAltBStatless
+Aura Trinity Helmet,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAltStatless
+Trinity Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityNobleAnims
+Volt Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltAgileAnims
+Volt Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltAlternateSkin
+Volt Helmet,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmet
+Arcane Storm Helmet,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmetAlt
+Arcane Pulse Helmet,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmetAltB
+Pulse Volt Helmet,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmetAltBStatless
+Storm Volt Helmet,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmetAltStatless
+Volt Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltNobleAnims
+Acrid,/Lotus/StoreItems/Weapons/ClanTech/Bio/AcidDartPistol
+Acrid Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/AcidDartPistolBlueprint
+Torid,/Lotus/StoreItems/Weapons/ClanTech/Bio/BioWeapon
+Torid Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/BioWeaponBlueprint
+Medium Team Heal Restore Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/ClanTeamHealBlueprint
+Medium Team Heal Restore x10 Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/ClanTenTeamHealBlueprint
+Dual Ichor Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/InfestedDualAxesBioWeaponBlueprint
+Embolist Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/InfestedPistolBioWeaponBlueprint
+Synapse Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/InfestedRifleBioWeaponBlueprint
+Djinn Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/InfestedSentinelWeaponBlueprint
+Scoliac Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/InfestedWhipWeaponBlueprint
+Medium Team Ammo Restore Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Chemical/ClanTeamAmmoBlueprint
+Medium Team Ammo Restore x10 Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Chemical/ClanTenTeamAmmoBlueprint
+Ignis,/Lotus/StoreItems/Weapons/ClanTech/Chemical/FlameThrower
+Ignis Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Chemical/FlameThrowerBlueprint
+Marelok Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Chemical/GLAPistolBlueprint
+Grinlok Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Chemical/GLARifleBlueprint
+Ogris,/Lotus/StoreItems/Weapons/ClanTech/Chemical/RocketLauncher
+Ogris Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Chemical/RocketLauncherBlueprint
+Amprex Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ChainLightningRifleBlueprint
+Medium Team Energy Restore Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ClanTeamEnergyBlueprint
+Medium Team Shield Restore Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ClanTeamShieldBlueprint
+Medium Team Energy Restore x10 Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ClanTenTeamEnergyBlueprint
+Medium Team Shield Restore x10 Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ClanTenTeamShieldBlueprint
+Supra,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpHeavyRifle
+Supra Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpHeavyRifleBlueprint
+Spectra,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserPistol
+Flux Rifle,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserRifle
+Prova,/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProd
+Prova Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProdBlueprint
+Dera,/Lotus/StoreItems/Weapons/ClanTech/Energy/EnergyRifle
+Dera Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/EnergyRifleBlueprint
+Helios Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/HeliosSentinelBlueprint
+Spectra Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/LaserPistolBlueprint
+Flux Rifle Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/LaserRifleBlueprint
+Lanka,/Lotus/StoreItems/Weapons/ClanTech/Energy/Railgun
+Lanka Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/RailgunBlueprint
+Prova Vandal,/Lotus/StoreItems/Weapons/ClanTech/Energy/VandalElectroProd
+Amprex,/Lotus/StoreItems/Weapons/Corpus/LongGuns/ChainLightningGun/ChainLightningRifle
+Tetra,/Lotus/StoreItems/Weapons/Corpus/LongGuns/CorpusUMP/CorpusUMP
+Penta,/Lotus/StoreItems/Weapons/Corpus/LongGuns/GrenadeLauncher/GrenadeLauncher
+Obex,/Lotus/StoreItems/Weapons/Corpus/Melee/KickAndPunch/KickPunchWeapon
+Placeholder,/Lotus/StoreItems/Weapons/Corpus/Melee/Polearm/CorpusPolearm01/CorpusPolearmWeapon
+Lecta,/Lotus/StoreItems/Weapons/Corpus/Melee/Whip/CorpusWhipWeapon
+Detron,/Lotus/StoreItems/Weapons/Corpus/Pistols/CorpusHandShotgun/CorpusHandCannon
+Cestra,/Lotus/StoreItems/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun
+Dual Cestra,/Lotus/StoreItems/Weapons/Corpus/Pistols/CorpusMinigun/DualCorpusMinigun
+Twin Gremlins,/Lotus/StoreItems/Weapons/Grineer/GrineerPistol/GrineerAkimboPistol
+Viper,/Lotus/StoreItems/Weapons/Grineer/GrineerPistol/GrineerLightPistol
+Kraken,/Lotus/StoreItems/Weapons/Grineer/GrineerPistol/GrnHeavyPistol
+Seer,/Lotus/StoreItems/Weapons/Grineer/GrineerPistol/GrnScopedPistolPlayer
+Hind,/Lotus/StoreItems/Weapons/Grineer/LongGuns/BurstRifle/GrnBurstRifle
+Grakata,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerAssaultRifle/GrnAssaultRifle
+Drakgoon,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerFlakCannon/FlakCannon
+Grinlok,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/GLARifle
+Karak,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerM16Homage/GrineerM16Rifle
+Miter,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerSawbladeGun/SawBladeGun
+Vulkar,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerSniperRifle/GrnSniperRifle
+Gorgon Wraith,/Lotus/StoreItems/Weapons/Grineer/LongGuns/WraithGorgon/WraithGorgon
+Jat Kittag,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerJetPoweredPolearm/GrineerJetPolearm
+Dual Cleavers,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon
+Machete,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/Machete
+Machete Wraith,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon
+Stug,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun
+Brakk,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon
+Marelok,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol
+Wraith Twin Vipers,/Lotus/StoreItems/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers
+Phage,/Lotus/StoreItems/Weapons/Infested/LongGuns/Tentacluster/InfestedShotgun
+Synapse,/Lotus/StoreItems/Weapons/Infested/LongGuns/InfestedRifle
+Mire,/Lotus/StoreItems/Weapons/Infested/Melee/Swords/Mire/MireSword
+Scoliac,/Lotus/StoreItems/Weapons/Infested/Melee/Whip/InfestedWhip/InfestedWhipWeapon
+Tysis,/Lotus/StoreItems/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDartPistol
+Embolist,/Lotus/StoreItems/Weapons/Infested/Pistols/InfestedPistol
+Aklex,/Lotus/StoreItems/Weapons/Tenno/Akimbo/AkLexPistols
+Afuris,/Lotus/StoreItems/Weapons/Tenno/Akimbo/AkimboAutoPistols
+Akbolto,/Lotus/StoreItems/Weapons/Tenno/Akimbo/AkimboBolto
+Aklato,/Lotus/StoreItems/Weapons/Tenno/Akimbo/AkimboPistol
+Akbronco,/Lotus/StoreItems/Weapons/Tenno/Akimbo/AkimboShotGun
+Twin Vipers,/Lotus/StoreItems/Weapons/Tenno/Akimbo/AkimboViperPistols
+Akmagnus,/Lotus/StoreItems/Weapons/Tenno/Akimbo/DualMagnus
+Akvasto,/Lotus/StoreItems/Weapons/Tenno/Akimbo/DualVastos
+Akbronco Prime,/Lotus/StoreItems/Weapons/Tenno/Akimbo/PrimeAkimboShotGun
+Cernos,/Lotus/StoreItems/Weapons/Tenno/Bows/AntlerBow/AntlerBow
+Paris,/Lotus/StoreItems/Weapons/Tenno/Bows/HuntingBow
+Paris Prime,/Lotus/StoreItems/Weapons/Tenno/Bows/PrimeHuntingBow
+Dread,/Lotus/StoreItems/Weapons/Tenno/Bows/StalkerBow
+Tigris,/Lotus/StoreItems/Weapons/Tenno/LongGuns/DoubleBarrelShotgun/TennoDoubleBarrelShotgun
+Boltor Prime,/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeBoltor/PrimeBoltor
+Burston Prime,/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeBurston/PrimeBurston
+Attica,/Lotus/StoreItems/Weapons/Tenno/LongGuns/TnoPrmryXbow/TnoPrmryXbowWeapon
+Scindo,/Lotus/StoreItems/Weapons/Tenno/Melee/Axe/AxeWeapon
+Dual Zoren,/Lotus/StoreItems/Weapons/Tenno/Melee/Axe/DualAxeWeapon
+Dual Ichor,/Lotus/StoreItems/Weapons/Tenno/Melee/Axe/DualInfestedAxesWeapon
+?,"/Lotus/StoreItems/Weapons/Tenno/Melee/Brass Knuckles/BrassKnuckles"
+Furax,/Lotus/StoreItems/Weapons/Tenno/Melee/Claws/TennoClaws
+Cronus,/Lotus/StoreItems/Weapons/Tenno/Melee/CronusSword/CronusLongSword
+Dakra Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/CronusSword/PrimeCronusLongSword
+Ceramic Dagger,/Lotus/StoreItems/Weapons/Tenno/Melee/Dagger/CeramicDagger
+Heat Dagger,/Lotus/StoreItems/Weapons/Tenno/Melee/Dagger/Dagger
+Dark Dagger,/Lotus/StoreItems/Weapons/Tenno/Melee/Dagger/DarkDagger
+Fang,/Lotus/StoreItems/Weapons/Tenno/Melee/DualDagger/DualDagger
+Ether Daggers,/Lotus/StoreItems/Weapons/Tenno/Melee/DualDagger/DualEtherDagger
+Fang Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/DualDagger/FangPrimeDagger
+Dual Kamas,/Lotus/StoreItems/Weapons/Tenno/Melee/DualKamas/DualKamas
+Kama,/Lotus/StoreItems/Weapons/Tenno/Melee/DualKamas/SingleKama
+Dual Ether,/Lotus/StoreItems/Weapons/Tenno/Melee/DualShortSword/DualEtherSword
+Dual Heat Swords,/Lotus/StoreItems/Weapons/Tenno/Melee/DualShortSword/DualHeatSwords
+Dual Skana,/Lotus/StoreItems/Weapons/Tenno/Melee/DualShortSword/DualShortSword
+Furax,/Lotus/StoreItems/Weapons/Tenno/Melee/Fist/Fist
+Ankyros Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Gauntlet/PrimeAnkyros/PrimeAnkyros
+Ankyros,/Lotus/StoreItems/Weapons/Tenno/Melee/Gauntlet/Gauntlet
+Kestrel,/Lotus/StoreItems/Weapons/Tenno/Melee/Glaives/Boomerang/BoomerangWeapon
+Glaive,/Lotus/StoreItems/Weapons/Tenno/Melee/Glaives/LightGlaive/LightGlaiveWeapon
+Glaive Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Glaives/PrimeGlaive/PrimeGlaiveWeapon
+Gram,/Lotus/StoreItems/Weapons/Tenno/Melee/GreatSword/GreatSword
+Fragor,/Lotus/StoreItems/Weapons/Tenno/Melee/Hammer/HammerWeapon
+Ether Sword,/Lotus/StoreItems/Weapons/Tenno/Melee/LongSword/EtherSword
+Skana,/Lotus/StoreItems/Weapons/Tenno/Melee/LongSword/LongSword
+Skana Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/LongSword/SkanaPrime
+Magistar,/Lotus/StoreItems/Weapons/Tenno/Melee/Maces/PaladinMace/PaladinMaceWeapon
+Rending Crane,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbOneMeleeTree
+Cleaving Whirlwind,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbTwoMeleeTree
+Crimson Dervish,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/CrimsonDervishMeleeTree
+Homing Fang,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbOneMeleeTree
+Pointed Wind,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree
+Sinking Talon,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbOneMeleeTree
+Gnashing Payara,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbTwoMeleeTree
+Swirling Tiger,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbOneMeleeTree
+Crossing Snakes,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbTwoMeleeTree
+Fracturing Wind,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/FistCmbOneMeleeTree
+Seismic Palm,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/FistCmbTwoMeleeTree
+Gleaming Talon,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbOneMeleeTree
+Shattering Storm,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/HammerCmbOneMeleeTree
+Crushing Ruin,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/HammerCmbTwoMeleeTree
+Iron Phoenix,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/IronPhoenixMeleeTree
+Tranquil Cleave,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbOneMeleeTree
+Decisive Judgement,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbTwoMeleeTree
+Sundering Weave,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/MacheteCmbOneMeleeTree
+Shimmering Blight,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbOneMeleeTree
+Bleeding Willow,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbTwoMeleeTree
+Grim Fury,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/PunchKickCmbOneMeleeTree
+Brutal Tide,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/PunchKickCmbTwoMeleeTree
+Reaping Spiral,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ScytheCmbOneMeleeTree
+Stalking Fan,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ScytheCmbTwoMeleeTree
+Clashing Forest,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/StaffCmbOneMeleeTree
+Flailing Branch,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/StaffCmbTwoMeleeTree
+Burning Wasp,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/WhipCmbOneMeleeTree
+Coiling Viper,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/WhipCmbTwoMeleeTree
+Orthos,/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PolearmWeapon
+Orthos Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PrimePolearmWeapon
+Ether Reaper,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/EtherScytheWeapon
+Reaper Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/ReaperWeapon
+Hate,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/StalkerScytheWeapon
+Placeholder,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/PrimeBo/PrimeBoWeapon
+Amphis,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/GrnStaff
+Bo,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/Staff
+Nami Skyla,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/CutlassPoignardSwords
+Dark Sword,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/DarkSword/DarkLongSword
+Galatine,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/GreatSword/TennoGreatSword
+Heat Sword,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/HeatSword/HeatLongSword
+Jaw Sword,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/JawSword/JawLongSword
+Nikana,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/Katana
+Dragon Nikana,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/LowKatana
+Pangolin Sword,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/PangolinSword/PangolinLongSword
+Plasma Sword,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/PlasmaSword/PlasmaLongSword
+Furis,/Lotus/StoreItems/Weapons/Tenno/Pistol/AutoPistol
+Bronco Prime,/Lotus/StoreItems/Weapons/Tenno/Pistol/BroncoPrime
+Sicarus,/Lotus/StoreItems/Weapons/Tenno/Pistol/BurstPistol
+Bolto,/Lotus/StoreItems/Weapons/Tenno/Pistol/CrossBow
+Bronco,/Lotus/StoreItems/Weapons/Tenno/Pistol/HandShotGun
+Lex,/Lotus/StoreItems/Weapons/Tenno/Pistol/HeavyPistol
+Lato Prime,/Lotus/StoreItems/Weapons/Tenno/Pistol/LatoPrime
+Lato Vandal,/Lotus/StoreItems/Weapons/Tenno/Pistol/LatoVandal
+Lato,/Lotus/StoreItems/Weapons/Tenno/Pistol/Pistol
+Vasto,/Lotus/StoreItems/Weapons/Tenno/Pistol/RevolverPistol
+Ballistica,/Lotus/StoreItems/Weapons/Tenno/Pistols/AutomaticHandCrossbow/AutoCrossBow
+Dex Furis,/Lotus/StoreItems/Weapons/Tenno/Pistols/DexFuris/DexFuris
+Magnus,/Lotus/StoreItems/Weapons/Tenno/Pistols/Magnum/Magnum
+Lex Prime,/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeLex/PrimeLex
+Sicarus Prime,/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeSicarus/PrimeSicarusPistol
+Akstiletto,/Lotus/StoreItems/Weapons/Tenno/Pistols/TennoUzi/TennoUzi
+Boltor,/Lotus/StoreItems/Weapons/Tenno/Rifle/BoltoRifle
+Braton Prime,/Lotus/StoreItems/Weapons/Tenno/Rifle/BratonPrime
+Burston,/Lotus/StoreItems/Weapons/Tenno/Rifle/BurstRifle
+Gorgon,/Lotus/StoreItems/Weapons/Tenno/Rifle/HeavyRifle
+Gorgon,/Lotus/StoreItems/Weapons/Tenno/Rifle/HeavyRifleAI
+Latron Prime,/Lotus/StoreItems/Weapons/Tenno/Rifle/LatronPrime
+Braton,/Lotus/StoreItems/Weapons/Tenno/Rifle/Rifle
+Latron,/Lotus/StoreItems/Weapons/Tenno/Rifle/SemiAutoRifle
+Snipetron,/Lotus/StoreItems/Weapons/Tenno/Rifle/SniperRifle
+Mk1-Braton,/Lotus/StoreItems/Weapons/Tenno/Rifle/StartingRifle
+Soma,/Lotus/StoreItems/Weapons/Tenno/Rifle/TennoAR
+Vectis,/Lotus/StoreItems/Weapons/Tenno/Rifle/TennoSniperRifle
+Braton Vandal,/Lotus/StoreItems/Weapons/Tenno/Rifle/VIPRifle
+Snipetron Vandal,/Lotus/StoreItems/Weapons/Tenno/Rifle/VandalSniperRifle
+Sobek,/Lotus/StoreItems/Weapons/Tenno/Shotgun/DoubleBarrelShotgun
+Boar,/Lotus/StoreItems/Weapons/Tenno/Shotgun/FullAutoShotgun
+Boar Prime,/Lotus/StoreItems/Weapons/Tenno/Shotgun/PrimeBoar
+Hek,/Lotus/StoreItems/Weapons/Tenno/Shotgun/QuadShotgun
+Strun,/Lotus/StoreItems/Weapons/Tenno/Shotgun/Shotgun
+Strun Wraith,/Lotus/StoreItems/Weapons/Tenno/Shotgun/ShotgunVandal
+Castanas,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/StickyBomb/StickyBombs
+Kunai,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/Kunai
+Despair,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/StalkerKunai
+Hikou,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/TennoStars
+Mag profile icon,/Lotus/Types/StoreItems/AvatarImages/AvatarImagePack1
+Ember profile icon,/Lotus/Types/StoreItems/AvatarImages/AvatarImagePack2
+Ash Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackAsh
+Locust Ash Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackAshLocust
+Banshee Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackBanshee
+Chorus Banshee Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackBansheeChorus
+Ember Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackEmber
+Backdraft Ember Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackEmberBackdraft
+Excalibur Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackExcalibur
+Pendragon Excalibur Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackExcaliburPendragon
+Frost Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrost
+Frost Prime Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrostPrime
+Squall Frost Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrostSquall
+Loki Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLoki
+Swindle Loki Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLokiSwindle
+Mag Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMag
+Gauss Mag Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMagGauss
+Mag Prime Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMagPrime
+Nekros Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekros
+Shroud Nekros Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekrosShroud
+Nova Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNova
+Quantum Nova Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNovaQuantum
+Nyx Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNyx
+Vespa Nyx Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNyxVespa
+Oberon Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackOberon
+Markhor Oberon Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackOberonMarkhor
+Hydroid Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackPirate
+Rhino Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackRhino
+Vanguard Rhino Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackRhinoVanguard
+Saryn Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackSaryn
+Chlora Saryn Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackSarynChlora
+Vauban Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapper
+Gambit Vauban Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapperGambit
+Trinity Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrinity
+Meridian Trinity Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrinityMeridian
+Valkyr Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackValkyr
+Kara Valkyr Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackValkyrKara
+Volt Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackVolt
+Pulse Volt Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackVoltPulse
+Zephyr Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackZephyr
+Affinity Booster,/Lotus/Types/StoreItems/Boosters/AffinityBoosterStoreItem
+Credit Booster,/Lotus/Types/StoreItems/Boosters/CreditBoosterStoreItem
+Drop Chance Booster,/Lotus/Types/StoreItems/Boosters/GoodStuffDropChanceBoosterStoreItem
+Mod Drop Chance Booster,/Lotus/Types/StoreItems/Boosters/ModDropChanceBoosterStoreItem
+Resource Booster,/Lotus/Types/StoreItems/Boosters/ResourceAmountBoosterStoreItem
+Resource Drop Chance Booster,/Lotus/Types/StoreItems/Boosters/ResourceDropChanceBoosterStoreItem
+Revive Booster,/Lotus/Types/StoreItems/Boosters/ReviveBoosterStoreItem
+Cicero Crisis Antidote Pack,/Lotus/Types/StoreItems/Packages/AntitoxinPack
+Dead Silence Pack,/Lotus/Types/StoreItems/Packages/BansheePack
+Berserker Bundle,/Lotus/Types/StoreItems/Packages/BerserkerPack
+Spearmint Scythes,/Lotus/Types/StoreItems/Packages/CandyCaneScythePack
+Color Pack: Alpha,/Lotus/Types/StoreItems/Packages/ColorPack
+Color Pack: Beta,/Lotus/Types/StoreItems/Packages/ColorPackB
+Survival Kit,/Lotus/Types/StoreItems/Packages/ConsumablesPack
+Shock Camo Cestra,/Lotus/Types/StoreItems/Packages/CorpusDazzleCamoCestraSkinPack
+Shock Camo Pack,/Lotus/Types/StoreItems/Packages/CorpusDazzleCamoSkinPack
+Shock Camo Lanka,/Lotus/Types/StoreItems/Packages/CorpusDazzleCamoSniperSkinPack
+Weekend Event Dethcube Deal,/Lotus/Types/StoreItems/Packages/DefenseEventPack
+Double Affinity Weekend Pack,/Lotus/Types/StoreItems/Packages/DoubleAffinityPack
+Volt Value Pack,/Lotus/Types/StoreItems/Packages/ElectricPack
+Female Helmet Pack,/Lotus/Types/StoreItems/Packages/FemaleS2HelmetPack
+Female Warframe Pack,/Lotus/Types/StoreItems/Packages/FemaleSuitPack
+Femme Fatale Pack,/Lotus/Types/StoreItems/Packages/FemaleSuitPackB
+Stay Frosty Pack,/Lotus/Types/StoreItems/Packages/FrostPack
+Grineer Desert Tactics Pack,/Lotus/Types/StoreItems/Packages/GrineerCamoSkinPack
+Forest-Camo Skin Pack,/Lotus/Types/StoreItems/Packages/GrineerForestSkinPack
+Grineer Assault,/Lotus/Types/StoreItems/Packages/GrineerPack
+Day Of The Dead Lato Skin,/Lotus/Types/StoreItems/Packages/HalloweenLatoSkinPack
+Day Of The Dead Weapon Skin Pack,/Lotus/Types/StoreItems/Packages/HalloweenSkinPack
+Immortal Skin Bundle,/Lotus/Types/StoreItems/Packages/ImmortalSkinPack
+Nyx Pack,/Lotus/Types/StoreItems/Packages/JadePack
+Loki Pack,/Lotus/Types/StoreItems/Packages/LokiPack
+Male Helmet Pack,/Lotus/Types/StoreItems/Packages/MaleS2HelmetPack
+Sugatra Pack,/Lotus/Types/StoreItems/Packages/MeleeDanglePack
+Paladin Bundle,/Lotus/Types/StoreItems/Packages/PaladinPack
+Sentinel Accessory Pack,/Lotus/Types/StoreItems/Packages/PetAttachmentsPackA
+Sentinel Accessory Pack2,/Lotus/Types/StoreItems/Packages/PetAttachmentsPackB
+Coltek Sentinel Pack,/Lotus/Types/StoreItems/Packages/PetAttachmentsPackColtek
+Ictus Sentinel Pack,/Lotus/Types/StoreItems/Packages/PetAttachmentsPackIctus
+Update 13 Mega Pack,/Lotus/Types/StoreItems/Packages/PiratePack
+Pistoleer Special,/Lotus/Types/StoreItems/Packages/PistolPack
+Wrecking Rhino Pack,/Lotus/Types/StoreItems/Packages/RhinoWreckPack
+Poisonous Attitude Pack,/Lotus/Types/StoreItems/Packages/SarynPack
+What Stalker?,/Lotus/Types/StoreItems/Packages/StalkerPack
+Stealth Pack,/Lotus/Types/StoreItems/Packages/StealthPack
+Super Charge Pack,/Lotus/Types/StoreItems/Packages/SuperChargePack
+Update 12 Mega Bundle,/Lotus/Types/StoreItems/Packages/TenguPack
+Dead Silence Pack,/Lotus/Types/StoreItems/Packages/TranslatorPack
+Dead Silence Pack,/Lotus/Types/StoreItems/Packages/TranslatorPackTwo
+Update 10 Mega Bundle,/Lotus/Types/StoreItems/Packages/Update10MegaPack
+U12 Cosmetic Pack,/Lotus/Types/StoreItems/Packages/Update12CosmeticPack
+Vault Raider Package,/Lotus/Types/StoreItems/Packages/VaultRaiderPack
+Placeholder,/Lotus/Types/StoreItems/Packages/VoidSkinPack
+Vulkar Deal Pack,/Lotus/Types/StoreItems/Packages/VulkarDealPack
+Ultimate Warframe Pack,/Lotus/Types/StoreItems/Packages/WarframePack
+Any,/Sandbox/StoreItems/ShaunC/DoubleAnimEventTest/AlwaysBeMeleeinGrenadeLauncher
