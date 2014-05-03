@@ -8520,7 +8520,7 @@ Recruit for a Squad or Clan here!
 ------
 Trading is done within the Dojo at a Trading Post
 You can invite non-members of your clan to your Dojo to trade
-Trading is currently limited to: MODS, KEYS, and PLATINUM.
+Trading is currently limited to: MODS, KEYS, PLATINUM, and PRIME BLUEPRINTS/PARTS.  
 
 We do not enforce trades for promises, clan membership, and other favors. Trade for items only.
 ------
@@ -21925,6 +21925,8 @@ Are you sure you can't just let this go? We would make great partners you know. 
 ------
 Tenno, look. I believe so strongly in my Zanuka prototype that I'm willing to give you a demo. It will be quite the opportunity, most people don't get to see the future... before they die.
 
+------
+With Alad V taken care of, no more Tenno will be sacrificed in the name of his progress.  Our operatives are recovering those still held within V's labs. Well done.
 ------
 BbPlayerSpottedGrineerVIPB0207B|
 ------
