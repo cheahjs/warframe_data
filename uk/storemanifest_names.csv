@@ -427,6 +427,7 @@ Arcane Reverb Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/BansheeAl
 Шолом Нови Флюс Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAntiAltHelmetBlueprint
 Шолом Сарін Хлора Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAspAltHelmetBBlueprint
 Шолом Сарін Хемлок Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAspAltHelmetBlueprint
+?,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionBlueprintBase
 Шолом Банші Рефрен Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionDecreeAltHelmetBBlueprint
 Шолом Банші Реверб Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionDecreeAltHelmetBlueprint
 Шолом Ембер Бекдрафт Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionEmberHelmetAltBBlueprint
@@ -1981,4 +1982,3 @@ Vault Raider Package,/Lotus/Types/StoreItems/Packages/VaultRaiderPack
 Placeholder,/Lotus/Types/StoreItems/Packages/VoidSkinPack
 Набір Вулькара,/Lotus/Types/StoreItems/Packages/VulkarDealPack
 Ultimate Warframe Pack,/Lotus/Types/StoreItems/Packages/WarframePack
-Будь-Яка,/Sandbox/StoreItems/ShaunC/DoubleAnimEventTest/AlwaysBeMeleeinGrenadeLauncher

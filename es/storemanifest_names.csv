@@ -427,6 +427,7 @@ Arcane Reverb Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/BansheeAl
 Casco Flujo Nova Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAntiAltHelmetBlueprint
 Casco Chlora De Saryn Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAspAltHelmetBBlueprint
 Casco Hemlock De Saryn Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAspAltHelmetBlueprint
+?,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionBlueprintBase
 Casco Crono De Banshe Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionDecreeAltHelmetBBlueprint
 Casco Reverb De Banshee Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionDecreeAltHelmetBlueprint
 Casco Llamarada De Ember Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionEmberHelmetAltBBlueprint
@@ -1981,4 +1982,3 @@ Vault Raider Package,/Lotus/Types/StoreItems/Packages/VaultRaiderPack
 Placeholder,/Lotus/Types/StoreItems/Packages/VoidSkinPack
 Pack Oferta Vulkar,/Lotus/Types/StoreItems/Packages/VulkarDealPack
 Ultimate Warframe Pack,/Lotus/Types/StoreItems/Packages/WarframePack
-Ninguna,/Sandbox/StoreItems/ShaunC/DoubleAnimEventTest/AlwaysBeMeleeinGrenadeLauncher

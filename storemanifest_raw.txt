@@ -427,6 +427,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/Helmets/ConversionAntiAltHelmetBlueprint,
 /Lotus/StoreItems/Types/Recipes/Helmets/ConversionAspAltHelmetBBlueprint,
 /Lotus/StoreItems/Types/Recipes/Helmets/ConversionAspAltHelmetBlueprint,
+/Lotus/StoreItems/Types/Recipes/Helmets/ConversionBlueprintBase,
 /Lotus/StoreItems/Types/Recipes/Helmets/ConversionDecreeAltHelmetBBlueprint,
 /Lotus/StoreItems/Types/Recipes/Helmets/ConversionDecreeAltHelmetBlueprint,
 /Lotus/StoreItems/Types/Recipes/Helmets/ConversionEmberHelmetAltBBlueprint,
@@ -1980,8 +1981,7 @@ StoreItems={
 /Lotus/Types/StoreItems/Packages/VaultRaiderPack,
 /Lotus/Types/StoreItems/Packages/VoidSkinPack,
 /Lotus/Types/StoreItems/Packages/VulkarDealPack,
-/Lotus/Types/StoreItems/Packages/WarframePack,
-/Sandbox/StoreItems/ShaunC/DoubleAnimEventTest/AlwaysBeMeleeinGrenadeLauncher
+/Lotus/Types/StoreItems/Packages/WarframePack
 }
 FeaturedSlotItems={
 {
