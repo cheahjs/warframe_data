@@ -1475,6 +1475,7 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerAgileAnims,
 /Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerBastetHelmet,
 /Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerDangles,
+/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerHelmet,
 /Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerNobleAnims,
 /Lotus/StoreItems/Upgrades/Skins/Berserker/ValkyrAltBHelmet,
 /Lotus/StoreItems/Upgrades/Skins/Berserker/ValkyrAlternateSkin,
@@ -1666,6 +1667,10 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Promo/Void/AnkyrosVoidSkin,
 /Lotus/StoreItems/Upgrades/Skins/Promo/Void/TigrisVoidSkin,
 /Lotus/StoreItems/Upgrades/Skins/Promo/Void/VastoVoidSkin,
+/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoAkimboViperCamo,
+/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoDrakgoonCamo,
+/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoGalatineCamo,
+/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoViperCamo,
 /Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoAgileAnims,
 /Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoAlternateSkin,
 /Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmet,
@@ -1675,6 +1680,8 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmetAltStatless,
 /Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoNobleAnims,
 /Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoPrimeHelmet,
+/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkin,
+/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkinHelmet,
 /Lotus/StoreItems/Upgrades/Skins/Scarves/ArmScarf,
 /Lotus/StoreItems/Upgrades/Skins/Scarves/DinoSpikeScarf,
 /Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarf,
@@ -1778,6 +1785,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/ClanTech/Energy/ClanTeamShieldBlueprint,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/ClanTenTeamEnergyBlueprint,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/ClanTenTeamShieldBlueprint,
+/Lotus/StoreItems/Weapons/ClanTech/Energy/CorpusPolearmWeaponBlueprint,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/CrpHeavyRifle,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/CrpHeavyRifleBlueprint,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserPistol,
@@ -2077,7 +2085,7 @@ OverrideTexture=""
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/Katana
+StoreItem=/Lotus/StoreItems/Weapons/Corpus/Melee/Polearm/CorpusPolearm01/CorpusPolearmWeapon
 Slot=Melee
 OverrideTexture=""
 OverrideMaterial=""

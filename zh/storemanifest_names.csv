@@ -1475,6 +1475,7 @@ Saryn Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Asp/SarynAlternateSkin
 Valkyr Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerAgileAnims
 Bastet Valkyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerBastetHelmet
 Valkyr's Bonds,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerDangles
+Valkyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerHelmet
 Valkyr Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerNobleAnims
 Kara Valkyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Berserker/ValkyrAltBHelmet
 Valkyr Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Berserker/ValkyrAlternateSkin
@@ -1666,6 +1667,10 @@ Phased Akvasto Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/AkvastosVoidSkin
 Phased Ankyros Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/AnkyrosVoidSkin
 Phased Tigris Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/TigrisVoidSkin
 Phased Vasto Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/VastoVoidSkin
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoAkimboViperCamo
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoDrakgoonCamo
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoGalatineCamo
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoViperCamo
 Rhino Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoAgileAnims
 Rhino Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoAlternateSkin
 Rhino 头盔,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmet
@@ -1675,8 +1680,10 @@ Vanguard Rhino Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmetAltBStat
 震击 Rhino 头盔,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmetAltStatless
 Rhino Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoNobleAnims
 Rhino Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoPrimeHelmet
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkin
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkinHelmet
 Yomo Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/ArmScarf
-Uru Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/DinoSpikeScarf
+Yamako Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/DinoSpikeScarf
 Asa Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarf
 Phased Asa Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarfVoidSkin
 Rakta Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/HornSkullScarf
@@ -1778,6 +1785,7 @@ Medium Team Energy Restore Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/C
 Medium Team Shield Restore Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ClanTeamShieldBlueprint
 Medium Team Energy Restore x10 Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ClanTenTeamEnergyBlueprint
 Medium Team Shield Restore x10 Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ClanTenTeamShieldBlueprint
+Serro Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/CorpusPolearmWeaponBlueprint
 Supra,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpHeavyRifle
 Supra Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpHeavyRifleBlueprint
 Spectra,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserPistol
@@ -1795,7 +1803,7 @@ Amprex,/Lotus/StoreItems/Weapons/Corpus/LongGuns/ChainLightningGun/ChainLightnin
 Tetra,/Lotus/StoreItems/Weapons/Corpus/LongGuns/CorpusUMP/CorpusUMP
 Penta,/Lotus/StoreItems/Weapons/Corpus/LongGuns/GrenadeLauncher/GrenadeLauncher
 Obex,/Lotus/StoreItems/Weapons/Corpus/Melee/KickAndPunch/KickPunchWeapon
-Placeholder,/Lotus/StoreItems/Weapons/Corpus/Melee/Polearm/CorpusPolearm01/CorpusPolearmWeapon
+Serro,/Lotus/StoreItems/Weapons/Corpus/Melee/Polearm/CorpusPolearm01/CorpusPolearmWeapon
 Lecta,/Lotus/StoreItems/Weapons/Corpus/Melee/Whip/CorpusWhipWeapon
 Detron,/Lotus/StoreItems/Weapons/Corpus/Pistols/CorpusHandShotgun/CorpusHandCannon
 Cestra,/Lotus/StoreItems/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun
