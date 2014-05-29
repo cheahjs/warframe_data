@@ -1,4 +1,13 @@
 Deck,Enemy,Probability,Max Simultaneous,Tier
+CorpusEvent,M.O.A (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
+,쉴드 어스프레이 (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,스나이퍼 크루맨 (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,코퍼스 테크 (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
+,마인 어스프레이 (Drones/AIWeek/MineDroneAgent),0.02,0,0
+,퓨젼 M.O.A (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
+,쇼크웨이브 M.O.A (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
+,레일건 M.O.A (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
 CorpusGrineerDesertMix,크루맨 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,M.O.A (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
 ,쇼크웨이브 M.O.A (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
@@ -77,6 +86,19 @@ CorpusInfestedMixB,크루맨 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,M.O.A (BipedRobot/AIWeek/LaserCannonBipedAgent),0.25,0,0
 ,마인 어스프레이 (Drones/AIWeek/MineDroneAgent),0.25,0,0
 ,퓨젼 M.O.A (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
+,차져 (AiWeek/Quadrupeds/Quadruped),1,0,0
+,러너 (AiWeek/Runners/SuicideRunner),1,0,0
+,AiWeek/Ancients/MeleeAncient,0.1,0,0
+,톡식 에인션트 (AiWeek/Ancients/ToxicAncient),0.1,0,0
+CorpusInfestedMixEvent,M.O.A (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
+,쉴드 어스프레이 (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,스나이퍼 크루맨 (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,코퍼스 테크 (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
+,마인 어스프레이 (Drones/AIWeek/MineDroneAgent),0.025,0,0
+,퓨젼 M.O.A (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
+,쇼크웨이브 M.O.A (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
+,레일건 M.O.A (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
 ,차져 (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,러너 (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0

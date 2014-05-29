@@ -1,4 +1,13 @@
 Deck,Enemy,Probability,Max Simultaneous,Tier
+CorpusEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
+,Osprey Protecteur (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,Homme D'équipage Tireur D'élite (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,Technicien Corpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
+,Osprey Poseur De Mines (Drones/AIWeek/MineDroneAgent),0.02,0,0
+,Moa Fusion (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
+,Moa Onde De Choc (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
+,Moa Canon À Rail (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
 CorpusGrineerDesertMix,Homme D'équipage (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
 ,Moa Onde De Choc (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
@@ -77,6 +86,19 @@ CorpusInfestedMixB,Homme D'équipage (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.25,0,0
 ,Osprey Poseur De Mines (Drones/AIWeek/MineDroneAgent),0.25,0,0
 ,Moa Fusion (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
+,Chargeur (AiWeek/Quadrupeds/Quadruped),1,0,0
+,Coureur (AiWeek/Runners/SuicideRunner),1,0,0
+,AiWeek/Ancients/MeleeAncient,0.1,0,0
+,Ancien Toxique (AiWeek/Ancients/ToxicAncient),0.1,0,0
+CorpusInfestedMixEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
+,Osprey Protecteur (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,Homme D'équipage Tireur D'élite (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,Technicien Corpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
+,Osprey Poseur De Mines (Drones/AIWeek/MineDroneAgent),0.025,0,0
+,Moa Fusion (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
+,Moa Onde De Choc (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
+,Moa Canon À Rail (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
 ,Chargeur (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,Coureur (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0

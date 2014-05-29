@@ -413,6 +413,7 @@ Wieża: Eksterminacja,/Lotus/StoreItems/Types/Keys/SettlementTestKey
 ?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescueNightmare
 ?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusToCorpusInfested
 ?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusToGrineerTeleport
+?,/Lotus/StoreItems/Types/Keys/TestKeyEventExterminate
 ?,/Lotus/StoreItems/Types/Keys/TestKeyForestBoss
 ?,/Lotus/StoreItems/Types/Keys/TestKeyForestCapture
 ?,/Lotus/StoreItems/Types/Keys/TestKeyForestEndlessDefense
@@ -638,8 +639,8 @@ Hełm: Loki,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LOKIHelmetComponent
 Systemy: Loki Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LOKISystemsBlueprint
 Systemy: Loki,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LOKISystemsComponent
 Loki Prime Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeBlueprint
-?,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeChassisBlueprint
-?,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeChassisComponent
+Loki Prime Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeChassisBlueprint
+Loki Prime Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeChassisComponent
 Loki Prime Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeHelmetBlueprint
 Loki Prime Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeHelmetComponent
 Loki Prime Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeSystemsBlueprint
@@ -892,6 +893,7 @@ Hate Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/StalkerReaperBlueprint
 Boar Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/StrunShotgunBlueprint
 Castanas Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TaserStarBlueprint
 Soma Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoARBlueprint
+Nami Solo Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoCutlassBlueprint
 Tigris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoDoubleBarrelShotgunBlueprint
 Galatine Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoGreatSwordBlueprint
 Sybaris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoLeverActionRifleBlueprint
@@ -1219,6 +1221,9 @@ Wyrafinowany Strzelec,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSniperDamageAur
 Wspomagacz Sprintu,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSprintAuraMod
 Wzmocnienie Biegłości,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerXPAuraMod
 Aura EMP,/Lotus/StoreItems/Upgrades/Mods/Aura/RobotPoorAimAuraMod
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HalfShieldsLevelAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HighDamageEnemyLevelAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/WeakEnemyLevelAura
 Rdzeń fuzyjny,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl1ModFuser
 Rdzeń fuzyjny,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl2ModFuser
 Rdzeń fuzyjny,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl3ModFuser
@@ -1445,6 +1450,11 @@ Daedalus Shoulder Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/S
 Daedalus Chest Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeChestArmor
 Daedalus Knee Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeLegLeftArmor
 Daedalus Knee Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeLegRightArmor
+Edo Shoulder Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoArmLeftArmor
+Edo Shoulder Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoArmRightArmor
+Edo Chest Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoChestArmor
+Edo Knee Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoLegLeftArmor
+Edo Knee Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoLegRightArmor
 Banshee Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/BansheeArmLeftArmor
 Ember Prime Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/EmberPrimeArmLeftArmor
 Ember Prime Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/EmberPrimeArmRightArmor
@@ -1919,6 +1929,7 @@ Bo Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/PrimeBo/PrimeBoWeapon
 Amphis,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/GrnStaff
 Bo,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/Staff
 Nami Skyla,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/CutlassPoignardSwords
+Nami Solo,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/TennoCutlass
 Miecz Ciemności,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/DarkSword/DarkLongSword
 Galatine,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/GreatSword/TennoGreatSword
 Miecz Żaru,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/HeatSword/HeatLongSword
@@ -2052,6 +2063,7 @@ Niszczycielski Rhino,/Lotus/Types/StoreItems/Packages/RhinoWreckPack
 Zestaw Toksycznej Atmosfery,/Lotus/Types/StoreItems/Packages/SarynPack
 Eos Armor Bundle,/Lotus/Types/StoreItems/Packages/SetOneArmorPack
 Daedalus Armor Bundle,/Lotus/Types/StoreItems/Packages/SetThreeArmorPack
+Edo Armor Bundle,/Lotus/Types/StoreItems/Packages/SetTwoArmorPack
 Jaki Stalker?,/Lotus/Types/StoreItems/Packages/StalkerPack
 Cichy Zestaw,/Lotus/Types/StoreItems/Packages/StealthPack
 Super Charge Pack,/Lotus/Types/StoreItems/Packages/SuperChargePack

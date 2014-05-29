@@ -1,4 +1,13 @@
 Deck,Enemy,Probability,Max Simultaneous,Tier
+CorpusEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
+,Osprey Escudeiro (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,Tripulante Sniper (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,Tecnologia Corpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
+,Osprey Bombardeiro (Drones/AIWeek/MineDroneAgent),0.02,0,0
+,Moa Portadora (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
+,Moa Onda De Choque (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
+,Moa Railgun (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
 CorpusGrineerDesertMix,Tripulante (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
 ,Moa Onda De Choque (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
@@ -77,6 +86,19 @@ CorpusInfestedMixB,Tripulante (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.25,0,0
 ,Osprey Bombardeiro (Drones/AIWeek/MineDroneAgent),0.25,0,0
 ,Moa Portadora (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
+,Cão De Ataque (AiWeek/Quadrupeds/Quadruped),1,0,0
+,Corredor (AiWeek/Runners/SuicideRunner),1,0,0
+,AiWeek/Ancients/MeleeAncient,0.1,0,0
+,Ancestral Tóxico (AiWeek/Ancients/ToxicAncient),0.1,0,0
+CorpusInfestedMixEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
+,Osprey Escudeiro (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,Tripulante Sniper (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,Tecnologia Corpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
+,Osprey Bombardeiro (Drones/AIWeek/MineDroneAgent),0.025,0,0
+,Moa Portadora (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
+,Moa Onda De Choque (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
+,Moa Railgun (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
 ,Cão De Ataque (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,Corredor (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0

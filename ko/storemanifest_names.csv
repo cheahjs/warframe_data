@@ -413,6 +413,7 @@ Tethra Cipher Blueprint,/Lotus/StoreItems/Types/Keys/RetrievalKeyBlueprint
 ?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescueNightmare
 ?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusToCorpusInfested
 ?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusToGrineerTeleport
+?,/Lotus/StoreItems/Types/Keys/TestKeyEventExterminate
 ?,/Lotus/StoreItems/Types/Keys/TestKeyForestBoss
 ?,/Lotus/StoreItems/Types/Keys/TestKeyForestCapture
 ?,/Lotus/StoreItems/Types/Keys/TestKeyForestEndlessDefense
@@ -638,8 +639,8 @@ Hydroid Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidSystemsCo
 로키 시스템 Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LOKISystemsBlueprint
 로키 시스템,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LOKISystemsComponent
 Loki Prime Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeBlueprint
-?,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeChassisBlueprint
-?,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeChassisComponent
+Loki Prime Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeChassisBlueprint
+Loki Prime Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeChassisComponent
 Loki Prime Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeHelmetBlueprint
 Loki Prime Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeHelmetComponent
 Loki Prime Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LokiPrimeSystemsBlueprint
@@ -892,6 +893,7 @@ Kama Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/SingleKamaBlueprint
 보어 Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/StrunShotgunBlueprint
 Castanas Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TaserStarBlueprint
 Soma Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoARBlueprint
+Nami Solo Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoCutlassBlueprint
 Tigris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoDoubleBarrelShotgunBlueprint
 Galatine Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoGreatSwordBlueprint
 Sybaris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoLeverActionRifleBlueprint
@@ -1219,6 +1221,9 @@ Lightning Blades,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerMeleeElectricityDama
 스프린트 부스트,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSprintAuraMod
 어피너티 앰프,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerXPAuraMod
 Emp 오러,/Lotus/StoreItems/Upgrades/Mods/Aura/RobotPoorAimAuraMod
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HalfShieldsLevelAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HighDamageEnemyLevelAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/WeakEnemyLevelAura
 퓨젼 코어,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl1ModFuser
 퓨젼 코어,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl2ModFuser
 퓨젼 코어,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl3ModFuser
@@ -1445,6 +1450,11 @@ Daedalus Shoulder Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/S
 Daedalus Chest Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeChestArmor
 Daedalus Knee Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeLegLeftArmor
 Daedalus Knee Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeLegRightArmor
+Edo Shoulder Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoArmLeftArmor
+Edo Shoulder Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoArmRightArmor
+Edo Chest Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoChestArmor
+Edo Knee Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoLegLeftArmor
+Edo Knee Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoLegRightArmor
 Banshee Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/BansheeArmLeftArmor
 Ember Prime Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/EmberPrimeArmLeftArmor
 Ember Prime Armor,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/EmberPrimeArmRightArmor
@@ -1919,6 +1929,7 @@ Bo Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/PrimeBo/PrimeBoWeapon
 앰피스,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/GrnStaff
 보,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/Staff
 Nami Skyla,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/CutlassPoignardSwords
+Nami Solo,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/TennoCutlass
 다크 소드,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/DarkSword/DarkLongSword
 Galatine,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/GreatSword/TennoGreatSword
 히트 소드,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/HeatSword/HeatLongSword
@@ -2052,6 +2063,7 @@ Update 13 Mega Pack,/Lotus/Types/StoreItems/Packages/PiratePack
 포이즈너스 애티튜드 패키지,/Lotus/Types/StoreItems/Packages/SarynPack
 Eos Armor Bundle,/Lotus/Types/StoreItems/Packages/SetOneArmorPack
 Daedalus Armor Bundle,/Lotus/Types/StoreItems/Packages/SetThreeArmorPack
+Edo Armor Bundle,/Lotus/Types/StoreItems/Packages/SetTwoArmorPack
 어떤 스토커 말인가요?,/Lotus/Types/StoreItems/Packages/StalkerPack
 스텔스 팩,/Lotus/Types/StoreItems/Packages/StealthPack
 Super Charge Pack,/Lotus/Types/StoreItems/Packages/SuperChargePack

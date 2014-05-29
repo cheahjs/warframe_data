@@ -1,4 +1,13 @@
 Deck,Enemy,Probability,Max Simultaneous,Tier
+CorpusEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
+,Osprey-Tarcza (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,Snajper (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,Technik Corpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
+,Osprey-Miner (Drones/AIWeek/MineDroneAgent),0.02,0,0
+,Moa-Hybryda (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
+,Sejsmiczny Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
+,Moa Z Railgunem (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
 CorpusGrineerDesertMix,Załogant (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
 ,Sejsmiczny Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
@@ -77,6 +86,19 @@ CorpusInfestedMixB,Załogant (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.25,0,0
 ,Osprey-Miner (Drones/AIWeek/MineDroneAgent),0.25,0,0
 ,Moa-Hybryda (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
+,Taran (AiWeek/Quadrupeds/Quadruped),1,0,0
+,Biegacz (AiWeek/Runners/SuicideRunner),1,0,0
+,AiWeek/Ancients/MeleeAncient,0.1,0,0
+,Toksyczny Starożytny (AiWeek/Ancients/ToxicAncient),0.1,0,0
+CorpusInfestedMixEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
+,Osprey-Tarcza (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,Snajper (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,Technik Corpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
+,Osprey-Miner (Drones/AIWeek/MineDroneAgent),0.025,0,0
+,Moa-Hybryda (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
+,Sejsmiczny Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
+,Moa Z Railgunem (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
 ,Taran (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,Biegacz (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
