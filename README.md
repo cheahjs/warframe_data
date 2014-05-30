@@ -11,4 +11,4 @@ Notes
 Warning
 -------
 
-Linking to this repo or mentioning information obtained from this repo on official Warframe sites may result in thread locks/deletions and warnings.
+Linking to this repo or mentioning information obtained from this repo on official Warframe sites or /r/Warframe may result in thread locks/deletions and warnings.
