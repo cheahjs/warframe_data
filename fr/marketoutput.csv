@@ -1541,6 +1541,8 @@ Puits de vie(/Lotus/StoreItems/Powersuits/Trinity/WellOfLifeAbilityCard),Upgrade
 Purifie-Corpus(/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageCorpus),Upgrades,NO,YES,?,?,
 Purifie-Grineer(/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageGrineer),Upgrades,NO,YES,?,?,
 Purifie-Infestés(/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageInfested),Upgrades,NO,YES,?,?,
+Pyrana Blueprint(/Lotus/StoreItems/Types/Recipes/Weapons/TennoHandShotgunBlueprint),Recipes,NO,NO,20000,?,
+Pyrana(/Lotus/StoreItems/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun),?,YES,NO,?,175,
 Pâques(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerEasterItemA),FlavourItems,NO,NO,1,?,
 Quantum Nova Helmet Blueprint(/Lotus/StoreItems/Types/Recipes/Helmets/NovaQuantumHelmetBlueprint),Recipes,NO,NO,?,?,
 Quantum Nova Helmet(/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaQuantumHelmet),WeaponSkins,YES,NO,?,75,

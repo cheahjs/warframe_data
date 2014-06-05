@@ -1548,6 +1548,8 @@ Punição Corpus(/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeFactionDamageC
 Punição Grineer(/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeFactionDamageGrineer),Upgrades,NO,YES,?,?,
 Punição Infestados(/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeFactionDamageInfested),Upgrades,NO,YES,?,?,
 Puxar(/Lotus/StoreItems/Powersuits/Mag/PullAbilityCard),Upgrades,NO,YES,?,?,
+Pyrana Blueprint(/Lotus/StoreItems/Types/Recipes/Weapons/TennoHandShotgunBlueprint),Recipes,NO,NO,20000,?,
+Pyrana(/Lotus/StoreItems/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun),?,YES,NO,?,175,
 Páscoa(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerEasterItemA),FlavourItems,NO,NO,1,?,
 Pés Firmes(/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarKnockdownResistanceMod),Upgrades,NO,YES,?,?,
 Qualquer(/Lotus/StoreItems/Types/Game/LotusWeapon),MiscItems,NO,NO,?,?,

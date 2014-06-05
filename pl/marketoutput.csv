@@ -1415,6 +1415,8 @@ Psioniczne Sztylety(/Lotus/StoreItems/Powersuits/Jade/DaggerAbilityCard),Upgrade
 Psiv(/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerPS4ItemA),FlavourItems,NO,NO,?,?,
 Punkt Nacisku(/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeDamageMod),Upgrades,NO,YES,?,?,
 Pustoszyciel(/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponCritDamageMod),Upgrades,NO,YES,?,?,
+Pyrana Blueprint(/Lotus/StoreItems/Types/Recipes/Weapons/TennoHandShotgunBlueprint),Recipes,NO,NO,20000,?,
+Pyrana(/Lotus/StoreItems/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun),?,YES,NO,?,175,
 Północny Wiatr(/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponFreezeDamageMod),Upgrades,NO,YES,?,?,
 Płaszcz Ciepła(/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarMissionSpecificResistanceIce),Upgrades,NO,YES,?,?,
 Płaszcz Zapalający(/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponFireDamageMod),Upgrades,NO,YES,?,?,

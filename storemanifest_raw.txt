@@ -1953,6 +1953,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Tenno/Pistols/Magnum/Magnum,
 /Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeLex/PrimeLex,
 /Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeSicarus/PrimeSicarusPistol,
+/Lotus/StoreItems/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun,
 /Lotus/StoreItems/Weapons/Tenno/Pistols/TennoUzi/TennoUzi,
 /Lotus/StoreItems/Weapons/Tenno/Rifle/BoltoRifle,
 /Lotus/StoreItems/Weapons/Tenno/Rifle/BratonPrime,
@@ -2091,13 +2092,13 @@ OverrideTexture=""
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Weapons/Corpus/Pistols/CrpHandRL/CorpusHandRocketLauncher
+StoreItem=/Lotus/StoreItems/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun
 Slot=Secondary
 OverrideTexture=""
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Weapons/Corpus/Melee/Polearm/CorpusPolearm01/CorpusPolearmWeapon
+StoreItem=/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/TennoCutlass
 Slot=Melee
 OverrideTexture=""
 OverrideMaterial=""

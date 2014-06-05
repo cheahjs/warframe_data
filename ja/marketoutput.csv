@@ -1348,6 +1348,8 @@ Pulse Volt のアバター(/Lotus/Types/StoreItems/AvatarImages/AvatarPackVoltPu
 Pulse Volt ヘルム Blueprint(/Lotus/StoreItems/Types/Recipes/Helmets/ConversionVoltHelmetAltBBlueprint),Recipes,YES,NO,1000,?,
 Pulse Volt ヘルム Blueprint(/Lotus/StoreItems/Types/Recipes/Helmets/StatlessV2VoltAltHelmetBlueprint),Recipes,NO,NO,?,?,
 Pulse Volt ヘルム(/Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmetAltBStatless),WeaponSkins,YES,NO,?,75,
+Pyrana Blueprint(/Lotus/StoreItems/Types/Recipes/Weapons/TennoHandShotgunBlueprint),Recipes,NO,NO,20000,?,
+Pyrana(/Lotus/StoreItems/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun),?,YES,NO,?,175,
 Quantum Nova Helmet Blueprint(/Lotus/StoreItems/Types/Recipes/Helmets/NovaQuantumHelmetBlueprint),Recipes,NO,NO,?,?,
 Quantum Nova Helmet(/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaQuantumHelmet),WeaponSkins,YES,NO,?,75,
 Quantum Nova Profile Icon(/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaQuantumBright),FlavourItems,NO,NO,20000,26,

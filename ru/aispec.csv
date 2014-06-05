@@ -579,6 +579,7 @@ GrineerSquadFour,AIWeek/RifleLancer,1,0,0
 ,AIWeek/GrineerRollingDrone,0.2,0,0
 ,AIWeek/GrineerFemale,0.1,0,0
 ,AIWeek/FlameLancer,0.2,0,0
+,AIWeek/PistonSawman,0.30000001,0,0
 GrineerSquadOne,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
@@ -605,6 +606,7 @@ GrineerSquadSix,AIWeek/RifleLancer,1,0,0
 ,AIWeek/GrineerFemale,0.1,0,0
 ,AIWeek/EviseratorLancer,0.1,0,0
 ,AIWeek/JetpackMarine,0.050000001,0,0
+,AIWeek/PistonSawman,0.30000001,0,0
 GrineerSquadThree,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
@@ -616,6 +618,7 @@ GrineerSquadThree,AIWeek/RifleLancer,1,0,0
 ,AIWeek/BlowtorchSawman,0.1,0,0
 ,GrineerMarinePistol,0.15000001,0,0
 ,AIWeek/FlameLancer,0.1,0,0
+,AIWeek/PistonSawman,0.30000001,0,0
 GrineerSquadTwo,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.2,0,0
