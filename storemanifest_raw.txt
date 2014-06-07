@@ -896,6 +896,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoCutlassBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoDoubleBarrelShotgunBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoGreatSwordBlueprint,
+/Lotus/StoreItems/Types/Recipes/Weapons/TennoHandShotgunBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoLeverActionRifleBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoSniperRifleBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoStarsBlueprint,
