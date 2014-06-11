@@ -807,46 +807,56 @@ InfestedSquadC,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 InfestedSurvivalA,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
+,AiWeek/Crawlers/MeleeCrawler,0.2,6,0
 ,Charger (AiWeek/Quadrupeds/Quadruped),1,0,1
 ,Corredor (AiWeek/Runners/SuicideRunner),0.25,8,1
 ,AiWeek/Runners/MeleeRunner,0.5,0,1
+,AiWeek/Crawlers/MeleeCrawler,0.2,6,0
 ,Charger (AiWeek/Quadrupeds/Quadruped),1,20,2
 ,Corredor (AiWeek/Runners/SuicideRunner),0.25,8,2
 ,Saltador (AiWeek/Runners/LeapingRunner),0.25,0,2
+,Arrastrador Tóxico (AiWeek/Crawlers/NoxiousCrawler),0.2,4,2
 ,Charger (AiWeek/Quadrupeds/Quadruped),1,0,3
 ,Corredor (AiWeek/Runners/SuicideRunner),0.25,8,3
 ,Saltador (AiWeek/Runners/LeapingRunner),0.25,0,3
 ,AiWeek/Runners/MeleeRunner,0.25,0,3
+,AiWeek/Crawlers/MeleeCrawler,0.2,6,3
 ,Charger (AiWeek/Quadrupeds/Quadruped),1,0,4
 ,Corredor (AiWeek/Runners/SuicideRunner),0.25,8,4
 ,Saltador (AiWeek/Runners/LeapingRunner),0.25,0,4
 ,Sanador Antiguo (AiWeek/Ancients/HealingAncient),1,3,4
+,AiWeek/Crawlers/LightningCrawler,0.2,4,4
 ,Charger (AiWeek/Quadrupeds/Quadruped),1,0,5
 ,Corredor (AiWeek/Runners/SuicideRunner),0.25,8,5
 ,Saltador (AiWeek/Runners/LeapingRunner),0.25,0,5
 ,Sanador Antiguo (AiWeek/Ancients/HealingAncient),1,3,5
 ,AiWeek/Runners/MeleeRunner,0.25,0,5
+,AiWeek/Crawlers/MeleeCrawler,0.2,6,5
 ,Charger (AiWeek/Quadrupeds/Quadruped),1,0,6
 ,Corredor (AiWeek/Runners/SuicideRunner),0.25,8,6
 ,Saltador (AiWeek/Runners/LeapingRunner),0.25,0,6
 ,AiWeek/Ancients/MeleeAncient,1,3,6
+,AiWeek/Crawlers/GrenadeCrawler,0.2,4,6
 ,Charger (AiWeek/Quadrupeds/Quadruped),1,0,7
 ,Corredor (AiWeek/Runners/SuicideRunner),0.25,8,7
 ,Saltador (AiWeek/Runners/LeapingRunner),0.25,0,7
 ,AiWeek/Ancients/MeleeAncient,1,3,7
 ,Sanador Antiguo (AiWeek/Ancients/HealingAncient),1,2,7
+,AiWeek/Crawlers/GrenadeCrawler,0.2,4,7
 ,Charger (AiWeek/Quadrupeds/Quadruped),1,0,8
 ,Corredor (AiWeek/Runners/SuicideRunner),0.25,8,8
 ,Saltador (AiWeek/Runners/LeapingRunner),0.25,0,8
 ,Tóxico Antiguo (AiWeek/Ancients/ToxicAncient),1,2,8
 ,Sanador Antiguo (AiWeek/Ancients/HealingAncient),1,2,8
 ,AiWeek/Ancients/MeleeAncient,1,1,8
+,AiWeek/Crawlers/LightningCrawler,0.2,4,8
 ,Charger (AiWeek/Quadrupeds/Quadruped),1,0,9
 ,Corredor (AiWeek/Runners/SuicideRunner),0.25,8,9
 ,Saltador (AiWeek/Runners/LeapingRunner),0.25,0,9
 ,Sanador Antiguo (AiWeek/Ancients/HealingAncient),1,2,9
 ,AiWeek/Ancients/MeleeAncient,1,2,9
 ,Tóxico Antiguo (AiWeek/Ancients/ToxicAncient),1,2,9
+,Arrastrador Tóxico (AiWeek/Crawlers/NoxiousCrawler),0.2,4,9
 InfestedSurvivalACorpus,Tripulante (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),0.5,1,0
 ,Tripulante Aguijón (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
@@ -1135,7 +1145,6 @@ GrineerShipyardsSurvivalA,AIWeek/RifleLancer,1,10,0
 ,AIWeek/RifleLancer,1,20,1
 ,AIWeek/BladeSawmanNoCoverSurvival,1,10,1
 ,Forest/ShotgunLancer,1,2,1
-,AIWeek/GrineerMeleeStaffAgent,1,1,1
 ,AIWeek/RifleLancer,1,20,2
 ,AIWeek/EliteRifleLancer,1,20,2
 ,AIWeek/BladeSawmanNoCoverSurvival,1,20,2
@@ -1146,7 +1155,6 @@ GrineerShipyardsSurvivalA,AIWeek/RifleLancer,1,10,0
 ,AIWeek/BladeSawmanNoCoverSurvival,1,20,3
 ,AIWeek/ShieldLancer,0.5,3,3
 ,AIWeek/GrineerFemale,1,3,3
-,AIWeek/GrineerMeleeStaffAgent,1,1,3
 ,AIWeek/EliteRifleLancer,1,20,4
 ,AIWeek/BladeSawmanNoCoverSurvival,1,20,4
 ,AIWeek/ShieldLancer,0.5,4,4
@@ -1162,7 +1170,6 @@ GrineerShipyardsSurvivalA,AIWeek/RifleLancer,1,10,0
 ,AIWeek/ShieldLancer,0.5,5,6
 ,AIWeek/RocketBombard,1,3,6
 ,Forest/ShotgunLancer,1,4,6
-,AIWeek/GrineerMeleeStaffAgent,1,1,6
 ,AIWeek/EliteRifleLancer,1,20,7
 ,AIWeek/BladeSawmanNoCoverSurvival,1,15,7
 ,AIWeek/ShieldLancer,0.5,5,7
@@ -1179,4 +1186,3 @@ GrineerShipyardsSurvivalA,AIWeek/RifleLancer,1,10,0
 ,AIWeek/ShieldLancer,0.5,7,9
 ,AIWeek/RocketBombard,1,1,9
 ,AIWeek/MinigunBombard,1,2,9
-,AIWeek/GrineerMeleeStaffAgent,1,1,9

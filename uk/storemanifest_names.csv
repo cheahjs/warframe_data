@@ -354,6 +354,12 @@ Corpus Datamass,/Lotus/StoreItems/Types/Items/Research/DataMassPlus
 Філдрон,/Lotus/StoreItems/Types/Items/Research/EnergyComponent
 Філдрон Blueprint,/Lotus/StoreItems/Types/Items/Research/EnergyComponentBlueprint
 Зразок Філдрону,/Lotus/StoreItems/Types/Items/Research/EnergyFragment
+Tower Iv Capture,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerCaptureTier4Key
+Tower Iv Defense,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerDefenseTier4Key
+Tower Iv Exterminate,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerExterminateTier4Key
+Tower Iv Interception,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerInterceptionTier4Key
+Tower Iv Mobile Defense,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerMobileDefenseTier4Key
+Tower Iv Survival,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerSurvivalTier4Key
 ?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalAsteroidGrn
 ?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalAsteroidInf
 ?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalGalleonGrn
@@ -566,6 +572,7 @@ Arcane Storm Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/VoltAltHel
 Cierzo Zephyr Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ZephyrCierzoHelmetBlueprint
 Carrier Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/CarrierSentinelBlueprint
 Куб Смерті Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/DethCubeSentinelBlueprint
+Wyrm Prime Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/PrimeWyrmSentinelBlueprint
 Шейд Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/ShadeSentinelBlueprint
 Змій Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/WyrmSentinelBlueprint
 Еш Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshBlueprint
@@ -772,6 +779,8 @@ Miter Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/MiterBarrel
 Miter Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/MiterBlade
 Miter Chassis,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/MiterChassis
 Miter Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/MiterHandle
+Bo Prime Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBoHandle
+Bo Prime Ornament,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBoOrnament
 Paris Prime Grip,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowGrip
 Paris Prime Lower Limb,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowLowerLimb
 Paris Prime String,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowString
@@ -784,6 +793,9 @@ Orthos Prime Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimePole
 Orthos Prime Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimePolearmHandle
 Reaper Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeScytheBlade
 Reaper Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeScytheHandle
+Wyrm Prime Carapace,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCarapace
+Wyrm Prime Cerebrum,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCerebrum
+Wyrm Prime Systems,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeWyrmSystems
 Sicarus Prime Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/SicarusPrimeBarrel
 Sicarus Prime Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/SicarusPrimeReceiver
 Vor's Pistol Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VorsPistolBarrel
@@ -878,6 +890,7 @@ Magistar Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PaladinMaceBlueprint
 Плазмовий Меч Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PlasmaSwordBlueprint
 Ортр Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PolearmBlueprint
 Orthos Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PolearmPrimeBlueprint
+Bo Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PrimeBoBlueprint
 Dakra Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PrimeCronusLongSwordBlueprint
 Reaper Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PrimeScytheBlueprint
 Hek Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/QuadShotgunBlueprint
@@ -1149,6 +1162,7 @@ Team Shield Restore x10 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables
 Weapon Slot,/Lotus/StoreItems/Types/StoreItems/SlotItems/WeaponSlotItem
 Фортеця,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerBastilleItem
 Daybreak,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerDaybreakItemA
+Defaults,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerDefaultsItemA
 Пасха,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerEasterItemA
 Вогонь,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerFireItemA
 Гриннір,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerGrineerItemA
@@ -1678,10 +1692,10 @@ Phased Akvasto Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/AkvastosVoidSkin
 Phased Ankyros Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/AnkyrosVoidSkin
 Phased Tigris Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/TigrisVoidSkin
 Phased Vasto Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/VastoVoidSkin
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoAkimboViperCamo
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoDrakgoonCamo
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoGalatineCamo
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoViperCamo
+Rubedo Plated Twin Vipers Skin,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoAkimboViperCamo
+Rubedo Plated Drakgoon Skin,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoDrakgoonCamo
+Rubedo Plated Galatine Skin,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoGalatineCamo
+Rubedo Plated Viper Skin,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoViperCamo
 Rhino Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoAgileAnims
 Rhino Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoAlternateSkin
 Ріно Шолом,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmet
@@ -1691,8 +1705,8 @@ Arcane Vanguard Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmetAltB
 Шолом Ріно Трак,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmetAltStatless
 Rhino Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoNobleAnims
 Rhino Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoPrimeHelmet
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkin
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkinHelmet
+Rubedo Plated Rhino Skin,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkin
+Rubedo Plated Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkinHelmet
 Yomo Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/ArmScarf
 Yamako Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/DinoSpikeScarf
 Asa Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarf
@@ -1702,7 +1716,7 @@ Noru Prime Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/NoruPrimeScarf
 Obsidian Yomo Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/PS4ArmScarf
 Misa Prime Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeScarf
 Uru Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/RazorScarf
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/Scarves/RubedoDinoSpikeScarf
+Rubedo Plated Yamako Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/RubedoDinoSpikeScarf
 Imperator Syandana ,/Lotus/StoreItems/Upgrades/Skins/Scarves/TurtleNeckScarf
 Coltek Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GunHeadMask
 Драконяча Маска Вартового,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/HunhowMask
