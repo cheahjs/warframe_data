@@ -1,5 +1,10 @@
 {
   "/EE/Types/Game/AssaultRifleWeapon": "Auto",
+  "/EE/Types/Game/WeaponAutomaticStateBehavior": "Auto",
+  "/EE/Types/Game/WeaponBurstStateBehavior": "Burst",
+  "/EE/Types/Game/WeaponChargedStateBehavior": "Charge",
+  "/EE/Types/Game/WeaponContinuousStateBehavior": "Held",
+  "/EE/Types/Game/WeaponSemiAutomaticStateBehavior": "Semi-Auto",
   "/Lotus/Fx/Holidays/FourthOfJuly/FireWorksCrate": "그랜드 피날레",
   "/Lotus/Fx/Holidays/FourthOfJuly/FireWorksSingle": "스타버스트",
   "/Lotus/Objects/ExplodingBarrel": "폭발물 배럴",

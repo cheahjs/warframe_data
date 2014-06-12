@@ -1,5 +1,10 @@
 {
   "/EE/Types/Game/AssaultRifleWeapon": "Auto",
+  "/EE/Types/Game/WeaponAutomaticStateBehavior": "Auto",
+  "/EE/Types/Game/WeaponBurstStateBehavior": "Burst",
+  "/EE/Types/Game/WeaponChargedStateBehavior": "Charge",
+  "/EE/Types/Game/WeaponContinuousStateBehavior": "Held",
+  "/EE/Types/Game/WeaponSemiAutomaticStateBehavior": "Semi-Auto",
   "/Lotus/Fx/Holidays/FourthOfJuly/FireWorksCrate": "Грандиозный Финал",
   "/Lotus/Fx/Holidays/FourthOfJuly/FireWorksSingle": "Звездная Вспышка",
   "/Lotus/Objects/ExplodingBarrel": "Взрывоопасная Бочка",
