@@ -2053,7 +2053,7 @@ Wooden Sand Garden(/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGarden
 Wooden Totem(/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenTotemRecipe),Recipes,NO,NO,75000,?,
 Wraith Twin Vipers(/Lotus/StoreItems/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers),?,NO,NO,?,?,
 Wyrm Blueprint(/Lotus/StoreItems/Types/Recipes/SentinelRecipes/WyrmSentinelBlueprint),Recipes,YES,NO,100000,?,
-Wyrm Prime Blueprint(/Lotus/StoreItems/Types/Recipes/SentinelRecipes/PrimeWyrmSentinelBlueprint),Recipes,NO,NO,100000,?,
+Wyrm Prime Blueprint(/Lotus/StoreItems/Types/Recipes/SentinelRecipes/PrimeWyrmSentinelBlueprint),Recipes,NO,YES,100000,?,
 Wyrm Prime Carapace(/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCarapace),MiscItems,NO,YES,?,?,
 Wyrm Prime Cerebrum(/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCerebrum),MiscItems,NO,YES,?,?,
 Wyrm Prime Systems(/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeWyrmSystems),MiscItems,NO,YES,?,?,

@@ -2005,7 +2005,7 @@ Wyczucie Wroga(/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarEnemyRadarMod),Upg
 Wykrywacz Wrogów(/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerEnemyRadarAuraMod),Upgrades,NO,YES,?,?,
 Wyrafinowany Strzelec(/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSniperDamageAuraMod),Upgrades,NO,YES,?,?,
 Wyrm Blueprint(/Lotus/StoreItems/Types/Recipes/SentinelRecipes/WyrmSentinelBlueprint),Recipes,YES,NO,100000,?,
-Wyrm Prime Blueprint(/Lotus/StoreItems/Types/Recipes/SentinelRecipes/PrimeWyrmSentinelBlueprint),Recipes,NO,NO,100000,?,
+Wyrm Prime Blueprint(/Lotus/StoreItems/Types/Recipes/SentinelRecipes/PrimeWyrmSentinelBlueprint),Recipes,NO,YES,100000,?,
 Wyrm Prime Carapace(/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCarapace),MiscItems,NO,YES,?,?,
 Wyrm Prime Cerebrum(/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCerebrum),MiscItems,NO,YES,?,?,
 Wyrm Prime Systems(/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeWyrmSystems),MiscItems,NO,YES,?,?,
