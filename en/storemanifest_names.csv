@@ -1,175 +1,175 @@
 Name,Type
-Arid Fear Bronze Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearBronzeTrophyRecipe
-Arid Fear Gold Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearGoldTrophyRecipe
-Arid Fear Silver Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearSilverTrophyRecipe
-Bronze Buddha Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueBuddhaRecipe
-Bronze Dragon Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueDragonRecipe
-Bronze Foo Dog Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueFooDogRecipe
-Bronze Incense Burner Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueIncenseBurnerRecipe
-Bronze Turtle Dragon Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueTurtleDragonRecipe
-Cicero Crisis Bronze Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CiceroCrisisBronzeTrophyRecipe
-Cicero Crisis Gold Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CiceroCrisisGoldTrophyRecipe
-Cicero Crisis Silver Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CiceroCrisisSilverTrophyRecipe
-Couch,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CouchTestRecipe
-Planter,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/DojoPlanterARecipe
-Chokkan Fountain,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainBambooARecipe
-Hokidachi Fountain,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainBambooBRecipe
-Shakan Fountain,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainBambooCRecipe
-Baseless Stone Fountain,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainRockARecipe
-Stone Fountain,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainRockBaseRecipe
-Wooden Fountain,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainWoodenARecipe
-Fusion Moa Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FusionMoaTrophyRecipe
-Yin-Yang Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GardenYinYangRecipe
-Gradivus Dilemma Bronze Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaCorpusBronzeTrophyRecipe
-Gradivus Dilemma Gold Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaCorpusGoldTrophyRecipe
-Gradivus Dilemma Silver Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaCorpusSilverTrophyRecipe
-Gradivus Dilemma Bronze Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaGrineerBronzeTrophyRecipe
-Gradivus Dilemma Gold Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaGrineerGoldTrophyRecipe
-Gradivus Dilemma Silver Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaGrineerSilverTrophyRecipe
-Armoured Grineer Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerArmouredStatueRecipe
-Female Grineer Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerFemaleStatueRecipe
-Grineer Marine Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerMarineStatueRecipe
-Lech Kril Statue,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/HammerBossStatueRecipe
-Large Topiary Bush,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/LargeTopiaryBushRecipe
-Man,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ManTestRecipe
-Leaning Maple Tree,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeARecipe
-Autumn Maple Tree,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeBRecipe
-Spring Maple Tree,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeCRecipe
-Summer Maple Tree,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeDRecipe
-Ramu Pillar Lantern,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ModPathLightARecipe
-Cairn,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/RockStatueStonePileRecipe
-Tethra's Doom Bronze Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ShipyardsEventBronzeTrophyRecipe
-Tethra's Doom Gold Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ShipyardsEventGoldTrophyRecipe
-Tethra's Doom Silver Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ShipyardsEventSilverTrophyRecipe
-Sling Stone Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SlingStoneTrophyRecipe
-Pruned Bush,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SmallPrunedBushRecipe
-Small Topiary Bush,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SmallTopiaryBushRecipe
-Spy Drone Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SpyDroneTrophyRecipe
-Aru Stone Lantern,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/StoneLanternARecipe
-Soru Stone Lantern,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/StoneLanternBRecipe
-Survival Event Bronze Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SurvivalEventBronzeTrophyRecipe
-Survival Event Gold Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SurvivalEventGoldTrophyRecipe
-Survival Event Silver Trophy,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SurvivalEventSilverTrophyRecipe
-Iyoro Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoArchBARecipe
-Tetuon Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoArchBBRecipe
-Gomeka Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoArchBCRecipe
-Sinsino Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoArchBDRecipe
-Tenno Banner A,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerARecipe
-Tenno Banner B,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerBRecipe
-Tenno Banner C,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerCRecipe
-Tenno Banner D,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerDRecipe
-Tenno Banner E,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerERecipe
-Tenno Banner F,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerFRecipe
-Tenno Banner G,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerGRecipe
-Tenno Banner H,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerHRecipe
-Tenno Banner I,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerIRecipe
-Tenno Banner J,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerJRecipe
-Tenno Banner K,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerKRecipe
-Tenno Banner L,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerLRecipe
-Tenno Banner M,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerMRecipe
-Tenno Banner N,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerNRecipe
-Tenno Banner O,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerORecipe
-Tenno Banner P,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerPRecipe
-Floor Medallion Eight,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoFloorMedallionEightLotusRecipe
-Floor Medallion Nine,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoFloorMedallionNineLotusRecipe
-Floor Medallion Three,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoFloorMedallionThreeBrainRecipe
-Koi Pond,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoKoiPondRecipe
-Statue Base,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoStatueBaseRecipe
-Statue Base (Small),/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoStatueBaseSmallRecipe
-Storage Crate,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoDojoLootCrateARecipe
-Shrine Totem A,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoDojoShrineTotemARecipe
-Floor Panel B,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoFloorPanelBRecipe
-Incense Container,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoIncenseContainerRecipe
-Rock Sculpture,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoRockSculptureRecipe
-Drum 1,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum1Recipe
-Drum 2,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum2Recipe
-Drum 3,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum3Recipe
-Drum 4,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum4Recipe
-Drum 5,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum5Recipe
-Drum 6,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum6Recipe
-Drum 7,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum7Recipe
-Drum 8,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum8Recipe
-Trading Post,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TradingPostRecipe
-Treasury,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/VaultContributionKioskRecipe
-?,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/VaultTestRecipe
-Garden Arch,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenArchRecipe
-Wooden Bench,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenBenchRecipe
-Wooden Bridge,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenBridgeRecipe
-Wooden Totem,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenTotemRecipe
-Dokomo Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenGardenArchBARecipe
-Jakari Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenGardenArchBBRecipe
-Katsuen Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenGardenArchBCRecipe
-Nishan Bell,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenGardenArchBDRecipe
-Miyeti Zen Garden Island,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenIslandCRecipe
-Rodoko Zen Garden Island,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenIslandDRecipe
-Ligumi Zen Garden Island,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenIslandERecipe
-Daru Zen Sand Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenSandGardenFRecipe
-Maho Zen Sand Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenSandGardenGRecipe
-Fumiro Zen Sand Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenSandGardenHRecipe
-Yoshijo Zen Sand Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenSandGardenJRecipe
-Elbow Connector,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanConnectorElbowARecipe
-Cross Connector,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanConnectorPlusARecipe
-Small Hallway,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanConnectorSmallARecipe
-T-Shaped Connector,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanConnectorTJunctionARecipe
-Elevator,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanElevatorARecipe
-Grand Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGrandHallARecipe
-Grandest Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGrandestHallARecipe
-Great Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGreatHallARecipe
-Greater Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGreaterHallARecipe
-Clan Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanHallARecipe
-Obstacle Course,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanObstacleCourseARecipe
-Reactor,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanPowerRoomARecipe
-Storage,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanStorageARecipe
-Target Challenge,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoChallengeRoomA
-Elbow Connector,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorElbowRecipe
-Elevator,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorElevatorRecipe
-Cross Connector,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorPlusRecipe
-Extended Straight Hallway,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorStraightLongRecipe
-Straight Hallway,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorStraightRecipe
-T-Shaped Connector,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorTJunctionRecipe
-Dueling Room,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoDuelRoomARecipe
-Castitas Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenA
-Temperantia Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenALarge
-Industria Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenB
-Humilitas Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenC
-Equinox Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenD
-Caritas Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenDLarge
-Wooden Sand Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenE
-Aestas Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenF
-Vosen Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenFLarge
-Autumn Garden Stone,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenG
-Leto Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenGLarge
-Stone Sand Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenH
-Zen Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenI
-Solace Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenILarge
-Mosaic Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenJLarge
-Junno Water Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenLLarge
-Soleto Garden,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenMLarge
-Clan Grand Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGrandHallRecipe
-Clan Grandest Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGrandestHallRecipe
-Clan Great Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGreatHallRecipe
-Clan Greater Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGreaterHallRecipe
-Clan Hall,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoHallRecipe
-Reactor,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoPowerRoomRecipe
-Arc Furnace,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/FabricatorBaseRecipe
-Particle Accelerator,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/FabricatorCorpusRecipe
-Chem Refinery,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/FabricatorGrineerRecipe
-Transmuter,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/FabricatorInfestedRecipe
-Observatory,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ObservatoryRecipe
-Dueling Room,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/OroDojoRoomARecipe
-Dueling Room II,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/OroDojoRoomBRecipe
-Dueling Room III,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/OroDojoRoomCRecipe
-Oracle,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabBaseRecipe
-Energy Lab,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabCorpusRecipe
-Chem Lab,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabGrineerRecipe
-Bio Lab,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabInfestedRecipe
-Orokin Lab,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabOrokinRecipe
-Tenno Lab,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabTennoRecipe
-Shadow Barracks,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier2BarracksRecipe
-Storm Barracks,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier3BarracksRecipe
-Mountain Barracks,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier4BarracksRecipe
-Moon Barracks,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier5BarracksRecipe
-Temple of Honor,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/TrophyRoomRecipe
+Arid Fear Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearBronzeTrophyRecipe
+Arid Fear Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearGoldTrophyRecipe
+Arid Fear Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearSilverTrophyRecipe
+Bronze Buddha Statue Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueBuddhaRecipe
+Bronze Dragon Statue Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueDragonRecipe
+Bronze Foo Dog Statue Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueFooDogRecipe
+Bronze Incense Burner Statue Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueIncenseBurnerRecipe
+Bronze Turtle Dragon Statue Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueTurtleDragonRecipe
+Cicero Crisis Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CiceroCrisisBronzeTrophyRecipe
+Cicero Crisis Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CiceroCrisisGoldTrophyRecipe
+Cicero Crisis Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CiceroCrisisSilverTrophyRecipe
+Couch Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CouchTestRecipe
+Planter Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/DojoPlanterARecipe
+Chokkan Fountain Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainBambooARecipe
+Hokidachi Fountain Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainBambooBRecipe
+Shakan Fountain Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainBambooCRecipe
+Baseless Stone Fountain Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainRockARecipe
+Stone Fountain Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainRockBaseRecipe
+Wooden Fountain Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainWoodenARecipe
+Fusion Moa Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FusionMoaTrophyRecipe
+Yin-Yang Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GardenYinYangRecipe
+Gradivus Dilemma Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaCorpusBronzeTrophyRecipe
+Gradivus Dilemma Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaCorpusGoldTrophyRecipe
+Gradivus Dilemma Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaCorpusSilverTrophyRecipe
+Gradivus Dilemma Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaGrineerBronzeTrophyRecipe
+Gradivus Dilemma Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaGrineerGoldTrophyRecipe
+Gradivus Dilemma Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GradivusDilemmaGrineerSilverTrophyRecipe
+Armoured Grineer Statue Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerArmouredStatueRecipe
+Female Grineer Statue Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerFemaleStatueRecipe
+Grineer Marine Statue Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerMarineStatueRecipe
+Lech Kril Statue Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/HammerBossStatueRecipe
+Large Topiary Bush Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/LargeTopiaryBushRecipe
+Man Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ManTestRecipe
+Leaning Maple Tree Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeARecipe
+Autumn Maple Tree Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeBRecipe
+Spring Maple Tree Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeCRecipe
+Summer Maple Tree Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeDRecipe
+Ramu Pillar Lantern Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ModPathLightARecipe
+Cairn Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/RockStatueStonePileRecipe
+Tethra's Doom Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ShipyardsEventBronzeTrophyRecipe
+Tethra's Doom Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ShipyardsEventGoldTrophyRecipe
+Tethra's Doom Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ShipyardsEventSilverTrophyRecipe
+Sling Stone Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SlingStoneTrophyRecipe
+Pruned Bush Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SmallPrunedBushRecipe
+Small Topiary Bush Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SmallTopiaryBushRecipe
+Spy Drone Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SpyDroneTrophyRecipe
+Aru Stone Lantern Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/StoneLanternARecipe
+Soru Stone Lantern Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/StoneLanternBRecipe
+Survival Event Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SurvivalEventBronzeTrophyRecipe
+Survival Event Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SurvivalEventGoldTrophyRecipe
+Survival Event Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SurvivalEventSilverTrophyRecipe
+Iyoro Bell Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoArchBARecipe
+Tetuon Bell Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoArchBBRecipe
+Gomeka Bell Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoArchBCRecipe
+Sinsino Bell Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoArchBDRecipe
+Tenno Banner A Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerARecipe
+Tenno Banner B Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerBRecipe
+Tenno Banner C Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerCRecipe
+Tenno Banner D Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerDRecipe
+Tenno Banner E Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerERecipe
+Tenno Banner F Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerFRecipe
+Tenno Banner G Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerGRecipe
+Tenno Banner H Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerHRecipe
+Tenno Banner I Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerIRecipe
+Tenno Banner J Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerJRecipe
+Tenno Banner K Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerKRecipe
+Tenno Banner L Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerLRecipe
+Tenno Banner M Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerMRecipe
+Tenno Banner N Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerNRecipe
+Tenno Banner O Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerORecipe
+Tenno Banner P Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoBannerPRecipe
+Floor Medallion Eight Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoFloorMedallionEightLotusRecipe
+Floor Medallion Nine Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoFloorMedallionNineLotusRecipe
+Floor Medallion Three Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoFloorMedallionThreeBrainRecipe
+Koi Pond Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoKoiPondRecipe
+Statue Base Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoStatueBaseRecipe
+Statue Base (Small) Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TennoStatueBaseSmallRecipe
+Storage Crate Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoDojoLootCrateARecipe
+Shrine Totem A Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoDojoShrineTotemARecipe
+Floor Panel B Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoFloorPanelBRecipe
+Incense Container Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoIncenseContainerRecipe
+Rock Sculpture Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoRockSculptureRecipe
+Drum 1 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum1Recipe
+Drum 2 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum2Recipe
+Drum 3 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum3Recipe
+Drum 4 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum4Recipe
+Drum 5 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum5Recipe
+Drum 6 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum6Recipe
+Drum 7 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum7Recipe
+Drum 8 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TnoTaikoDrum8Recipe
+Trading Post Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/TradingPostRecipe
+Treasury Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/VaultContributionKioskRecipe
+/Lotus/Language/Dojo/Vaulttest Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/VaultTestRecipe
+Garden Arch Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenArchRecipe
+Wooden Bench Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenBenchRecipe
+Wooden Bridge Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenBridgeRecipe
+Wooden Totem Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/WoodenTotemRecipe
+Dokomo Bell Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenGardenArchBARecipe
+Jakari Bell Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenGardenArchBBRecipe
+Katsuen Bell Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenGardenArchBCRecipe
+Nishan Bell Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenGardenArchBDRecipe
+Miyeti Zen Garden Island Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenIslandCRecipe
+Rodoko Zen Garden Island Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenIslandDRecipe
+Ligumi Zen Garden Island Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenIslandERecipe
+Daru Zen Sand Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenSandGardenFRecipe
+Maho Zen Sand Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenSandGardenGRecipe
+Fumiro Zen Sand Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenSandGardenHRecipe
+Yoshijo Zen Sand Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ZenSandGardenJRecipe
+Elbow Connector Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanConnectorElbowARecipe
+Cross Connector Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanConnectorPlusARecipe
+Small Hallway Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanConnectorSmallARecipe
+T-Shaped Connector Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanConnectorTJunctionARecipe
+Elevator Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanElevatorARecipe
+Grand Hall Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGrandHallARecipe
+Grandest Hall Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGrandestHallARecipe
+Great Hall Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGreatHallARecipe
+Greater Hall Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGreaterHallARecipe
+Clan Hall Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanHallARecipe
+Obstacle Course Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanObstacleCourseARecipe
+Reactor Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanPowerRoomARecipe
+Storage Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanStorageARecipe
+Target Challenge Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoChallengeRoomA
+Elbow Connector Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorElbowRecipe
+Elevator Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorElevatorRecipe
+Cross Connector Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorPlusRecipe
+Extended Straight Hallway Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorStraightLongRecipe
+Straight Hallway Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorStraightRecipe
+T-Shaped Connector Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoConnectorTJunctionRecipe
+Dueling Room Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoDuelRoomARecipe
+Castitas Water Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenA
+Temperantia Water Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenALarge
+Industria Water Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenB
+Humilitas Water Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenC
+Equinox Water Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenD
+Caritas Water Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenDLarge
+Wooden Sand Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenE
+Aestas Water Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenF
+Vosen Water Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenFLarge
+Autumn Garden Stone Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenG
+Leto Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenGLarge
+Stone Sand Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenH
+Zen Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenI
+Solace Water Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenILarge
+Mosaic Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenJLarge
+Junno Water Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenLLarge
+Soleto Garden Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGardenMLarge
+Clan Grand Hall Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGrandHallRecipe
+Clan Grandest Hall Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGrandestHallRecipe
+Clan Great Hall Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGreatHallRecipe
+Clan Greater Hall Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoGreaterHallRecipe
+Clan Hall Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoHallRecipe
+Reactor Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/DojoPowerRoomRecipe
+Arc Furnace Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/FabricatorBaseRecipe
+Particle Accelerator Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/FabricatorCorpusRecipe
+Chem Refinery Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/FabricatorGrineerRecipe
+Transmuter Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/FabricatorInfestedRecipe
+Observatory Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ObservatoryRecipe
+Dueling Room Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/OroDojoRoomARecipe
+Dueling Room Ii Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/OroDojoRoomBRecipe
+Dueling Room Iii Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/OroDojoRoomCRecipe
+Oracle Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabBaseRecipe
+Energy Lab Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabCorpusRecipe
+Chem Lab Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabGrineerRecipe
+Bio Lab Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabInfestedRecipe
+Orokin Lab Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabOrokinRecipe
+Tenno Lab Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ResearchLabTennoRecipe
+Shadow Barracks Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier2BarracksRecipe
+Storm Barracks Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier3BarracksRecipe
+Mountain Barracks Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier4BarracksRecipe
+Moon Barracks Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier5BarracksRecipe
+Temple Of Honor Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/TrophyRoomRecipe
 Void Carry,/Lotus/StoreItems/Powersuits/All/CarryAbilityCard
 Void Lure,/Lotus/StoreItems/Powersuits/All/LureAbilityCard
 Repel,/Lotus/StoreItems/Powersuits/All/RepelAbilityCard
@@ -225,7 +225,7 @@ Mag,/Lotus/StoreItems/Powersuits/Mag/Mag
 Mag Prime,/Lotus/StoreItems/Powersuits/Mag/MagPrime
 Pull,/Lotus/StoreItems/Powersuits/Mag/PullAbilityCard
 Shield Polarize,/Lotus/StoreItems/Powersuits/Mag/ShieldRegenAbilityCard
-Shadows of the Dead,/Lotus/StoreItems/Powersuits/Necro/CloneTheDeadAbilityCard
+Shadows Of The Dead,/Lotus/StoreItems/Powersuits/Necro/CloneTheDeadAbilityCard
 Nekros,/Lotus/StoreItems/Powersuits/Necro/Necro
 Desecrate,/Lotus/StoreItems/Powersuits/Necro/SearchTheDeadAbilityCard
 Soul Punch,/Lotus/StoreItems/Powersuits/Necro/SoulPunchAbilityCard
@@ -301,23 +301,23 @@ Cosmic Specter Regiment,/Lotus/StoreItems/Types/Game/SpectreArmies/PlatinumSpect
 Cosmic Specter Regiment Blueprint,/Lotus/StoreItems/Types/Game/SpectreArmies/PlatinumSpectreArmyBlueprint
 Phase Specter Regiment,/Lotus/StoreItems/Types/Game/SpectreArmies/SilverSpectreArmy
 Phase Specter Regiment Blueprint,/Lotus/StoreItems/Types/Game/SpectreArmies/SilverSpectreArmyBlueprint
-?,/Lotus/StoreItems/Types/Game/DojoDecorationRecipeItem
-?,/Lotus/StoreItems/Types/Game/DojoRecipeItem
+,/Lotus/StoreItems/Types/Game/DojoDecorationRecipeItem
+,/Lotus/StoreItems/Types/Game/DojoRecipeItem
 Any,/Lotus/StoreItems/Types/Game/LotusWeapon
 Warframe,/Lotus/StoreItems/Types/Game/PlayerPowerSuit
-?,/Lotus/StoreItems/Types/Game/RecipeItem
+,/Lotus/StoreItems/Types/Game/RecipeItem
 Orokin Void Key,/Lotus/StoreItems/Types/Game/VoidKeyItem
 Alloy Plate,/Lotus/StoreItems/Types/Items/MiscItems/AlloyPlate
 Argon Crystal,/Lotus/StoreItems/Types/Items/MiscItems/ArgonCrystal
 Golem Nav Coordinate,/Lotus/StoreItems/Types/Items/MiscItems/BossNavCode
 Circuits,/Lotus/StoreItems/Types/Items/MiscItems/Circuits
-?,/Lotus/StoreItems/Types/Items/MiscItems/ClanCreator
+/Lotus/Language/Items/Clancreator,/Lotus/StoreItems/Types/Items/MiscItems/ClanCreator
 Control Module,/Lotus/StoreItems/Types/Items/MiscItems/ControlModule
 Tethra Data Fragments,/Lotus/StoreItems/Types/Items/MiscItems/DataFragment
 Ferrite,/Lotus/StoreItems/Types/Items/MiscItems/Ferrite
 Forma,/Lotus/StoreItems/Types/Items/MiscItems/Forma
 Gallium,/Lotus/StoreItems/Types/Items/MiscItems/Gallium
-VAY HEK NAV COORDINATE [obsolete??],/Lotus/StoreItems/Types/Items/MiscItems/HekNavCode
+Vay Hek Nav Coordinate [Obsolete??],/Lotus/StoreItems/Types/Items/MiscItems/HekNavCode
 Morphics,/Lotus/StoreItems/Types/Items/MiscItems/Morphic
 Nano Spores,/Lotus/StoreItems/Types/Items/MiscItems/Nanospores
 Nav Coordinate,/Lotus/StoreItems/Types/Items/MiscItems/NavCode
@@ -337,7 +337,7 @@ Kappa Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentC
 Omega Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentD
 Sunlight Threshcone Extract,/Lotus/StoreItems/Types/Items/Plants/MiscItems/CommonDayPlantItem
 Moonlight Threshcone Extract,/Lotus/StoreItems/Types/Items/Plants/MiscItems/CommonNightPlantItem
-?,/Lotus/StoreItems/Types/Items/Plants/MiscItems/PlantItem
+,/Lotus/StoreItems/Types/Items/Plants/MiscItems/PlantItem
 Sunlight Jadeleaf Extract,/Lotus/StoreItems/Types/Items/Plants/MiscItems/RareDayPlantItem
 Moonlight Jadeleaf Extract,/Lotus/StoreItems/Types/Items/Plants/MiscItems/RareNightPlantItem
 Sunlight Dragonlily Extract,/Lotus/StoreItems/Types/Items/Plants/MiscItems/UnCommonDayPlantItem
@@ -360,15 +360,15 @@ Tower Iv Exterminate,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerExt
 Tower Iv Interception,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerInterceptionTier4Key
 Tower Iv Mobile Defense,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerMobileDefenseTier4Key
 Tower Iv Survival,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerSurvivalTier4Key
-?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalAsteroidGrn
-?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalAsteroidInf
-?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalGalleonGrn
-?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalGalleonInf
-?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalOutpostCrp
-?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalOutpostInf
-?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalShipCrp
-?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalShipInf
-?,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalVoidOro
+Survivalasteroidgrn,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalAsteroidGrn
+Survivalasteroidinf,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalAsteroidInf
+Survivalgalleongrn,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalGalleonGrn
+Survivalgalleoninf,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalGalleonInf
+Survivaloutpostcrp,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalOutpostCrp
+Survivaloutpostinf,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalOutpostInf
+Survivalshipcrp,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalShipCrp
+Survivalshipinf,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalShipInf
+Survivalvoidoro,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalVoidOro
 Corpus Void Key,/Lotus/StoreItems/Types/Keys/CorpusCaptureKey
 Orokin Derelict Capture,/Lotus/StoreItems/Types/Keys/DerelictCaptureKey
 Orokin Derelict Capture Blueprint,/Lotus/StoreItems/Types/Keys/DerelictCaptureKeyBlueprint
@@ -377,7 +377,7 @@ Orokin Derelict Defense Blueprint,/Lotus/StoreItems/Types/Keys/DerelictDefenseKe
 Orokin Derelict Exterminate,/Lotus/StoreItems/Types/Keys/DerelictExterminateKey
 Orokin Derelict Exterminate Blueprint,/Lotus/StoreItems/Types/Keys/DerelictExterminateKeyBlueprint
 Orokin Derelict Assassinate,/Lotus/StoreItems/Types/Keys/DerelictGolemKey
-?,/Lotus/StoreItems/Types/Keys/DerelictKeyBlueprint
+Survival Test Key Blueprint,/Lotus/StoreItems/Types/Keys/DerelictKeyBlueprint
 Orokin Derelict Survival,/Lotus/StoreItems/Types/Keys/DerelictSurvivalKey
 Orokin Derelict Survival Blueprint,/Lotus/StoreItems/Types/Keys/DerelictSurvivalKeyBlueprint
 Clan Key,/Lotus/StoreItems/Types/Keys/DojoKey
@@ -400,62 +400,62 @@ Tower I Mobile Defense,/Lotus/StoreItems/Types/Keys/OrokinMobileDefenseKeyA
 Tower Ii Mobile Defense,/Lotus/StoreItems/Types/Keys/OrokinMobileDefenseKeyB
 Tower Iii Mobile Defense,/Lotus/StoreItems/Types/Keys/OrokinMobileDefenseKeyC
 Tower Iii Survival,/Lotus/StoreItems/Types/Keys/OrokinTowerSurvivalT3Key
-?,/Lotus/StoreItems/Types/Keys/QuestKeyA
-?,/Lotus/StoreItems/Types/Keys/QuestKeyB
-?,/Lotus/StoreItems/Types/Keys/QuestKeyC
-?,/Lotus/StoreItems/Types/Keys/QuestKeyChainA
-?,/Lotus/StoreItems/Types/Keys/QuestKeyChainB
-?,/Lotus/StoreItems/Types/Keys/QuestKeyChainC
-?,/Lotus/StoreItems/Types/Keys/QuestKeyChainD
+Template Quest Mission 1,/Lotus/StoreItems/Types/Keys/QuestKeyA
+Template Quest Mission 2,/Lotus/StoreItems/Types/Keys/QuestKeyB
+Template Quest Mission 3,/Lotus/StoreItems/Types/Keys/QuestKeyC
+Quest A,/Lotus/StoreItems/Types/Keys/QuestKeyChainA
+Quest B,/Lotus/StoreItems/Types/Keys/QuestKeyChainB
+Quest C,/Lotus/StoreItems/Types/Keys/QuestKeyChainC
+Quest D,/Lotus/StoreItems/Types/Keys/QuestKeyChainD
 Tethra Cipher Blueprint,/Lotus/StoreItems/Types/Keys/RetrievalKeyBlueprint
 Tower I Exterminate,/Lotus/StoreItems/Types/Keys/SettlementTestKey
-?,/Lotus/StoreItems/Types/Keys/TestKeyA
-?,/Lotus/StoreItems/Types/Keys/TestKeyB
-?,/Lotus/StoreItems/Types/Keys/TestKeyC
-?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusOutpostRescueMed
-?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescue
-?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescueHard
-?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescueMed
-?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescueNightmare
-?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusToCorpusInfested
-?,/Lotus/StoreItems/Types/Keys/TestKeyCorpusToGrineerTeleport
-?,/Lotus/StoreItems/Types/Keys/TestKeyEventExterminate
-?,/Lotus/StoreItems/Types/Keys/TestKeyForestBoss
-?,/Lotus/StoreItems/Types/Keys/TestKeyForestCapture
-?,/Lotus/StoreItems/Types/Keys/TestKeyForestEndlessDefense
+Defense Test Key,/Lotus/StoreItems/Types/Keys/TestKeyA
+Survival Test Key,/Lotus/StoreItems/Types/Keys/TestKeyB
+Derelict Exterminate Test Key,/Lotus/StoreItems/Types/Keys/TestKeyC
+Corpus Outpost Rescue (Medium),/Lotus/StoreItems/Types/Keys/TestKeyCorpusOutpostRescueMed
+Corpus Ship Rescue (Easy),/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescue
+Corpus Ship Rescue (Hard),/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescueHard
+Corpus Ship Rescue (Medium),/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescueMed
+Corpus Ship Rescue (Nightmare),/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRescueNightmare
+Operation Clean Up Jupiter Test,/Lotus/StoreItems/Types/Keys/TestKeyCorpusToCorpusInfested
+For The Corpus!!,/Lotus/StoreItems/Types/Keys/TestKeyCorpusToGrineerTeleport
+Event Exterminate,/Lotus/StoreItems/Types/Keys/TestKeyEventExterminate
+Vay Hek Assassinate,/Lotus/StoreItems/Types/Keys/TestKeyForestBoss
+Forest Capture,/Lotus/StoreItems/Types/Keys/TestKeyForestCapture
+Forest Defense,/Lotus/StoreItems/Types/Keys/TestKeyForestEndlessDefense
 Cicero Injector,/Lotus/StoreItems/Types/Keys/TestKeyForestEvent
-?,/Lotus/StoreItems/Types/Keys/TestKeyForestExtermination
-?,/Lotus/StoreItems/Types/Keys/TestKeyForestMobileDefense
-?,/Lotus/StoreItems/Types/Keys/TestKeyForestSurvival
-?,/Lotus/StoreItems/Types/Keys/TestKeyForestTerritories
-?,/Lotus/StoreItems/Types/Keys/TestKeyGasCapture
-?,/Lotus/StoreItems/Types/Keys/TestKeyGasCounterIntel
-?,/Lotus/StoreItems/Types/Keys/TestKeyGasDefense
-?,/Lotus/StoreItems/Types/Keys/TestKeyGasExterminate
-?,/Lotus/StoreItems/Types/Keys/TestKeyGasIntel
-?,/Lotus/StoreItems/Types/Keys/TestKeyGasMobileDefense
-?,/Lotus/StoreItems/Types/Keys/TestKeyGasRescue
-?,/Lotus/StoreItems/Types/Keys/TestKeyGasSabotage
-?,/Lotus/StoreItems/Types/Keys/TestKeyGasSurvival
-?,/Lotus/StoreItems/Types/Keys/TestKeyGrineerGalleonBoss
-?,/Lotus/StoreItems/Types/Keys/TestKeyGrineerToCorpusTorpedo
-?,/Lotus/StoreItems/Types/Keys/TestKeyHyenaPack
-?,/Lotus/StoreItems/Types/Keys/TestKeyInfestedCorpusHive
-?,/Lotus/StoreItems/Types/Keys/TestKeyKubrow
-?,/Lotus/StoreItems/Types/Keys/TestKeyOrokinSabotageOne
-?,/Lotus/StoreItems/Types/Keys/TestKeySectorWars
-?,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsBoss
-?,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsDefense
-?,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsHekEvent
+Forest Exterminate,/Lotus/StoreItems/Types/Keys/TestKeyForestExtermination
+Forest Mobiledefense,/Lotus/StoreItems/Types/Keys/TestKeyForestMobileDefense
+Forest Survival,/Lotus/StoreItems/Types/Keys/TestKeyForestSurvival
+Forest Territories,/Lotus/StoreItems/Types/Keys/TestKeyForestTerritories
+Gas Capture Test,/Lotus/StoreItems/Types/Keys/TestKeyGasCapture
+Gas Counter Intel Test,/Lotus/StoreItems/Types/Keys/TestKeyGasCounterIntel
+Gas Endless Defense Test,/Lotus/StoreItems/Types/Keys/TestKeyGasDefense
+Gas Exterminate Test,/Lotus/StoreItems/Types/Keys/TestKeyGasExterminate
+Gas Intel Test,/Lotus/StoreItems/Types/Keys/TestKeyGasIntel
+Gas Mobile Defense Test,/Lotus/StoreItems/Types/Keys/TestKeyGasMobileDefense
+Gas Rescue Test,/Lotus/StoreItems/Types/Keys/TestKeyGasRescue
+Gas Sabotage Test,/Lotus/StoreItems/Types/Keys/TestKeyGasSabotage
+Gas Capture Test,/Lotus/StoreItems/Types/Keys/TestKeyGasSurvival
+Grineer Galleon Boss Test,/Lotus/StoreItems/Types/Keys/TestKeyGrineerGalleonBoss
+Ruk Ruk Ruk!,/Lotus/StoreItems/Types/Keys/TestKeyGrineerToCorpusTorpedo
+Hyena Pack Assassinate,/Lotus/StoreItems/Types/Keys/TestKeyHyenaPack
+Testinfestedhive,/Lotus/StoreItems/Types/Keys/TestKeyInfestedCorpusHive
+Kubrow Test,/Lotus/StoreItems/Types/Keys/TestKeyKubrow
+Test Orokin Sabotage I,/Lotus/StoreItems/Types/Keys/TestKeyOrokinSabotageOne
+Testsectorwars,/Lotus/StoreItems/Types/Keys/TestKeySectorWars
+Shipyards Boss Test,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsBoss
+Shipyards Defense Test,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsDefense
+Shipyards Hek Event,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsHekEvent
 Tethra's Doom,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsInterception
-?,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsMobileDefense
-?,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsRescueMed
+Shipyards Mobile Defense Test,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsMobileDefense
+Shipyards Rescue (Medium),/Lotus/StoreItems/Types/Keys/TestKeyShipyardsRescueMed
 Tethra Cipher,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsRetrieval
-?,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsSabotage
-?,/Lotus/StoreItems/Types/Keys/TestKeySurvival
-?,/Lotus/StoreItems/Types/Keys/TestKeyTransitional
-?,/Lotus/StoreItems/Types/Keys/TestKeyTransitionalB
-?,/Lotus/StoreItems/Types/Keys/TestKeyTransitionalC
+Shipyards Sabotage Test,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsSabotage
+Survival Test Key,/Lotus/StoreItems/Types/Keys/TestKeySurvival
+Asteroid Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitional
+Corpus Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitionalB
+Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitionalC
 Vay Hek Frequency Triangulator,/Lotus/StoreItems/Types/Keys/VeyHekKey
 Vay Hek Frequency Triangulator Blueprint,/Lotus/StoreItems/Types/Keys/VeyHekKeyBlueprint
 1000 Credits Cache,/Lotus/StoreItems/Types/PickUps/Credits/1000Credits
@@ -469,7 +469,7 @@ Vay Hek Frequency Triangulator Blueprint,/Lotus/StoreItems/Types/Keys/VeyHekKeyB
 Grustrag Bolt Release Blueprint,/Lotus/StoreItems/Types/Recipes/Components/BrandRemovalBlueprint
 Grustrag Bolt Release,/Lotus/StoreItems/Types/Recipes/Components/BrandRemovalFakeItem
 Vapor Specter x10 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/BronzeSpectreBlueprint
-?,/Lotus/StoreItems/Types/Recipes/Components/ClanCreatorBlueprint
+/Lotus/Language/Items/Clancreator,/Lotus/StoreItems/Types/Recipes/Components/ClanCreatorBlueprint
 Forma Blueprint,/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint
 Force Specter x3 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/GoldSpectreBlueprint
 Orokin Catalyst Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinCatalystBlueprint
@@ -482,33 +482,33 @@ Titan Extractor Blueprint,/Lotus/StoreItems/Types/Recipes/Drones/BasicResourceDr
 Distilling Extractor Blueprint,/Lotus/StoreItems/Types/Recipes/Drones/BasicUcResourceDroneBlueprint
 Arcane Scorpion Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/AshAltHelmetBlueprint
 Arcane Reverb Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/BansheeAltHelmetBlueprint
-Flux Nova Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAntiAltHelmetBlueprint
-Chlora Saryn Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAspAltHelmetBBlueprint
-Hemlock Saryn Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAspAltHelmetBlueprint
-Chorus Banshee Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionDecreeAltHelmetBBlueprint
-Reverb Banshee Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionDecreeAltHelmetBlueprint
-Backdraft Ember Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionEmberHelmetAltBBlueprint
-Phoenix Ember Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionEmberHelmetAltBlueprint
-Pendragon Excalibur Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionExcaliburHelmetAltBBlueprint
-Avalon Excalibur Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionExcaliburHelmetAltBlueprint
-Squall Frost Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionFrostHelmetAltBBlueprint
-Aurora Frost Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionFrostHelmetAltBlueprint
-Vespa Nyx Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionJadeHelmetAltBBlueprint
-Menticide Nyx Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionJadeHelmetAltBlueprint
-Swindle Loki Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionLokiHelmetAltBBlueprint
-Essence Loki Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionLokiHelmetAltBlueprint
-Gauss Mag Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionMagHelmetAltBBlueprint
-Coil Mag Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionMagHelmetAltBlueprint
-Locust Ash Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionNinjaHelmetAltBBlueprint
-Scorpion Ash Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionNinjaHelmetAltBlueprint
-Vanguard Rhino Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionRhinoHelmetAltBBlueprint
-Thrak Rhino Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionRhinoHelmetAltBlueprint
-Gambit Vauban Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionTrapperHelmetAltBBlueprint
-Esprit Vauban Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionTrapperHelmetAltBlueprint
-Meridian Trinity Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionTrinityHelmetAltBBlueprint
-Aura Trinity Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionTrinityHelmetAltBlueprint
-Pulse Volt Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionVoltHelmetAltBBlueprint
-Storm Volt Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionVoltHelmetAltBlueprint
+Flux Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAntiAltHelmetBlueprint
+Chlora Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAspAltHelmetBBlueprint
+Hemlock Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAspAltHelmetBlueprint
+Chorus Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionDecreeAltHelmetBBlueprint
+Reverb Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionDecreeAltHelmetBlueprint
+Backdraft Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionEmberHelmetAltBBlueprint
+Phoenix Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionEmberHelmetAltBlueprint
+Pendragon Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionExcaliburHelmetAltBBlueprint
+Avalon Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionExcaliburHelmetAltBlueprint
+Squall Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionFrostHelmetAltBBlueprint
+Aurora Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionFrostHelmetAltBlueprint
+Vespa Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionJadeHelmetAltBBlueprint
+Menticide Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionJadeHelmetAltBlueprint
+Swindle Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionLokiHelmetAltBBlueprint
+Essence Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionLokiHelmetAltBlueprint
+Gauss Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionMagHelmetAltBBlueprint
+Coil Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionMagHelmetAltBlueprint
+Locust Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionNinjaHelmetAltBBlueprint
+Scorpion Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionNinjaHelmetAltBlueprint
+Vanguard Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionRhinoHelmetAltBBlueprint
+Thrak Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionRhinoHelmetAltBlueprint
+Gambit Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionTrapperHelmetAltBBlueprint
+Esprit Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionTrapperHelmetAltBlueprint
+Meridian Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionTrinityHelmetAltBBlueprint
+Aura Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionTrinityHelmetAltBlueprint
+Pulse Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionVoltHelmetAltBBlueprint
+Storm Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionVoltHelmetAltBlueprint
 Arcane Phoenix Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/EmberAltHelmetBlueprint
 Arcane Avalon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ExcaliburAltHelmetBlueprint
 Arcane Aurora Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/FrostAltHelmetBlueprint
@@ -875,7 +875,7 @@ Phage Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/InfestedShotgunBlueprint
 Jaw Sword Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/JawBlueprint
 Nikana Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/KatanaBlueprint
 Obex Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/KickPunchWeaponBlueprint
-Kogake,/Lotus/StoreItems/Types/Recipes/Weapons/KogakeBlueprint
+Kogake Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/KogakeBlueprint
 Kunai Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/KunaiBlueprint
 Latron Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/LatronBlueprint
 Latron Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/LatronPrimeBlueprint
@@ -941,7 +941,7 @@ Extinguished Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/DamageDebu
 Bleeding Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/HealthDebuffKey
 Decaying Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/ShieldDebuffKey
 Hobbled Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/SpeedDebuffKey
-?,/Lotus/StoreItems/Types/Restoratives/ChargeableSelfHeal
+/Lotus/Language/Items/Chargeableselfhealname,/Lotus/StoreItems/Types/Restoratives/ChargeableSelfHeal
 Cipher,/Lotus/StoreItems/Types/Restoratives/Cipher
 Medium Team Ammo Restore,/Lotus/StoreItems/Types/Restoratives/ClanTeamAmmoTotem
 Medium Team Energy Restore,/Lotus/StoreItems/Types/Restoratives/ClanTeamEnergyTotem
@@ -997,15 +997,15 @@ Titan Extractor Prime,/Lotus/StoreItems/Types/Ship/AdvancedResourceDrone
 Distilling Extractor Prime,/Lotus/StoreItems/Types/Ship/AdvancedUcResourceDrone
 Titan Extractor,/Lotus/StoreItems/Types/Ship/BasicResourceDrone
 Distilling Extractor,/Lotus/StoreItems/Types/Ship/BasicUcResourceDrone
-Excalibur profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem1
-Volt profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem2
-Trinity profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem3
-Rhino profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem4
-Mag profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem5
-Ash profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem6
-Ember profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem7
-Loki profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem8
-Loki profile icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItemFrostPrime
+Excalibur Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem1
+Volt Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem2
+Trinity Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem3
+Rhino Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem4
+Mag Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem5
+Ash Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem6
+Ember Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem7
+Loki Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem8
+Loki Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItemFrostPrime
 Ash Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshBright
 Ash Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshDark
 Locust Ash Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshLocustBright
@@ -1235,7 +1235,7 @@ Sniper Scavenger,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSniperAmmoAuraMod
 Dead Eye,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSniperDamageAuraMod
 Sprint Boost,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSprintAuraMod
 Affinity Amp,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerXPAuraMod
-EMP Aura,/Lotus/StoreItems/Upgrades/Mods/Aura/RobotPoorAimAuraMod
+Emp Aura,/Lotus/StoreItems/Upgrades/Mods/Aura/RobotPoorAimAuraMod
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HalfShieldsLevelAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HighDamageEnemyLevelAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/WeakEnemyLevelAura
@@ -1345,9 +1345,9 @@ Point Strike,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponCritChanceMod
 Vital Sense,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponCritDamageMod
 Serration,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponDamageAmountMod
 Stormbringer,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponElectricityDamageMod
-Bane of Corpus,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFactionDamageCorpus
-Bane of Grineer,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFactionDamageGrineer
-Bane of Infested,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFactionDamageInfested
+Bane Of Corpus,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFactionDamageCorpus
+Bane Of Grineer,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFactionDamageGrineer
+Bane Of Infested,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFactionDamageInfested
 Hellfire,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFireDamageMod
 Split Chamber,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFireIterationsMod
 Speed Trigger,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFireRateMod
@@ -1448,11 +1448,11 @@ Marathon,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarStaminaMaxMod
 Quick Rest,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarStaminaRechargeRateMod
 Intruder,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarTimeLimitIncreaseMod
 Inferno,/Lotus/StoreItems/Upgrades/Modules/Crafted/IncendiaryRifleMod
-?,/Lotus/StoreItems/Upgrades/Modules/RareGrineerMeleeModule
-?,/Lotus/StoreItems/Upgrades/Modules/RareGrineerRifleModule
-?,/Lotus/StoreItems/Upgrades/Modules/RareGrineerShotgunModule
-?,/Lotus/StoreItems/Upgrades/Modules/RareOrokinWarframeModule
-?,/Lotus/StoreItems/Upgrades/Modules/RarePistolModule
+,/Lotus/StoreItems/Upgrades/Modules/RareGrineerMeleeModule
+,/Lotus/StoreItems/Upgrades/Modules/RareGrineerRifleModule
+,/Lotus/StoreItems/Upgrades/Modules/RareGrineerShotgunModule
+,/Lotus/StoreItems/Upgrades/Modules/RareOrokinWarframeModule
+,/Lotus/StoreItems/Upgrades/Modules/RarePistolModule
 Arcane Flux Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiAltHelmet
 Flux Nova Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiAltHelmetStatless
 Nova Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiHelmet
@@ -1514,7 +1514,7 @@ Desert-Camo Viper,/Lotus/StoreItems/Upgrades/Skins/Camo/ViperCamo
 Desert-Camo Vulkar,/Lotus/StoreItems/Upgrades/Skins/Camo/VulkarCamo
 Gradivus: Sacrifice Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/AggressionEventCorpusBadgeItem
 Gradivus: Loyalty Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/AggressionEventGrineerBadgeItem
-?,/Lotus/StoreItems/Upgrades/Skins/Clan/BaseEventBadgeItem
+,/Lotus/StoreItems/Upgrades/Skins/Clan/BaseEventBadgeItem
 Clan Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/ClanEmblemItem
 Arid Fear Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/CorpusVoidBadgeItem
 Disciple's Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeDiscipleItem
@@ -1580,7 +1580,7 @@ Avalon Excalibur Helmet,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelm
 Excalibur Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburNobleAnims
 Alabaster Skin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeAlabasterSkin
 Excalibur Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeHelmet
-?,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoHelmet
+/Lotus/Language/Items/Protoexcaliburhelmetname,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoHelmet
 Excalibur Proto-Armor Skin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoSuit
 Excalibur Helmet,/Lotus/StoreItems/Upgrades/Skins/Excalibur/GeoffcaliburHelmet
 Frost Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostAgileAnims
@@ -1684,7 +1684,7 @@ Markhor Oberon Helmet,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinHelmetAltB
 Oberon Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinNobleAnims
 Triton Hydroid Helmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateAltHelmet
 Hydroid Helmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateDefaultHelmet
-RixtyMOL Aklato,/Lotus/StoreItems/Upgrades/Skins/Promo/RixtyMOL/RixtyMOLAklatoSkin
+Rixtymol Aklato,/Lotus/StoreItems/Upgrades/Skins/Promo/RixtyMOL/RixtyMOLAklatoSkin
 Spearmint Scythe,/Lotus/StoreItems/Upgrades/Skins/Promo/Seasonal/CandyCaneEtherReaperSkin
 Spearmint Scythe,/Lotus/StoreItems/Upgrades/Skins/Promo/Seasonal/CandyCaneHateSkin
 Spearmint Scythe,/Lotus/StoreItems/Upgrades/Skins/Promo/Seasonal/CandyCaneReaperPrimeSkin
@@ -1994,46 +1994,46 @@ Castanas,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/StickyBomb/StickyBombs
 Kunai,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/Kunai
 Despair,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/StalkerKunai
 Hikou,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/TennoStars
-Mag profile icon,/Lotus/Types/StoreItems/AvatarImages/AvatarImagePack1
-Ember profile icon,/Lotus/Types/StoreItems/AvatarImages/AvatarImagePack2
-Ash Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackAsh
-Locust Ash Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackAshLocust
-Banshee Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackBanshee
-Chorus Banshee Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackBansheeChorus
-Ember Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackEmber
-Backdraft Ember Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackEmberBackdraft
-Excalibur Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackExcalibur
-Pendragon Excalibur Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackExcaliburPendragon
-Frost Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrost
-Frost Prime Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrostPrime
-Squall Frost Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrostSquall
-Loki Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLoki
-Swindle Loki Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLokiSwindle
-Mag Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMag
-Gauss Mag Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMagGauss
-Mag Prime Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMagPrime
-Nekros Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekros
-Shroud Nekros Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekrosShroud
-Nova Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNova
-Quantum Nova Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNovaQuantum
-Nyx Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNyx
-Vespa Nyx Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNyxVespa
-Oberon Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackOberon
-Markhor Oberon Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackOberonMarkhor
-Hydroid Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackPirate
-Rhino Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackRhino
-Vanguard Rhino Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackRhinoVanguard
-Saryn Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackSaryn
-Chlora Saryn Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackSarynChlora
-Vauban Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapper
-Gambit Vauban Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapperGambit
-Trinity Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrinity
-Meridian Trinity Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrinityMeridian
-Valkyr Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackValkyr
-Kara Valkyr Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackValkyrKara
-Volt Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackVolt
-Pulse Volt Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackVoltPulse
-Zephyr Profile Icon,/Lotus/Types/StoreItems/AvatarImages/AvatarPackZephyr
+Profile Icon Pack 1,/Lotus/Types/StoreItems/AvatarImages/AvatarImagePack1
+Profile Icon Pack 2,/Lotus/Types/StoreItems/AvatarImages/AvatarImagePack2
+Ash Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackAsh
+Locust Ash Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackAshLocust
+Banshee Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackBanshee
+Chorus Banshee Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackBansheeChorus
+Ember Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackEmber
+Backdraft Ember Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackEmberBackdraft
+Excalibur Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackExcalibur
+Pendragon Excalibur Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackExcaliburPendragon
+Frost Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrost
+Frost Prime Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrostPrime
+Squall Frost Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrostSquall
+Loki Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLoki
+Swindle Loki Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLokiSwindle
+Mag Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMag
+Gauss Mag Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMagGauss
+Mag Prime Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMagPrime
+Nekros Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekros
+Shroud Nekros Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekrosShroud
+Nova Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNova
+Nova Quantum Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNovaQuantum
+Nyx Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNyx
+Vespa Nyx Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNyxVespa
+Oberon Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackOberon
+Markhor Oberon Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackOberonMarkhor
+Hydroid Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackPirate
+Rhino Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackRhino
+Vanguard Rhino Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackRhinoVanguard
+Saryn Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackSaryn
+Chlora Saryn Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackSarynChlora
+Vauban Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapper
+Gambit Vauban Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapperGambit
+Trinity Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrinity
+Meridian Trinity Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrinityMeridian
+Valkyr Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackValkyr
+Kara Valkyr Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackValkyrKara
+Volt Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackVolt
+Pulse Volt Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackVoltPulse
+Zephyr Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackZephyr
 Affinity Booster,/Lotus/Types/StoreItems/Boosters/AffinityBoosterStoreItem
 Credit Booster,/Lotus/Types/StoreItems/Boosters/CreditBoosterStoreItem
 Drop Chance Booster,/Lotus/Types/StoreItems/Boosters/GoodStuffDropChanceBoosterStoreItem
