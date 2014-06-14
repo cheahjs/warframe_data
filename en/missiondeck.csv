@@ -134,7 +134,7 @@ Vedic,Ceres,Extermination,Grineer,GrineerShipyardsA,
 Varro,Ceres,Defense,Grineer,GrineerShipyardsDefenseA,DefenseMissionRewardsHard
 Thon,Ceres,Sabotage,Grineer,GrineerShipyardsA,
 Olla,Ceres,Rescue,Grineer,GrineerShipyardsA,
-Nuovo,Ceres,Assassination,Grineer,,
+Nuovo,Ceres,Survival,Grineer,GrineerShipyardsSurvivalA,SurvivalHighLevelRewards
 Ludi,Ceres,Extermination,Grineer,GrineerShipyardsA,
 Lex,Ceres,Spy,Grineer,GrineerSquadFour,
 Kiste,Ceres,Mobile Defense,Grineer,GrineerShipyardsA,
@@ -232,13 +232,13 @@ Tethra,Venus,Sabotage,Grineer,GrineerSquadSabotageEvent,
 Tethra's Doom,Earth,Sabotage,Grineer,GrineerSquadSabotageEvent,
 Elatha,Mars,?,?,?,?
 Bres,Jupiter,?,?,?,?
-Birog,Saturn,Sabotage,Grineer,GrineerSquadSabotageEvent,
-Ethniu,Uranus,Sabotage,Grineer,GrineerSquadSabotageEvent,
-Buarainech,Neptune,Sabotage,Grineer,GrineerSquadSabotageEvent,
+Birog,Saturn,?,?,?,?
+Ethniu,Uranus,?,?,?,?
+Buarainech,Neptune,?,?,?,?
 Corb,Pluto,?,?,?,?
-Conand,Ceres,Sabotage,Grineer,GrineerSquadSabotageEvent,
+Conand,Ceres,?,?,?,?
 Lugh,Eris,?,?,?,?
-Nemed,Sedna,Sabotage,Grineer,GrineerSquadSabotageEvent,
+Nemed,Sedna,?,?,?,?
 Neit,Europa,?,?,?,?
 Romula,Venus,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
 Malva,Venus,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsLowLevelRewards
