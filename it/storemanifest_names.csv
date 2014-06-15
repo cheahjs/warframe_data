@@ -1239,22 +1239,22 @@ Aura Emp,/Lotus/StoreItems/Upgrades/Mods/Aura/RobotPoorAimAuraMod
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HalfShieldsLevelAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HighDamageEnemyLevelAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/WeakEnemyLevelAura
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl1ModFuser
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl2ModFuser
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl3ModFuser
+Common Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl1ModFuser
+Common Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl2ModFuser
+Common Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl3ModFuser
 Common Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonModFuser
 Legendary Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegendaryModFuser
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl1ModFuser
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl2ModFuser
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl3ModFuser
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl4ModFuser
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl5ModFuser
+Rare Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl1ModFuser
+Rare Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl2ModFuser
+Rare Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl3ModFuser
+Rare Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl4ModFuser
+Rare Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl5ModFuser
 Rare Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareModFuser
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl1ModFuser
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl2ModFuser
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl3ModFuser
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl4ModFuser
-Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl5ModFuser
+Uncommon Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl1ModFuser
+Uncommon Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl2ModFuser
+Uncommon Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl3ModFuser
+Uncommon Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl4ModFuser
+Uncommon Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl5ModFuser
 Uncommon Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonModFuser
 True Punishment,/Lotus/StoreItems/Upgrades/Mods/Melee/Channel/ChannelCritsMod
 Quickening,/Lotus/StoreItems/Upgrades/Mods/Melee/Channel/ChannelFireRateMod
