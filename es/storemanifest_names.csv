@@ -383,6 +383,7 @@ Orokin Derelict Survival Blueprint,/Lotus/StoreItems/Types/Keys/DerelictSurvival
 Llave De Clan,/Lotus/StoreItems/Types/Keys/DojoKey
 Llave De Clan Blueprint,/Lotus/StoreItems/Types/Keys/DojoKeyBlueprint
 Orokin Derelict Assassinate Blueprint,/Lotus/StoreItems/Types/Keys/GolemKeyBlueprint
+Breeding Grounds,/Lotus/StoreItems/Types/Keys/InfestedCorpusHiveEventKey
 Tethra Shield Cipher,/Lotus/StoreItems/Types/Keys/NightmareKeyShipyardsRetrieval
 Tethra Shield Cipher Blueprint,/Lotus/StoreItems/Types/Keys/NightmareRetrievalKeyBlueprint
 Torre Captura,/Lotus/StoreItems/Types/Keys/OrokinCaptureKeyA
@@ -440,7 +441,6 @@ Gas Capture Test,/Lotus/StoreItems/Types/Keys/TestKeyGasSurvival
 Grineer Galleon Boss Test,/Lotus/StoreItems/Types/Keys/TestKeyGrineerGalleonBoss
 Ruk Ruk Ruk!,/Lotus/StoreItems/Types/Keys/TestKeyGrineerToCorpusTorpedo
 Hyena Pack Assassinate,/Lotus/StoreItems/Types/Keys/TestKeyHyenaPack
-Testinfestedhive,/Lotus/StoreItems/Types/Keys/TestKeyInfestedCorpusHive
 Kubrow Test,/Lotus/StoreItems/Types/Keys/TestKeyKubrow
 Test Orokin Sabotage I,/Lotus/StoreItems/Types/Keys/TestKeyOrokinSabotageOne
 Testsectorwars,/Lotus/StoreItems/Types/Keys/TestKeySectorWars
@@ -1162,7 +1162,7 @@ Ranuras De Warframe,/Lotus/StoreItems/Types/StoreItems/SlotItems/SuitSlotItem
 Weapon Slot,/Lotus/StoreItems/Types/StoreItems/SlotItems/WeaponSlotItem
 Bastilla,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerBastilleItem
 Daybreak,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerDaybreakItemA
-Defaults,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerDefaultsItemA
+Tenno,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerDefaultsItemA
 Pascua,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerEasterItemA
 Fuego,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerFireItemA
 Grineer,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerGrineerItemA
@@ -1238,6 +1238,8 @@ Amplificador De Afinidad,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerXPAuraMod
 Aura De Emp,/Lotus/StoreItems/Upgrades/Mods/Aura/RobotPoorAimAuraMod
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HalfShieldsLevelAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HighDamageEnemyLevelAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveDoubleDamageEnemyAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveExtraDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/WeakEnemyLevelAura
 Common Nucleo De Fusión,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl1ModFuser
 Common Nucleo De Fusión,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl2ModFuser
@@ -1264,6 +1266,7 @@ Life Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/Channel/ChannelVampireMod
 Spoiled Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/CorruptedDamageSpeedMod
 Corrupt Charge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/CorruptedHeavyDamageChargeSpeedMod
 Voltaic Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/ElectEventMeleeMod
+Volcanic Edge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/FireEventMeleeMod
 Enfoque De Energía,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/FocusEnergyMod
 Virulent Scourge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/PoisonEventMeleeMod
 Golpe Desgarrador,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/RendingStrikeMod
@@ -1297,6 +1300,7 @@ Hollow Point,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedCritDamage
 Magnum Force,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedDamageRecoilPistol
 Tainted Clip,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedMaxClipReloadSpeedPistol
 Jolt,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod
+Scorch,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/FireEventPistolMod
 Lethal Torrent,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/GrinderMod
 Tormenta De Hielo,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/IceStormMod
 Pistol Pestilence,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/PoisonEventPistolMod
@@ -1330,6 +1334,7 @@ Heavy Caliber,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedDamageReco
 Tainted Mag,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedMaxClipReloadSpeedRifle
 Vile Precision,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedRecoilFireRateRifle
 High Voltage,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/ElectEventRifleMod
+Thermite Rounds,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/FireEventRifleMod
 Disparo Martillo,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/HammerShotMod
 Malignant Force,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/PoisonEventRifleMod
 Shred,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/ShredMod
@@ -1377,6 +1382,7 @@ Tainted Shell,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedAccuracy
 Vicious Spread,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedDamageAccuracyShotgun
 Burdened Magazine,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedMaxClipReloadSpeedShotgun
 Shell Shock,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/ElectEventShotgunMod
+Scattering Inferno,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/FireEventShotgunMod
 Toxic Barrage,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/PoisonEventShotgunMod
 Cartucho Comprimido,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponAmmoMaxMod
 Dardos,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponArmorPiercingDamageMod
@@ -1460,6 +1466,11 @@ Nova Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiMatterA
 Nova Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiMatterNobleAnims
 Nova Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaAlternateSkin
 Quantum Nova Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaQuantumHelmet
+Iliac Shoulder Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsArmLeftArmor
+Iliac Shoulder Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsArmRightArmor
+Iliac Chest Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsChestArmor
+Iliac Ankle Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsLegLeftArmor
+Iliac Ankle Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsLegRightArmor
 Daedalus Shoulder Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeArmLeftArmor
 Daedalus Shoulder Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeArmRightArmor
 Daedalus Chest Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeChestArmor
@@ -1521,6 +1532,7 @@ Disciple's Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeDiscipleIte
 Grandmaster's Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeGrandMasterItem
 Hunter's Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeHunterItem
 Master's Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeMasterItem
+Breeding Grounds Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/HiveSabotageEventBadgeItem
 Emblem Of The Hunt,/Lotus/StoreItems/Upgrades/Skins/Clan/InfestationEventEmblemItem
 Cicero Crisis Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/JungleEventBadgeItem
 Ghost Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeGhostItem
@@ -1712,6 +1724,7 @@ Yamako Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/DinoSpikeScarf
 Asa Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarf
 Phased Asa Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarfVoidSkin
 Rakta Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/HornSkullScarf
+Iliac Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/InfestedFinsScarf
 Noru Prime Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/NoruPrimeScarf
 Obsidian Yomo Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/PS4ArmScarf
 Misa Prime Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeScarf
@@ -1792,6 +1805,7 @@ Torid,/Lotus/StoreItems/Weapons/ClanTech/Bio/BioWeapon
 Torid Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/BioWeaponBlueprint
 Medium Team Heal Restore Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/ClanTeamHealBlueprint
 Medium Team Heal Restore x10 Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/ClanTenTeamHealBlueprint
+Mutalist Quanta Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/InfCrpShockSwarmRifleBlueprint
 Dual Ichor Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/InfestedDualAxesBioWeaponBlueprint
 Embolist Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/InfestedPistolBioWeaponBlueprint
 Synapse Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/InfestedRifleBioWeaponBlueprint
@@ -1824,6 +1838,7 @@ Spectra Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/LaserPistolBlueprint
 Rifle De Flujo Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/LaserRifleBlueprint
 Lanka,/Lotus/StoreItems/Weapons/ClanTech/Energy/Railgun
 Lanka Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/RailgunBlueprint
+Prova Vandal,/Lotus/StoreItems/Weapons/ClanTech/Energy/VandalElectroProd
 Amprex,/Lotus/StoreItems/Weapons/Corpus/LongGuns/ChainLightningGun/ChainLightningRifle
 Tetra,/Lotus/StoreItems/Weapons/Corpus/LongGuns/CorpusUMP/CorpusUMP
 Penta,/Lotus/StoreItems/Weapons/Corpus/LongGuns/GrenadeLauncher/GrenadeLauncher
@@ -1854,6 +1869,7 @@ Stug,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun
 Brakk,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon
 Marelok,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol
 Wraith Twin Vipers,/Lotus/StoreItems/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers
+Mutalist Quanta,/Lotus/StoreItems/Weapons/Infested/LongGuns/InfCrpShockSwarm/InfCrpShockSwarmRifle
 Phage,/Lotus/StoreItems/Weapons/Infested/LongGuns/Tentacluster/InfestedShotgun
 Synapse,/Lotus/StoreItems/Weapons/Infested/LongGuns/InfestedRifle
 Mire,/Lotus/StoreItems/Weapons/Infested/Melee/Swords/Mire/MireSword
@@ -2064,6 +2080,7 @@ Asalto Grineer,/Lotus/Types/StoreItems/Packages/GrineerPack
 Day Of The Dead Lato Skin,/Lotus/Types/StoreItems/Packages/HalloweenLatoSkinPack
 Day Of The Dead Weapon Skin Pack,/Lotus/Types/StoreItems/Packages/HalloweenSkinPack
 Immortal Skin Bundle,/Lotus/Types/StoreItems/Packages/ImmortalSkinPack
+Iliac Armor Bundle,/Lotus/Types/StoreItems/Packages/InfestedFinsArmorPack
 Pack De Nyx,/Lotus/Types/StoreItems/Packages/JadePack
 Pack De Loki,/Lotus/Types/StoreItems/Packages/LokiPack
 Pack De Cascos Masculinos,/Lotus/Types/StoreItems/Packages/MaleS2HelmetPack
