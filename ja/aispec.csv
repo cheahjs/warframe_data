@@ -79,7 +79,7 @@ CorpusInfestedMix,クルーマン (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,ランナー (AiWeek/Runners/SuicideRunner),1,0,0
 ,リーパー (AiWeek/Runners/LeapingRunner),0.25,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 CorpusInfestedMixB,クルーマン (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,プロッド クルーマン (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
 ,シールド オスプレイ (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
@@ -91,7 +91,7 @@ CorpusInfestedMixB,クルーマン (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,ランナー (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 ,トキシック エンシェント (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 CorpusInfestedMixEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
 ,シールド オスプレイ (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
 ,スナイパー クルーマン (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
@@ -105,7 +105,7 @@ CorpusInfestedMixEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
 ,ランナー (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 ,トキシック エンシェント (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 CorpusSquadA,クルーマン (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,ショックウェーブ Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
 ,シールド オスプレイ (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
@@ -457,7 +457,7 @@ GrineerInfestedMix,AIWeek/RifleLancer,1,0,0
 ,リーパー (AiWeek/Runners/LeapingRunner),0.25,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 ,エンシェント ヒーラー (AiWeek/Ancients/HealingAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 ,AIWeek/GrineerRollingDrone,0.1,0,0
 ,AIWeek/GrineerFemale,0.1,0,0
 GrineerInfestedMixB,AIWeek/RifleLancer,1,0,0
@@ -469,7 +469,7 @@ GrineerInfestedMixB,AIWeek/RifleLancer,1,0,0
 ,リーパー (AiWeek/Runners/LeapingRunner),0.25,0,0
 ,トキシック エンシェント (AiWeek/Ancients/ToxicAncient),0.1,0,0
 ,エンシェント ヒーラー (AiWeek/Ancients/HealingAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 GrineerInfestedMixDesert,Desert/RifleLancer,1,0,0
 ,Desert/EliteRifleLancer,1,0,0
 ,Desert/BladeSawman,0.30000001,0,0
@@ -485,7 +485,7 @@ GrineerInfestedMixDesert,Desert/RifleLancer,1,0,0
 ,ランナー (AiWeek/Runners/SuicideRunner),0.5,0,0
 ,AiWeek/Ancients/MeleeAncient,0.2,0,0
 ,トキシック エンシェント (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.5,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
 GrineerInfestedMixForest,Forest/RifleLancer,1,0,0
 ,Forest/EliteRifleLancer,0.2,2,0
 ,Forest/BladeSawman,0.30000001,0,0
@@ -505,7 +505,7 @@ GrineerInfestedMixForest,Forest/RifleLancer,1,0,0
 ,ランナー (AiWeek/Runners/SuicideRunner),0.5,0,0
 ,AiWeek/Ancients/MeleeAncient,0.2,0,0
 ,トキシック エンシェント (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.5,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
 GrineerSettlementSurvivalA,Desert/RifleLancer,1,0,0
 ,Desert/EliteRifleLancer,0.75,0,0
 ,Desert/BladeSawmanNoCoverSurvival,0.5,10,0
@@ -733,7 +733,7 @@ InfestedCorpusMixSquadA,チャージャー (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,ランナー (AiWeek/Runners/SuicideRunner),0.5,0,0
 ,AiWeek/Ancients/MeleeAncient,0.2,0,0
 ,トキシック エンシェント (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 ,クルーマン (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,プロッド クルーマン (Spaceman/AIWeek/MeleeSpacemanAgent),1,0,0
@@ -750,8 +750,8 @@ InfestedDefenseA,チャージャー (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
 ,AiWeek/Crawlers/GrenadeCrawler,0.0099999998,0,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.5,0,2
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,1
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.3,0,2
 InfestedDefenseCorpusA,チャージャー (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,ランナー (AiWeek/Runners/SuicideRunner),1,0,0
 ,リーパー (AiWeek/Runners/LeapingRunner),0.2,0,0
@@ -762,7 +762,7 @@ InfestedDefenseCorpusA,チャージャー (AiWeek/Quadrupeds/Quadruped),0.699999
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
 ,AiWeek/Crawlers/GrenadeCrawler,0.0099999998,0,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,1
 ,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,2
 ,クルーマン (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
@@ -781,7 +781,7 @@ InfestedDefenseGrineerA,チャージャー (AiWeek/Quadrupeds/Quadruped),0.69999
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
 ,AiWeek/Crawlers/GrenadeCrawler,0.0099999998,0,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,1
 ,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,2
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
@@ -793,7 +793,7 @@ InfestedGrineerMixSquadA,チャージャー (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,ランナー (AiWeek/Runners/SuicideRunner),0.5,0,0
 ,AiWeek/Ancients/MeleeAncient,0.2,0,0
 ,トキシック エンシェント (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/RocketBombard,0.050000001,0,0
@@ -807,7 +807,7 @@ InfestedSquadA,チャージャー (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,トキシック エンシェント (AiWeek/Ancients/ToxicAncient),0.1,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,ノキシャス クローラー (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 InfestedSquadB,チャージャー (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,ランナー (AiWeek/Runners/SuicideRunner),1,0,0
 ,リーパー (AiWeek/Runners/LeapingRunner),0.2,0,0
@@ -815,14 +815,14 @@ InfestedSquadB,チャージャー (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,トキシック エンシェント (AiWeek/Ancients/ToxicAncient),0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.050000001,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.5,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.3,0,0
 InfestedSquadC,チャージャー (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,ランナー (AiWeek/Runners/SuicideRunner),1,0,0
 ,リーパー (AiWeek/Runners/LeapingRunner),0.2,0,0
 ,ノーシャス クローラー (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
 ,エンシェント ヒーラー (AiWeek/Ancients/HealingAncient),0.1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 InfestedSurvivalA,チャージャー (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.2,6,0
@@ -831,7 +831,8 @@ InfestedSurvivalA,チャージャー (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,1
 ,AiWeek/Crawlers/MeleeCrawler,0.2,6,0
 ,チャージャー (AiWeek/Quadrupeds/Quadruped),1,20,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,2
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.05,0,1
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,3
 ,ランナー (AiWeek/Runners/SuicideRunner),0.25,8,2
 ,リーパー (AiWeek/Runners/LeapingRunner),0.25,0,2
 ,ノキシャス クローラー (AiWeek/Crawlers/NoxiousCrawler),0.2,4,2
@@ -889,7 +890,8 @@ InfestedSurvivalACorpus,クルーマン (Spaceman/AIWeek/RifleSpacemanAgent),1,4
 ,ランナー (AiWeek/Runners/SuicideRunner),0.25,8,1
 ,AiWeek/Runners/MeleeRunner,0.5,0,1
 ,チャージャー (AiWeek/Quadrupeds/Quadruped),1,20,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,2
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.05,0,1
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,3
 ,ランナー (AiWeek/Runners/SuicideRunner),0.25,8,2
 ,リーパー (AiWeek/Runners/LeapingRunner),0.25,0,2
 ,チャージャー (AiWeek/Quadrupeds/Quadruped),1,0,3
@@ -939,7 +941,8 @@ InfestedSurvivalAGrineer,AIWeek/RifleLancer,1,3,0
 ,ランナー (AiWeek/Runners/SuicideRunner),0.25,8,1
 ,AiWeek/Runners/MeleeRunner,0.5,0,1
 ,チャージャー (AiWeek/Quadrupeds/Quadruped),1,20,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,2
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.05,0,1
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,3
 ,ランナー (AiWeek/Runners/SuicideRunner),0.25,8,2
 ,リーパー (AiWeek/Runners/LeapingRunner),0.25,0,2
 ,チャージャー (AiWeek/Quadrupeds/Quadruped),1,0,3
@@ -983,7 +986,7 @@ InfestedHiveSquadA,チャージャー (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,トキシック エンシェント (AiWeek/Ancients/ToxicAncient),0.1,0,2
 ,AiWeek/Crawlers/MeleeCrawler,0.25,0,0
 ,ノキシャス クローラー (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 OrokinDefenseSquad,Corrupted Lancer (RifleLancer),0.75,0,0
 ,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
 ,Corrupted Ancient (OrokinHealingAncient),0.5,0,2
