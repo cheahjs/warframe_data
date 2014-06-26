@@ -906,6 +906,7 @@ Hate Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/StalkerReaperBlueprint
 Boar Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/StrunShotgunBlueprint
 Castanas Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TaserStarBlueprint
 Soma Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoARBlueprint
+Venka Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoClawsBlueprint
 Nami Solo Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoCutlassBlueprint
 Tigris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoDoubleBarrelShotgunBlueprint
 Galatine Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoGreatSwordBlueprint
@@ -1723,6 +1724,7 @@ Yomo Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/ArmScarf
 Yamako Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/DinoSpikeScarf
 Asa Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarf
 Phased Asa Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarfVoidSkin
+Pyra Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/FlameScarf
 Rakta Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/HornSkullScarf
 Iliac Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/InfestedFinsScarf
 Noru Prime Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/NoruPrimeScarf
@@ -1898,6 +1900,7 @@ Scindo,/Lotus/StoreItems/Weapons/Tenno/Melee/Axe/AxeWeapon
 Zoren Duales,/Lotus/StoreItems/Weapons/Tenno/Melee/Axe/DualAxeWeapon
 Dual Ichor,/Lotus/StoreItems/Weapons/Tenno/Melee/Axe/DualInfestedAxesWeapon
 ?,"/Lotus/StoreItems/Weapons/Tenno/Melee/Brass Knuckles/BrassKnuckles"
+Venka,/Lotus/StoreItems/Weapons/Tenno/Melee/Claws/TennoClaws
 Cronus,/Lotus/StoreItems/Weapons/Tenno/Melee/CronusSword/CronusLongSword
 Dakra Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/CronusSword/PrimeCronusLongSword
 Daga De Cerámica,/Lotus/StoreItems/Weapons/Tenno/Melee/Dagger/CeramicDagger
@@ -1925,6 +1928,7 @@ Skana Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/LongSword/SkanaPrime
 Magistar,/Lotus/StoreItems/Weapons/Tenno/Melee/Maces/PaladinMace/PaladinMaceWeapon
 Rending Crane,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbOneMeleeTree
 Cleaving Whirlwind,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbTwoMeleeTree
+Malicious Raptor,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ClawCmbOneMeleeTree
 Crimson Dervish,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/CrimsonDervishMeleeTree
 Homing Fang,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbOneMeleeTree
 Pointed Wind,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree

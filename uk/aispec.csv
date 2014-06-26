@@ -750,8 +750,6 @@ InfestedDefenseA,Химера (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
 ,AiWeek/Crawlers/GrenadeCrawler,0.0099999998,0,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.3,0,2
 InfestedDefenseCorpusA,Химера (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,Бігун (AiWeek/Runners/SuicideRunner),1,0,0
 ,Стрибун (AiWeek/Runners/LeapingRunner),0.2,0,0
@@ -762,8 +760,6 @@ InfestedDefenseCorpusA,Химера (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
 ,AiWeek/Crawlers/GrenadeCrawler,0.0099999998,0,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,2
 ,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),1,0,0
@@ -781,8 +777,6 @@ InfestedDefenseGrineerA,Химера (AiWeek/Quadrupeds/Quadruped),0.69999999,0,
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
 ,AiWeek/Crawlers/GrenadeCrawler,0.0099999998,0,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,2
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/RocketBombard,0.25,0,0

@@ -906,6 +906,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/Weapons/StrunShotgunBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TaserStarBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoARBlueprint,
+/Lotus/StoreItems/Types/Recipes/Weapons/TennoClawsBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoCutlassBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoDoubleBarrelShotgunBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoGreatSwordBlueprint,
@@ -1723,6 +1724,7 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Scarves/DinoSpikeScarf,
 /Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarf,
 /Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarfVoidSkin,
+/Lotus/StoreItems/Upgrades/Skins/Scarves/FlameScarf,
 /Lotus/StoreItems/Upgrades/Skins/Scarves/HornSkullScarf,
 /Lotus/StoreItems/Upgrades/Skins/Scarves/InfestedFinsScarf,
 /Lotus/StoreItems/Upgrades/Skins/Scarves/NoruPrimeScarf,
@@ -1898,6 +1900,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Tenno/Melee/Axe/DualAxeWeapon,
 /Lotus/StoreItems/Weapons/Tenno/Melee/Axe/DualInfestedAxesWeapon,
 "/Lotus/StoreItems/Weapons/Tenno/Melee/Brass Knuckles/BrassKnuckles",
+/Lotus/StoreItems/Weapons/Tenno/Melee/Claws/TennoClaws,
 /Lotus/StoreItems/Weapons/Tenno/Melee/CronusSword/CronusLongSword,
 /Lotus/StoreItems/Weapons/Tenno/Melee/CronusSword/PrimeCronusLongSword,
 /Lotus/StoreItems/Weapons/Tenno/Melee/Dagger/CeramicDagger,
@@ -1925,6 +1928,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Tenno/Melee/Maces/PaladinMace/PaladinMaceWeapon,
 /Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbOneMeleeTree,
 /Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbTwoMeleeTree,
+/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ClawCmbOneMeleeTree,
 /Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/CrimsonDervishMeleeTree,
 /Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbOneMeleeTree,
 /Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree,
@@ -2130,7 +2134,7 @@ OverrideTexture=""
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/TennoCutlass
+StoreItem=/Lotus/StoreItems/Weapons/Tenno/Melee/Claws/TennoClaws
 Slot=Melee
 OverrideTexture=""
 OverrideMaterial=""
