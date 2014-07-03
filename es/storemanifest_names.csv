@@ -2,6 +2,9 @@ Name,Type
 Arid Fear Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearBronzeTrophyRecipe
 Arid Fear Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearGoldTrophyRecipe
 Arid Fear Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearSilverTrophyRecipe
+Breeding Grounds Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BreedingGroundsBronzeTrophyRecipe
+Breeding Grounds Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BreedingGroundsGoldTrophyRecipe
+Breeding Grounds Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BreedingGroundsSilverTrophyRecipe
 Bronze Buddha Statue Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueBuddhaRecipe
 Bronze Dragon Statue Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueDragonRecipe
 Bronze Foo Dog Statue Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/BronzeStatueFooDogRecipe
@@ -289,6 +292,7 @@ Pack De Mod Aguila,/Lotus/StoreItems/Types/BoosterPacks/RareArtifactPack
 Pack De Fusion Lobo,/Lotus/StoreItems/Types/BoosterPacks/RareFusionPack
 Pack De Mod Aguila,/Lotus/StoreItems/Types/BoosterPacks/SingleCommonArtifact
 Pack De Mod Aguila,/Lotus/StoreItems/Types/BoosterPacks/SingleRareArtifact
+Stance Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/StanceModPack
 Pack De Mod Halcon,/Lotus/StoreItems/Types/BoosterPacks/UncommonArtifactPack
 Pack De Fusion Zorro,/Lotus/StoreItems/Types/BoosterPacks/UncommonFusionPack
 Solar Rail - Tower Class,/Lotus/StoreItems/Types/Game/SolarRails/BasicSolarRail
@@ -1928,7 +1932,6 @@ Skana Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/LongSword/SkanaPrime
 Magistar,/Lotus/StoreItems/Weapons/Tenno/Melee/Maces/PaladinMace/PaladinMaceWeapon
 Rending Crane,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbOneMeleeTree
 Cleaving Whirlwind,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbTwoMeleeTree
-Malicious Raptor,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ClawCmbOneMeleeTree
 Crimson Dervish,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/CrimsonDervishMeleeTree
 Homing Fang,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbOneMeleeTree
 Pointed Wind,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree
