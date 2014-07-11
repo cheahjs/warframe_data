@@ -1398,6 +1398,7 @@ Poisonous Attitude Pack (/Lotus/Types/StoreItems/Packages/SarynPack),Packages,YE
 Polymer Bundle (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle),MiscItems,YES,NO,?,30,
 Power Throw (/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaivePowerthrowMod),Upgrades,NO,YES,?,?,
 Pressure Point (/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeDamageMod),Upgrades,NO,YES,?,?,
+Prime Laser Rifle (/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeLaserRifle),SentinelWeapons,NO,NO,?,35,
 Primed Chamber (/Lotus/StoreItems/Upgrades/Mods/Rifle/EventSniperReloadDamageMod),Upgrades,NO,YES,?,?,
 Prodigal Credit Bundle (/Lotus/StoreItems/Types/StoreItems/CreditBundles/CreditBundleB),CreditBundles,NO,NO,-25000,60,
 Profile Icon Pack 1 (/Lotus/Types/StoreItems/AvatarImages/AvatarImagePack1),Packages,NO,NO,25000,20,

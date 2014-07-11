@@ -1141,6 +1141,7 @@ Placeholder (/Lotus/StoreItems/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestW
 Placeholder (/Lotus/Types/StoreItems/Packages/VoidSkinPack),Packages,NO,NO,?,100000,
 Planter Blueprint (/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/DojoPlanterARecipe),Recipes,NO,NO,50000,?,
 Pointed Wind (/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree),Upgrades,NO,YES,?,?,
+Prime Laser Rifle (/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeLaserRifle),SentinelWeapons,NO,NO,?,35,
 Primed Chamber (/Lotus/StoreItems/Upgrades/Mods/Rifle/EventSniperReloadDamageMod),Upgrades,NO,YES,?,?,
 Prova (/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProd),Melee,NO,NO,?,?,
 Prova Blueprint (/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProdBlueprint),Recipes,NO,NO,?,?,

@@ -4940,6 +4940,8 @@
   "/Lotus/Language/Items/BurstLaserPistolStoreItemDesc": "Fires a small burst of lasers.",
   "/Lotus/Language/Items/LaserRifleStoreItemName": "LASER RIFLE",
   "/Lotus/Language/Items/LaserRifleStoreItemDesc": "A laser rifle developed by reverse-engineering Corpus technology.",
+  "/Lotus/Language/Items/PrimeLaserRifleStoreItemName": "PRIME LASER RIFLE",
+  "/Lotus/Language/Items/PrimeLaserRifleStoreItemDesc": "A Prime Laser Rifle.",
   "/Lotus/Language/Items/CoolantLeakStoreItemName": "Coolant Leak",
   "/Lotus/Language/Items/CoolantLeakStoreItemDesc": "Sentinel has a small freeze aura, slowing incoming enemies.",
   "/Lotus/Language/Items/CrowdDispersionStoreItemName": "Crowd Dispersion",

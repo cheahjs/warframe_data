@@ -995,6 +995,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Sentinels/SentinelWeapons/BurstLaserPistol,
 /Lotus/StoreItems/Types/Sentinels/SentinelWeapons/DethMachineRifle,
 /Lotus/StoreItems/Types/Sentinels/SentinelWeapons/LaserRifle,
+/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeLaserRifle,
 /Lotus/StoreItems/Types/Sentinels/SentinelWeapons/SentBioWeapon,
 /Lotus/StoreItems/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon,
 /Lotus/StoreItems/Types/Sentinels/SentinelWeapons/SentShotgun,

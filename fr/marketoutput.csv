@@ -1484,6 +1484,7 @@ Pointe Métallique (/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponPunctureDepthMod
 Pointed Wind (/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree),Upgrades,NO,YES,?,?,
 Pompe Tactique (/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponReloadSpeedMod),Upgrades,NO,YES,?,?,
 Porte-Tempête (/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponElectricityDamageMod),Upgrades,NO,YES,?,?,
+Prime Laser Rifle (/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeLaserRifle),SentinelWeapons,NO,NO,?,35,
 Profil Ash (/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem6),FlavourItems,NO,NO,20000,27,
 Profil Ember (/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem7),FlavourItems,NO,NO,20000,26,
 Profil Excalibur (/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageItem1),FlavourItems,NO,NO,20000,26,

@@ -788,6 +788,7 @@ Placeholder (/Lotus/StoreItems/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRif
 Placeholder (/Lotus/StoreItems/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield),Melee,NO,NO,?,150,
 Placeholder (/Lotus/Types/StoreItems/Packages/VoidSkinPack),Packages,NO,NO,?,100000,
 Pointed Wind (/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree),Upgrades,NO,YES,?,?,
+Prime Laser Rifle (/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeLaserRifle),SentinelWeapons,NO,NO,?,35,
 Prova Vandal (/Lotus/StoreItems/Weapons/ClanTech/Energy/VandalElectroProd),Melee,NO,NO,?,?,
 Provoked (/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarGroundFireDmgMod),Upgrades,NO,YES,?,?,
 Pruned Bush Blueprint (/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/SmallPrunedBushRecipe),Recipes,NO,NO,45000,?,

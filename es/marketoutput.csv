@@ -1501,6 +1501,7 @@ Potenciador De Afinidad (/Lotus/Types/StoreItems/Boosters/AffinityBoosterStoreIt
 Potenciador De Carrera (/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSprintAuraMod),Upgrades,NO,YES,?,?,
 Potenciador De Crédito (/Lotus/Types/StoreItems/Boosters/CreditBoosterStoreItem),Boosters,YES,NO,?,?,
 Potenciador De Resucitaciones (/Lotus/Types/StoreItems/Boosters/ReviveBoosterStoreItem),Boosters,NO,NO,?,?,
+Prime Laser Rifle (/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeLaserRifle),SentinelWeapons,NO,NO,?,35,
 Prova (/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProd),Melee,NO,NO,?,?,
 Prova Blueprint (/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProdBlueprint),Recipes,NO,NO,?,?,
 Prova Vandal (/Lotus/StoreItems/Weapons/ClanTech/Energy/VandalElectroProd),Melee,NO,NO,?,?,

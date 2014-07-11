@@ -1505,6 +1505,7 @@ Polarizar Escudo (/Lotus/StoreItems/Powersuits/Mag/ShieldRegenAbilityCard),Upgra
 Ponto De Pressão (/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeDamageMod),Upgrades,NO,YES,?,?,
 Portador Do Trovão (/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponElectricityDamageMod),Upgrades,NO,YES,?,?,
 Poço De Vida (/Lotus/StoreItems/Powersuits/Trinity/WellOfLifeAbilityCard),Upgrades,NO,YES,?,?,
+Prime Laser Rifle (/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeLaserRifle),SentinelWeapons,NO,NO,?,35,
 Projeção Corrosiva (/Lotus/StoreItems/Upgrades/Mods/Aura/EnemyArmorReductionAuraMod),Upgrades,NO,YES,?,?,
 Prova (/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProd),Melee,NO,NO,?,?,
 Prova Blueprint (/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProdBlueprint),Recipes,NO,NO,?,?,

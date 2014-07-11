@@ -1393,6 +1393,7 @@ Plastide (/Lotus/StoreItems/Types/Items/MiscItems/Plastids),MiscItems,YES,NO,?,3
 Pointed Wind (/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree),Upgrades,NO,YES,?,?,
 Polymerbündel (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle),MiscItems,YES,NO,?,30,
 Prachthalle Blueprint (/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/ClanGrandestHallARecipe),Recipes,NO,NO,100000,?,
+Prime Laser Rifle (/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeLaserRifle),SentinelWeapons,NO,NO,?,35,
 Prova (/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProd),Melee,NO,NO,?,?,
 Prova Blueprint (/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProdBlueprint),Recipes,NO,NO,?,?,
 Prova Vandal (/Lotus/StoreItems/Weapons/ClanTech/Energy/VandalElectroProd),Melee,NO,NO,?,?,

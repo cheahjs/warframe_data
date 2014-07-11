@@ -1306,6 +1306,7 @@ Point Blank (/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponDamageAmountMod),Upgr
 Point Strike (/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponCritChanceMod),Upgrades,NO,YES,?,?,
 Pointed Wind (/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree),Upgrades,NO,YES,?,?,
 Pressure Point (/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeDamageMod),Upgrades,NO,YES,?,?,
+Prime Laser Rifle (/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeLaserRifle),SentinelWeapons,NO,NO,?,35,
 Primed Chamber (/Lotus/StoreItems/Upgrades/Mods/Rifle/EventSniperReloadDamageMod),Upgrades,NO,YES,?,?,
 Prova (/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProd),Melee,NO,NO,?,?,
 Prova Blueprint (/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProdBlueprint),Recipes,NO,NO,?,?,

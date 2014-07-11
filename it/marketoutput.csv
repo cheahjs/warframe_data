@@ -1418,6 +1418,7 @@ Point Strike (/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponCritChanceMod),Upgrade
 Pointed Wind (/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree),Upgrades,NO,YES,?,?,
 Poltrona Blueprint (/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CouchTestRecipe),Recipes,NO,NO,?,?,
 Pressure Point (/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeDamageMod),Upgrades,NO,YES,?,?,
+Prime Laser Rifle (/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeLaserRifle),SentinelWeapons,NO,NO,?,35,
 Primed Chamber (/Lotus/StoreItems/Upgrades/Mods/Rifle/EventSniperReloadDamageMod),Upgrades,NO,YES,?,?,
 Proiezione Corrosiva (/Lotus/StoreItems/Upgrades/Mods/Aura/EnemyArmorReductionAuraMod),Upgrades,NO,YES,?,?,
 Prova (/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProd),Melee,NO,NO,?,?,
