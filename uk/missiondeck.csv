@@ -1,316 +1,316 @@
-Node,Planet,Mission Type,Faction,AI Spec,Mission Rewards
-Terminus,Меркурій,Extermination,Grineer,GrineerSquadOne,
-M Prime,Меркурій,Sabotage,Grineer,GrineerSquadOne,
-Elion,Меркурій,Mobile Defense,Grineer,GrineerSquadOne,
-Lares,Меркурій,Defense,Grineer,GrineerDefenseA,DefenseMissionRewardsEasy
-Caloris,Меркурій,Capture,Grineer,GrineerSquadOne,CaptureMissionRewardsA
-Apollodorus,Меркурій,Survival,Grineer,GrineerSurvivalMercury,SurvivalLowLevelRewards
-Tolstoj,Меркурій,Assassination,Grineer,GrineerSquadOne,SeerPistolRewards
-Cytherean,Венера,Extermination,Corpus,CorpusSquadA,
-V Prime,Венера,Rescue,Corpus,CorpusSquadA,
-Ishtar,Венера,Capture,Corpus,CorpusSquadA,CaptureMissionRewardsA
-E Gate,Венера,Survival,Corpus,CorpusSurvivalA,SurvivalLowLevelRewards
-Vesper,Венера,Spy,Corpus,CorpusSquadA,IntelMissionRewardsA
-Linea,Венера,Rescue,Corpus,CorpusSquadA,
-Aphrodite,Венера,Capture,Corpus,CorpusSquadA,CaptureMissionRewardsA
-Kiliken,Венера,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsEasy
-Tessera,Венера,Sabotage,Corpus,CorpusSquadA,
-Fossa,Венера,Assassination,Corpus,CorpusSquadA,RhinoRewards
-Venera,Венера,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsEasy
-Unda,Венера,Spy,Corpus,CorpusSquadA,IntelMissionRewardsA
-Cambria,Земля,Survival,Grineer,ForestGrineerSurvivalA,SurvivalMidLevelRewards
-Everest,Земля,Extermination,Grineer,ForestGrineerSquadOne,
-Mariana,Земля,Sabotage,Grineer,ForestGrineerSquadOne,ForestSabotageRewards
-Lith,Земля,Defense,Grineer,GrineerDefenseForest,DefenseMissionRewardsEasy
-Mantle,Земля,Capture,Grineer,ForestGrineerSquadOne,CaptureMissionRewardsA
-Pacific,Земля,Capture,Grineer,ForestGrineerSquadOne,CaptureMissionRewardsA
-Lua,Земля,Defense,Grineer,GrineerDefenseForest,DefenseMissionRewardsEasy
-Oro,Земля,Sabotage,Grineer,ForestGrineerSquadOne,ForestSabotageRewards
-Eurasia,Земля,Extermination,Grineer,ForestGrineerSquadOne,
-Gaia,Земля,Interception,Grineer,ForestGrineerTerritoriesOne,InterceptionMissionRewardsEasy
-E Prime,Земля,Extermination,Grineer,ForestGrineerSquadOne,
-Arcadia,Марс,Survival,Corpus,CorpusSurvivalA,SurvivalMidLevelRewards
-Hellas,Марс,Mobile Defense,Corpus,CorpusSquadB,
-Ares,Марс,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA
-Tharsis,Марс,Sabotage,Corpus,CorpusSquadA,
-Vallis,Марс,Rescue,Corpus,CorpusSquadC,RescueMissionRewardsEasy
-Olympus,Марс,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsMedium
-Arval,Марс,Extermination,Corpus,CorpusSquadC,
-Alator,Марс,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA
-Silvanus,Марс,Extermination,Corpus,CorpusSquadD,
-Augustus,Марс,Interception,Corpus,CorpusSquadB,InterceptionMissionRewardsMedium
-Ara,Марс,Survival,Corpus,CorpusSurvivalA,SurvivalMidLevelRewards
-Ultor,Марс,Extermination,Corpus,CorpusSquadD,
-Spear,Марс,Spy,Corpus,CorpusSquadC,IntelMissionRewardsA
-Martialis,Марс,Spy,Corpus,CorpusSquadC,IntelMissionRewardsA
-War,Марс,Assassination,Corpus,CorpusSquadA,MagRewards
-Gradivus,Марс,Sabotage,Corpus,CorpusSquadA,
-Quirinus,Марс,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA
-Metis,Юпітер,Capture,Corpus,CorpusSquadD,
-Adrastea,Юпітер,Extermination,Corpus,CorpusSquadD,
-Amalthea,Юпітер,Sabotage,Corpus,CorpusSquadD,
-Thebe,Юпітер,Deception,Corpus,CorpusSquadD,
-Io,Юпітер,Defense,Corpus,CorpusSquadDefenseB,DefenseMissionRewardsEasy
-Elara,Юпітер,Survival,Corpus,CorpusSurvivalB,SurvivalMidLevelRewards
-Ganymede,Юпітер,Extermination,Corpus,CorpusSquadD,
-Callisto,Юпітер,Interception,Corpus,CorpusSquadDefenseB,InterceptionMissionRewardsEasy
-Themisto,Юпітер,Assassination,Corpus,CorpusSquadD,BerserkerRewards
-Carpo,Юпітер,Extermination,Corpus,CorpusSquadD,
-Carme,Юпітер,Mobile Defense,Corpus,CorpusSquadD,
-Ananke,Юпітер,Capture,Corpus,CorpusSquadD,CaptureMissionRewardsA
-Helene,Сатурн,Defense,Grineer,GrineerDefenseA,DefenseMissionRewardsMedium
-Titan,Сатурн,Sabotage,Grineer,GrineerSquadTwo,
-Dione,Сатурн,Sabotage,Grineer,GrineerSquadThree,
-Enceladus,Сатурн,Capture,Grineer,GrineerSquadThree,CaptureMissionRewardsA
-Epimetheus,Сатурн,Deception,Grineer,GrineerSquadFour,
-Hyperion,Сатурн,Extermination,Grineer,GrineerSquadSix,
-Iapetus,Сатурн,Interception,Grineer,GrineerSquadFive,InterceptRewardsGrineer
-Janus,Сатурн,Extermination,Grineer,GrineerSquadOne,
-Mimas,Сатурн,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards
-Phoebe,Сатурн,Capture,Grineer,GrineerSquadThree,CaptureMissionRewardsA
-Rhea,Сатурн,Sabotage,Grineer,GrineerSquadThree,
-Tethys,Сатурн,Assassination,Grineer,GrineerSquadFour,EmberRewards
-Keeler,Сатурн,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards
-Aegaeon,Сатурн,Extermination,Grineer,GrineerSquadTwo,
-Numa,Сатурн,Rescue,Grineer,GrineerSquadFive,RescueMissionRewardsEasy
-Cassini,Сатурн,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards
-Methone,Сатурн,Deception,Grineer,GrineerSquadThree,
-Anthe,Сатурн,Rescue,Grineer,GrineerSquadFour,
-Pallene,Сатурн,Sabotage,Grineer,GrineerSquadFive,
-Telesto,Сатурн,Extermination,Grineer,GrineerSquadSix,
-Calypso,Сатурн,Capture,Grineer,GrineerSquadThree,CaptureMissionRewardsA
-Miranda,Уран,Defense,Grineer,GrineerDefenseA,DefenseMissionRewardsMedium
-Ariel,Уран,Sabotage,Grineer,GrineerSquadTwo,
-Umbriel,Уран,Spy,Grineer,GrineerSquadFour,IntelMissionRewardsA
-Titania,Уран,Assassination,Grineer,GrineerSquadFour,AshRewards
-Oberon,Уран,Extermination,Grineer,GrineerSquadThree,
-Cordelia,Уран,Extermination,Grineer,GrineerSquadFive,
-Ophelia,Уран,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards
-Bianca,Уран,Defense,Grineer,GrineerDefenseA,DefenseMissionRewardsMedium
-Cressida,Уран,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards
-Desdemona,Уран,Capture,Grineer,GrineerSquadTwo,CaptureMissionRewardsA
-Juliet,Уран,Deception,Grineer,GrineerSquadSix,
-Portia,Уран,Sabotage,Grineer,GrineerSquadOne,
-Rosalind,Уран,Spy,Grineer,GrineerSquadFour,IntelMissionRewardsA
-Cupid,Уран,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards
-Setebos,Уран,Sabotage,Grineer,GrineerSquadTwo,
-Perdita,Уран,Deception,Grineer,GrineerSquadSix,
-Puck,Уран,Extermination,Grineer,GrineerSquadOne,
-Mab,Уран,Rescue,Grineer,GrineerSquadFour,RescueMissionRewardsMedium
-Prospero,Уран,Sabotage,Grineer,GrineerSquadTwo,
-Caliban,Уран,Rescue,Grineer,GrineerSquadFive,
-Stephano,Уран,Interception,Grineer,GrineerDefenseA,InterceptionMissionRewardsMedium
-Trinculo,Уран,Capture,Grineer,GrineerSquadThree,
-Sycorax,Уран,Extermination,Grineer,GrineerSquadOne,
-Naiad,Нептун,Deception,Corpus,CorpusSquadC,
-Thalassa,Нептун,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsHard
-Despina,Нептун,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsHard
-Galatea,Нептун,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA
-Larissa,Нептун,Mobile Defense,Corpus,CorpusSquadA,
-Proteus,Нептун,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsHard
-Triton,Нептун,Survival,Corpus,CorpusSurvivalA,SurvivalHighLevelRewards
-Nereid,Нептун,Rescue,Corpus,CorpusSquadC,RescueMissionRewardsHard
-Halimede,Нептун,Sabotage,Corpus,CorpusSquadC,
-Sao,Нептун,Deception,Corpus,CorpusSquadA,
-Laomedeia,Нептун,Spy,Corpus,CorpusSquadB,IntelMissionRewardsA
-Neso,Нептун,Extermination,Corpus,CorpusSquadB,
-Psamathe,Нептун,Assassination,Corpus,CorpusSquadA,LokiRewards
-Minthe,Плутон,Mobile Defense,Corpus,CorpusSquadA,
-Hades,Плутон,Assassination,Corpus,CorpusSquadA,ExcaliburRewards
-Charon,Плутон,Sabotage,Corpus,CorpusSquadB,
-Outer Terminus,Плутон,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsHard
-Hydra,Плутон,Capture,Corpus,CorpusSquadA,CaptureMissionRewardsA
-Acheron,Плутон,Extermination,Corpus,CorpusSquadB,
-Regna,Плутон,Rescue,Corpus,CorpusSquadC,
-Narcissus,Плутон,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsHard
-Cypress,Плутон,Sabotage,Corpus,CorpusSquadA,
-Cerberus,Плутон,Interception,Corpus,CorpusSquadA,InterceptionMissionRewardsHard
-Oceanum,Плутон,Spy,Corpus,CorpusSquadC,IntelMissionRewardsA
-Palus,Плутон,Survival,Corpus,CorpusSurvivalA,SurvivalHighLevelRewards
-Nix,Плутон,Deception,Corpus,CorpusSquadC,
-Pallas,Церера,Sabotage,Grineer,GrineerShipyardsA,
-Bode,Церера,Capture,Grineer,GrineerShipyardsA,
-Vedic,Церера,Extermination,Grineer,GrineerShipyardsA,
-Varro,Церера,Defense,Grineer,GrineerShipyardsDefenseA,DefenseMissionRewardsHard
-Thon,Церера,Sabotage,Grineer,GrineerShipyardsA,
-Olla,Церера,Rescue,Grineer,GrineerShipyardsA,
-Nuovo,Церера,Survival,Grineer,GrineerShipyardsSurvivalA,SurvivalHighLevelRewards
-Ludi,Церера,Extermination,Grineer,GrineerShipyardsA,
-Lex,Церера,Spy,Grineer,GrineerSquadFour,
-Kiste,Церера,Mobile Defense,Grineer,GrineerShipyardsA,
-Ker,Церера,Deception,Grineer,CorpusGrineerMix,
-Hapke,Церера,Capture,Grineer,GrineerShipyardsA,
-Gefion,Церера,MT_RETRIEVAL,Grineer,GrineerShipyardsA,
-Exta,Церера,Assassination,Grineer,GrineerShipyardsA,FrostRewards
-Egeria,Церера,Survival,Grineer,GrineerShipyardsSurvivalA,SurvivalHighLevelRewards
-Draco,Церера,Interception,Grineer,GrineerSquadFour,InterceptionMissionRewardsHard
-Cinxia,Церера,Rescue,Grineer,GrineerShipyardsA,RescueMissionRewardsHard
-Cerium,Церера,MT_RETRIEVAL,Grineer,GrineerShipyardsA,
-Casta,Церера,Defense,Grineer,GrineerShipyardsDefenseA,DefenseMissionRewardsHard
-Albedo,Церера,Deception,Grineer,CorpusGrineerMix,
-Acanth,Ерида,Extermination,Corpus,CorpusSquadA,
-Ascar,Ерида,Spy,Corpus,CorpusSquadB,IntelMissionRewardsA
-Brugia,Ерида,Rescue,Corpus,CorpusSquadC,RescueMissionRewardsMedium
-Candiru,Ерида,Sabotage,Corpus,CorpusSquadA,
-Cosis,Ерида,Capture,Corpus,CorpusSquadA,CaptureMissionRewardsA
-Cyath,Ерида,Mobile Defense,Corpus,CorpusSquadA,
-Giardia,Ерида,Spy,Corpus,CorpusSquadB,IntelMissionRewardsA
-Gnathos,Ерида,Defense,Corpus,CorpusSquadDefenseA,MissionRewardsCorpus
-Lepis,Ерида,Sabotage,Corpus,CorpusSquadC,
-Histo,Ерида,Extermination,Corpus,CorpusSquadA,
-Hymeno,Ерида,Survival,Corpus,CorpusSurvivalA,SurvivalMidLevelRewards
-Isos,Ерида,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA
-Ixodes,Ерида,Defense,Corpus,CorpusSquadDefenseA,MissionRewardsCorpus
-Kala-azar,Ерида,Defense,Corpus,CorpusSquadDefenseA,MissionRewardsCorpus
-Naeglar,Ерида,Extermination,Corpus,CorpusSquadC,
-Nimus,Ерида,Survival,Corpus,CorpusSurvivalA,SurvivalHighLevelRewards
-Oestrus,Ерида,Deception,Corpus,CorpusSquadC,
-Phalan,Ерида,Survival,Corpus,CorpusSurvivalA,SurvivalMidLevelRewards
-Psoro,Ерида,Sabotage,Corpus,CorpusSquadB,
-Ranova,Ерида,Rescue,Corpus,CorpusSquadA,
-Saxis,Ерида,Extermination,Corpus,CorpusSquadB,
-Xini,Ерида,Defense,Corpus,CorpusSquadDefenseA,MissionRewardsCorpus
-Solium,Ерида,Deception,Corpus,CorpusSquadC,
-Sparga,Ерида,Rescue,Corpus,CorpusSquadB,
-Sporid,Ерида,Sabotage,Corpus,CorpusSquadA,
-Viver,Ерида,Interception,Corpus,CorpusSquadDefenseA,InterceptionMissionRewardsHard
-Kappa,Седна,Mobile Defense,Grineer,GrineerSquadSix,
-Hyosube,Седна,Sabotage,Grineer,GrineerSquadSix,
-Jengu,Седна,Rescue,Grineer,GrineerSquadSix,
-Undine,Седна,Sabotage,Grineer,GrineerSquadTwo,CaptureMissionRewardsA
-Adaro,Седна,Extermination,Grineer,GrineerSquadSix,
-Camenae,Седна,Defense,Grineer,GrineerDefenseA,DefenseMissionRewardsMedium
-Vodyanoi,Седна,Mobile Defense,Grineer,GrineerSquadOne,
-Rusalka,Седна,Deception,Grineer,GrineerSquadSix,
-Berehynia,Седна,Interception,Grineer,GrineerSurvivalA,InterceptionMissionRewardsMedium
-Phithale,Седна,Sabotage,Grineer,GrineerSquadFour,
-Selkie,Седна,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards
-Kelpie,Седна,Sabotage,Grineer,GrineerSquadFive,
-Naga,Седна,Rescue,Grineer,GrineerSquadSix,
-Nakki,Седна,Sabotage,Grineer,GrineerSquadSix,
-Marid,Седна,Extermination,Grineer,GrineerSquadSix,
-Tikoloshe,Седна,Spy,Grineer,GrineerSquadSix,
-Merrow,Седна,Assassination,Grineer,GrineerSquadFive,SarynRewards
-Ponaturi,Седна,Deception,Grineer,GrineerSquadFour,
-Hydron,Седна,Defense,Grineer,GrineerDefenseA,DefenseMissionRewardsMedium
-Charybdis,Седна,Deception,Grineer,GrineerSquadSix,
-Graeae,Седна,Mobile Defense,Grineer,GrineerSquadThree,
-Scylla,Седна,Spy,Grineer,GrineerSquadSix,
-Yam,Седна,Sabotage,Grineer,GrineerSquadSix,
-Veles,Седна,Rescue,Grineer,GrineerSquadSix,
-Tiamat,Седна,Capture,Grineer,GrineerSquadSix,CaptureMissionRewardsA
-Yemaja,Седна,Survival,Grineer,GrineerSurvivalA,SurvivalHighLevelRewards
-Abaddon,Європа,Capture,Corpus,CorpusSquadA,CaptureMissionRewardsA
-Armaros,Європа,Interception,Corpus,CorpusSquadA,InterceptionMissionRewardsMedium
-Baal,Європа,Mobile Defense,Corpus,CorpusSquadC,
-Eligor,Європа,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsMedium
-Gamygyn,Європа,Spy,Corpus,CorpusSquadC,IntelMissionRewardsA
-Lillith,Європа,Survival,Corpus,CorpusSurvivalA,SurvivalMidLevelRewards
-Morax,Європа,Spy,Corpus,CorpusSquadB,IntelMissionRewardsA
-Naamah,Європа,Assassination,Corpus,CorpusSquadA,NovaRewards
-Ose,Європа,Survival,Corpus,CorpusSurvivalA,SurvivalMidLevelRewards
-Paimon,Європа,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsMedium
-Shax,Європа,Rescue,Corpus,CorpusSquadA,
-Sorath,Європа,Sabotage,Corpus,CorpusSquadA,
-Valac,Європа,Deception,Corpus,CorpusSquadC,
-Valefor,Європа,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsMedium
-Orias,Європа,Spy,Corpus,CorpusSquadB,
-Zagan,Європа,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA
-Beleth,Європа,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA
-Kokabiel,Європа,Sabotage,Corpus,CorpusSquadA,
-Conclave,Сатурн,MT_PVP,Grineer,,
-Conclave,Венера,MT_PVP,Corrupted,,
-Conclave,Phobos,MT_PVP,Corrupted,,
-Conclave,Нептун,MT_PVP,Corpus,,
-Conclave,Ерида,MT_PVP,Corpus,,
-Conclave,Європа,MT_PVP,Corpus,,
-Conclave,Плутон,MT_PVP,Corpus,,
-Conclave,Седна,MT_PVP,Grineer,,
-Conclave,Юпітер,MT_PVP,Corpus,,
-Balor,Меркурій,Sabotage,Grineer,GrineerSquadSabotageEvent,
-Tethra,Венера,Sabotage,Grineer,GrineerSquadSabotageEvent,
-Tethra's Doom,Земля,Sabotage,Grineer,GrineerSquadSabotageEvent,
-Elatha,Марс,?,?,?,?
-Bres,Юпітер,?,?,?,?
-Birog,Сатурн,?,?,?,?
-Ethniu,Уран,?,?,?,?
-Buarainech,Нептун,?,?,?,?
-Corb,Плутон,?,?,?,?
-Conand,Церера,?,?,?,?
-Lugh,Ерида,?,?,?,?
-Nemed,Седна,?,?,?,?
-Neit,Європа,?,?,?,?
-Romula,Венера,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Malva,Венера,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsLowLevelRewards
-Roche,Phobos,Extermination,Grineer,DesertGrineerSquadOne,
-Skyresh,Phobos,Deception,Grineer,DesertGrineerSquadOne,
-Stickney,Phobos,Survival,Grineer,GrineerSettlementSurvivalA,SurvivalMidLevelRewards
-Drunlo,Phobos,Defense,Grineer,DesertGrineerDefenseA,DefenseMissionRewardsMedium
-Grildrig,Phobos,Rescue,Grineer,DesertGrineerSquadOne,
-Limtoc,Phobos,Capture,Grineer,DesertGrineerSquadOne,
-Hall,Phobos,Mobile Defense,Grineer,DesertGrineerSquadOne,
-Reldresal,Phobos,Sabotage,Grineer,DesertGrineerSquadOne,
-Clustril,Phobos,Extermination,Grineer,DesertGrineerSquadOne,
-Kepler,Phobos,Defense,Grineer,DesertGrineerDefenseA,DefenseMissionRewardsMedium
-Gulliver,Phobos,Rescue,Grineer,DesertGrineerSquadOne,
-Monolith,Phobos,Rescue,Grineer,DesertGrineerSquadOne,
-D'Arrest,Phobos,Sabotage,Grineer,DesertGrineerSquadOne,
-Shklovsky,Phobos,Spy,Grineer,DesertGrineerSquadOne,
-Sharpless,Phobos,Mobile Defense,Grineer,DesertGrineerSquadOne,
-Wendell,Phobos,Survival,Grineer,GrineerSettlementSurvivalA,SurvivalMidLevelRewards
-Flimnap,Phobos,Deception,Grineer,DesertGrineerSquadOne,
-Opik,Phobos,Interception,Grineer,DesertGrineerDefenseA,InterceptionMissionRewardsMedium
-Todd,Phobos,Capture,Grineer,DesertGrineerSquadOne,
-Iliad,Phobos,Assassination,Grineer,DesertGrineerSquadOne,MiterGremlinsRewards
-Vesper Relay,Венера,MT_PVP,Corrupted,,
-Strata Relay,Земля,MT_PVP,Corrupted,,
-Coba,Земля,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Tikal,Земля,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsLowLevelRewards
-Sinai,Юпітер,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Cameria,Юпітер,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsLowLevelRewards
-Larzac,Європа,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Cholistan,Європа,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsMidLevelRewards
-Kadesh,Марс,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Wahiba,Марс,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsLowLevelRewards
-Memphis,Phobos,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Zeugma,Phobos,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsMidLevelRewards
-Caracol,Сатурн,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Piscinas,Сатурн,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsLowLevelRewards
-Amarna,Седна,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsMidLevelRewards
-Sangeru,Седна,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Ur,Уран,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Assur,Уран,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsMidLevelRewards
-Akkad,Ерида,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Zabala,Ерида,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsHighLevelRewards
-Yursa,Нептун,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Kelashin,Нептун,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsHighLevelRewards
-Seimeni,Церера,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Gabii,Церера,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsHighLevelRewards
-Sechura,Плутон,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards
-Hieracon,Плутон,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsHighLevelRewards
-DerelictDefense,-,Defense,Infestation,InfestedDefenseA,DerelictDefenseRewards
-DerelictCapture,-,Capture,Infestation,InfestedCorpusMixSquadA,
-DerelictSurvival,-,Survival,Infestation,InfestedSurvivalA,DerelictSurvivalRewards
-DerelictExterminate,-,Extermination,Infestation,InfestedGrineerMixSquadA,
-DerelictAssassinate,-,Assassination,Infestation,InfestedSquadA,GolemMissionRewards
-VoidExterminateT1,-,Extermination,Corrupted,OrokinSquadOne,OrokinExterminateRewardsA
-VoidSurvivalT1,-,Survival,Corrupted,OrokinSurvivalA,OrokinSurvivalRewardsA
-VoidExterminateT2,-,Extermination,Corrupted,OrokinSquadOne,OrokinExterminateRewardsB
-VoidSurvivalT2,-,Survival,Corrupted,OrokinSurvivalA,OrokinSurvivalRewardsB
-VoidExterminateT3,-,Extermination,Corrupted,OrokinSquadOne,OrokinExterminateRewardsC
-VoidDefenseT1,-,Defense,Corrupted,OrokinDefenseSquad,OrokinDefenseRewardsA
-VoidDefenseT2,-,Defense,Corrupted,OrokinDefenseSquad,OrokinDefenseRewardsB
-VoidDefenseT3,-,Defense,Corrupted,OrokinDefenseSquad,OrokinDefenseRewardsC
-VoidCaptureT1,-,Capture,Corrupted,OrokinSquadOne,OrokinCaptureRewardsA
-VoidCaptureT2,-,Capture,Corrupted,OrokinSquadOne,OrokinCaptureRewardsB
-VoidCaptureT3,-,Capture,Corrupted,OrokinSquadOne,OrokinCaptureRewardsC
-VoidMobileDefenseT1,-,Mobile Defense,Corrupted,OrokinSquadOne,OrokinMobileDefenseRewardsA
-VoidMobileDefenseT2,-,Mobile Defense,Corrupted,OrokinSquadOne,OrokinMobileDefenseRewardsB
-VoidMobileDefenseT3,-,Mobile Defense,Corrupted,OrokinSquadOne,OrokinMobileDefenseRewardsC
-VoidSurvivalT3,-,Survival,Corrupted,OrokinSurvivalA,OrokinSurvivalRewardsC
-VoidCaptureT4,-,Capture,Corrupted,OrokinSquadOne,OrokinCaptureRewardsD
-VoidDefenseT4,-,Defense,Corrupted,OrokinDefenseSquad,OrokinDefenseRewardsD
-VoidExterminateT4,-,Extermination,Corrupted,OrokinSquadOne,OrokinExterminateRewardsD
-VoidInterceptionT4,-,Interception,Corrupted,OrokinDefenseSquad,OrokinInterceptionRewardsD
-VoidMobileDefenseT4,-,Mobile Defense,Corrupted,OrokinSquadOne,OrokinMobileDefenseRewardsD
-VoidSurvivalT4,-,Survival,Corrupted,OrokinSurvivalA,OrokinSurvivalRewardsD
+Node,Planet,Mission Type,Faction,AI Spec,Mission Rewards,Drone Damage,Drone Damage Chance
+Terminus,Меркурій,Extermination,Grineer,GrineerSquadOne,,0 - 0,0
+M Prime,Меркурій,Sabotage,Grineer,GrineerSquadOne,,0 - 0,0
+Elion,Меркурій,Mobile Defense,Grineer,GrineerSquadOne,,0 - 0,0
+Lares,Меркурій,Defense,Grineer,GrineerDefenseA,DefenseMissionRewardsEasy,0 - 0,0
+Caloris,Меркурій,Capture,Grineer,GrineerSquadOne,CaptureMissionRewardsA,0 - 0,0
+Apollodorus,Меркурій,Survival,Grineer,GrineerSurvivalMercury,SurvivalLowLevelRewards,0 - 0,0
+Tolstoj,Меркурій,Assassination,Grineer,GrineerSquadOne,SeerPistolRewards,0 - 0,0
+Cytherean,Венера,Extermination,Corpus,CorpusSquadA,,0 - 0,0
+V Prime,Венера,Rescue,Corpus,CorpusSquadA,,0 - 0,0
+Ishtar,Венера,Capture,Corpus,CorpusSquadA,CaptureMissionRewardsA,0 - 0,0
+E Gate,Венера,Survival,Corpus,CorpusSurvivalA,SurvivalLowLevelRewards,0 - 0,0
+Vesper,Венера,Spy,Corpus,CorpusSquadA,IntelMissionRewardsA,0 - 0,0
+Linea,Венера,Rescue,Corpus,CorpusSquadA,,0 - 0,0
+Aphrodite,Венера,Capture,Corpus,CorpusSquadA,CaptureMissionRewardsA,0 - 0,0
+Kiliken,Венера,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsEasy,0 - 0,0
+Tessera,Венера,Sabotage,Corpus,CorpusSquadA,,0 - 0,0
+Fossa,Венера,Assassination,Corpus,CorpusSquadA,RhinoRewards,0 - 0,0
+Venera,Венера,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsEasy,0 - 0,0
+Unda,Венера,Spy,Corpus,CorpusSquadA,IntelMissionRewardsA,0 - 0,0
+Cambria,Земля,Survival,Grineer,ForestGrineerSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Everest,Земля,Extermination,Grineer,ForestGrineerSquadOne,,0 - 0,0
+Mariana,Земля,Sabotage,Grineer,ForestGrineerSquadOne,ForestSabotageRewards,0 - 0,0
+Lith,Земля,Defense,Grineer,GrineerDefenseForest,DefenseMissionRewardsEasy,0 - 0,0
+Mantle,Земля,Capture,Grineer,ForestGrineerSquadOne,CaptureMissionRewardsA,0 - 0,0
+Pacific,Земля,Capture,Grineer,ForestGrineerSquadOne,CaptureMissionRewardsA,0 - 0,0
+Lua,Земля,Defense,Grineer,GrineerDefenseForest,DefenseMissionRewardsEasy,0 - 0,0
+Oro,Земля,Sabotage,Grineer,ForestGrineerSquadOne,ForestSabotageRewards,0 - 0,0
+Eurasia,Земля,Extermination,Grineer,ForestGrineerSquadOne,,0 - 0,0
+Gaia,Земля,Interception,Grineer,ForestGrineerTerritoriesOne,InterceptionMissionRewardsEasy,0 - 0,0
+E Prime,Земля,Extermination,Grineer,ForestGrineerSquadOne,,0 - 0,0
+Arcadia,Марс,Survival,Corpus,CorpusSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Hellas,Марс,Mobile Defense,Corpus,CorpusSquadB,,0 - 0,0
+Ares,Марс,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA,0 - 0,0
+Tharsis,Марс,Sabotage,Corpus,CorpusSquadA,,0 - 0,0
+Vallis,Марс,Rescue,Corpus,CorpusSquadC,RescueMissionRewardsEasy,0 - 0,0
+Olympus,Марс,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsMedium,0 - 0,0
+Arval,Марс,Extermination,Corpus,CorpusSquadC,,0 - 0,0
+Alator,Марс,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA,0 - 0,0
+Silvanus,Марс,Extermination,Corpus,CorpusSquadD,,0 - 0,0
+Augustus,Марс,Interception,Corpus,CorpusSquadB,InterceptionMissionRewardsMedium,0 - 0,0
+Ara,Марс,Survival,Corpus,CorpusSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Ultor,Марс,Extermination,Corpus,CorpusSquadD,,0 - 0,0
+Spear,Марс,Spy,Corpus,CorpusSquadC,IntelMissionRewardsA,0 - 0,0
+Martialis,Марс,Spy,Corpus,CorpusSquadC,IntelMissionRewardsA,0 - 0,0
+War,Марс,Assassination,Corpus,CorpusSquadA,MagRewards,0 - 0,0
+Gradivus,Марс,Sabotage,Corpus,CorpusSquadA,,0 - 0,0
+Quirinus,Марс,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA,0 - 0,0
+Metis,Юпітер,Capture,Corpus,CorpusSquadD,,0 - 0,0
+Adrastea,Юпітер,Extermination,Corpus,CorpusSquadD,,0 - 0,0
+Amalthea,Юпітер,Sabotage,Corpus,CorpusSquadD,,0 - 0,0
+Thebe,Юпітер,Deception,Corpus,CorpusSquadD,,0 - 0,0
+Io,Юпітер,Defense,Corpus,CorpusSquadDefenseB,DefenseMissionRewardsEasy,0 - 0,0
+Elara,Юпітер,Survival,Corpus,CorpusSurvivalB,SurvivalMidLevelRewards,0 - 0,0
+Ganymede,Юпітер,Extermination,Corpus,CorpusSquadD,,0 - 0,0
+Callisto,Юпітер,Interception,Corpus,CorpusSquadDefenseB,InterceptionMissionRewardsEasy,0 - 0,0
+Themisto,Юпітер,Assassination,Corpus,CorpusSquadD,BerserkerRewards,0 - 0,0
+Carpo,Юпітер,Extermination,Corpus,CorpusSquadD,,0 - 0,0
+Carme,Юпітер,Mobile Defense,Corpus,CorpusSquadD,,0 - 0,0
+Ananke,Юпітер,Capture,Corpus,CorpusSquadD,CaptureMissionRewardsA,0 - 0,0
+Helene,Сатурн,Defense,Grineer,GrineerDefenseA,DefenseMissionRewardsMedium,0 - 0,0
+Titan,Сатурн,Sabotage,Grineer,GrineerSquadTwo,,0 - 0,0
+Dione,Сатурн,Sabotage,Grineer,GrineerSquadThree,,0 - 0,0
+Enceladus,Сатурн,Capture,Grineer,GrineerSquadThree,CaptureMissionRewardsA,0 - 0,0
+Epimetheus,Сатурн,Deception,Grineer,GrineerSquadFour,,0 - 0,0
+Hyperion,Сатурн,Extermination,Grineer,GrineerSquadSix,,0 - 0,0
+Iapetus,Сатурн,Interception,Grineer,GrineerSquadFive,InterceptRewardsGrineer,0 - 0,0
+Janus,Сатурн,Extermination,Grineer,GrineerSquadOne,,0 - 0,0
+Mimas,Сатурн,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Phoebe,Сатурн,Capture,Grineer,GrineerSquadThree,CaptureMissionRewardsA,0 - 0,0
+Rhea,Сатурн,Sabotage,Grineer,GrineerSquadThree,,0 - 0,0
+Tethys,Сатурн,Assassination,Grineer,GrineerSquadFour,EmberRewards,0 - 0,0
+Keeler,Сатурн,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Aegaeon,Сатурн,Extermination,Grineer,GrineerSquadTwo,,0 - 0,0
+Numa,Сатурн,Rescue,Grineer,GrineerSquadFive,RescueMissionRewardsEasy,0 - 0,0
+Cassini,Сатурн,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Methone,Сатурн,Deception,Grineer,GrineerSquadThree,,0 - 0,0
+Anthe,Сатурн,Rescue,Grineer,GrineerSquadFour,,0 - 0,0
+Pallene,Сатурн,Sabotage,Grineer,GrineerSquadFive,,0 - 0,0
+Telesto,Сатурн,Extermination,Grineer,GrineerSquadSix,,0 - 0,0
+Calypso,Сатурн,Capture,Grineer,GrineerSquadThree,CaptureMissionRewardsA,0 - 0,0
+Miranda,Уран,Defense,Grineer,GrineerDefenseA,DefenseMissionRewardsMedium,0 - 0,0
+Ariel,Уран,Sabotage,Grineer,GrineerSquadTwo,,0 - 0,0
+Umbriel,Уран,Spy,Grineer,GrineerSquadFour,IntelMissionRewardsA,0 - 0,0
+Titania,Уран,Assassination,Grineer,GrineerSquadFour,AshRewards,0 - 0,0
+Oberon,Уран,Extermination,Grineer,GrineerSquadThree,,0 - 0,0
+Cordelia,Уран,Extermination,Grineer,GrineerSquadFive,,0 - 0,0
+Ophelia,Уран,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Bianca,Уран,Defense,Grineer,GrineerDefenseA,DefenseMissionRewardsMedium,0 - 0,0
+Cressida,Уран,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Desdemona,Уран,Capture,Grineer,GrineerSquadTwo,CaptureMissionRewardsA,0 - 0,0
+Juliet,Уран,Deception,Grineer,GrineerSquadSix,,0 - 0,0
+Portia,Уран,Sabotage,Grineer,GrineerSquadOne,,0 - 0,0
+Rosalind,Уран,Spy,Grineer,GrineerSquadFour,IntelMissionRewardsA,0 - 0,0
+Cupid,Уран,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Setebos,Уран,Sabotage,Grineer,GrineerSquadTwo,,0 - 0,0
+Perdita,Уран,Deception,Grineer,GrineerSquadSix,,0 - 0,0
+Puck,Уран,Extermination,Grineer,GrineerSquadOne,,0 - 0,0
+Mab,Уран,Rescue,Grineer,GrineerSquadFour,RescueMissionRewardsMedium,0 - 0,0
+Prospero,Уран,Sabotage,Grineer,GrineerSquadTwo,,0 - 0,0
+Caliban,Уран,Rescue,Grineer,GrineerSquadFive,,0 - 0,0
+Stephano,Уран,Interception,Grineer,GrineerDefenseA,InterceptionMissionRewardsMedium,0 - 0,0
+Trinculo,Уран,Capture,Grineer,GrineerSquadThree,,0 - 0,0
+Sycorax,Уран,Extermination,Grineer,GrineerSquadOne,,0 - 0,0
+Naiad,Нептун,Deception,Corpus,CorpusSquadC,,0 - 0,0
+Thalassa,Нептун,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsHard,0 - 0,0
+Despina,Нептун,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsHard,0 - 0,0
+Galatea,Нептун,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA,0 - 0,0
+Larissa,Нептун,Mobile Defense,Corpus,CorpusSquadA,,0 - 0,0
+Proteus,Нептун,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsHard,0 - 0,0
+Triton,Нептун,Survival,Corpus,CorpusSurvivalA,SurvivalHighLevelRewards,0 - 0,0
+Nereid,Нептун,Rescue,Corpus,CorpusSquadC,RescueMissionRewardsHard,0 - 0,0
+Halimede,Нептун,Sabotage,Corpus,CorpusSquadC,,0 - 0,0
+Sao,Нептун,Deception,Corpus,CorpusSquadA,,0 - 0,0
+Laomedeia,Нептун,Spy,Corpus,CorpusSquadB,IntelMissionRewardsA,0 - 0,0
+Neso,Нептун,Extermination,Corpus,CorpusSquadB,,0 - 0,0
+Psamathe,Нептун,Assassination,Corpus,CorpusSquadA,LokiRewards,0 - 0,0
+Minthe,Плутон,Mobile Defense,Corpus,CorpusSquadA,,0 - 0,0
+Hades,Плутон,Assassination,Corpus,CorpusSquadA,ExcaliburRewards,0 - 0,0
+Charon,Плутон,Sabotage,Corpus,CorpusSquadB,,0 - 0,0
+Outer Terminus,Плутон,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsHard,0 - 0,0
+Hydra,Плутон,Capture,Corpus,CorpusSquadA,CaptureMissionRewardsA,0 - 0,0
+Acheron,Плутон,Extermination,Corpus,CorpusSquadB,,0 - 0,0
+Regna,Плутон,Rescue,Corpus,CorpusSquadC,,0 - 0,0
+Narcissus,Плутон,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsHard,0 - 0,0
+Cypress,Плутон,Sabotage,Corpus,CorpusSquadA,,0 - 0,0
+Cerberus,Плутон,Interception,Corpus,CorpusSquadA,InterceptionMissionRewardsHard,0 - 0,0
+Oceanum,Плутон,Spy,Corpus,CorpusSquadC,IntelMissionRewardsA,0 - 0,0
+Palus,Плутон,Survival,Corpus,CorpusSurvivalA,SurvivalHighLevelRewards,0 - 0,0
+Nix,Плутон,Deception,Corpus,CorpusSquadC,,0 - 0,0
+Pallas,Церера,Sabotage,Grineer,GrineerShipyardsA,,0 - 0,0
+Bode,Церера,Capture,Grineer,GrineerShipyardsA,,0 - 0,0
+Vedic,Церера,Extermination,Grineer,GrineerShipyardsA,,0 - 0,0
+Varro,Церера,Defense,Grineer,GrineerShipyardsDefenseA,DefenseMissionRewardsHard,0 - 0,0
+Thon,Церера,Sabotage,Grineer,GrineerShipyardsA,,0 - 0,0
+Olla,Церера,Rescue,Grineer,GrineerShipyardsA,,0 - 0,0
+Nuovo,Церера,Survival,Grineer,GrineerShipyardsSurvivalA,SurvivalHighLevelRewards,0 - 0,0
+Ludi,Церера,Extermination,Grineer,GrineerShipyardsA,,0 - 0,0
+Lex,Церера,Spy,Grineer,GrineerSquadFour,,0 - 0,0
+Kiste,Церера,Mobile Defense,Grineer,GrineerShipyardsA,,0 - 0,0
+Ker,Церера,Deception,Grineer,CorpusGrineerMix,,0 - 0,0
+Hapke,Церера,Capture,Grineer,GrineerShipyardsA,,0 - 0,0
+Gefion,Церера,MT_RETRIEVAL,Grineer,GrineerShipyardsA,,0 - 0,0
+Exta,Церера,Assassination,Grineer,GrineerShipyardsA,FrostRewards,0 - 0,0
+Egeria,Церера,Survival,Grineer,GrineerShipyardsSurvivalA,SurvivalHighLevelRewards,0 - 0,0
+Draco,Церера,Interception,Grineer,GrineerSquadFour,InterceptionMissionRewardsHard,0 - 0,0
+Cinxia,Церера,Rescue,Grineer,GrineerShipyardsA,RescueMissionRewardsHard,0 - 0,0
+Cerium,Церера,MT_RETRIEVAL,Grineer,GrineerShipyardsA,,0 - 0,0
+Casta,Церера,Defense,Grineer,GrineerShipyardsDefenseA,DefenseMissionRewardsHard,0 - 0,0
+Albedo,Церера,Deception,Grineer,CorpusGrineerMix,,0 - 0,0
+Acanth,Ерида,Extermination,Corpus,CorpusSquadA,,0 - 0,0
+Ascar,Ерида,Spy,Corpus,CorpusSquadB,IntelMissionRewardsA,0 - 0,0
+Brugia,Ерида,Rescue,Corpus,CorpusSquadC,RescueMissionRewardsMedium,0 - 0,0
+Candiru,Ерида,Sabotage,Corpus,CorpusSquadA,,0 - 0,0
+Cosis,Ерида,Capture,Corpus,CorpusSquadA,CaptureMissionRewardsA,0 - 0,0
+Cyath,Ерида,Mobile Defense,Corpus,CorpusSquadA,,0 - 0,0
+Giardia,Ерида,Spy,Corpus,CorpusSquadB,IntelMissionRewardsA,0 - 0,0
+Gnathos,Ерида,Defense,Corpus,CorpusSquadDefenseA,MissionRewardsCorpus,0 - 0,0
+Lepis,Ерида,Sabotage,Corpus,CorpusSquadC,,0 - 0,0
+Histo,Ерида,Extermination,Corpus,CorpusSquadA,,0 - 0,0
+Hymeno,Ерида,Survival,Corpus,CorpusSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Isos,Ерида,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA,0 - 0,0
+Ixodes,Ерида,Defense,Corpus,CorpusSquadDefenseA,MissionRewardsCorpus,0 - 0,0
+Kala-azar,Ерида,Defense,Corpus,CorpusSquadDefenseA,MissionRewardsCorpus,0 - 0,0
+Naeglar,Ерида,Extermination,Corpus,CorpusSquadC,,0 - 0,0
+Nimus,Ерида,Survival,Corpus,CorpusSurvivalA,SurvivalHighLevelRewards,0 - 0,0
+Oestrus,Ерида,Deception,Corpus,CorpusSquadC,,0 - 0,0
+Phalan,Ерида,Survival,Corpus,CorpusSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Psoro,Ерида,Sabotage,Corpus,CorpusSquadB,,0 - 0,0
+Ranova,Ерида,Rescue,Corpus,CorpusSquadA,,0 - 0,0
+Saxis,Ерида,Extermination,Corpus,CorpusSquadB,,0 - 0,0
+Xini,Ерида,Defense,Corpus,CorpusSquadDefenseA,MissionRewardsCorpus,0 - 0,0
+Solium,Ерида,Deception,Corpus,CorpusSquadC,,0 - 0,0
+Sparga,Ерида,Rescue,Corpus,CorpusSquadB,,0 - 0,0
+Sporid,Ерида,Sabotage,Corpus,CorpusSquadA,,0 - 0,0
+Viver,Ерида,Interception,Corpus,CorpusSquadDefenseA,InterceptionMissionRewardsHard,0 - 0,0
+Kappa,Седна,Mobile Defense,Grineer,GrineerSquadSix,,0 - 0,0
+Hyosube,Седна,Sabotage,Grineer,GrineerSquadSix,,0 - 0,0
+Jengu,Седна,Rescue,Grineer,GrineerSquadSix,,0 - 0,0
+Undine,Седна,Sabotage,Grineer,GrineerSquadTwo,CaptureMissionRewardsA,0 - 0,0
+Adaro,Седна,Extermination,Grineer,GrineerSquadSix,,0 - 0,0
+Camenae,Седна,Defense,Grineer,GrineerDefenseA,DefenseMissionRewardsMedium,0 - 0,0
+Vodyanoi,Седна,Mobile Defense,Grineer,GrineerSquadOne,,0 - 0,0
+Rusalka,Седна,Deception,Grineer,GrineerSquadSix,,0 - 0,0
+Berehynia,Седна,Interception,Grineer,GrineerSurvivalA,InterceptionMissionRewardsMedium,0 - 0,0
+Phithale,Седна,Sabotage,Grineer,GrineerSquadFour,,0 - 0,0
+Selkie,Седна,Survival,Grineer,GrineerSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Kelpie,Седна,Sabotage,Grineer,GrineerSquadFive,,0 - 0,0
+Naga,Седна,Rescue,Grineer,GrineerSquadSix,,0 - 0,0
+Nakki,Седна,Sabotage,Grineer,GrineerSquadSix,,0 - 0,0
+Marid,Седна,Extermination,Grineer,GrineerSquadSix,,0 - 0,0
+Tikoloshe,Седна,Spy,Grineer,GrineerSquadSix,,0 - 0,0
+Merrow,Седна,Assassination,Grineer,GrineerSquadFive,SarynRewards,0 - 0,0
+Ponaturi,Седна,Deception,Grineer,GrineerSquadFour,,0 - 0,0
+Hydron,Седна,Defense,Grineer,GrineerDefenseA,DefenseMissionRewardsMedium,0 - 0,0
+Charybdis,Седна,Deception,Grineer,GrineerSquadSix,,0 - 0,0
+Graeae,Седна,Mobile Defense,Grineer,GrineerSquadThree,,0 - 0,0
+Scylla,Седна,Spy,Grineer,GrineerSquadSix,,0 - 0,0
+Yam,Седна,Sabotage,Grineer,GrineerSquadSix,,0 - 0,0
+Veles,Седна,Rescue,Grineer,GrineerSquadSix,,0 - 0,0
+Tiamat,Седна,Capture,Grineer,GrineerSquadSix,CaptureMissionRewardsA,0 - 0,0
+Yemaja,Седна,Survival,Grineer,GrineerSurvivalA,SurvivalHighLevelRewards,0 - 0,0
+Abaddon,Європа,Capture,Corpus,CorpusSquadA,CaptureMissionRewardsA,0 - 0,0
+Armaros,Європа,Interception,Corpus,CorpusSquadA,InterceptionMissionRewardsMedium,0 - 0,0
+Baal,Європа,Mobile Defense,Corpus,CorpusSquadC,,0 - 0,0
+Eligor,Європа,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsMedium,0 - 0,0
+Gamygyn,Європа,Spy,Corpus,CorpusSquadC,IntelMissionRewardsA,0 - 0,0
+Lillith,Європа,Survival,Corpus,CorpusSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Morax,Європа,Spy,Corpus,CorpusSquadB,IntelMissionRewardsA,0 - 0,0
+Naamah,Європа,Assassination,Corpus,CorpusSquadA,NovaRewards,0 - 0,0
+Ose,Європа,Survival,Corpus,CorpusSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Paimon,Європа,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsMedium,0 - 0,0
+Shax,Європа,Rescue,Corpus,CorpusSquadA,,0 - 0,0
+Sorath,Європа,Sabotage,Corpus,CorpusSquadA,,0 - 0,0
+Valac,Європа,Deception,Corpus,CorpusSquadC,,0 - 0,0
+Valefor,Європа,Defense,Corpus,CorpusSquadDefenseA,DefenseMissionRewardsMedium,0 - 0,0
+Orias,Європа,Spy,Corpus,CorpusSquadB,,0 - 0,0
+Zagan,Європа,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA,0 - 0,0
+Beleth,Європа,Capture,Corpus,CorpusSquadB,CaptureMissionRewardsA,0 - 0,0
+Kokabiel,Європа,Sabotage,Corpus,CorpusSquadA,,0 - 0,0
+Conclave,Сатурн,MT_PVP,Grineer,,,0 - 0,0
+Conclave,Венера,MT_PVP,Corrupted,,,0 - 0,0
+Conclave,Phobos,MT_PVP,Corrupted,,,0 - 0,0
+Conclave,Нептун,MT_PVP,Corpus,,,0 - 0,0
+Conclave,Ерида,MT_PVP,Corpus,,,0 - 0,0
+Conclave,Європа,MT_PVP,Corpus,,,0 - 0,0
+Conclave,Плутон,MT_PVP,Corpus,,,0 - 0,0
+Conclave,Седна,MT_PVP,Grineer,,,0 - 0,0
+Conclave,Юпітер,MT_PVP,Corpus,,,0 - 0,0
+Balor,Меркурій,Sabotage,Grineer,GrineerSquadSabotageEvent,,0 - 0,0
+Tethra,Венера,Sabotage,Grineer,GrineerSquadSabotageEvent,,0 - 0,0
+Tethra's Doom,Земля,Sabotage,Grineer,GrineerSquadSabotageEvent,,0 - 0,0
+Elatha,Марс,?,?,?,?,0 - 0,0
+Bres,Юпітер,?,?,?,?,0 - 0,0
+Birog,Сатурн,?,?,?,?,0 - 0,0
+Ethniu,Уран,?,?,?,?,0 - 0,0
+Buarainech,Нептун,?,?,?,?,0 - 0,0
+Corb,Плутон,?,?,?,?,0 - 0,0
+Conand,Церера,?,?,?,?,0 - 0,0
+Lugh,Ерида,?,?,?,?,0 - 0,0
+Nemed,Седна,?,?,?,?,0 - 0,0
+Neit,Європа,?,?,?,?,0 - 0,0
+Romula,Венера,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Malva,Венера,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsLowLevelRewards,0 - 0,0
+Roche,Phobos,Extermination,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Skyresh,Phobos,Deception,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Stickney,Phobos,Survival,Grineer,GrineerSettlementSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Drunlo,Phobos,Defense,Grineer,DesertGrineerDefenseA,DefenseMissionRewardsMedium,0 - 0,0
+Grildrig,Phobos,Rescue,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Limtoc,Phobos,Capture,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Hall,Phobos,Mobile Defense,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Reldresal,Phobos,Sabotage,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Clustril,Phobos,Extermination,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Kepler,Phobos,Defense,Grineer,DesertGrineerDefenseA,DefenseMissionRewardsMedium,0 - 0,0
+Gulliver,Phobos,Rescue,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Monolith,Phobos,Rescue,Grineer,DesertGrineerSquadOne,,0 - 0,0
+D'Arrest,Phobos,Sabotage,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Shklovsky,Phobos,Spy,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Sharpless,Phobos,Mobile Defense,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Wendell,Phobos,Survival,Grineer,GrineerSettlementSurvivalA,SurvivalMidLevelRewards,0 - 0,0
+Flimnap,Phobos,Deception,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Opik,Phobos,Interception,Grineer,DesertGrineerDefenseA,InterceptionMissionRewardsMedium,0 - 0,0
+Todd,Phobos,Capture,Grineer,DesertGrineerSquadOne,,0 - 0,0
+Iliad,Phobos,Assassination,Grineer,DesertGrineerSquadOne,MiterGremlinsRewards,0 - 0,0
+Vesper Relay,Венера,MT_PVP,Corrupted,,,0 - 0,0
+Strata Relay,Земля,MT_PVP,Corrupted,,,0 - 0,0
+Coba,Земля,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Tikal,Земля,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsLowLevelRewards,0 - 0,0
+Sinai,Юпітер,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Cameria,Юпітер,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsLowLevelRewards,0 - 0,0
+Larzac,Європа,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Cholistan,Європа,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsMidLevelRewards,0 - 0,0
+Kadesh,Марс,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Wahiba,Марс,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsLowLevelRewards,0 - 0,0
+Memphis,Phobos,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Zeugma,Phobos,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsMidLevelRewards,0 - 0,0
+Caracol,Сатурн,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Piscinas,Сатурн,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsLowLevelRewards,0 - 0,0
+Amarna,Седна,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsMidLevelRewards,0 - 0,0
+Sangeru,Седна,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Ur,Уран,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Assur,Уран,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsMidLevelRewards,0 - 0,0
+Akkad,Ерида,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Zabala,Ерида,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsHighLevelRewards,0 - 0,0
+Yursa,Нептун,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Kelashin,Нептун,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsHighLevelRewards,0 - 0,0
+Seimeni,Церера,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Gabii,Церера,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsHighLevelRewards,0 - 0,0
+Sechura,Плутон,Defense,Infestation,InfestedDefenseA,BadlandsDefenseMissionRewards,0 - 0,0
+Hieracon,Плутон,Survival,Infestation,InfestedSurvivalA,SurvivalBadlandsHighLevelRewards,0 - 0,0
+DerelictDefense,-,Defense,Infestation,InfestedDefenseA,DerelictDefenseRewards,? - ?,?
+DerelictCapture,-,Capture,Infestation,InfestedCorpusMixSquadA,,? - ?,?
+DerelictSurvival,-,Survival,Infestation,InfestedSurvivalA,DerelictSurvivalRewards,? - ?,?
+DerelictExterminate,-,Extermination,Infestation,InfestedGrineerMixSquadA,,? - ?,?
+DerelictAssassinate,-,Assassination,Infestation,InfestedSquadA,GolemMissionRewards,? - ?,?
+VoidExterminateT1,-,Extermination,Corrupted,OrokinSquadOne,OrokinExterminateRewardsA,? - ?,?
+VoidSurvivalT1,-,Survival,Corrupted,OrokinSurvivalA,OrokinSurvivalRewardsA,? - ?,?
+VoidExterminateT2,-,Extermination,Corrupted,OrokinSquadOne,OrokinExterminateRewardsB,? - ?,?
+VoidSurvivalT2,-,Survival,Corrupted,OrokinSurvivalA,OrokinSurvivalRewardsB,? - ?,?
+VoidExterminateT3,-,Extermination,Corrupted,OrokinSquadOne,OrokinExterminateRewardsC,? - ?,?
+VoidDefenseT1,-,Defense,Corrupted,OrokinDefenseSquad,OrokinDefenseRewardsA,? - ?,?
+VoidDefenseT2,-,Defense,Corrupted,OrokinDefenseSquad,OrokinDefenseRewardsB,? - ?,?
+VoidDefenseT3,-,Defense,Corrupted,OrokinDefenseSquad,OrokinDefenseRewardsC,? - ?,?
+VoidCaptureT1,-,Capture,Corrupted,OrokinSquadOne,OrokinCaptureRewardsA,? - ?,?
+VoidCaptureT2,-,Capture,Corrupted,OrokinSquadOne,OrokinCaptureRewardsB,? - ?,?
+VoidCaptureT3,-,Capture,Corrupted,OrokinSquadOne,OrokinCaptureRewardsC,? - ?,?
+VoidMobileDefenseT1,-,Mobile Defense,Corrupted,OrokinSquadOne,OrokinMobileDefenseRewardsA,? - ?,?
+VoidMobileDefenseT2,-,Mobile Defense,Corrupted,OrokinSquadOne,OrokinMobileDefenseRewardsB,? - ?,?
+VoidMobileDefenseT3,-,Mobile Defense,Corrupted,OrokinSquadOne,OrokinMobileDefenseRewardsC,? - ?,?
+VoidSurvivalT3,-,Survival,Corrupted,OrokinSurvivalA,OrokinSurvivalRewardsC,? - ?,?
+VoidCaptureT4,-,Capture,Corrupted,OrokinSquadOne,OrokinCaptureRewardsD,? - ?,?
+VoidDefenseT4,-,Defense,Corrupted,OrokinDefenseSquad,OrokinDefenseRewardsD,? - ?,?
+VoidExterminateT4,-,Extermination,Corrupted,OrokinSquadOne,OrokinExterminateRewardsD,? - ?,?
+VoidInterceptionT4,-,Interception,Corrupted,OrokinDefenseSquad,OrokinInterceptionRewardsD,? - ?,?
+VoidMobileDefenseT4,-,Mobile Defense,Corrupted,OrokinSquadOne,OrokinMobileDefenseRewardsD,? - ?,?
+VoidSurvivalT4,-,Survival,Corrupted,OrokinSurvivalA,OrokinSurvivalRewardsD,? - ?,?
