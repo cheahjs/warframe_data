@@ -1,4 +1,5 @@
 Name,Type
+Harrier Test,/Lotus/StoreItems/Characters/Tenno/JetPacks/HarrierSystem/TestHarrierWeapon
 Arid Fear Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearBronzeTrophyRecipe
 Arid Fear Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearGoldTrophyRecipe
 Arid Fear Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/AridFearSilverTrophyRecipe
@@ -173,6 +174,19 @@ Sturm Barracken Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tie
 Berg Barracken Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier4BarracksRecipe
 Mond Barracken Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier5BarracksRecipe
 Temple Of Honor Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/TrophyRoomRecipe
+Lasersalven-Pistole,/Lotus/StoreItems/Levels/MiniGames/Sentinel/Weapons/RadioSets/TwoDimRadioSetsWeapon
+Rail Core Blueprint,/Lotus/StoreItems/Levels/SectorWars/ComponentRecipes/SectorWarsExit01Recipe
+Data Relay Blueprint,/Lotus/StoreItems/Levels/SectorWars/ComponentRecipes/SectorWarsMid01Recipe
+Primary Generator Room Blueprint,/Lotus/StoreItems/Levels/SectorWars/ComponentRecipes/SectorWarsMid02Recipe
+Placeholder Blueprint,/Lotus/StoreItems/Levels/SectorWars/ComponentRecipes/SectorWarsMid03Recipe
+Secondary Generator Room Blueprint,/Lotus/StoreItems/Levels/SectorWars/ComponentRecipes/SectorWarsMid04Recipe
+Rail Docking Station Blueprint,/Lotus/StoreItems/Levels/SectorWars/ComponentRecipes/SectorWarsStart01Recipe
+Rail Loading Bay Blueprint,/Lotus/StoreItems/Levels/SectorWars/ComponentRecipes/SectorWarsStart02Recipe
+Specter Transporter,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpSpectreSpawnerRecipe
+Rai-Jin Cannon ,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretDecoRecipe
+Fu-Jin,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantADecoRecipe
+Su-Jin,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantBDecoRecipe
+Do-Jin,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantCDecoRecipe
 Void Carry,/Lotus/StoreItems/Powersuits/All/CarryAbilityCard
 Void Lure,/Lotus/StoreItems/Powersuits/All/LureAbilityCard
 Repel,/Lotus/StoreItems/Powersuits/All/RepelAbilityCard
@@ -211,6 +225,11 @@ Frost Prime,/Lotus/StoreItems/Powersuits/Frost/FrostPrime
 Snow Globe,/Lotus/StoreItems/Powersuits/Frost/IceShieldAbilityCard
 Ice Wave,/Lotus/StoreItems/Powersuits/Frost/IceSpikeAbilityCard
 Freeze,/Lotus/StoreItems/Powersuits/Frost/IcicleAbilityCard
+Mirage,/Lotus/StoreItems/Powersuits/Harlequin/Harlequin
+Hall Of Mirrors,/Lotus/StoreItems/Powersuits/Harlequin/IllusionAbilityCard
+Eclipse,/Lotus/StoreItems/Powersuits/Harlequin/LightAbilityCard
+Sleight Of Hand,/Lotus/StoreItems/Powersuits/Harlequin/ObjectChangeAbilityCard
+Prism,/Lotus/StoreItems/Powersuits/Harlequin/PrismAbilityCard
 Chaos,/Lotus/StoreItems/Powersuits/Jade/ChaosAbilityCard
 Psychic Bolts,/Lotus/StoreItems/Powersuits/Jade/DaggerAbilityCard
 Nyx,/Lotus/StoreItems/Powersuits/Jade/Jade
@@ -292,9 +311,32 @@ Adler-Mod-Paket,/Lotus/StoreItems/Types/BoosterPacks/RareArtifactPack
 Wolf Fusionspaket,/Lotus/StoreItems/Types/BoosterPacks/RareFusionPack
 Adler-Mod-Paket,/Lotus/StoreItems/Types/BoosterPacks/SingleCommonArtifact
 Adler-Mod-Paket,/Lotus/StoreItems/Types/BoosterPacks/SingleRareArtifact
-Stance Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/StanceModPack
 Falken-Mod-Paket,/Lotus/StoreItems/Types/BoosterPacks/UncommonArtifactPack
 Fuchs Fusionspaket,/Lotus/StoreItems/Types/BoosterPacks/UncommonFusionPack
+Latron,/Lotus/StoreItems/Types/Enemies/Sector/RifleWeapon
+Hunt,/Lotus/StoreItems/Types/Friendly/Pets/KubrowPetPrecepts/KubrowChargePrecept
+Stalk,/Lotus/StoreItems/Types/Friendly/Pets/KubrowPetPrecepts/KubrowCloakPrecept
+Dig,/Lotus/StoreItems/Types/Friendly/Pets/KubrowPetPrecepts/KubrowDigPrecept
+Howl,/Lotus/StoreItems/Types/Friendly/Pets/KubrowPetPrecepts/KubrowFearPrecept
+Protect,/Lotus/StoreItems/Types/Friendly/Pets/KubrowPetPrecepts/KubrowShieldPrecept
+Scavenge,/Lotus/StoreItems/Types/Friendly/Pets/KubrowPetPrecepts/KubrowThiefPrecept
+Unleashed,/Lotus/StoreItems/Types/Friendly/Pets/KubrowPetPrecepts/KubrowVipChasePrecept
+Kubrow Egg,/Lotus/StoreItems/Types/Game/KubrowPet/Eggs/KubrowEgg
+Kubrow Egg,/Lotus/StoreItems/Types/Game/KubrowPet/Eggs/KubrowPetEggItem
+Kubrow Egg,/Lotus/StoreItems/Types/Game/KubrowPet/Eggs/KubrowRandomizerEgg
+Kubrow Egg,/Lotus/StoreItems/Types/Game/KubrowPet/Eggs/KubrowTestEgg
+Sahasa Kubrow,/Lotus/StoreItems/Types/Game/KubrowPet/AdventurerKubrowPetPowerSuit
+Genetic Code Template,/Lotus/StoreItems/Types/Game/KubrowPet/BlankTraitPrint
+Incubator Power Core,/Lotus/StoreItems/Types/Game/KubrowPet/EggHatcher
+Huras Kubrow,/Lotus/StoreItems/Types/Game/KubrowPet/FurtiveKubrowPetPowerSuit
+Raksa Kubrow,/Lotus/StoreItems/Types/Game/KubrowPet/GuardKubrowPetPowerSuit
+Sunika Kubrow,/Lotus/StoreItems/Types/Game/KubrowPet/HunterKubrowPetPowerSuit
+/Lotus/Language/Items/Imprintedtraitprintname,/Lotus/StoreItems/Types/Game/KubrowPet/ImprintedTraitPrint
+Nai-Zhen Collar,/Lotus/StoreItems/Types/Game/KubrowPet/KubrowPetCollarItem
+Dna Stabilizer Kit,/Lotus/StoreItems/Types/Game/KubrowPet/KubrowPetFood
+Dna Stabilizer Kit,/Lotus/StoreItems/Types/Game/KubrowPet/KubrowPetFoodRecipe
+Kubrow,/Lotus/StoreItems/Types/Game/KubrowPet/KubrowPetPowerSuit
+Kubrow,/Lotus/StoreItems/Types/Game/KubrowPet/KubrowPetRecipe
 Solar Rail - Tower Class,/Lotus/StoreItems/Types/Game/SolarRails/BasicSolarRail
 Solar Rail - Tower Class Blueprint,/Lotus/StoreItems/Types/Game/SolarRails/BasicSolarRailBlueprint
 Vapor Specter Regiment,/Lotus/StoreItems/Types/Game/SpectreArmies/BronzeSpectreArmy
@@ -308,6 +350,7 @@ Phase Specter Regiment Blueprint,/Lotus/StoreItems/Types/Game/SpectreArmies/Silv
 ,/Lotus/StoreItems/Types/Game/DojoDecorationRecipeItem
 ,/Lotus/StoreItems/Types/Game/DojoRecipeItem
 Irgendeine,/Lotus/StoreItems/Types/Game/LotusWeapon
+Irgendeine,/Lotus/StoreItems/Types/Game/LotusWeapon2D
 Warframe,/Lotus/StoreItems/Types/Game/PlayerPowerSuit
 ,/Lotus/StoreItems/Types/Game/RecipeItem
 Orokin Void Key,/Lotus/StoreItems/Types/Game/VoidKeyItem
@@ -322,6 +365,7 @@ Ferrit,/Lotus/StoreItems/Types/Items/MiscItems/Ferrite
 Forma,/Lotus/StoreItems/Types/Items/MiscItems/Forma
 Gallium,/Lotus/StoreItems/Types/Items/MiscItems/Gallium
 Vay Hek Nav Coordinate [Obsolete??],/Lotus/StoreItems/Types/Items/MiscItems/HekNavCode
+Orokin Cipher,/Lotus/StoreItems/Types/Items/MiscItems/MirageCode
 Morphide,/Lotus/StoreItems/Types/Items/MiscItems/Morphic
 Nanosporen,/Lotus/StoreItems/Types/Items/MiscItems/Nanospores
 Nav Coordinate,/Lotus/StoreItems/Types/Items/MiscItems/NavCode
@@ -333,8 +377,10 @@ Orokin-Reaktor,/Lotus/StoreItems/Types/Items/MiscItems/OrokinReactor
 Oxium,/Lotus/StoreItems/Types/Items/MiscItems/OxiumAlloy
 Plastide,/Lotus/StoreItems/Types/Items/MiscItems/Plastids
 Polymerbündel,/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle
+Polymerbündel,/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundleRaidTutorial
 Rubedo,/Lotus/StoreItems/Types/Items/MiscItems/Rubedo
 Bergungsgut,/Lotus/StoreItems/Types/Items/MiscItems/Salvage
+Bergungsgut,/Lotus/StoreItems/Types/Items/MiscItems/SalvageRaidTutorial
 Delta Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentA
 Gamma Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentB
 Kappa Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentC
@@ -358,6 +404,43 @@ Corpus Datamass,/Lotus/StoreItems/Types/Items/Research/DataMassPlus
 Fieldron,/Lotus/StoreItems/Types/Items/Research/EnergyComponent
 Fieldron Blueprint,/Lotus/StoreItems/Types/Items/Research/EnergyComponentBlueprint
 Fieldron Probe,/Lotus/StoreItems/Types/Items/Research/EnergyFragment
+Alerts Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/AlertsFeatureItem
+Arsenal Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/ArsenalFeatureItem
+Ceres Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/CeresNavigationFeatureItem
+Clan Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/ClanFeatureItem
+Earth Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/EarthNavigationFeatureItem
+Eris Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/ErisNavigationFeatureItem
+Europa Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/EuropaNavigationFeatureItem
+Foundry Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/FoundryFeatureItem
+Incubator Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/GeneticFoundryFeatureItem
+Jupiter Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/JupiterNavigationFeatureItem
+Market Tier 1 Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/MarketTierOneFeatureItem
+Market Tier 2 Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/MarketTierTwoFeatureItem
+Mars Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/MarsNavigationFeatureItem
+Mercury Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/MercuryNavigationFeatureItem
+Mods Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/ModsFeatureItem
+Mod Fusion Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/ModsFusionFeatureItem
+Mod Transmute Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/ModsTransmuteFeatureItem
+Neptune Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/NeptuneNavigationFeatureItem
+Phobos Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/PhobosNavigationFeatureItem
+Pluto Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/PlutoNavigationFeatureItem
+Saturn Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/SaturnNavigationFeatureItem
+Sedna Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/SednaNavigationFeatureItem
+,/Lotus/StoreItems/Types/Items/ShipFeatureItems/ShipFeatureItem
+Comms Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/SocialMenuFeatureItem
+Solar Chart Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/SolarChartFeatureItem
+Uranus Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/UranusNavigationFeatureItem
+Venus Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/VenusNavigationFeatureItem
+,/Lotus/StoreItems/Types/Items/NavigationFeatureItem
+Howl Of The Kubrow,/Lotus/StoreItems/Types/Keys/KubrowQuest/KubrowQuestKeyChain
+Howl Of The Kubrow,/Lotus/StoreItems/Types/Keys/KubrowQuest/KubrowQuestKeyChainT
+Acquire The Incubator Segment,/Lotus/StoreItems/Types/Keys/KubrowQuest/MissionOne
+Defend Your Kubrow In Combat,/Lotus/StoreItems/Types/Keys/KubrowQuest/MissionThree
+Find A Kubrow Egg In Feral Kubrow Dens,/Lotus/StoreItems/Types/Keys/KubrowQuest/MissionTwo
+Hidden Messages,/Lotus/StoreItems/Types/Keys/MirageQuest/MirageQuestKeyChain
+Find The Mirage Warframe Helmet,/Lotus/StoreItems/Types/Keys/MirageQuest/MissionOne
+Find The Mirage Warframe Chassis,/Lotus/StoreItems/Types/Keys/MirageQuest/MissionThree
+Find The Mirage Warframe Systems,/Lotus/StoreItems/Types/Keys/MirageQuest/MissionTwo
 Tower Iv Capture,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerCaptureTier4Key
 Tower Iv Defense,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerDefenseTier4Key
 Tower Iv Exterminate,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerExterminateTier4Key
@@ -373,6 +456,13 @@ Survivaloutpostinf,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalOutpostInf
 Survivalshipcrp,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalShipCrp
 Survivalshipinf,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalShipInf
 Survivalvoidoro,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalVoidOro
+Obtain The Mercury Nav Segment,/Lotus/StoreItems/Types/Keys/VorsPrize/MissionFive
+Raid The Corpus Resource Caches,/Lotus/StoreItems/Types/Keys/VorsPrize/MissionFour
+Restore Ship Comms,/Lotus/StoreItems/Types/Keys/VorsPrize/MissionOne
+Confront Captain Vor,/Lotus/StoreItems/Types/Keys/VorsPrize/MissionSix
+Locate The Foundry Segment,/Lotus/StoreItems/Types/Keys/VorsPrize/MissionThree
+Liberate The Imprisoned Arms Dealer,/Lotus/StoreItems/Types/Keys/VorsPrize/MissionTwo
+Vor's Prize,/Lotus/StoreItems/Types/Keys/VorsPrize/VorsPrizeQuestKeyChain
 Corpus Void Key,/Lotus/StoreItems/Types/Keys/CorpusCaptureKey
 Orokin Derelict Capture,/Lotus/StoreItems/Types/Keys/DerelictCaptureKey
 Orokin Derelict Capture Blueprint,/Lotus/StoreItems/Types/Keys/DerelictCaptureKeyBlueprint
@@ -388,6 +478,7 @@ Clanschlüssel,/Lotus/StoreItems/Types/Keys/DojoKey
 Clanschlüssel Blueprint,/Lotus/StoreItems/Types/Keys/DojoKeyBlueprint
 Orokin Derelict Assassinate Blueprint,/Lotus/StoreItems/Types/Keys/GolemKeyBlueprint
 Breeding Grounds,/Lotus/StoreItems/Types/Keys/InfestedCorpusHiveEventKey
+Hidden Messages Blueprint,/Lotus/StoreItems/Types/Keys/MirageQuestKeyBlueprint
 Tethra Shield Cipher,/Lotus/StoreItems/Types/Keys/NightmareKeyShipyardsRetrieval
 Tethra Shield Cipher Blueprint,/Lotus/StoreItems/Types/Keys/NightmareRetrievalKeyBlueprint
 Turm Gefangennahme,/Lotus/StoreItems/Types/Keys/OrokinCaptureKeyA
@@ -408,13 +499,10 @@ Tower Iii Survival,/Lotus/StoreItems/Types/Keys/OrokinTowerSurvivalT3Key
 Template Quest Mission 1,/Lotus/StoreItems/Types/Keys/QuestKeyA
 Template Quest Mission 2,/Lotus/StoreItems/Types/Keys/QuestKeyB
 Template Quest Mission 3,/Lotus/StoreItems/Types/Keys/QuestKeyC
-Quest A,/Lotus/StoreItems/Types/Keys/QuestKeyChainA
-Quest B,/Lotus/StoreItems/Types/Keys/QuestKeyChainB
-Quest C,/Lotus/StoreItems/Types/Keys/QuestKeyChainC
-Quest D,/Lotus/StoreItems/Types/Keys/QuestKeyChainD
 Tethra Cipher Blueprint,/Lotus/StoreItems/Types/Keys/RetrievalKeyBlueprint
 Turm Auslöschung,/Lotus/StoreItems/Types/Keys/SettlementTestKey
 Defense Test Key,/Lotus/StoreItems/Types/Keys/TestKeyA
+Testattackdefend,/Lotus/StoreItems/Types/Keys/TestKeyAttackDefend
 Survival Test Key,/Lotus/StoreItems/Types/Keys/TestKeyB
 Derelict Exterminate Test Key,/Lotus/StoreItems/Types/Keys/TestKeyC
 Corpus Outpost Rescue (Medium),/Lotus/StoreItems/Types/Keys/TestKeyCorpusOutpostRescueMed
@@ -425,6 +513,7 @@ Corpus Ship Rescue (Nightmare),/Lotus/StoreItems/Types/Keys/TestKeyCorpusShipRes
 Operation Clean Up Jupiter Test,/Lotus/StoreItems/Types/Keys/TestKeyCorpusToCorpusInfested
 For The Corpus!!,/Lotus/StoreItems/Types/Keys/TestKeyCorpusToGrineerTeleport
 Event Exterminate,/Lotus/StoreItems/Types/Keys/TestKeyEventExterminate
+Event Exterminate Two,/Lotus/StoreItems/Types/Keys/TestKeyEventExterminateTwo
 Vay Hek Assassinate,/Lotus/StoreItems/Types/Keys/TestKeyForestBoss
 Forest Capture,/Lotus/StoreItems/Types/Keys/TestKeyForestCapture
 Forest Defense,/Lotus/StoreItems/Types/Keys/TestKeyForestEndlessDefense
@@ -445,7 +534,10 @@ Gas Capture Test,/Lotus/StoreItems/Types/Keys/TestKeyGasSurvival
 Grineer Galleon Boss Test,/Lotus/StoreItems/Types/Keys/TestKeyGrineerGalleonBoss
 Ruk Ruk Ruk!,/Lotus/StoreItems/Types/Keys/TestKeyGrineerToCorpusTorpedo
 Hyena Pack Assassinate,/Lotus/StoreItems/Types/Keys/TestKeyHyenaPack
+J3 Golem Assassinate Test,/Lotus/StoreItems/Types/Keys/TestKeyInfested
+Breeding Grounds,/Lotus/StoreItems/Types/Keys/TestKeyInfestedCorpusHive
 Kubrow Test,/Lotus/StoreItems/Types/Keys/TestKeyKubrow
+Forest Defense,/Lotus/StoreItems/Types/Keys/TestKeyKubrowDefense
 Test Orokin Sabotage I,/Lotus/StoreItems/Types/Keys/TestKeyOrokinSabotageOne
 Testsectorwars,/Lotus/StoreItems/Types/Keys/TestKeySectorWars
 Shipyards Boss Test,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsBoss
@@ -480,6 +572,8 @@ Orokin-Beschleuniger Blueprint,/Lotus/StoreItems/Types/Recipes/Components/Orokin
 Orokin-Reaktor Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinReactorBlueprint
 Cosmic Specter Blueprint,/Lotus/StoreItems/Types/Recipes/Components/PlatinumSpectreBlueprint
 Phase Specter x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/SilverSpectreBlueprint
+Ascaris Negator Blueprint,/Lotus/StoreItems/Types/Recipes/Components/VorBoltRemoverBlueprint
+Ascaris Negator,/Lotus/StoreItems/Types/Recipes/Components/VorBoltRemoverFakeItem
 Titan Extractor Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Drones/AdvancedResourceDroneBlueprint
 Distilling Extractor Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Drones/AdvancedUcResourceDroneBlueprint
 Titan Extractor Blueprint,/Lotus/StoreItems/Types/Recipes/Drones/BasicResourceDroneBlueprint
@@ -516,6 +610,7 @@ Storm Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/Conver
 Arcane Phoenix Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/EmberAltHelmetBlueprint
 Arcane Avalon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ExcaliburAltHelmetBlueprint
 Arcane Aurora Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/FrostAltHelmetBlueprint
+Arcane Scorpion Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/HarlequinAltHelmetBlueprint
 Arcane Essence Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LokiAltHelmetBlueprint
 Arcane Coil Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/MagAltHelmetBlueprint
 Raknis Nekros Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NekrosAraknidHelmetBlueprint
@@ -525,6 +620,7 @@ Quantum Nova Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NovaQuantu
 Arcane Menticide Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NyxAltHelmetBlueprint
 Markhor Oberon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/OberonAltBHelmetBlueprint
 Oryx Oberon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/OberonAltHelmetBlueprint
+Ketos Hydroid Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/PirateAltBHelmetBlueprint
 Triton Hydroid Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/PirateAltHelmetBlueprint
 Arcane Thrak Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/RhinoAltHelmetBlueprint
 Arcane Hemlock Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/SarynAltHelmetBlueprint
@@ -574,6 +670,9 @@ Bastet Valkyr Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ValkyrBas
 Arcane Esprit Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/VaubanAltHelmetBlueprint
 Arcane Storm Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/VoltAltHelmetBlueprint
 Cierzo Zephyr Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ZephyrCierzoHelmetBlueprint
+Tengu Zephyr Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ZephyrTenguHelmetBlueprint
+Genetic Code Template Blueprint,/Lotus/StoreItems/Types/Recipes/Kubrow/BlankTraitPrintBlueprint
+Incubator Power Core Blueprint,/Lotus/StoreItems/Types/Recipes/Kubrow/EggHatcherBlueprint
 Carrier Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/CarrierSentinelBlueprint
 Dethcube Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/DethCubeSentinelBlueprint
 Wyrm Prime Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/PrimeWyrmSentinelBlueprint
@@ -635,6 +734,13 @@ Frost Prime Systeme Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/Fr
 Frost Prime Systeme,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostPrimeSystemsComponent
 Frost Systeme Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostSystemsBlueprint
 Frost Systeme,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/FrostSystemsComponent
+Mirage Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HarlequinBlueprint
+Mirage Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HarlequinChassisBlueprint
+Mirage Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HarlequinChassisComponent
+Mirage Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HarlequinHelmetBlueprint
+Mirage Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HarlequinHelmetComponent
+Mirage Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HarlequinSystemsBlueprint
+Mirage Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HarlequinSystemsComponent
 Hydroid Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidBlueprint
 Hydroid Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidChassisBlueprint
 Hydroid Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidChassisComponent
@@ -871,6 +977,7 @@ Kraken Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnHeavyPistolBlueprint
 Vulkar Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnSniperRifleBlueprint
 Amphis Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnStaffBlueprint
 Fragor Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/HammerBlueprint
+Akzani Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/HarlequinPistolsBlueprint
 Heat-Dolch Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/HeatDaggerBlueprint
 Heat-Schwert Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/HeatSwordBlueprint
 Paris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/HuntingBowBlueprint
@@ -918,6 +1025,7 @@ Pyrana Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoHandShotgunBluepri
 Sybaris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoLeverActionRifleBlueprint
 Vectis Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoSniperRifleBlueprint
 Hikou Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoStarsBlueprint
+Silva & Aegis Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoSwordShieldBlueprint
 Akstiletto Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoUziBlueprint
 Attica Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TnoPrmryXbowBlueprint
 Zwillingsvipern Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TwinViperBlueprint
@@ -946,7 +1054,6 @@ Extinguished Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/DamageDebu
 Bleeding Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/HealthDebuffKey
 Decaying Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/ShieldDebuffKey
 Hobbled Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/SpeedDebuffKey
-Aufladbarer Gesundheitsspender,/Lotus/StoreItems/Types/Restoratives/ChargeableSelfHeal
 Dechiffrierer,/Lotus/StoreItems/Types/Restoratives/Cipher
 Medium Team Ammo Restore,/Lotus/StoreItems/Types/Restoratives/ClanTeamAmmoTotem
 Medium Team Energy Restore,/Lotus/StoreItems/Types/Restoratives/ClanTeamEnergyTotem
@@ -1065,6 +1172,10 @@ Mag Gauss-Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagGaussBr
 Mag Gauss-Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagGaussDark
 Mag Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagPrimeBright
 Mag Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagPrimeDark
+Mirage Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMirageBright
+Mirage Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMirageDark
+Harlequin Mirage Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMirageHarlequinBright
+Harlequin Mirage Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMirageHarlequinDark
 Raknis Nekros Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNekrosAraknidBright
 Raknis Nekros Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNekrosAraknidDark
 Nekros Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNekrosBright
@@ -1091,6 +1202,8 @@ Markhor Oberon Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/Imag
 Markhor Oberon Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageOberonMarkhorDark
 Hydroid Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImagePirateBright
 Hydroid Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImagePirateDark
+Ketos Hydroid Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImagePirateKetosBright
+Ketos Hydroid Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImagePirateKetosDark
 Triton Hydroid Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImagePirateTritonBright
 Triton Hydroid Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImagePirateTritonDark
 Rhino Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageRhinoBright
@@ -1135,6 +1248,8 @@ Zephyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageZephyrB
 Cierzo Zephyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageZephyrCierzoBright
 Cierzo Zephyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageZephyrCierzoDark
 Zephyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageZephyrDark
+Tengu Zephyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageZephyrTenguBright
+Tengu Zephyr Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageZephyrTenguDark
 Beryl Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/DayCommonAntitoxinBlueprint
 Cirtine Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/DayUnCommonAntitoxinBlueprint
 Amethyst Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/NightCommonAntitoxinBlueprint
@@ -1164,6 +1279,7 @@ Dechiffrierer x10 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/TenCi
 9.000 Credits <Credits> Paket,/Lotus/StoreItems/Types/StoreItems/CreditBundles/CreditBundleA
 25.000 Credits <Credits> Paket,/Lotus/StoreItems/Types/StoreItems/CreditBundles/CreditBundleB
 30.000 Credits <Credits> Paket,/Lotus/StoreItems/Types/StoreItems/CreditBundles/CreditBundleC
+Stasis Slot,/Lotus/StoreItems/Types/StoreItems/SlotItems/KubrowSlotItem
 Warframe-Slot,/Lotus/StoreItems/Types/StoreItems/SlotItems/SuitSlotItem
 Weapon Slot,/Lotus/StoreItems/Types/StoreItems/SlotItems/WeaponSlotItem
 Bastille,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerBastilleItem
@@ -1264,6 +1380,25 @@ Uncommon Fusionskern,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl3ModFuser
 Uncommon Fusionskern,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl4ModFuser
 Uncommon Fusionskern,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonLvl5ModFuser
 Uncommon Fusionskern,/Lotus/StoreItems/Upgrades/Mods/Fusers/UncommonModFuser
+Zerschmetternder Schlag,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponArmorPiercingDamageModBeginner
+Gehärteter Stahl,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponCritChanceModBeginner
+Ausweider,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponCritDamageModBeginner
+Berserker,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponCritFireRateBonusModBeginner
+Schockberührung,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponElectricityDamageModBeginner
+Geschmolzener Einschlag,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponFireDamageModBeginner
+Raserei,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponFireRateModBeginner
+Nordwind,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponFreezeDamageModBeginner
+Glaive Schleuderkraft,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponGlaivePowerthrowModBeginner
+Wirbelwind,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponGlaiveSpeedModBeginner
+Heavy Trauma,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponImpactDamageModBeginner
+Spannungsspule,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponMeleeChannelingEfficiencyModBeginner
+Druckpunkt,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponMeleeDamageModBeginner
+Erschlage Corpus,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponMeleeFactionDamageCorpusBeginner
+Erschlage Grineer,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponMeleeFactionDamageGrineerBeginner
+Erschlage Befallene,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponMeleeFactionDamageInfestedBeginner
+Jagged Edge,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponSlashDamageModBeginner
+Umwerfender Schlag,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponStunChanceModBeginner
+Fever Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponToxinDamageModBeginner
 True Punishment,/Lotus/StoreItems/Upgrades/Mods/Melee/Channel/ChannelCritsMod
 Quickening,/Lotus/StoreItems/Upgrades/Mods/Melee/Channel/ChannelFireRateMod
 Warrior's Grip,/Lotus/StoreItems/Upgrades/Mods/Melee/Channel/ChannelParryStaminaRedMod
@@ -1276,6 +1411,37 @@ Volcanic Edge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/FireEventMeleeMod
 Fokussierte Energie,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/FocusEnergyMod
 Virulent Scourge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/PoisonEventMeleeMod
 Zerreißen,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/RendingStrikeMod
+Zerschmetternder Schlag,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponArmorPiercingDamageModExpert
+Gehärteter Stahl,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponCritChanceModExpert
+Ausweider,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponCritDamageModExpert
+Berserker,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponCritFireRateBonusModExpert
+Schockberührung,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponElectricityDamageModExpert
+Geschmolzener Einschlag,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponFireDamageModExpert
+Raserei,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponFireRateModExpert
+Nordwind,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponFreezeDamageModExpert
+Glaive Schleuderkraft,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponGlaivePowerthrowModExpert
+Glaive Reflection,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponGlaiveReflectionDecreaseModExpert
+Glaive Refraction,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponGlaiveReflectionIncreaseModExpert
+Wirbelwind,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponGlaiveSpeedModExpert
+Heavy Trauma,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponImpactDamageModExpert
+Spannungsspule,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponMeleeChannelingEfficiencyModExpert
+Druckpunkt,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponMeleeDamageModExpert
+Erschlage Corpus,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageCorpusExpert
+Erschlage Grineer,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageGrineerExpert
+Erschlage Befallene,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageInfestedExpert
+Finishing Touch,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponMeleeFinisherDamageModExpert
+Reichweite,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponMeleeRangeIncModExpert
+Kanalisierung,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponPowerDamageModExpert
+Jagged Edge,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponSlashDamageModExpert
+Umwerfender Schlag,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponStunChanceModExpert
+Fever Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponToxinDamageModExpert
+Glaive Reflection,/Lotus/StoreItems/Upgrades/Mods/Melee/Intermediate/WeaponGlaiveReflectionDecreaseModIntermediate
+Glaive Refraction,/Lotus/StoreItems/Upgrades/Mods/Melee/Intermediate/WeaponGlaiveReflectionIncreaseModIntermediate
+Spannungsspule,/Lotus/StoreItems/Upgrades/Mods/Melee/Intermediate/WeaponMeleeChannelingEfficiencyeModIntermediate
+Finishing Touch,/Lotus/StoreItems/Upgrades/Mods/Melee/Intermediate/WeaponMeleeFinisherDamageModIntermediate
+Reichweite,/Lotus/StoreItems/Upgrades/Mods/Melee/Intermediate/WeaponMeleeRangeIncModIntermediate
+Kanalisierung,/Lotus/StoreItems/Upgrades/Mods/Melee/Intermediate/WeaponPowerDamageModIntermediate
+Umwerfender Schlag,/Lotus/StoreItems/Upgrades/Mods/Melee/Intermediate/WeaponStunChanceModIntermediate
 Zerschmetternder Schlag,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponArmorPiercingDamageMod
 Gehärteter Stahl,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponCritChanceMod
 Ausweider,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponCritDamageMod
@@ -1302,6 +1468,26 @@ Jagged Edge,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponSlashDamageMod
 Second Wind,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponStaminaBonusMod
 Umwerfender Schlag,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponStunChanceMod
 Fever Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponToxinDamageMod
+Reserve Magazine,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponAmmoMaxModBeginner
+Kein Zurück,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponArmorPiercingDamageModBeginner
+Streifenmagazin,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponClipMaxModBeginner
+Heimtücke,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponCritChanceModBeginner
+Panzerbrecher,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponCritDamageModBeginner
+Hornissenstich,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponDamageAmountModBeginner
+Zuckungen,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponElectricityDamageModBeginner
+Flammenladung,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponFireDamageModBeginner
+Laufstreuung,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponFireIterationsModBeginner
+Revolverheld,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponFireRateModBeginner
+Schockfrieren,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponFreezeDamageModBeginner
+Concussion Rounds,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponImpactDamageModBeginner
+Vertreibe Corpus,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponPistolFactionDamageCorpusBeginner
+Vertreibe Grineer,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponPistolFactionDamageGrineerBeginner
+Vertreibe Befallene,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponPistolFactionDamageInfestedBeginner
+Sucher,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponPunctureDepthModBeginner
+Schnelles Ziehen,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponReloadSpeedModBeginner
+Razor Shot,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponSlashDamageModBeginner
+Mannstopper,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponStatusChanceModBeginner
+Pathogen Rounds,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponToxinDamageModBeginner
 Hollow Point,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedCritDamagePistol
 Magnum Force,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedDamageRecoilPistol
 Tainted Clip,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedMaxClipReloadSpeedPistol
@@ -1311,6 +1497,35 @@ Lethal Torrent,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/GrinderMod
 Eissturm,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/IceStormMod
 Pistol Pestilence,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/PoisonEventPistolMod
 Betäubende Geschwindigkeit,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/StunningSpeedMod
+Reserve Magazine,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponAmmoMaxModExpert
+Kein Zurück,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponArmorPiercingDamageModExpert
+Streifenmagazin,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponClipMaxModExpert
+Heimtücke,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponCritChanceModBeginnerExpert
+Panzerbrecher,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponCritDamageModExpert
+Zuckungen,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponElectricityDamageModExpert
+Flammenladung,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponFireDamageModExpert
+Laufstreuung,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponFireIterationsModExpert
+Revolverheld,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponFireRateModExpert
+Schockfrieren,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponFreezeDamageModExpert
+Concussion Rounds,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponImpactDamageModExpert
+Suppress,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponNoiseReductionModExpert
+Pistolenwandler,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolConvertAmmoModExpert
+Vertreibe Corpus,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert
+Vertreibe Grineer,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageGrineerExpert
+Vertreibe Befallene,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageInfestedExpert
+Habichtauge,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolZoomFovModExpert
+Sucher,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPunctureDepthModExpert
+Steady Hands,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponRecoilReductionModExpert
+Schnelles Ziehen,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponReloadSpeedModExpert
+Razor Shot,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponSlashDamageModExpert
+Mannstopper,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponStatusChanceModExpert
+Pathogen Rounds,/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponToxinDamageModExpert
+Hornissenstich,/Lotus/StoreItems/Upgrades/Mods/Pistol/Intermediate/WeaponDamageAmountModIntermediate
+Suppress,/Lotus/StoreItems/Upgrades/Mods/Pistol/Intermediate/WeaponNoiseReductionModIntermediate
+Pistolenwandler,/Lotus/StoreItems/Upgrades/Mods/Pistol/Intermediate/WeaponPistolConvertAmmoModIntermediate
+Habichtauge,/Lotus/StoreItems/Upgrades/Mods/Pistol/Intermediate/WeaponPistolZoomFovModIntermediate
+Steady Hands,/Lotus/StoreItems/Upgrades/Mods/Pistol/Intermediate/WeaponRecoilReductionModIntermediate
+Mannstopper,/Lotus/StoreItems/Upgrades/Mods/Pistol/Intermediate/WeaponStatusChanceModIntermediate
 Reserve Magazine,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponAmmoMaxMod
 Kein Zurück,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponArmorPiercingDamageMod
 Streifenmagazin,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponClipMaxMod
@@ -1335,6 +1550,26 @@ Schnelles Ziehen,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponReloadSpeedMod
 Razor Shot,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponSlashDamageMod
 Mannstopper,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponStunChanceMod
 Pathogen Rounds,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponToxinDamageMod
+Trommelmagazin,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponAmmoMaxModBeginner
+Durchschlagender Treffer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponArmorPiercingDamageModBeginner
+Munitionsgurt,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponClipMaxModBeginner
+Punktangriff,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponCritChanceModBeginner
+Scharfsinn,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponCritDamageModBeginner
+Einkerbung,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponDamageAmountModBeginner
+Sturmbringer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponElectricityDamageModBeginner
+Schrecken Der Corpus,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFactionDamageCorpusBeginner
+Schrecken Der Grineer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFactionDamageGrineerBeginner
+Schrecken Der Befallenen,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFactionDamageInfestedBeginner
+Höllenfeuer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFireDamageModBeginner
+Geteilte Kammer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFireIterationsModBeginner
+Schnellauslöser,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFireRateModBeginner
+Kryo-Kugeln,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFreezeDamageModBeginner
+Rupture,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponImpactDamageModBeginner
+Metallbohrer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponPunctureDepthModBeginner
+Schnelle Hände,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponReloadSpeedModBeginner
+Sawtooth Clip,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponSlashDamageModBeginner
+Donnerschlag,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponStatusChanceModBeginner
+Infected Clip,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponToxinDamageModBeginner
 Critical Delay,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedCritRateFireRateRifle
 Heavy Caliber,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedDamageRecoilRifle
 Tainted Mag,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedMaxClipReloadSpeedRifle
@@ -1345,6 +1580,45 @@ Hammerschuss,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/HammerShotMod
 Malignant Force,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/PoisonEventRifleMod
 Shred,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/ShredMod
 Lauffeuer,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/WildfireMod
+Donnerbolzen,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/BowExplosionChanceModExpert
+Aufgeladene Kammer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/SniperReloadDamageModExpert
+Trommelmagazin,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponAmmoMaxModExpert
+Durchschlagender Treffer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponArmorPiercingDamageModExpert
+Pfeilwandler,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponBowConvertAmmoModExpert
+Munitionsgurt,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponClipMaxModExpert
+Punktangriff,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponCritChanceModExpert
+Scharfsinn,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponCritDamageModExpert
+Sturmbringer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponElectricityDamageModExpert
+Schrecken Der Corpus,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponFactionDamageCorpusExpert
+Schrecken Der Grineer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponFactionDamageGrineerExpert
+Schrecken Der Befallenen,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponFactionDamageInfestedExpert
+Höllenfeuer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponFireDamageModExpert
+Geteilte Kammer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponFireIterationsModExpert
+Schnellauslöser,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponFireRateModExpert
+Kryo-Kugeln,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponFreezeDamageModExpert
+Rupture,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponImpactDamageModExpert
+Firestorm,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponIncreaseRadialExplosionModExpert
+Hush,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponNoiseReductionModExpert
+Metallbohrer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponPunctureDepthModExpert
+Stabilizer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponRecoilReductionModExpert
+Schnelle Hände,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponReloadSpeedModExpert
+Gewehrwandler,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponRifleConvertAmmoModExpert
+Sawtooth Clip,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponSlashDamageModExpert
+Scharfschützenwandler,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponSnipersConvertAmmoModExpert
+Donnerschlag,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponStatusChanceModExpert
+Infected Clip,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponToxinDamageModExpert
+Adlerauge,/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponZoomFovModExpert
+Donnerbolzen,/Lotus/StoreItems/Upgrades/Mods/Rifle/Intermediate/BowExplosionChanceModIntermediate
+Aufgeladene Kammer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Intermediate/SniperReloadDamageModIntermediate
+Pfeilwandler,/Lotus/StoreItems/Upgrades/Mods/Rifle/Intermediate/WeaponBowConvertAmmoModIntermediate
+Einkerbung,/Lotus/StoreItems/Upgrades/Mods/Rifle/Intermediate/WeaponDamageAmountModIntermediate
+Firestorm,/Lotus/StoreItems/Upgrades/Mods/Rifle/Intermediate/WeaponIncreaseRadialExplosionModIntermediate
+Hush,/Lotus/StoreItems/Upgrades/Mods/Rifle/Intermediate/WeaponNoiseReductionModIntermediate
+Stabilizer,/Lotus/StoreItems/Upgrades/Mods/Rifle/Intermediate/WeaponRecoilReductionModIntermediate
+Gewehrwandler,/Lotus/StoreItems/Upgrades/Mods/Rifle/Intermediate/WeaponRifleConvertAmmoModIntermediate
+Scharfschützenwandler,/Lotus/StoreItems/Upgrades/Mods/Rifle/Intermediate/WeaponSnipersConvertAmmoModIntermediate
+Donnerschlag,/Lotus/StoreItems/Upgrades/Mods/Rifle/Intermediate/WeaponStatusChanceModIntermediate
+Adlerauge,/Lotus/StoreItems/Upgrades/Mods/Rifle/Intermediate/WeaponZoomFovModIntermediate
 Donnerbolzen,/Lotus/StoreItems/Upgrades/Mods/Rifle/BowExplosionChanceMod
 Vorgespannte Kammer,/Lotus/StoreItems/Upgrades/Mods/Rifle/EventSniperReloadDamageMod
 Aufgeladene Kammer,/Lotus/StoreItems/Upgrades/Mods/Rifle/SniperReloadDamageMod
@@ -1375,6 +1649,16 @@ Scharfschützenwandler,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponSnipersConver
 Donnerschlag,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponStunChanceMod
 Infected Clip,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponToxinDamageMod
 Adlerauge,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponZoomFovMod
+Savagery,/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/KubrowClonedFinisherMod
+Bite,/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/KubrowCritMod
+Ferocity,/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/KubrowFinisherMod
+Link Armor,/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/KubrowLinkArmourMaxMod
+Link Health,/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/KubrowLinkHealthMaxMod
+Link Shields,/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/KubrowLinkShieldMaxMod
+Loyal Companion,/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/KubrowMasterBleedoutMod
+Maul,/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/KubrowMeleeDamageMod
+Pack Leader,/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/KubrowPackLeaderMod
+Fast Deflection,/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/KubrowShieldRechargeRateMod
 Stahlfasern,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelArmourMod
 Spare Parts,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelDropChanceMod
 Self Destruct,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelExplosionMod
@@ -1382,6 +1666,26 @@ Vitalität,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelHealthMaxMod
 Fired Up,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelOverheatDamageMod
 Umlenkung,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelShieldMaxMod
 Schnelle Ablenkung,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelShieldRechargeRateMod
+Hülsenverdichtung,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponAmmoMaxModBeginner
+Nadelgeschosse,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponArmorPiercingDamageModBeginner
+Magazinschaft,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponClipMaxModBeginner
+Donnerbüchse,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponCritChanceModBeginner
+Verwüstung,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponCritDamageModBeginner
+Aus Nächster Nähe,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponDamageAmountModBeginner
+Aufgeladene Hülle,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponElectricityDamageModBeginner
+Flammenbeschichtung,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponFireDamageModBeginner
+Höllenkammer,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponFireIterationsModBeginner
+Schrotgewehr-Fanatiker,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponFireRateModBeginner
+Eiskalter Griff,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponFreezeDamageModBeginner
+Disruptor,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponImpactDamageModBeginner
+Suchende Kraft,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponPunctureDepthModBeginner
+Taktisches Nachladen,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponReloadSpeedModBeginner
+Reinige Corpus,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponShotgunFactionDamageCorpusBeginner
+Reinige Grineer,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponShotgunFactionDamageGrineerBeginner
+Reinige Befallene,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponShotgunFactionDamageInfestedBeginner
+Shredder,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponSlashDamageModBeginner
+Aufstandsbekämpfung,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponStunChanceModBeginner
+Contagious Spread,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponToxinDamageModBeginner
 Beschleunigte Explosion,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/AcceleratedBlastMod
 Stichflamme,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/BlazeMod
 Tainted Shell,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedAccuracyFireRateShotgun
@@ -1390,6 +1694,28 @@ Burdened Magazine,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedMaxC
 Shell Shock,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/ElectEventShotgunMod
 Scattering Inferno,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/FireEventShotgunMod
 Toxic Barrage,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/PoisonEventShotgunMod
+Hülsenverdichtung,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponAmmoMaxModExpert
+Nadelgeschosse,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponArmorPiercingDamageModExpert
+Magazinschaft,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponClipMaxModExpert
+Donnerbüchse,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponCritChanceModExpert
+Verwüstung,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponCritDamageModExpert
+Aus Nächster Nähe,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponDamageAmountModExpert
+Aufgeladene Hülle,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponElectricityDamageModExpert
+Flammenbeschichtung,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponFireDamageModExpert
+Höllenkammer,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponFireIterationsModExpert
+Schrotgewehr-Fanatiker,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponFireRateModExpert
+Eiskalter Griff,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponFreezeDamageModExpert
+Disruptor,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponImpactDamageModExpert
+Suchende Kraft,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponPunctureDepthModExpert
+Taktisches Nachladen,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponReloadSpeedModExpert
+Schrotwandler,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert
+Reinige Corpus,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageCorpusExpert
+Reinige Grineer,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageGrineerExpert
+Reinige Befallene,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageInfestedExpert
+Shredder,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponSlashDamageModExpert
+Aufstandsbekämpfung,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponStunChanceModExpert
+Contagious Spread,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponToxinDamageModExpert
+Schrotwandler,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Intermediate/WeaponShotgunConvertAmmoModIntermediate
 Hülsenverdichtung,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponAmmoMaxMod
 Nadelgeschosse,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponArmorPiercingDamageMod
 Magazinschaft,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponClipMaxMod
@@ -1411,6 +1737,35 @@ Reinige Befallene,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponShotgunFactionDa
 Shredder,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponSlashDamageMod
 Aufstandsbekämpfung,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponStunChanceMod
 Contagious Spread,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponToxinDamageMod
+Kontinuität,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarAbilityDurationModBeginner
+Stromlinie,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarAbilityEfficiencyModBeginner
+Ausdehnung,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarAbilityRangeModBeginner
+Fokus,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarAbilityStrengthModBeginner
+Stahlfasern,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarArmourModBeginner
+Reflex Guard,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarAutoParryModBeginner
+Blitzableiter,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistanceElectricityBeginner
+Feuerfest,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistanceFireBeginner
+Isolierung,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistanceIceBeginner
+Diamanthaut,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistanceLaserBeginner
+Gegengift,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistancePoisonBeginner
+Feindgespür,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarEnemyRadarModBeginner
+Harter Einschlag,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarFallingImpactModBeginner
+Provoked,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarGroundFireDmgModBeginner
+Vitalität,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarHealthMaxModBeginner
+Diebesgespür,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarLootRadarModBeginner
+Parry,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarParryMeleeModBeginner
+Reflection,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarParryReflectModBeginner
+Equilibrium,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarPickupBonusModBeginner
+Fluss,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarPowerMaxModBeginner
+Quick Thinking,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarPowerToHealthOnDeathModBeginner
+Umlenkung,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarShieldMaxModBeginner
+Schnelle Ableitung,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarShieldRechargeRateModBeginner
+Maglev,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarSlideBoostModBeginner
+Sprint,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarSprintSpeedModBeginner
+Akrobat,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarStaminaCostMultiplierModBeginner
+Marathon,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarStaminaMaxModBeginner
+Verschnaufpause,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarStaminaRechargeRateModBeginner
+Intruder,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarTimeLimitIncreaseModBeginner
 Konstitution,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/ConstitutionMod
 Narrow Minded,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedDurationRangeWarframe
 Fleeting Expertise,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedEfficiencyDurationWarframe
@@ -1418,6 +1773,56 @@ Blind Rage,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedPowerEffic
 Overextended,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedRangePowerWarframe
 Zähigkeit,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/FortitudeMod
 Vigor,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/VigorMod
+Kontinuität,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarAbilityDurationModExpert
+Stromlinie,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarAbilityEfficiencyModExpert
+Ausdehnung,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarAbilityRangeModExpert
+Fokus,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarAbilityStrengthModExpert
+Undying Will,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarBleedoutDelayModExpert
+Natural Talent,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarCastingSpeedModExpert
+Meisterdieb,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarChanceToLootExpert
+Aviator,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarDamageReductionInAirExpert
+Blitzableiter,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarDamageResistanceElectricityExpert
+Feuerfest,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarDamageResistanceFireExpert
+Isolierung,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarDamageResistanceIceExpert
+Diamanthaut,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarDamageResistanceLaserExpert
+Gegengift,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarDamageResistancePoisonExpert
+Zorn,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarDamageToEnergyModExpert
+Feindgespür,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarEnemyRadarModExpert
+Harter Einschlag,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarFallingImpactModExpert
+Flic-Flac,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarKnockdownRecoveryModExpert
+Trittsicher,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarKnockdownResistanceModExpert
+Diebesgespür,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarLootRadarModExpert
+Pelzmantel,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarMissionSpecificResistanceIceExpert
+Parry,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarParryMeleeModExpert
+Reflection,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarParryReflectModExpert
+Fluss,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarPowerMaxModExpert
+Quick Thinking,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarPowerToHealthOnDeathModExpert
+Vergeltung,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarRevengeDamageMeleeExpert
+Schnelle Ableitung,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarShieldRechargeRateModExpert
+Shield Flux,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarShieldToStaminaModExpert
+Maglev,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarSlideBoostModExpert
+Sprint,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarSprintSpeedModExpert
+Akrobat,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarStaminaCostMultiplierModExpert
+Marathon,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarStaminaMaxModExpert
+Verschnaufpause,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarStaminaRechargeRateModExpert
+Intruder,/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarTimeLimitIncreaseModExpert
+Stahlfasern,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarArmourModIntermediate
+Reflex Guard,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarAutoParryModIntermediate
+Natural Talent,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarCastingSpeedModIntermediate
+Meisterdieb,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarChanceToLootIntermediate
+Aviator,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarDamageReductionInAirIntermediate
+Stoßdämpfer,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarDamageResistanceKnockdownIntermediate
+Zorn,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarDamageToEnergyModIntermediate
+Provoked,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarGroundFireDmgModIntermediate
+Vitalität,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarHealthMaxModIntermediate
+Flic-Flac,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarKnockdownRecoveryModIntermediate
+Trittsicher,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarKnockdownResistanceModIntermediate
+Pelzmantel,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarMissionSpecificResistanceIceIntermediate
+Parry,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarParryMeleeModIntermediate
+Equilibrium,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarPickupBonusModIntermediate
+Vergeltung,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarRevengeDamageMeleeIntermediate
+Umlenkung,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarShieldMaxModIntermediate
+Shield Flux,/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarShieldToStaminaModIntermediate
 Kontinuität,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarAbilityDurationMod
 Stromlinie,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarAbilityEfficiencyMod
 Ausdehnung,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarAbilityRangeMod
@@ -1531,6 +1936,7 @@ Desert-Camo Viper,/Lotus/StoreItems/Upgrades/Skins/Camo/ViperCamo
 Desert-Camo Vulkar,/Lotus/StoreItems/Upgrades/Skins/Camo/VulkarCamo
 Gradivus: Sacrifice Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/AggressionEventCorpusBadgeItem
 Gradivus: Loyalty Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/AggressionEventGrineerBadgeItem
+Alliance Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/AllianceEmblemItem
 ,/Lotus/StoreItems/Upgrades/Skins/Clan/BaseEventBadgeItem
 Clan Abzeichen,/Lotus/StoreItems/Upgrades/Skins/Clan/ClanEmblemItem
 Arid Fear Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/CorpusVoidBadgeItem
@@ -1546,6 +1952,11 @@ Moon Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeMoonItem
 Mountain Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeMountainItem
 Shadow Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeShadowItem
 Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Clan/ReferralBadgeTierAItem
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Clan/ReferralBadgeTierBItem
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Clan/ReferralBadgeTierCItem
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Clan/ReferralBadgeTierDItem
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Clan/ReferralBadgeTierEItem
 Specters Of Liberty Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/RescueEventBadgeItem
 Tethra's Doom Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/ShipyardsEventBadgeItem
 Tethra's Doom Quantum Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/ShipyardsEventQuantumBadgeItem
@@ -1641,6 +2052,10 @@ Day Of The Dead Sobek Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenS
 Day Of The Dead Soma Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenSoma
 Day Of The Dead Gremlins Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenTwinGremlins
 Brokk Hammer-Skin,/Lotus/StoreItems/Upgrades/Skins/Hammer/GrnHammer
+Mirage Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinAgileAnims
+Mirage Helmet,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinHelmet
+Harlequin Mirage Helmet,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinHelmetAlt
+Mirage Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinNobleAnims
 Manticore Axt-Skin,/Lotus/StoreItems/Upgrades/Skins/HeavyAxe/GrnAxe
 Hydroid Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Hydroid/HydroidAgileAnims
 Hydroid Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Hydroid/HydroidNobleAnims
@@ -1653,8 +2068,6 @@ Nyx Vespa-Helm,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmetAltBStatless
 Nyx Mentizid-Helm,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmetAltStatless
 Nyx Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeNobleAnims
 Nyx Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Jade/NyxAlternateSkin
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/KatanaSheaths/KatanaSheathBasic
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/KatanaSheaths/KatanaSheathLightning
 Loki Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiAgileAnims
 Loki Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiAlternateSkin
 Loki-Helm,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmet
@@ -1700,6 +2113,7 @@ Oberon Helmet,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinHelmet
 Oryx Oberon Helmet,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinHelmetAlt
 Markhor Oberon Helmet,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinHelmetAltB
 Oberon Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinNobleAnims
+Ketos Hydroid Helmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateAltBHelmet
 Triton Hydroid Helmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateAltHelmet
 Hydroid Helmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateDefaultHelmet
 Rixtymol Aklato,/Lotus/StoreItems/Upgrades/Skins/Promo/RixtyMOL/RixtyMOLAklatoSkin
@@ -1778,6 +2192,7 @@ Obsidian Lato Skin,/Lotus/StoreItems/Upgrades/Skins/Sony/PS4Lato
 Obsidian Braton Skin,/Lotus/StoreItems/Upgrades/Skins/Sony/PS4Mk1Braton
 Obsidian Skana Skin,/Lotus/StoreItems/Upgrades/Skins/Sony/PS4Skana
 Zephyr Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguAgileAnims
+Tengu Zephyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguAltBHelmet
 Cierzo Zephyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguAltHelmet
 Zephyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguHelmet
 Zephyr Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguNobleAnims
@@ -1848,6 +2263,7 @@ Lanka Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/RailgunBlueprint
 Prova Vandal,/Lotus/StoreItems/Weapons/ClanTech/Energy/VandalElectroProd
 Amprex,/Lotus/StoreItems/Weapons/Corpus/LongGuns/ChainLightningGun/ChainLightningRifle
 Tetra,/Lotus/StoreItems/Weapons/Corpus/LongGuns/CorpusUMP/CorpusUMP
+Quanta,/Lotus/StoreItems/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRifle
 Penta,/Lotus/StoreItems/Weapons/Corpus/LongGuns/GrenadeLauncher/GrenadeLauncher
 Obex,/Lotus/StoreItems/Weapons/Corpus/Melee/KickAndPunch/KickPunchWeapon
 Serro,/Lotus/StoreItems/Weapons/Corpus/Melee/Polearm/CorpusPolearm01/CorpusPolearmWeapon
@@ -1883,6 +2299,17 @@ Mire,/Lotus/StoreItems/Weapons/Infested/Melee/Swords/Mire/MireSword
 Scoliac,/Lotus/StoreItems/Weapons/Infested/Melee/Whip/InfestedWhip/InfestedWhipWeapon
 Tysis,/Lotus/StoreItems/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDartPistol
 Embolist,/Lotus/StoreItems/Weapons/Infested/Pistols/InfestedPistol
+Mk1-Bo,/Lotus/StoreItems/Weapons/MK1Series/MK1Bo
+Mk1-Braton,/Lotus/StoreItems/Weapons/MK1Series/MK1Braton
+Mk1-Fang,/Lotus/StoreItems/Weapons/MK1Series/MK1Fang
+Mk1-Fragor,/Lotus/StoreItems/Weapons/MK1Series/MK1Fragor
+Mk1-Furax,/Lotus/StoreItems/Weapons/MK1Series/MK1Furax
+Mk1-Furis,/Lotus/StoreItems/Weapons/MK1Series/MK1Furis
+Mk1-Kunai,/Lotus/StoreItems/Weapons/MK1Series/MK1Kunai
+Mk1-Latron,/Lotus/StoreItems/Weapons/MK1Series/MK1Latron
+Mk1-Lex,/Lotus/StoreItems/Weapons/MK1Series/MK1Lex
+Mk1-Paris,/Lotus/StoreItems/Weapons/MK1Series/MK1Paris
+Mk1-Strun,/Lotus/StoreItems/Weapons/MK1Series/MK1Strun
 Aklex,/Lotus/StoreItems/Weapons/Tenno/Akimbo/AkLexPistols
 Afuris,/Lotus/StoreItems/Weapons/Tenno/Akimbo/AkimboAutoPistols
 Akbolto,/Lotus/StoreItems/Weapons/Tenno/Akimbo/AkimboBolto
@@ -1958,6 +2385,7 @@ Reaping Spiral,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ScytheCmbOneMele
 Stalking Fan,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ScytheCmbTwoMeleeTree
 Clashing Forest,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/StaffCmbOneMeleeTree
 Flailing Branch,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/StaffCmbTwoMeleeTree
+Eleventh Storm,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/SwordShieldCmbOneMeleeTree
 Burning Wasp,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/WhipCmbOneMeleeTree
 Coiling Viper,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/WhipCmbTwoMeleeTree
 Orthos,/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PolearmWeapon
@@ -1978,6 +2406,7 @@ Nikana,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/Katana
 Dragon Nikana,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/LowKatana
 Pangolin-Schwert,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/PangolinSword/PangolinLongSword
 Plasmaschwert,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/PlasmaSword/PlasmaLongSword
+Silva & Aegis,/Lotus/StoreItems/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield
 Furis,/Lotus/StoreItems/Weapons/Tenno/Pistol/AutoPistol
 Bronco Prime,/Lotus/StoreItems/Weapons/Tenno/Pistol/BroncoPrime
 Sicarus,/Lotus/StoreItems/Weapons/Tenno/Pistol/BurstPistol
@@ -1990,6 +2419,7 @@ Lato,/Lotus/StoreItems/Weapons/Tenno/Pistol/Pistol
 Vasto,/Lotus/StoreItems/Weapons/Tenno/Pistol/RevolverPistol
 Ballistica,/Lotus/StoreItems/Weapons/Tenno/Pistols/AutomaticHandCrossbow/AutoCrossBow
 Dex Furis,/Lotus/StoreItems/Weapons/Tenno/Pistols/DexFuris/DexFuris
+Akzani,/Lotus/StoreItems/Weapons/Tenno/Pistols/HarlequinGun/HarlequinPistols
 Magnus,/Lotus/StoreItems/Weapons/Tenno/Pistols/Magnum/Magnum
 Lex Prime,/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeLex/PrimeLex
 Sicarus Prime,/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeSicarus/PrimeSicarusPistol
@@ -2037,6 +2467,7 @@ Loki Swindle Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLokiSwin
 Mag Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMag
 Mag Gauss Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMagGauss
 Mag Prime Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMagPrime
+Mirage Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMirage
 Nekros Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekros
 Shroud Nekros Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekrosShroud
 Nova Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNova
@@ -2046,6 +2477,7 @@ Nyx Vespa Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNyxVespa
 Oberon Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackOberon
 Markhor Oberon Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackOberonMarkhor
 Hydroid Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackPirate
+Ketos Hydroid Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackPirateKetos
 Rhino Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackRhino
 Rhino Vanguard Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackRhinoVanguard
 Saryn Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackSaryn
@@ -2059,6 +2491,7 @@ Kara Valkyr Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackVal
 Volt Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackVolt
 Volt Pulse Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackVoltPulse
 Zephyr Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackZephyr
+Tengu Zephyr Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackZephyrTengu
 Erfahrungs-Booster,/Lotus/Types/StoreItems/Boosters/AffinityBoosterStoreItem
 Credit-Booster,/Lotus/Types/StoreItems/Boosters/CreditBoosterStoreItem
 Drop Chance Booster,/Lotus/Types/StoreItems/Boosters/GoodStuffDropChanceBoosterStoreItem
@@ -2091,6 +2524,7 @@ Day Of The Dead Weapon Skin Pack,/Lotus/Types/StoreItems/Packages/HalloweenSkinP
 Immortal Skin Bundle,/Lotus/Types/StoreItems/Packages/ImmortalSkinPack
 Iliac Armor Bundle,/Lotus/Types/StoreItems/Packages/InfestedFinsArmorPack
 Nyx-Paket,/Lotus/Types/StoreItems/Packages/JadePack
+Kubrow Starter Kit,/Lotus/Types/StoreItems/Packages/KubrowStarterKit
 Loki-Paket,/Lotus/Types/StoreItems/Packages/LokiPack
 Männliches Helm-Paket,/Lotus/Types/StoreItems/Packages/MaleS2HelmetPack
 Sugatra Pack,/Lotus/Types/StoreItems/Packages/MeleeDanglePack
@@ -2114,6 +2548,7 @@ Totenstille Paket,/Lotus/Types/StoreItems/Packages/TranslatorPack
 Totenstille Paket,/Lotus/Types/StoreItems/Packages/TranslatorPackTwo
 Update 10 Mega Bundle,/Lotus/Types/StoreItems/Packages/Update10MegaPack
 U12 Cosmetic Pack,/Lotus/Types/StoreItems/Packages/Update12CosmeticPack
+Mirage Bundle,/Lotus/Types/StoreItems/Packages/Update14MegaPack
 Vault Raider Package,/Lotus/Types/StoreItems/Packages/VaultRaiderPack
 Placeholder,/Lotus/Types/StoreItems/Packages/VoidSkinPack
 Vulkar Paket,/Lotus/Types/StoreItems/Packages/VulkarDealPack

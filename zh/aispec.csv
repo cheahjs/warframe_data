@@ -69,6 +69,12 @@ CorpusGrineerMix,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,AIWeek/MinigunBombard,0.1,0,0
 ,AIWeek/ShieldLancer,0.1,0,0
 ,GrineerMarineLeader,0.1,0,0
+CorpusHeavyEnemies,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,9
+,船员 (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,2,9
+,狙击手船员 (Spaceman/AIWeek/SniperSpacemanAgent),0.5,2,9
+,熔岩恐鸟 (BipedRobot/AIWeek/SuperMoaBipedAgent),1,1,9
+,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),1,1,9
+,磁轨炮恐鸟 (BipedRobot/AIWeek/RailgunBipedAgent),1,1,9
 CorpusInfestedMix,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
 ,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
@@ -176,99 +182,28 @@ CorpusSquadDefenseB,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 CorpusSurvivalA,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
 ,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,1
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,1
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,3,1
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,2
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,2
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,3,2
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,3
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,3
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,3,3
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,4
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,4
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,3,4
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,4,4
+,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,3,1
+,船员 (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,1
+,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,2
+,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,3,3
+,狙击手船员 (Spaceman/AIWeek/SniperSpacemanAgent),0.25,4,3
 ,熔岩恐鸟 (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,4
-,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,4
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,5
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,4,5
-,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,5
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,6
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,6
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,5,6
-,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,6
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,7
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,7
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,4,7
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,5,7
-,磁轨炮恐鸟 (BipedRobot/AIWeek/RailgunBipedAgent),1,3,7
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,7
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,8
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,8
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,5,8
-,熔岩恐鸟 (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,8
-,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,8
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,9
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,9
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,5,9
-,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),1,2,9
-,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),1,2,9
-,磁轨炮恐鸟 (BipedRobot/AIWeek/RailgunBipedAgent),1,2,9
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,9
+,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,4
+,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
+,磁轨炮恐鸟 (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
 CorpusSurvivalB,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
 ,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
-,船员 (Spaceman/AIWeek/ShotgunSpacemanAgent),1,0,1
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,1
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,2,1
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,2
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,2,2
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,2
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,3,2
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,3
+,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,3,1
+,船员 (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,1
+,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,2
 ,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,3,3
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,3,3
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,3
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,3,3
-,船员 (Spaceman/AIWeek/ShotgunSpacemanAgent),1,0,4
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,3,4
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,4
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,3,4
+,狙击手船员 (Spaceman/AIWeek/SniperSpacemanAgent),0.25,4,3
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,2,3
 ,熔岩恐鸟 (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,4
-,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,4
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,3,5
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,5
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,4,5
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,3,5
-,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,5
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,6
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,4,6
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,6
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,4,6
-,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,6
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,7
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,4,7
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,7
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,5,7
-,磁轨炮恐鸟 (BipedRobot/AIWeek/RailgunBipedAgent),1,3,7
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,7
-,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,8
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,8
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,4,8
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,4,8
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,5,8
-,熔岩恐鸟 (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,8
-,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,8
-,船员 (Spaceman/AIWeek/ShotgunSpacemanAgent),1,0,9
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,5,9
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,9
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,5,9
-,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),1,2,9
-,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),1,2,9
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,9
+,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,4
+,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
+,磁轨炮恐鸟 (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
 DesertGrineerDefenseA,Desert/RifleLancer,1,0,0
 ,Desert/EliteRifleLancer,1,0,0
 ,Desert/BladeSawmanNoCoverSurvival,0.5,5,0
@@ -311,7 +246,7 @@ EventGrineerSquadOne,AIWeek/RifleLancer,1,0,0
 ,AIWeek/GrineerFemale,0.1,0,0
 ,AIWeek/EviseratorLancer,0.1,0,0
 ,AIWeek/JetpackMarine,0.050000001,0,0
-,SpecialEvents/Prosecutor,1,3,0
+,AIWeek/GrineerMeleeStaffAgent,1,3,0
 ForestBossGrineerSquadOne,Forest/RifleLancer,1,0,0
 ,Forest/BladeSawman,0.25,0,0
 ,Forest/ShotgunLancer,0.2,3,0
@@ -320,6 +255,15 @@ ForestBossGrineerSquadOne,Forest/RifleLancer,1,0,0
 ,Forest/EliteRifleLancer,0.25,3,1
 ,Forest/EvisceratorLancer,0.1,1,1
 ,AIWeek/FlameLancer,0.1,1,2
+ForestGrineer2PointTerritories,Forest/RifleLancer,1,0,0
+,Forest/ShotgunLancer,0.25,0,0
+,Forest/GrineerMarinePistol,0.050000001,0,0
+,Forest/EliteRifleLancer,0.5,0,1
+,AIWeek/MacheteWoman,0.2,0,1
+,Forest/EvisceratorLancer,0.15000001,1,1
+,AIWeek/GrineerFemale,0.2,3,1
+,AIWeek/ShieldLancer,0.1,0,1
+,Forest/MinigunBombard,0.1,2,1
 ForestGrineerSquadOne,Forest/RifleLancer,1,0,0
 ,Forest/BladeSawman,0.25,0,0
 ,Forest/ShotgunLancer,0.2,3,0
@@ -335,66 +279,18 @@ ForestGrineerSquadOne,Forest/RifleLancer,1,0,0
 ,AIWeek/FlameLancer,0.1,1,2
 ,Forest/MinigunBombard,0.1,2,2
 ForestGrineerSurvivalA,Forest/RifleLancer,1,0,0
-,AIWeek/MacheteWomanNoCover,0.5,2,0
-,Forest/BladeSawmanNoCover,0.5,0,0
-,Forest/RifleLancer,1,0,1
-,Forest/BladeSawmanNoCover,0.5,0,1
+,AIWeek/MacheteWomanNoCover,0.40000001,2,0
+,Forest/BladeSawmanNoCover,0.40000001,0,0
 ,Forest/JetpackMarine,0.25,1,1
 ,Forest/ShotgunLancer,0.25,1,1
-,Forest/RifleLancer,1,0,2
-,Forest/BladeSawmanNoCover,0.5,0,2
-,Forest/GrineerMarinePistol,0.25,3,2
-,Forest/JetpackMarine,0.25,1,2
+,Forest/GrineerMarinePistol,0.25,1,2
 ,Frontier Regulator (SpecialEvents/ForestDroneAgent),1,2,2
-,Forest/ShotgunLancer,1,2,2
-,Forest/RifleLancer,1,0,3
-,Forest/BladeSawmanNoCover,0.5,0,3
-,Forest/GrineerMarinePistol,0.25,4,3
-,Forest/JetpackMarine,0.25,1,3
-,Frontier Regulator (SpecialEvents/ForestDroneAgent),1,2,3
 ,AIWeek/GrineerFemale,1,2,3
-,Forest/RifleLancer,1,0,4
-,Forest/BladeSawmanNoCover,0.5,0,4
-,Forest/GrineerMarinePistol,0.25,3,4
-,AIWeek/IncendiaryBombard,0.25,1,4
-,Forest/JetpackMarine,0.25,1,4
-,AIWeek/GrineerFemale,0.5,2,4
-,Forest/RifleLancer,1,0,5
-,Forest/BladeSawmanNoCover,0.25,0,5
-,Forest/GrineerMarinePistol,0.25,3,5
-,AIWeek/FlameLancer,0.2,1,5
-,Forest/JetpackMarine,0.5,1,5
-,Forest/ShotgunLancer,0.5,3,5
-,Forest/RifleLancer,1,0,6
-,Forest/EliteRifleLancer,0.5,3,6
-,Forest/BladeSawmanNoCover,0.25,0,6
-,Forest/GrineerMarinePistol,0.25,4,6
-,Frontier Regulator (SpecialEvents/ForestDroneAgent),1,2,6
-,Forest/ShotgunLancer,0.5,3,6
-,Forest/RifleLancer,1,0,7
-,Forest/EliteRifleLancer,0.25,0,7
-,Forest/BladeSawmanNoCover,0.25,0,7
-,Forest/GrineerMarinePistol,0.25,4,7
-,Forest/JetpackMarine,0.25,2,7
-,Forest/MinigunBombard,0.2,2,7
-,Forest/ShotgunLancer,0.5,4,7
-,AIWeek/GrineerFemale,0.25,3,7
-,Forest/RifleLancer,1,0,8
-,Forest/EliteRifleLancer,0.25,0,8
-,Forest/BladeSawmanNoCover,0.25,0,8
-,Forest/GrineerMarinePistol,1,0,8
-,AIWeek/IncendiaryBombard,0.25,2,8
-,Forest/JetpackMarine,0.25,2,8
-,Frontier Regulator (SpecialEvents/ForestDroneAgent),1,2,8
-,AIWeek/GrineerFemale,0.5,3,8
-,Forest/RifleLancer,1,0,0
-,Forest/EliteRifleLancer,0.5,0,9
-,Forest/BladeSawmanNoCover,0.25,0,9
-,Forest/GrineerMarinePistol,0.25,5,9
-,AIWeek/FlameLancer,1,2,9
-,AIWeek/RocketBombard,1,1,9
-,Forest/MinigunBombard,1,2,9
-,Forest/ShotgunLancer,0.5,4,9
+,Forest/EliteRifleLancer,0.5,3,3
+,AIWeek/FlameLancer,0.2,1,4
+,Forest/MinigunBombard,0.1,2,4
+,Forest/JetpackMarine,0.25,2,5
+,AIWeek/RocketBombard,0.5,1,5
 ForestGrineerTerritoriesOne,Forest/RifleLancer,1,0,0
 ,Forest/BladeSawman,0.30000001,0,0
 ,Forest/ShotgunLancer,0.25,0,0
@@ -445,6 +341,12 @@ GrineerDefenseForest,Forest/RifleLancer,1,0,0
 ,Forest/GrineerMarinePistol,0.15000001,0,2
 ,AIWeek/MacheteWomanNoCover,0.2,0,2
 ,Forest/EvisceratorLancer,0.1,2,2
+GrineerHeavyEnemies,GrineerMarinePistol,0.5,2,9
+,AIWeek/MinigunBombard,1,2,9
+,AIWeek/FlameLancer,1,2,9
+,AIWeek/RocketBombard,1,1,9
+,AIWeek/GrineerFemale,0.5,2,9
+,AIWeek/IncendiaryBombard,1,1,9
 GrineerInfestedMix,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
@@ -507,64 +409,17 @@ GrineerInfestedMixForest,Forest/RifleLancer,1,0,0
 ,远古剧毒者 (AiWeek/Ancients/ToxicAncient),0.1,0,0
 ,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
 GrineerSettlementSurvivalA,Desert/RifleLancer,1,0,0
-,Desert/EliteRifleLancer,0.75,0,0
-,Desert/BladeSawmanNoCoverSurvival,0.5,10,0
-,Desert/RifleLancer,1,0,1
-,Desert/EliteRifleLancer,0.75,0,1
+,Desert/BladeSawmanNoCoverSurvival,0.40000001,0,0
 ,Desert/JetpackMarine,0.5,3,1
-,Desert/BladeSawmanNoCoverSurvival,0.5,10,1
-,Desert/EliteRifleLancer,1,0,2
-,Desert/JetpackMarine,0.5,5,2
-,Desert/EvisceratorLancer,0.5,2,2
-,AIWeek/ShotgunLancer,1,3,2
-,Regulator (SpecialEvents/SurveillanceDroneAgent),1,2,2
-,AIWeek/GrineerFemale,0.5,4,3
-,Desert/EliteRifleLancer,1,0,3
-,Desert/JetpackMarine,0.5,5,3
-,Desert/EvisceratorLancer,1,2,3
-,AIWeek/ShieldLancer,1,5,3
-,Desert/BladeSawmanNoCoverSurvival,0.5,8,3
-,Desert/EliteRifleLancer,1,0,4
-,Desert/JetpackMarine,0.5,5,4
-,Desert/EvisceratorLancer,0.5,2,4
-,AIWeek/IncendiaryBombard,0.5,2,4
-,AIWeek/ShotgunLancer,1,4,4
-,Regulator (SpecialEvents/SurveillanceDroneAgent),1,2,4
-,Desert/EliteRifleLancer,1,0,5
-,AIWeek/GrineerFemale,1,4,5
-,Desert/JetpackMarine,0.5,5,5
-,Desert/EvisceratorLancer,1,3,5
-,AIWeek/FlameLancer,1,3,5
-,AIWeek/ShieldLancer,1,5,5
-,Desert/BladeSawmanNoCoverSurvival,0.5,8,5
-,Desert/EliteRifleLancer,1,0,6
-,Desert/JetpackMarine,0.5,6,6
-,Desert/EvisceratorLancer,1,3,6
-,AIWeek/RocketBombard,1,3,6
-,AIWeek/ShotgunLancer,1,4,6
-,AIWeek/ShieldLancer,1,6,6
-,Regulator (SpecialEvents/SurveillanceDroneAgent),1,2,6
-,Desert/EliteRifleLancer,1,0,7
-,Desert/JetpackMarine,0.75,5,7
-,Desert/EvisceratorLancer,1,4,7
-,Desert/MinigunBombard,1,3,7
-,AIWeek/GrineerFemale,1,6,7
-,Desert/BladeSawmanNoCoverSurvival,0.5,8,7
-,Desert/EliteRifleLancer,1,0,8
-,Desert/JetpackMarine,1,6,8
-,Desert/EvisceratorLancer,1,4,8
-,AIWeek/IncendiaryBombard,1,3,8
-,Desert/ShotgunLancer,1,5,8
-,AIWeek/ShieldLancer,1,6,8
-,Regulator (SpecialEvents/SurveillanceDroneAgent),1,2,8
-,Desert/EliteRifleLancer,1,0,9
-,Desert/JetpackMarine,1,6,9
-,AIWeek/IncendiaryBombard,1,2,9
-,AIWeek/FlameLancer,1,3,9
-,AIWeek/RocketBombard,1,2,9
-,Desert/MinigunBombard,1,2,9
-,AIWeek/GrineerFemale,1,6,9
-,AIWeek/ShieldLancer,1,7,9
+,Regulator (SpecialEvents/SurveillanceDroneAgent),1,2,1
+,AIWeek/GrineerFemale,0.5,4,2
+,AIWeek/ShieldLancer,0.40000001,5,2
+,AIWeek/ShotgunLancer,0.5,3,3
+,Desert/EliteRifleLancer,0.60000002,0,3
+,Desert/MinigunBombard,0.60000002,3,4
+,AIWeek/IncendiaryBombard,0.40000001,2,4
+,AIWeek/RocketBombard,0.30000001,3,5
+,Desert/EvisceratorLancer,0.2,2,5
 GrineerSquadFive,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/MacheteWoman,0.2,0,0
@@ -638,96 +493,48 @@ GrineerSquadTwo,AIWeek/RifleLancer,1,0,0
 ,AIWeek/GrineerFemale,0.1,0,0
 ,AIWeek/FlameLancer,0.2,0,0
 GrineerSurvivalA,AIWeek/RifleLancer,1,10,0
-,AIWeek/EliteRifleLancer,1,15,0
-,AIWeek/MacheteWomanNoCover,1,3,0
-,AIWeek/BladeSawmanNoCoverSurvival,1,10,0
-,AIWeek/EliteRifleLancer,1,20,1
-,AIWeek/RifleLancer,1,20,1
-,AIWeek/BladeSawmanNoCoverSurvival,1,10,1
-,Forest/ShotgunLancer,1,2,1
-,AIWeek/RifleLancer,1,20,2
-,AIWeek/EliteRifleLancer,1,20,2
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,2
-,AIWeek/ShieldLancer,0.5,3,2
-,Forest/ShotgunLancer,1,2,2
-,AIWeek/EliteRifleLancer,1,20,3
-,AIWeek/RifleLancer,1,20,3
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,3
-,AIWeek/ShieldLancer,0.5,3,3
-,AIWeek/GrineerFemale,1,3,3
-,AIWeek/EliteRifleLancer,1,20,4
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,4
-,AIWeek/ShieldLancer,0.5,3,4
-,AIWeek/IncendiaryBombard,1,3,4
-,AIWeek/GrineerFemale,1,4,4
-,AIWeek/EliteRifleLancer,1,20,5
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,5
-,AIWeek/ShieldLancer,0.5,4,5
-,AIWeek/FlameLancer,1,3,5
-,Forest/ShotgunLancer,1,3,5
-,AIWeek/EliteRifleLancer,1,20,6
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,6
-,AIWeek/ShieldLancer,0.5,4,6
-,AIWeek/RocketBombard,1,3,6
-,Forest/ShotgunLancer,1,4,6
-,AIWeek/EliteRifleLancer,1,20,7
-,AIWeek/BladeSawmanNoCoverSurvival,1,15,7
-,AIWeek/ShieldLancer,0.5,5,7
-,AIWeek/MinigunBombard,1,3,7
-,AIWeek/GrineerFemale,1,5,7
-,Forest/ShotgunLancer,1,5,7
-,AIWeek/EliteRifleLancer,1,20,8
-,AIWeek/BladeSawmanNoCoverSurvival,1,10,8
-,AIWeek/ShieldLancer,0.5,5,8
-,AIWeek/IncendiaryBombard,1,3,8
-,AIWeek/GrineerFemale,1,6,8
-,AIWeek/EliteRifleLancer,1,20,9
-,AIWeek/BladeSawmanNoCoverSurvival,0.5,10,9
-,AIWeek/ShieldLancer,0.5,5,9
-,AIWeek/FlameLancer,1,2,9
-,AIWeek/RocketBombard,1,2,9
-,AIWeek/MinigunBombard,1,2,9
-GrineerSurvivalMercury,AIWeek/RifleLancer,1,10,0
-,AIWeek/EliteRifleLancer,1,15,0
-,AIWeek/MacheteWomanNoCover,1,3,0
-,AIWeek/BladeSawmanNoCoverSurvival,1,10,0
-,AIWeek/EliteRifleLancer,1,20,1
-,AIWeek/RifleLancer,1,20,1
-,AIWeek/BladeSawmanNoCoverSurvival,1,10,1
-,AIWeek/RifleLancer,1,20,2
-,AIWeek/EliteRifleLancer,1,20,2
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,2
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/BladeSawmanNoCoverSurvival,0.40000001,0,0
+,Forest/ShotgunLancer,0.5,3,1
+,AIWeek/GrineerFemale,0.5,3,2
+,AIWeek/ShieldLancer,0.40000001,4,2
+,GrineerMarinePistol,0.2,2,3
+,AIWeek/MinigunBombard,0.60000002,3,4
+,AIWeek/IncendiaryBombard,0.30000001,3,4
+,AIWeek/RocketBombard,0.2,2,5
+,AIWeek/GrineerRollingDrone,0.050000001,2,5
+GrineerSurvivalMercury,AIWeek/RifleLancer,1,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/BladeSawmanNoCoverSurvival,0.40000001,0,0
+,AIWeek/MacheteWomanNoCover,0.40000001,2,1
 ,AIWeek/ShieldLancer,0.5,2,2
-,AIWeek/EliteRifleLancer,1,20,3
-,AIWeek/RifleLancer,1,20,3
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,3
-,AIWeek/ShieldLancer,0.5,2,3
-,AIWeek/EliteRifleLancer,1,20,4
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,4
-,AIWeek/ShieldLancer,0.5,2,4
-,AIWeek/MinigunBombard,1,1,4
-,AIWeek/EliteRifleLancer,1,20,5
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,5
-,AIWeek/ShieldLancer,0.5,3,5
-,AIWeek/MinigunBombard,1,2,5
-,AIWeek/EliteRifleLancer,1,20,6
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,6
-,AIWeek/ShieldLancer,0.5,3,6
-,AIWeek/RocketBombard,1,2,6
-,AIWeek/EliteRifleLancer,1,20,7
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,7
-,AIWeek/ShieldLancer,0.5,3,7
-,AIWeek/MinigunBombard,1,3,7
-,AIWeek/EliteRifleLancer,1,20,8
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,8
-,AIWeek/ShieldLancer,0.5,3,8
-,AIWeek/IncendiaryBombard,1,3,8
-,AIWeek/EliteRifleLancer,1,20,9
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,9
-,AIWeek/ShieldLancer,0.5,3,9
-,AIWeek/FlameLancer,1,2,9
-,AIWeek/RocketBombard,1,2,9
-,AIWeek/MinigunBombard,1,2,9
+,AIWeek/ShotgunLancer,0.40000001,2,3
+,AIWeek/MinigunBombard,0.1,2,4
+,AIWeek/RocketBombard,0.2,2,5
+GrineerTutorialSquadFour,AIWeek/RifleLancer,1,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/BladeSawman,0.30000001,0,0
+,AIWeek/MacheteWoman,0.1,1,0
+,AIWeek/ShotgunLancer,0.15000001,3,0
+,AIWeek/ShieldLancer,0.1,2,0
+,GrineerMarinePistol,0.050000001,1,0
+,AIWeek/PistonSawman,0.2,3,0
+GrineerTutorialSquadOne,TutorialMarine,0.69999999,0,0
+,Forest/RifleLancerTutorial,1,0,0
+,Forest/JetpackMarineTutorial,0.5,2,0
+,AIWeek/BladeSawmanNoCoverTutorial,0.30000001,5,0
+,Forest/ShotgunLancerTutorial,0.2,2,0
+,AIWeek/GrineerFemaleTutorial,0.2,2,0
+GrineerTutorialSquadThree,AIWeek/RifleLancer,1,0,0
+,AIWeek/BladeSawman,0.30000001,0,0
+,AIWeek/ShotgunLancer,0.2,3,0
+,AIWeek/ShieldLancerTutorial,0.2,2,0
+GrineerTutorialSquadTwo,TutorialMarine,0.5,2,0
+,AIWeek/RifleLancer,1,0,0
+,AIWeek/BladeSawman,0.30000001,5,0
+,AIWeek/BlowtorchSawman,0.15000001,1,0
+,Forest/ShotgunLancerTutorial,0.40000001,3,0
+,AIWeek/GrineerFemaleTutorial,0.2,2,0
 InfestedCorpusMixSquadA,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,奔跳者 (AiWeek/Runners/LeapingRunner),0.75,0,0
 ,狂奔者 (AiWeek/Runners/SuicideRunner),0.5,0,0
@@ -750,6 +557,8 @@ InfestedDefenseA,疾冲者 (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
 ,AiWeek/Crawlers/GrenadeCrawler,0.0099999998,0,2
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,1
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,2
 InfestedDefenseCorpusA,疾冲者 (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,狂奔者 (AiWeek/Runners/SuicideRunner),1,0,0
 ,奔跳者 (AiWeek/Runners/LeapingRunner),0.2,0,0
@@ -760,6 +569,8 @@ InfestedDefenseCorpusA,疾冲者 (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
 ,AiWeek/Crawlers/GrenadeCrawler,0.0099999998,0,2
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,1
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,2
 ,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),1,0,0
@@ -777,6 +588,8 @@ InfestedDefenseGrineerA,疾冲者 (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
 ,AiWeek/Crawlers/GrenadeCrawler,0.0099999998,0,2
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,1
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,2
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/RocketBombard,0.25,0,0
@@ -794,6 +607,26 @@ InfestedGrineerMixSquadA,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,AIWeek/IncendiaryBombard,0.050000001,0,0
 ,AIWeek/FlameLancer,0.25,0,0
 ,AIWeek/BladeSawman,0.5,0,0
+InfestedHiveSquadA,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
+,奔跳者 (AiWeek/Runners/LeapingRunner),0.75,0,0
+,狂奔者 (AiWeek/Runners/SuicideRunner),0.5,0,1
+,AiWeek/Ancients/MeleeAncient,0.2,0,1
+,远古剧毒者 (AiWeek/Ancients/ToxicAncient),0.1,0,2
+,AiWeek/Crawlers/MeleeCrawler,0.25,0,0
+,剧毒爬行者 (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+InfestedNewTestSquadA,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
+,奔跳者 (AiWeek/Runners/LeapingRunner),0.75,0,0
+,狂奔者 (AiWeek/Runners/SuicideRunner),0.5,0,0
+,AiWeek/Ancients/MeleeAncient,0.2,0,0
+,远古剧毒者 (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
+,剧毒爬行者 (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,0
+,Diseased Ancient (AiWeek/Ancients/DiseasedAncient),0.2,2,0
+,Puss Ancient (AiWeek/Ancients/SpawningAncient),0.1,2,0
+,Swarm Infested (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.30000001,1,0
+,Slow Infested (AiWeek/InfestedMoas/SlowBombBipedAgent),0.30000001,2,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.40000001,0,0
 InfestedSquadA,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,奔跳者 (AiWeek/Runners/LeapingRunner),0.75,0,0
 ,狂奔者 (AiWeek/Runners/SuicideRunner),0.5,0,0
@@ -809,7 +642,7 @@ InfestedSquadB,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,远古剧毒者 (AiWeek/Ancients/ToxicAncient),0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.050000001,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.3,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,0
 InfestedSquadC,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,狂奔者 (AiWeek/Runners/SuicideRunner),1,0,0
 ,奔跳者 (AiWeek/Runners/LeapingRunner),0.2,0,0
@@ -817,60 +650,27 @@ InfestedSquadC,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,远古治愈者 (AiWeek/Ancients/HealingAncient),0.1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 ,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+InfestedSquadD,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
+,奔跳者 (AiWeek/Runners/LeapingRunner),0.2,0,0
+,呕心爬行者 (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
+,AiWeek/Crawlers/MeleeCrawler,0.25,0,0
+,AiWeek/Ancients/MeleeAncient,0.1,0,0
+,AiWeek/Crawlers/GrenadeCrawler,0.050000001,0,0
+,AiWeek/Crawlers/LightningCrawler,0.050000001,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,0
 InfestedSurvivalA,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
-,AiWeek/Crawlers/MeleeCrawler,0.2,6,0
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,1
+,AiWeek/Crawlers/MeleeCrawler,0.2,5,0
 ,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,1
-,AiWeek/Runners/MeleeRunner,0.5,0,1
-,AiWeek/Crawlers/MeleeCrawler,0.2,6,0
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,20,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.05,0,1
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
 ,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,3
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,2
 ,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,2
 ,剧毒爬行者 (AiWeek/Crawlers/NoxiousCrawler),0.2,4,2
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,3
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,3
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,3
-,AiWeek/Runners/MeleeRunner,0.25,0,3
-,AiWeek/Crawlers/MeleeCrawler,0.2,6,3
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,4
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,4
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,4
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,3,4
-,AiWeek/Crawlers/LightningCrawler,0.2,4,4
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,5
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,5
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,5
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,3,5
-,AiWeek/Runners/MeleeRunner,0.25,0,5
-,AiWeek/Crawlers/MeleeCrawler,0.2,6,5
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,6
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,6
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,6
-,AiWeek/Ancients/MeleeAncient,1,3,6
-,AiWeek/Crawlers/GrenadeCrawler,0.2,4,6
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,7
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,7
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,7
-,AiWeek/Ancients/MeleeAncient,1,3,7
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,2,7
-,AiWeek/Crawlers/GrenadeCrawler,0.2,4,7
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,8
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,8
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,8
-,远古剧毒者 (AiWeek/Ancients/ToxicAncient),1,2,8
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,2,8
-,AiWeek/Ancients/MeleeAncient,1,1,8
-,AiWeek/Crawlers/LightningCrawler,0.2,4,8
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,9
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,9
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,9
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,2,9
-,AiWeek/Ancients/MeleeAncient,1,2,9
-,远古剧毒者 (AiWeek/Ancients/ToxicAncient),1,2,9
-,剧毒爬行者 (AiWeek/Crawlers/NoxiousCrawler),0.2,4,9
+,远古治愈者 (AiWeek/Ancients/HealingAncient),1,3,3
+,AiWeek/Crawlers/LightningCrawler,0.2,4,3
+,AiWeek/Ancients/MeleeAncient,1,3,4
+,AiWeek/Crawlers/GrenadeCrawler,0.2,4,4
+,远古剧毒者 (AiWeek/Ancients/ToxicAncient),1,2,5
 InfestedSurvivalACorpus,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),0.5,1,0
 ,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
@@ -880,48 +680,17 @@ InfestedSurvivalACorpus,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
 ,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,1,0
 ,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,1
+,AiWeek/Crawlers/MeleeCrawler,0.2,6,0
 ,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,1
-,AiWeek/Runners/MeleeRunner,0.5,0,1
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,20,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.05,0,1
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
 ,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,3
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,2
 ,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,2
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,3
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,3
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,3
-,AiWeek/Runners/MeleeRunner,0.25,0,3
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,4
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,4
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,4
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,3,4
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,5
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,5
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,5
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,3,5
-,AiWeek/Runners/MeleeRunner,0.25,0,5
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,6
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,6
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,6
-,AiWeek/Ancients/MeleeAncient,1,3,6
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,7
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,7
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,7
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,2,7
-,AiWeek/Ancients/MeleeAncient,1,2,7
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,8
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,8
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,8
-,远古剧毒者 (AiWeek/Ancients/ToxicAncient),1,2,8
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,1,8
-,AiWeek/Ancients/MeleeAncient,1,1,8
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,9
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,9
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,9
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,2,9
-,AiWeek/Ancients/MeleeAncient,1,2,9
-,远古剧毒者 (AiWeek/Ancients/ToxicAncient),1,2,9
+,剧毒爬行者 (AiWeek/Crawlers/NoxiousCrawler),0.2,4,2
+,远古治愈者 (AiWeek/Ancients/HealingAncient),1,3,3
+,AiWeek/Crawlers/LightningCrawler,0.2,4,3
+,AiWeek/Ancients/MeleeAncient,1,3,4
+,AiWeek/Crawlers/GrenadeCrawler,0.2,4,4
+,远古剧毒者 (AiWeek/Ancients/ToxicAncient),1,2,5
 InfestedSurvivalAGrineer,AIWeek/RifleLancer,1,3,0
 ,AIWeek/EliteRifleLancer,1,1,0
 ,AIWeek/RocketBombard,0.1,1,0
@@ -931,56 +700,17 @@ InfestedSurvivalAGrineer,AIWeek/RifleLancer,1,3,0
 ,AIWeek/ShotgunLancer,0.1,1,0
 ,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,1
+,AiWeek/Crawlers/MeleeCrawler,0.2,6,0
 ,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,1
-,AiWeek/Runners/MeleeRunner,0.5,0,1
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,20,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.05,0,1
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
 ,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,3
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,2
 ,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,2
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,3
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,3
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,3
-,AiWeek/Runners/MeleeRunner,0.25,0,3
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,4
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,4
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,4
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,3,4
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,5
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,5
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,5
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,3,5
-,AiWeek/Runners/MeleeRunner,0.25,0,5
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,6
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,6
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,6
-,AiWeek/Ancients/MeleeAncient,1,3,6
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,7
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,7
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,7
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,2,7
-,AiWeek/Ancients/MeleeAncient,1,2,7
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,8
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,8
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,8
-,远古剧毒者 (AiWeek/Ancients/ToxicAncient),1,2,8
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,1,8
-,AiWeek/Ancients/MeleeAncient,1,1,8
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,9
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.25,8,9
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,9
-,远古治愈者 (AiWeek/Ancients/HealingAncient),1,2,9
-,AiWeek/Ancients/MeleeAncient,1,2,9
-,远古剧毒者 (AiWeek/Ancients/ToxicAncient),1,2,9
-InfestedHiveSquadA,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.75,0,0
-,狂奔者 (AiWeek/Runners/SuicideRunner),0.5,0,1
-,AiWeek/Ancients/MeleeAncient,0.2,0,1
-,远古剧毒者 (AiWeek/Ancients/ToxicAncient),0.1,0,2
-,AiWeek/Crawlers/MeleeCrawler,0.25,0,0
-,剧毒爬行者 (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,剧毒爬行者 (AiWeek/Crawlers/NoxiousCrawler),0.2,4,2
+,远古治愈者 (AiWeek/Ancients/HealingAncient),1,3,3
+,AiWeek/Crawlers/LightningCrawler,0.2,4,3
+,AiWeek/Ancients/MeleeAncient,1,3,4
+,AiWeek/Crawlers/GrenadeCrawler,0.2,4,4
+,远古剧毒者 (AiWeek/Ancients/ToxicAncient),1,2,5
 OrokinDefenseSquad,Corrupted Lancer (RifleLancer),0.75,0,0
 ,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
 ,Corrupted Ancient (OrokinHealingAncient),0.5,0,2
@@ -1015,43 +745,10 @@ OrokinSquadOne,Corrupted Lancer (RifleLancer),0.75,0,0
 ,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
 OrokinSurvivalA,Corrupted Lancer (RifleLancer),1,0,0
 ,Corrupted Crewman (RifleSpacemanAgent),0.5,0,0
-,Corrupted Lancer (RifleLancer),1,0,1
-,Corrupted Crewman (RifleSpacemanAgent),1,0,1
-,Corrupted Lancer (RifleLancer),1,0,2
-,Corrupted Crewman (RifleSpacemanAgent),1,0,2
-,Orokin Drone (OrokinShieldDroneAgent),1,2,2
-,Corrupted Lancer (RifleLancer),1,0,3
-,Corrupted Crewman (RifleSpacemanAgent),1,0,3
-,Orokin Drone (OrokinShieldDroneAgent),1,2,3
-,Corrupted Lancer (RifleLancer),1,0,4
-,Corrupted Crewman (RifleSpacemanAgent),1,0,4
-,Orokin Drone (OrokinShieldDroneAgent),1,2,4
-,OrokinMinigunBombard,1,2,4
-,Corrupted Lancer (RifleLancer),1,0,5
-,Corrupted Crewman (RifleSpacemanAgent),1,0,5
-,Orokin Drone (OrokinShieldDroneAgent),1,2,5
-,Corrupted Ancient (OrokinHealingAncient),1,2,5
-,Corrupted Lancer (RifleLancer),1,0,6
-,Corrupted Crewman (RifleSpacemanAgent),1,0,6
-,Orokin Drone (OrokinShieldDroneAgent),1,3,6
-,OrokinMinigunBombard,1,3,6
-,Corrupted Lancer (RifleLancer),1,0,7
-,Corrupted Crewman (RifleSpacemanAgent),1,0,7
-,Orokin Drone (OrokinShieldDroneAgent),1,3,7
-,Corrupted Ancient (OrokinHealingAncient),1,1,7
-,Corrupted Moa (OrokinMoaBipedAgent),1,1,7
-,OrokinMinigunBombard,1,1,7
-,Corrupted Lancer (RifleLancer),1,0,8
-,Corrupted Crewman (RifleSpacemanAgent),1,0,8
-,Orokin Drone (OrokinShieldDroneAgent),1,3,8
-,Corrupted Ancient (OrokinHealingAncient),1,2,8
-,OrokinMinigunBombard,1,2,8
-,Corrupted Lancer (RifleLancer),1,0,9
-,Corrupted Crewman (RifleSpacemanAgent),1,0,9
-,Orokin Drone (OrokinShieldDroneAgent),1,3,9
-,Corrupted Ancient (OrokinHealingAncient),1,2,9
-,Corrupted Moa (OrokinMoaBipedAgent),1,2,9
-,OrokinMinigunBombard,1,2,9
+,Orokin Drone (OrokinShieldDroneAgent),1,2,1
+,OrokinMinigunBombard,1,2,2
+,Corrupted Ancient (OrokinHealingAncient),1,2,3
+,Corrupted Moa (OrokinMoaBipedAgent),1,1,4
 SupCorpusInfestedMix,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
 ,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
@@ -1064,19 +761,32 @@ SupCorpusInfestedMix,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 ,剧毒爬行者 (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
 ,AiWeek/Crawlers/GrenadeCrawler,0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,0
-TestSectorGrineer,AIWeek/RifleLancer,1,0,0
-GrineerShipyardsA,AIWeek/RifleLancer,1,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+TestSectorGrineer,Corrupted Crewman (RifleSpacemanAgent),1,0,0
+,Corrupted Lancer (RifleLancer),1,0,0
+,Corrupted Moa (OrokinMoaBipedAgent),1,0,1
+,堕落者 (OrokinDroneAttackAgent),1,0,2
+,OrokinMinigunBombard,1,0,2
+TutorialGrineer,AIWeek/RifleLancer,1,1,0
+,Forest/JetpackMarineTutorial,1,2,0
+,AIWeek/BladeSawmanNoCover,0.30000001,2,0
+,TutorialMarine,1,0,0
+,AIWeek/GrineerFemaleTutorial,0.2,1,0
+ExtremeCorpusInvasion,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
+,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.30000001,0,0
+,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),0.5,0,0
+,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.1,0,0
+,熔岩恐鸟 (BipedRobot/AIWeek/SuperMoaBipedAgent),0.60000002,0,0
+,磁轨炮恐鸟 (BipedRobot/AIWeek/RailgunBipedAgent),0.40000001,0,0
+,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),0.40000001,0,0
+,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),0.60000002,0,0
+,狙击手船员 (Spaceman/AIWeek/SniperSpacemanAgent),0.25,0,0
+,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
-,AIWeek/MacheteWoman,0.2,0,0
-,AIWeek/ShotgunLancer,0.25,0,0
-,AIWeek/MinigunBombard,0.1,2,0
-,AIWeek/RocketBombard,0.1,0,0
-,GrineerMarinePistol,0.15000001,0,0
-,AIWeek/GrineerFemale,0.1,0,0
-,AIWeek/EviseratorLancer,0.1,0,0
-,AIWeek/JetpackMarine,0.050000001,0,0
-,AIWeek/GrineerMeleeStaffAgent,0.2,0,0
+,AIWeek/BladeSawman,0.30000001,0,0
+,AIWeek/MinigunBombard,0.1,0,0
+,AIWeek/EviseratorLancer,0.25,0,0
 CorpusGrineerInvasionEasy,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
@@ -1103,21 +813,6 @@ CorpusGrineerInvasionHard,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,AIWeek/ShotgunLancer,0.25,0,0
 ,AIWeek/MinigunBombard,0.1,0,0
 ,AIWeek/ShieldLancer,0.1,0,0
-ExtremeCorpusInvasion,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.30000001,0,0
-,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),0.5,0,0
-,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.1,0,0
-,熔岩恐鸟 (BipedRobot/AIWeek/SuperMoaBipedAgent),0.60000002,0,0
-,磁轨炮恐鸟 (BipedRobot/AIWeek/RailgunBipedAgent),0.40000001,0,0
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),0.40000001,0,0
-,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),0.60000002,0,0
-,狙击手船员 (Spaceman/AIWeek/SniperSpacemanAgent),0.25,0,0
-,AIWeek/RifleLancer,1,0,0
-,AIWeek/EliteRifleLancer,1,0,0
-,AIWeek/BladeSawman,0.30000001,0,0
-,AIWeek/MinigunBombard,0.1,0,0
-,AIWeek/EviseratorLancer,0.25,0,0
 ExtremeGrineerInvasion,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
@@ -1151,6 +846,17 @@ ExtremeInvasion,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,AIWeek/GrineerRollingDrone,0.25,0,0
 ,AIWeek/FlameLancer,0.2,0,0
 ,AIWeek/ShieldLancer,0.1,0,0
+GrineerShipyardsA,AIWeek/RifleLancer,1,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/MacheteWoman,0.2,0,0
+,AIWeek/ShotgunLancer,0.25,0,0
+,AIWeek/MinigunBombard,0.1,2,0
+,AIWeek/RocketBombard,0.1,0,0
+,GrineerMarinePistol,0.15000001,0,0
+,AIWeek/GrineerFemale,0.1,0,0
+,AIWeek/EviseratorLancer,0.1,0,0
+,AIWeek/JetpackMarine,0.050000001,0,0
+,AIWeek/GrineerMeleeStaffAgent,0.2,0,0
 GrineerShipyardsDefenseA,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawmanNoCover,0.30000001,0,0
@@ -1163,53 +869,20 @@ GrineerShipyardsDefenseA,AIWeek/RifleLancer,1,0,0
 ,AIWeek/MacheteWomanNoCover,0.2,0,2
 ,AIWeek/GrineerFemale,0.1,0,1
 ,AIWeek/FlameLancer,0.15000001,0,1
-,AIWeek/GrineerMeleeStaffAgent,0.2,0,1
-GrineerShipyardsSurvivalA,AIWeek/RifleLancer,1,10,0
-,AIWeek/EliteRifleLancer,1,15,0
-,AIWeek/MacheteWomanNoCover,1,3,0
-,AIWeek/BladeSawmanNoCoverSurvival,1,10,0
-,AIWeek/EliteRifleLancer,1,20,1
-,AIWeek/RifleLancer,1,20,1
-,AIWeek/BladeSawmanNoCoverSurvival,1,10,1
-,Forest/ShotgunLancer,1,2,1
-,AIWeek/RifleLancer,1,20,2
-,AIWeek/EliteRifleLancer,1,20,2
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,2
-,AIWeek/ShieldLancer,0.5,3,2
-,Forest/ShotgunLancer,1,2,2
-,AIWeek/EliteRifleLancer,1,20,3
-,AIWeek/RifleLancer,1,20,3
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,3
-,AIWeek/ShieldLancer,0.5,3,3
+,AIWeek/GrineerMeleeStaffAgentNoLeader,0.2,0,1
+,AIWeek/DeltaProsecutorAgent,1,1,9
+GrineerShipyardsSurvivalA,AIWeek/RifleLancer,1,0,0
+,AIWeek/MacheteWomanNoCover,0.2,3,0
+,AIWeek/BladeSawmanNoCoverSurvival,0.30000001,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/ShotgunLancer,0.25,3,1
+,GrineerMarinePistol,0.2,2,1
+,AIWeek/JetpackMarine,0.1,2,1
+,AIWeek/ShieldLancer,0.30000001,4,2
+,AIWeek/GrineerMeleeStaffAgentNoLeader,0.30000001,4,2
 ,AIWeek/GrineerFemale,1,3,3
-,AIWeek/EliteRifleLancer,1,20,4
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,4
-,AIWeek/ShieldLancer,0.5,4,4
-,AIWeek/IncendiaryBombard,1,3,4
-,AIWeek/GrineerFemale,1,4,4
-,AIWeek/EliteRifleLancer,1,20,5
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,5
-,AIWeek/ShieldLancer,0.5,4,5
-,AIWeek/FlameLancer,1,1,5
-,Forest/ShotgunLancer,1,3,5
-,AIWeek/EliteRifleLancer,1,20,6
-,AIWeek/BladeSawmanNoCoverSurvival,1,20,6
-,AIWeek/ShieldLancer,0.5,5,6
-,AIWeek/RocketBombard,1,3,6
-,Forest/ShotgunLancer,1,4,6
-,AIWeek/EliteRifleLancer,1,20,7
-,AIWeek/BladeSawmanNoCoverSurvival,1,15,7
-,AIWeek/ShieldLancer,0.5,5,7
-,AIWeek/MinigunBombard,1,3,7
-,AIWeek/GrineerFemale,1,5,7
-,Forest/ShotgunLancer,1,5,7
-,AIWeek/EliteRifleLancer,1,20,8
-,AIWeek/BladeSawmanNoCoverSurvival,1,10,8
-,AIWeek/ShieldLancer,0.5,6,8
-,AIWeek/IncendiaryBombard,1,3,8
-,AIWeek/GrineerFemale,1,6,8
-,AIWeek/EliteRifleLancer,1,20,9
-,AIWeek/BladeSawmanNoCoverSurvival,0.5,10,9
-,AIWeek/ShieldLancer,0.5,7,9
-,AIWeek/RocketBombard,1,1,9
-,AIWeek/MinigunBombard,1,2,9
+,AIWeek/MinigunBombard,0.1,3,3
+,AIWeek/RocketBombard,0.1,3,4
+,AIWeek/EviseratorLancer,0.1,2,5
+,AIWeek/GrineerRollingDrone,0.050000001,1,5
+,AIWeek/DeltaProsecutorAgent,1,1,9
