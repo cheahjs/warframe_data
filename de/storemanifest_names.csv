@@ -183,8 +183,8 @@ Secondary Generator Room Blueprint,/Lotus/StoreItems/Levels/SectorWars/Component
 Rail Docking Station Blueprint,/Lotus/StoreItems/Levels/SectorWars/ComponentRecipes/SectorWarsStart01Recipe
 Rail Loading Bay Blueprint,/Lotus/StoreItems/Levels/SectorWars/ComponentRecipes/SectorWarsStart02Recipe
 Specter Transporter,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpSpectreSpawnerRecipe
-Rai-Jin Cannon ,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretDecoRecipe
-Fu-Jin,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantADecoRecipe
+Fu-Jin Cannon ,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretDecoRecipe
+Rai-Jin Cannon ,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantADecoRecipe
 Su-Jin,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantBDecoRecipe
 Do-Jin,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantCDecoRecipe
 Void Carry,/Lotus/StoreItems/Powersuits/All/CarryAbilityCard
@@ -377,9 +377,11 @@ Orokin-Reaktor,/Lotus/StoreItems/Types/Items/MiscItems/OrokinReactor
 Oxium,/Lotus/StoreItems/Types/Items/MiscItems/OxiumAlloy
 Plastide,/Lotus/StoreItems/Types/Items/MiscItems/Plastids
 Polymerbündel,/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle
+Polymerbündel,/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle240TutorialQuest
 Polymerbündel,/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundleRaidTutorial
 Rubedo,/Lotus/StoreItems/Types/Items/MiscItems/Rubedo
 Bergungsgut,/Lotus/StoreItems/Types/Items/MiscItems/Salvage
+Bergungsgut,/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest
 Bergungsgut,/Lotus/StoreItems/Types/Items/MiscItems/SalvageRaidTutorial
 Delta Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentA
 Gamma Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentB
@@ -2009,7 +2011,7 @@ Excalibur Avalon-Helm,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelmet
 Excalibur Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburNobleAnims
 Alabaster Skin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeAlabasterSkin
 Excalibur Prime-Helm,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeHelmet
-/Lotus/Language/Items/Protoexcaliburhelmetname,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoHelmet
+Excalibur Proto-Armor Skin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoHelmet
 Excalibur Proto-Armor Skin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoSuit
 Excalibur-Helm,/Lotus/StoreItems/Upgrades/Skins/Excalibur/GeoffcaliburHelmet
 Frost Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostAgileAnims
