@@ -3488,6 +3488,7 @@
   "/Lotus/Types/PickUps/FuelRodItem": "Pamięć Masowa",
   "/Lotus/Types/PickUps/HackDeviceItem": "Pamięć Masowa",
   "/Lotus/Types/PickUps/IntelItem": "Pamięć Masowa",
+  "/Lotus/Types/PickUps/IntelItemTutorial": "Szyfr",
   "/Lotus/Types/PickUps/Key": "Przepustka",
   "/Lotus/Types/PickUps/MediumLootCrateCmpA": "Dusty Storage Container",
   "/Lotus/Types/PickUps/MediumLootCrateCmpB": "Dusty Storage Crate",

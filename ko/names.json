@@ -3488,6 +3488,7 @@
   "/Lotus/Types/PickUps/FuelRodItem": "데이터매스",
   "/Lotus/Types/PickUps/HackDeviceItem": "데이터매스",
   "/Lotus/Types/PickUps/IntelItem": "데이터매스",
+  "/Lotus/Types/PickUps/IntelItemTutorial": "사이퍼 칩",
   "/Lotus/Types/PickUps/Key": "키패스",
   "/Lotus/Types/PickUps/MediumLootCrateCmpA": "Dusty Storage Container",
   "/Lotus/Types/PickUps/MediumLootCrateCmpB": "Dusty Storage Crate",
