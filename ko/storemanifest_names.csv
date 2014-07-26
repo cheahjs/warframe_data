@@ -333,8 +333,8 @@ Raksa Kubrow,/Lotus/StoreItems/Types/Game/KubrowPet/GuardKubrowPetPowerSuit
 Sunika Kubrow,/Lotus/StoreItems/Types/Game/KubrowPet/HunterKubrowPetPowerSuit
 /Lotus/Language/Items/Imprintedtraitprintname,/Lotus/StoreItems/Types/Game/KubrowPet/ImprintedTraitPrint
 Nai-Zhen Collar,/Lotus/StoreItems/Types/Game/KubrowPet/KubrowPetCollarItem
-Dna Stabilizer Kit,/Lotus/StoreItems/Types/Game/KubrowPet/KubrowPetFood
-Dna Stabilizer Kit,/Lotus/StoreItems/Types/Game/KubrowPet/KubrowPetFoodRecipe
+Dna Stabilizers,/Lotus/StoreItems/Types/Game/KubrowPet/KubrowPetFood
+Dna Stabilizers,/Lotus/StoreItems/Types/Game/KubrowPet/KubrowPetFoodRecipe
 Kubrow,/Lotus/StoreItems/Types/Game/KubrowPet/KubrowPetPowerSuit
 Kubrow,/Lotus/StoreItems/Types/Game/KubrowPet/KubrowPetRecipe
 Solar Rail - Tower Class,/Lotus/StoreItems/Types/Game/SolarRails/BasicSolarRail
@@ -1289,6 +1289,7 @@ Daybreak,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerDaybr
 Tenno,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerDefaultsItemA
 부활절 팔렛트,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerEasterItemA
 파이어 팔렛트,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerFireItemA
+Gamma,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerGammaItemA
 그리니어 팔렛트,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerGrineerItemA
 Halloween,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerHalloweenItemA
 아이스 팔렛트,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerIceItemA
@@ -1369,6 +1370,39 @@ Common 퓨젼 코어,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl1ModFuser
 Common 퓨젼 코어,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl2ModFuser
 Common 퓨젼 코어,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl3ModFuser
 Common 퓨젼 코어,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonModFuser
+Common Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyCommonLvl10ModFuser
+Common Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyCommonLvl1ModFuser
+Common Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyCommonLvl2ModFuser
+Common Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyCommonLvl3ModFuser
+Common Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyCommonLvl4ModFuser
+Common Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyCommonLvl5ModFuser
+Common Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyCommonLvl6ModFuser
+Common Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyCommonLvl7ModFuser
+Common Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyCommonLvl8ModFuser
+Common Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyCommonLvl9ModFuser
+Common Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyCommonModFuser
+Rare Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyRareLvl10ModFuser
+Rare Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyRareLvl1ModFuser
+Rare Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyRareLvl2ModFuser
+Rare Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyRareLvl3ModFuser
+Rare Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyRareLvl4ModFuser
+Rare Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyRareLvl5ModFuser
+Rare Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyRareLvl6ModFuser
+Rare Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyRareLvl7ModFuser
+Rare Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyRareLvl8ModFuser
+Rare Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyRareLvl9ModFuser
+Rare Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyRareModFuser
+Uncommon Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyUncommonLvl10ModFuser
+Uncommon Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyUncommonLvl1ModFuser
+Uncommon Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyUncommonLvl2ModFuser
+Uncommon Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyUncommonLvl3ModFuser
+Uncommon Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyUncommonLvl4ModFuser
+Uncommon Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyUncommonLvl5ModFuser
+Uncommon Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyUncommonLvl6ModFuser
+Uncommon Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyUncommonLvl7ModFuser
+Uncommon Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyUncommonLvl8ModFuser
+Uncommon Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyUncommonLvl9ModFuser
+Uncommon Ancient Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegacyUncommonModFuser
 Legendary Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/LegendaryModFuser
 Rare 퓨젼 코어,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl1ModFuser
 Rare 퓨젼 코어,/Lotus/StoreItems/Upgrades/Mods/Fusers/RareLvl2ModFuser
@@ -1552,6 +1586,7 @@ Steady Hands,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponRecoilReductionMod
 Razor Shot,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponSlashDamageMod
 스타핑 파워,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponStunChanceMod
 Pathogen Rounds,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponToxinDamageMod
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/PvPMods/KnockdownRecoveryLevelAura
 애모 드럼,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponAmmoMaxModBeginner
 피어싱 히트,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponArmorPiercingDamageModBeginner
 매거진 워프,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponClipMaxModBeginner

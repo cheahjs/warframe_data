@@ -377,8 +377,8 @@ Lillith,Europa,Survival,Corpus,/Lotus/Types/Game/CorpusSurvivalA,/Lotus/Types/Ga
 Naamah,Europa,Assassination,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/BossMissionRewards/NovaRewards,10 - 75,0.40000001,0
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,0
 Baal,Europa,Mobile Defense,Corpus,/Lotus/Types/Game/CorpusSquadC,,10 - 75,0.40000001,0
-Valefor,Europa,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,1
+Valefor,Europa,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,1
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,1
 Sorath,Europa,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadA,,10 - 75,0.40000001,1
@@ -391,11 +391,10 @@ Orias,Europa,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadB,,10 - 75,0.40000001,2
 Zagan,Europa,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
 Larzac,Europa,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,10 - 75,0.40000001,2
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,2
-,Europa,Assassination,Grineer,,,10 - 75,0.40000001,2
 Beleth,Europa,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
 Kokabiel,Europa,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadA,,10 - 75,0.40000001,2
 Neit,Europa,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
-,Europa,Assassination,Grineer,,,10 - 75,0.40000001,3
+,Europa,Assassination,Grineer,,,10 - 75,0.40000001,2
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,3
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,3
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,3
@@ -403,6 +402,7 @@ Neit,Europa,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/Miss
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,3
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,3
 Cholistan,Europa,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards,10 - 75,0.40000001,3
+,Europa,Assassination,Grineer,,,10 - 75,0.40000001,3
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,3
 Limtoc,Phobos,Capture,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,,20 - 50,0.30000001,0
 Conclave,Phobos,MT_PVP,Corrupted,,,20 - 50,0.30000001,0

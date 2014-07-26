@@ -377,8 +377,8 @@ Lillith,유로파,Survival,Corpus,/Lotus/Types/Game/CorpusSurvivalA,/Lotus/Types
 Naamah,유로파,Assassination,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/BossMissionRewards/NovaRewards,10 - 75,0.40000001,0
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,0
 Baal,유로파,Mobile Defense,Corpus,/Lotus/Types/Game/CorpusSquadC,,10 - 75,0.40000001,0
-Valefor,유로파,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,1
+Valefor,유로파,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,1
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,1
 Sorath,유로파,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadA,,10 - 75,0.40000001,1
@@ -391,11 +391,10 @@ Orias,유로파,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadB,,10 - 75,0.40000001
 Zagan,유로파,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
 Larzac,유로파,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,10 - 75,0.40000001,2
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,2
-,유로파,Assassination,Grineer,,,10 - 75,0.40000001,2
 Beleth,유로파,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
 Kokabiel,유로파,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadA,,10 - 75,0.40000001,2
 Neit,유로파,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
-,유로파,Assassination,Grineer,,,10 - 75,0.40000001,3
+,유로파,Assassination,Grineer,,,10 - 75,0.40000001,2
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,3
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,3
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,3
@@ -403,6 +402,7 @@ Neit,유로파,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/M
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,3
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,3
 Cholistan,유로파,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards,10 - 75,0.40000001,3
+,유로파,Assassination,Grineer,,,10 - 75,0.40000001,3
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,3
 Limtoc,Phobos,Capture,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,,20 - 50,0.30000001,0
 Conclave,Phobos,MT_PVP,Corrupted,,,20 - 50,0.30000001,0

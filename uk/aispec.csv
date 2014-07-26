@@ -1,4 +1,9 @@
 Deck,Enemy,Probability,Max Simultaneous,Tier
+TestSectorGrineer,Corrupted Crewman (RifleSpacemanAgent),1,0,0
+,Corrupted Lancer (RifleLancer),1,0,0
+,Corrupted Moa (OrokinMoaBipedAgent),1,0,1
+,Спотворений (OrokinDroneAttackAgent),1,0,2
+,OrokinMinigunBombard,1,0,2
 TutorialGrineer,AIWeek/RifleLancer,1,1,0
 ,Forest/JetpackMarineTutorial,1,2,0
 ,AIWeek/BladeSawmanNoCover,0.30000001,2,0
@@ -761,11 +766,6 @@ SupCorpusInfestedMix,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent
 ,Отруйний Повзун (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
 ,AiWeek/Crawlers/GrenadeCrawler,0.1,0,0
 ,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-TestSectorGrineer,Corrupted Crewman (RifleSpacemanAgent),1,0,0
-,Corrupted Lancer (RifleLancer),1,0,0
-,Corrupted Moa (OrokinMoaBipedAgent),1,0,1
-,Спотворений (OrokinDroneAttackAgent),1,0,2
-,OrokinMinigunBombard,1,0,2
 ExtremeCorpusInvasion,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.30000001,0,0
