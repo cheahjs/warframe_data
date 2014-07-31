@@ -1914,6 +1914,10 @@ Nova Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiMatterA
 Nova Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiMatterNobleAnims
 Nova Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaAlternateSkin
 Quantum Nova Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaQuantumHelmet
+Dendra Shoulder Guard,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncALArmor
+Dendra Shoulder Guard,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncARArmor
+Dendra Leg Guard,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncLLArmor
+Dendra Leg Guard,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncLRArmor
 Iliac Shoulder Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsArmLeftArmor
 Iliac Shoulder Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsArmRightArmor
 Iliac Chest Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsChestArmor
@@ -2288,6 +2292,7 @@ Supra,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpHeavyRifle
 Supra Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpHeavyRifleBlueprint
 Spectra,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserPistol
 Fusil À Flux,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserRifle
+Quanta Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpShockRifleBlueprint
 Prova,/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProd
 Prova Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProdBlueprint
 Dera,/Lotus/StoreItems/Weapons/ClanTech/Energy/EnergyRifle
@@ -2546,6 +2551,7 @@ Kit De Survie,/Lotus/Types/StoreItems/Packages/ConsumablesPack
 Shock Camo Cestra,/Lotus/Types/StoreItems/Packages/CorpusDazzleCamoCestraSkinPack
 Shock Camo Pack,/Lotus/Types/StoreItems/Packages/CorpusDazzleCamoSkinPack
 Shock Camo Lanka,/Lotus/Types/StoreItems/Packages/CorpusDazzleCamoSniperSkinPack
+Dendra Armor Set,/Lotus/Types/StoreItems/Packages/CrpFncArmorPack
 Week-End Event: Promo Dethcube,/Lotus/Types/StoreItems/Packages/DefenseEventPack
 Double Affinity Weekend Pack,/Lotus/Types/StoreItems/Packages/DoubleAffinityPack
 Pack De Mérite Volt,/Lotus/Types/StoreItems/Packages/ElectricPack

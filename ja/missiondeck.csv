@@ -33,7 +33,7 @@ Aphrodite,金星,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game
 Vesper,金星,Spy,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,20 - 40,0.2,0
 Cytherean,金星,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadA,,20 - 40,0.2,0
 E Gate,金星,Survival,Corpus,/Lotus/Types/Game/CorpusSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalLowLevelRewards,20 - 40,0.2,0
-Linea,金星,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadA,,20 - 40,0.2,0
+Linea,金星,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,20 - 40,0.2,0
 ,金星,Assassination,Grineer,,,20 - 40,0.2,0
 Fossa,金星,Assassination,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/BossMissionRewards/RhinoRewards,20 - 40,0.2,1
 Conclave,金星,MT_PVP,Corrupted,,,20 - 40,0.2,1
@@ -106,7 +106,7 @@ Elatha,火星,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/
 Gradivus,火星,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadA,,20 - 50,0.30000001,2
 Wahiba,火星,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards,20 - 50,0.30000001,2
 Quirinus,火星,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,20 - 50,0.30000001,2
-Spear,火星,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,20 - 50,0.30000001,2
+Spear,火星,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,20 - 50,0.30000001,2
 Ganymede,木星,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadD,,20 - 60,0.40000001,0
 Adrastea,木星,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadD,,20 - 60,0.40000001,0
 ,木星,Assassination,Grineer,,,20 - 60,0.40000001,0
@@ -207,7 +207,7 @@ Ethniu,天王星,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Type
 Assur,天王星,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards,30 - 70,0.40000001,3
 Ur,天王星,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 70,0.40000001,3
 Larissa,海王星,Mobile Defense,Corpus,/Lotus/Types/Game/CorpusSquadA,,30 - 70,0.5,0
-Thalassa,海王星,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsHard,30 - 70,0.5,0
+Thalassa,海王星,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard,30 - 70,0.5,0
 Naiad,海王星,Deception,Corpus,/Lotus/Types/Game/CorpusSquadC,,30 - 70,0.5,0
 Galatea,海王星,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,30 - 70,0.5,0
 ,海王星,Assassination,Grineer,,,30 - 70,0.5,0
@@ -299,12 +299,12 @@ Seimeni,ケレス,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/
 Cyath,エリス,Mobile Defense,Infestation,/Lotus/Types/Game/InfestedSquadA,,30 - 70,0.40000001,0
 Cosis,エリス,Capture,Infestation,/Lotus/Types/Game/InfestedSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,30 - 70,0.40000001,0
 Candiru,エリス,Hive Sabotage,Infestation,/Lotus/Types/Game/InfestedSquadD,,30 - 70,0.40000001,0
-Ascar,エリス,Spy,Infestation,/Lotus/Types/Game/InfestedSquadC,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,30 - 70,0.40000001,0
+Ascar,エリス,Mobile Defense,Infestation,/Lotus/Types/Game/InfestedSquadC,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,30 - 70,0.40000001,0
 ,エリス,Assassination,Grineer,,,30 - 70,0.40000001,0
-Giardia,エリス,Spy,Infestation,/Lotus/Types/Game/InfestedSquadB,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,30 - 70,0.40000001,0
+Giardia,エリス,Mobile Defense,Infestation,/Lotus/Types/Game/InfestedSquadB,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,30 - 70,0.40000001,0
 ,エリス,Assassination,Grineer,,,30 - 70,0.40000001,0
 Acanth,エリス,Extermination,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,0
-Brugia,エリス,Rescue,Infestation,/Lotus/Types/Game/InfestedSquadC,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium,30 - 70,0.40000001,0
+Brugia,エリス,Rescue,Infestation,/Lotus/Types/Game/InfestedSquadC,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard,30 - 70,0.40000001,0
 Lepis,エリス,Hive Sabotage,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,1
 Kala-azar,エリス,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/MissionRewardsCorpus,30 - 70,0.40000001,1
 Hymeno,エリス,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 70,0.40000001,1
@@ -318,15 +318,15 @@ Ixodes,エリス,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/T
 Saxis,エリス,Extermination,Infestation,/Lotus/Types/Game/InfestedSquadD,,30 - 70,0.40000001,2
 Phalan,エリス,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 70,0.40000001,2
 ,エリス,Assassination,Grineer,,,30 - 70,0.40000001,2
-Oestrus,エリス,Deception,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,2
-Ranova,エリス,Rescue,Infestation,/Lotus/Types/Game/InfestedSquadA,,30 - 70,0.40000001,2
+Oestrus,エリス,Mobile Defense,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,2
+Ranova,エリス,Rescue,Infestation,/Lotus/Types/Game/InfestedSquadA,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard,30 - 70,0.40000001,2
 Psoro,エリス,Hive Sabotage,Infestation,/Lotus/Types/Game/InfestedSquadB,,30 - 70,0.40000001,2
 Nimus,エリス,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,30 - 70,0.40000001,2
 ,エリス,Assassination,Grineer,,,30 - 70,0.40000001,2
 Lugh,エリス,Deception,Corpus,/Lotus/Types/Game/CorpusSquadC,,30 - 70,0.40000001,3
-Solium,エリス,Deception,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,3
+Solium,エリス,Mobile Defense,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,3
 Akkad,エリス,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 70,0.40000001,3
-Sparga,エリス,Rescue,Infestation,/Lotus/Types/Game/InfestedSquadB,,30 - 70,0.40000001,3
+Sparga,エリス,Rescue,Infestation,/Lotus/Types/Game/InfestedSquadB,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard,30 - 70,0.40000001,3
 Xini,エリス,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/MissionRewardsCorpus,30 - 70,0.40000001,3
 Viver,エリス,Interception,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsHard,30 - 70,0.40000001,3
 Zabala,エリス,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards,30 - 70,0.40000001,3

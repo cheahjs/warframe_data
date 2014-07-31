@@ -33,7 +33,7 @@ Aphrodite,Венера,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Type
 Vesper,Венера,Spy,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,20 - 40,0.2,0
 Cytherean,Венера,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadA,,20 - 40,0.2,0
 E Gate,Венера,Survival,Corpus,/Lotus/Types/Game/CorpusSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalLowLevelRewards,20 - 40,0.2,0
-Linea,Венера,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadA,,20 - 40,0.2,0
+Linea,Венера,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,20 - 40,0.2,0
 ,Венера,Assassination,Grineer,,,20 - 40,0.2,0
 Fossa,Венера,Assassination,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/BossMissionRewards/RhinoRewards,20 - 40,0.2,1
 Conclave,Венера,MT_PVP,Corrupted,,,20 - 40,0.2,1
@@ -106,7 +106,7 @@ Elatha,Марс,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Type
 Gradivus,Марс,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadA,,20 - 50,0.30000001,2
 Wahiba,Марс,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards,20 - 50,0.30000001,2
 Quirinus,Марс,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,20 - 50,0.30000001,2
-Spear,Марс,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,20 - 50,0.30000001,2
+Spear,Марс,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,20 - 50,0.30000001,2
 Ganymede,Юпітер,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadD,,20 - 60,0.40000001,0
 Adrastea,Юпітер,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadD,,20 - 60,0.40000001,0
 ,Юпітер,Assassination,Grineer,,,20 - 60,0.40000001,0
@@ -207,7 +207,7 @@ Ethniu,Уран,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types
 Assur,Уран,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards,30 - 70,0.40000001,3
 Ur,Уран,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 70,0.40000001,3
 Larissa,Нептун,Mobile Defense,Corpus,/Lotus/Types/Game/CorpusSquadA,,30 - 70,0.5,0
-Thalassa,Нептун,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsHard,30 - 70,0.5,0
+Thalassa,Нептун,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard,30 - 70,0.5,0
 Naiad,Нептун,Deception,Corpus,/Lotus/Types/Game/CorpusSquadC,,30 - 70,0.5,0
 Galatea,Нептун,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,30 - 70,0.5,0
 ,Нептун,Assassination,Grineer,,,30 - 70,0.5,0
@@ -299,12 +299,12 @@ Seimeni,Церера,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lot
 Cyath,Ерида,Mobile Defense,Infestation,/Lotus/Types/Game/InfestedSquadA,,30 - 70,0.40000001,0
 Cosis,Ерида,Capture,Infestation,/Lotus/Types/Game/InfestedSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,30 - 70,0.40000001,0
 Candiru,Ерида,Hive Sabotage,Infestation,/Lotus/Types/Game/InfestedSquadD,,30 - 70,0.40000001,0
-Ascar,Ерида,Spy,Infestation,/Lotus/Types/Game/InfestedSquadC,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,30 - 70,0.40000001,0
+Ascar,Ерида,Mobile Defense,Infestation,/Lotus/Types/Game/InfestedSquadC,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,30 - 70,0.40000001,0
 ,Ерида,Assassination,Grineer,,,30 - 70,0.40000001,0
-Giardia,Ерида,Spy,Infestation,/Lotus/Types/Game/InfestedSquadB,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,30 - 70,0.40000001,0
+Giardia,Ерида,Mobile Defense,Infestation,/Lotus/Types/Game/InfestedSquadB,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,30 - 70,0.40000001,0
 ,Ерида,Assassination,Grineer,,,30 - 70,0.40000001,0
 Acanth,Ерида,Extermination,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,0
-Brugia,Ерида,Rescue,Infestation,/Lotus/Types/Game/InfestedSquadC,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium,30 - 70,0.40000001,0
+Brugia,Ерида,Rescue,Infestation,/Lotus/Types/Game/InfestedSquadC,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard,30 - 70,0.40000001,0
 Lepis,Ерида,Hive Sabotage,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,1
 Kala-azar,Ерида,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/MissionRewardsCorpus,30 - 70,0.40000001,1
 Hymeno,Ерида,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 70,0.40000001,1
@@ -318,15 +318,15 @@ Ixodes,Ерида,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/
 Saxis,Ерида,Extermination,Infestation,/Lotus/Types/Game/InfestedSquadD,,30 - 70,0.40000001,2
 Phalan,Ерида,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 70,0.40000001,2
 ,Ерида,Assassination,Grineer,,,30 - 70,0.40000001,2
-Oestrus,Ерида,Deception,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,2
-Ranova,Ерида,Rescue,Infestation,/Lotus/Types/Game/InfestedSquadA,,30 - 70,0.40000001,2
+Oestrus,Ерида,Mobile Defense,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,2
+Ranova,Ерида,Rescue,Infestation,/Lotus/Types/Game/InfestedSquadA,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard,30 - 70,0.40000001,2
 Psoro,Ерида,Hive Sabotage,Infestation,/Lotus/Types/Game/InfestedSquadB,,30 - 70,0.40000001,2
 Nimus,Ерида,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,30 - 70,0.40000001,2
 ,Ерида,Assassination,Grineer,,,30 - 70,0.40000001,2
 Lugh,Ерида,Deception,Corpus,/Lotus/Types/Game/CorpusSquadC,,30 - 70,0.40000001,3
-Solium,Ерида,Deception,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,3
+Solium,Ерида,Mobile Defense,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,3
 Akkad,Ерида,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 70,0.40000001,3
-Sparga,Ерида,Rescue,Infestation,/Lotus/Types/Game/InfestedSquadB,,30 - 70,0.40000001,3
+Sparga,Ерида,Rescue,Infestation,/Lotus/Types/Game/InfestedSquadB,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard,30 - 70,0.40000001,3
 Xini,Ерида,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/MissionRewardsCorpus,30 - 70,0.40000001,3
 Viver,Ерида,Interception,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsHard,30 - 70,0.40000001,3
 Zabala,Ерида,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards,30 - 70,0.40000001,3

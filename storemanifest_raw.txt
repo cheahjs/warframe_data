@@ -1914,6 +1914,10 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiMatterNobleAnims,
 /Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaAlternateSkin,
 /Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaQuantumHelmet,
+/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncALArmor,
+/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncARArmor,
+/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncLLArmor,
+/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncLRArmor,
 /Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsArmLeftArmor,
 /Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsArmRightArmor,
 /Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsChestArmor,
@@ -2288,6 +2292,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/ClanTech/Energy/CrpHeavyRifleBlueprint,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserPistol,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserRifle,
+/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpShockRifleBlueprint,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProd,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProdBlueprint,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/EnergyRifle,
@@ -2546,6 +2551,7 @@ StoreItems={
 /Lotus/Types/StoreItems/Packages/CorpusDazzleCamoCestraSkinPack,
 /Lotus/Types/StoreItems/Packages/CorpusDazzleCamoSkinPack,
 /Lotus/Types/StoreItems/Packages/CorpusDazzleCamoSniperSkinPack,
+/Lotus/Types/StoreItems/Packages/CrpFncArmorPack,
 /Lotus/Types/StoreItems/Packages/DefenseEventPack,
 /Lotus/Types/StoreItems/Packages/DoubleAffinityPack,
 /Lotus/Types/StoreItems/Packages/ElectricPack,
@@ -2599,7 +2605,7 @@ OverrideTexture=/Lotus/Interface/Graphics/Store/FeaturedMirage_d.png
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Weapons/Infested/LongGuns/InfCrpShockSwarm/InfCrpShockSwarmRifle
+StoreItem=/Lotus/StoreItems/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRifle
 Slot=Primary
 OverrideTexture=""
 OverrideMaterial=""
@@ -2624,13 +2630,13 @@ OverrideMaterial=""
 },
 {
 StoreItem=/Lotus/Types/StoreItems/Packages/KubrowStarterKit
-Slot=PrimeAccess1
+Slot=Primary
 OverrideTexture=/Lotus/Interface/Graphics/ClanTileImages/ClanEnterDojo.png
 OverrideMaterial=""
 },
 {
 StoreItem=/Lotus/Types/StoreItems/Packages/KubrowStarterKit
-Slot=PrimeAccess2
+Slot=Primary
 OverrideTexture=/Lotus/Interface/Graphics/FriendsTileImages/FriendsRecent.png
 OverrideMaterial=""
 }
