@@ -2155,7 +2155,7 @@ Zephyr Systems Blueprint (/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguS
 唧筒扩容 (/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponClipMaxModExpert),Upgrades,NO,YES,?,?,
 唧筒扩容 (/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponClipMaxMod),Upgrades,NO,YES,?,?,
 回收金属 (/Lotus/StoreItems/Types/Items/MiscItems/Salvage),MiscItems,YES,NO,?,30,
-回收金属 (/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest),MiscItems,YES,NO,?,30,
+回收金属 (/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest),MiscItems,NO,NO,?,30,
 回收金属 (/Lotus/StoreItems/Types/Items/MiscItems/SalvageRaidTutorial),MiscItems,NO,NO,?,30,
 团队治愈 (/Lotus/StoreItems/Types/Restoratives/TeamHeal),Consumables,NO,NO,750,?,Sun Sep 15 21:00:00 2013
 团队治愈 (/Lotus/StoreItems/Types/Restoratives/TeamHealTotem),Consumables,NO,NO,?,?,
@@ -2506,7 +2506,7 @@ Zephyr Systems Blueprint (/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguS
 翻筋斗 (/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarKnockdownRecoveryModExpert),Upgrades,NO,YES,?,?,
 翻筋斗 (/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarKnockdownRecoveryModIntermediate),Upgrades,NO,YES,?,?,
 聚合物束 (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle),MiscItems,YES,NO,?,30,
-聚合物束 (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle240TutorialQuest),MiscItems,YES,NO,?,30,
+聚合物束 (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle240TutorialQuest),MiscItems,NO,NO,?,30,
 聚合物束 (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundleRaidTutorial),MiscItems,NO,NO,?,30,
 肢解 (/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponCritDamageModBeginner),Upgrades,NO,YES,?,?,
 肢解 (/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponCritDamageModExpert),Upgrades,NO,YES,?,?,

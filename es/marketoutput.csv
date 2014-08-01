@@ -1779,7 +1779,7 @@ Paquete De Créditospródigo (/Lotus/StoreItems/Types/StoreItems/CreditBundles/C
 Paquete De Imágenes Avatar 1 (/Lotus/Types/StoreItems/AvatarImages/AvatarImagePack1),Packages,NO,NO,25000,20,
 Paquete De Imágenes Avatar 2 (/Lotus/Types/StoreItems/AvatarImages/AvatarImagePack2),Packages,NO,NO,25000,20,
 Paquete De Polímero (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle),MiscItems,YES,NO,?,30,
-Paquete De Polímero (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle240TutorialQuest),MiscItems,YES,NO,?,30,
+Paquete De Polímero (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle240TutorialQuest),MiscItems,NO,NO,?,30,
 Paquete De Polímero (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundleRaidTutorial),MiscItems,NO,NO,?,30,
 Paquete De Warframes Femenino (/Lotus/Types/StoreItems/Packages/FemaleSuitPack),Packages,YES,NO,?,?,
 Paquete Valor De Volt (/Lotus/Types/StoreItems/Packages/ElectricPack),Packages,YES,NO,?,?,
@@ -2009,7 +2009,7 @@ Restaurador De Salud Grande Blueprint (/Lotus/StoreItems/Types/StoreItems/Consum
 Restaurador De Salud Pequeño (/Lotus/StoreItems/Types/Restoratives/SelfHealSmall),Consumables,NO,NO,250,?,Sat Sep 14 21:00:00 2013
 Restore Ship Comms (/Lotus/StoreItems/Types/Keys/VorsPrize/MissionOne),LevelKeys,NO,YES,?,75,
 Restos (/Lotus/StoreItems/Types/Items/MiscItems/Salvage),MiscItems,YES,NO,?,30,
-Restos (/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest),MiscItems,YES,NO,?,30,
+Restos (/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest),MiscItems,NO,NO,?,30,
 Restos (/Lotus/StoreItems/Types/Items/MiscItems/SalvageRaidTutorial),MiscItems,NO,NO,?,30,
 Retribución (/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarRevengeDamageMelee),Upgrades,NO,YES,?,?,
 Retribución (/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarRevengeDamageMeleeExpert),Upgrades,NO,YES,?,?,

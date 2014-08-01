@@ -2562,7 +2562,7 @@ Zephyr Systems Blueprint (/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguS
 サイファー x50 Blueprint (/Lotus/StoreItems/Types/StoreItems/Consumables/HundredCipherBlueprint),Recipes,NO,NO,?,15,
 サバイバルキット (/Lotus/Types/StoreItems/Packages/ConsumablesPack),Packages,NO,NO,?,6,
 サルベージ (/Lotus/StoreItems/Types/Items/MiscItems/Salvage),MiscItems,YES,NO,?,30,
-サルベージ (/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest),MiscItems,YES,NO,?,30,
+サルベージ (/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest),MiscItems,NO,NO,?,30,
 サルベージ (/Lotus/StoreItems/Types/Items/MiscItems/SalvageRaidTutorial),MiscItems,NO,NO,?,30,
 ショットガン弾薬ボックス (/Lotus/StoreItems/Types/Restoratives/SelfShotgunAmmo),Consumables,NO,NO,1000,?,Thu Sep 12 21:00:00 2013
 シールドレストア (/Lotus/StoreItems/Types/Restoratives/SelfShieldHeal),Consumables,NO,NO,100,?,Sun Sep 15 21:00:00 2013
@@ -2616,7 +2616,7 @@ Zephyr Systems Blueprint (/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguS
 プラスチド (/Lotus/StoreItems/Types/Items/MiscItems/Plastids),MiscItems,YES,NO,?,30,
 プランター Blueprint (/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/DojoPlanterARecipe),Recipes,NO,NO,50000,?,
 ポリマーバンドル (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle),MiscItems,YES,NO,?,30,
-ポリマーバンドル (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle240TutorialQuest),MiscItems,YES,NO,?,30,
+ポリマーバンドル (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle240TutorialQuest),MiscItems,NO,NO,?,30,
 ポリマーバンドル (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundleRaidTutorial),MiscItems,NO,NO,?,30,
 ミュータジェン サンプル (/Lotus/StoreItems/Types/Items/Research/BioFragment),MiscItems,YES,NO,?,15,
 ミュータジェン マス (/Lotus/StoreItems/Types/Items/Research/BioComponent),MiscItems,NO,NO,?,10,

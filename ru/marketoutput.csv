@@ -1700,7 +1700,7 @@ Zephyr Systems Blueprint (/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguS
 Вольт Blueprint (/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VOLTBlueprint),Recipes,NO,NO,35000,?,
 Восстановитель Щита (/Lotus/StoreItems/Types/Restoratives/SelfShieldHeal),Consumables,NO,NO,100,?,Sun Sep 15 21:00:00 2013
 Вторсырье (/Lotus/StoreItems/Types/Items/MiscItems/Salvage),MiscItems,YES,NO,?,30,
-Вторсырье (/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest),MiscItems,YES,NO,?,30,
+Вторсырье (/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest),MiscItems,NO,NO,?,30,
 Вторсырье (/Lotus/StoreItems/Types/Items/MiscItems/SalvageRaidTutorial),MiscItems,NO,NO,?,30,
 Вулкар (/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerSniperRifle/GrnSniperRifle),LongGuns,YES,NO,?,225,
 Вулкар Blueprint (/Lotus/StoreItems/Types/Recipes/Weapons/GrnSniperRifleBlueprint),Recipes,YES,NO,20000,?,
@@ -1915,7 +1915,7 @@ Zephyr Systems Blueprint (/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TenguS
 Комплект Локи (/Lotus/Types/StoreItems/Packages/LokiPack),Packages,YES,NO,?,275,
 Комплект Никс (/Lotus/Types/StoreItems/Packages/JadePack),Packages,YES,NO,?,?,
 Комплект Полимеров (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle),MiscItems,YES,NO,?,30,
-Комплект Полимеров (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle240TutorialQuest),MiscItems,YES,NO,?,30,
+Комплект Полимеров (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle240TutorialQuest),MiscItems,NO,NO,?,30,
 Комплект Полимеров (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundleRaidTutorial),MiscItems,NO,NO,?,30,
 Комплект Холодный Прием (/Lotus/Types/StoreItems/Packages/FrostPack),Packages,YES,NO,?,700,
 Конвульсия (/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponElectricityDamageModBeginner),Upgrades,NO,YES,?,?,

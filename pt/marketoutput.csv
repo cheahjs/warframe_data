@@ -1740,7 +1740,7 @@ Pacote De Mods Águia (/Lotus/StoreItems/Types/BoosterPacks/RareArtifactPack),Ca
 Pacote De Mods Águia (/Lotus/StoreItems/Types/BoosterPacks/SingleCommonArtifact),Cards,NO,NO,?,?,
 Pacote De Mods Águia (/Lotus/StoreItems/Types/BoosterPacks/SingleRareArtifact),Cards,NO,NO,?,?,
 Pacote De Polímero (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle),MiscItems,YES,NO,?,30,
-Pacote De Polímero (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle240TutorialQuest),MiscItems,YES,NO,?,30,
+Pacote De Polímero (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle240TutorialQuest),MiscItems,NO,NO,?,30,
 Pacote De Polímero (/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundleRaidTutorial),MiscItems,NO,NO,?,30,
 Pacote Do Deathcube Somente Nesse Fim De Semana (/Lotus/Types/StoreItems/Packages/DefenseEventPack),Packages,NO,NO,?,?,
 Pacote Femme Fatale (/Lotus/Types/StoreItems/Packages/FemaleSuitPackB),Packages,YES,NO,?,?,
@@ -2024,7 +2024,7 @@ Resource Drop Chance Booster (/Lotus/Types/StoreItems/Boosters/ResourceDropChanc
 Restauração De Escudo (/Lotus/StoreItems/Types/Restoratives/SelfShieldHeal),Consumables,NO,NO,100,?,Sun Sep 15 21:00:00 2013
 Restore Ship Comms (/Lotus/StoreItems/Types/Keys/VorsPrize/MissionOne),LevelKeys,NO,YES,?,75,
 Restos (/Lotus/StoreItems/Types/Items/MiscItems/Salvage),MiscItems,YES,NO,?,30,
-Restos (/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest),MiscItems,YES,NO,?,30,
+Restos (/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest),MiscItems,NO,NO,?,30,
 Restos (/Lotus/StoreItems/Types/Items/MiscItems/SalvageRaidTutorial),MiscItems,NO,NO,?,30,
 Retribuição (/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarRevengeDamageMelee),Upgrades,NO,YES,?,?,
 Retribuição (/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarRevengeDamageMeleeExpert),Upgrades,NO,YES,?,?,
