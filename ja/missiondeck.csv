@@ -198,14 +198,14 @@ Caliban,天王星,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadFive,,30 - 70,0.4
 Puck,天王星,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadOne,,30 - 70,0.40000001,2
 ,天王星,Assassination,Grineer,,,30 - 70,0.40000001,2
 ,天王星,Assassination,Grineer,,,30 - 70,0.40000001,3
+Ur,天王星,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 70,0.40000001,3
 Sycorax,天王星,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadOne,,30 - 70,0.40000001,3
 Stephano,天王星,Interception,Grineer,/Lotus/Types/Game/GrineerDefenseA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium,30 - 70,0.40000001,3
 Trinculo,天王星,Capture,Grineer,/Lotus/Types/Game/GrineerSquadThree,,30 - 70,0.40000001,3
 ,天王星,Assassination,Grineer,,,30 - 70,0.40000001,3
 ,天王星,Assassination,Grineer,,,30 - 70,0.40000001,3
-Ethniu,天王星,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 70,0.40000001,3
 Assur,天王星,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards,30 - 70,0.40000001,3
-Ur,天王星,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 70,0.40000001,3
+Ethniu,天王星,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 70,0.40000001,3
 Larissa,海王星,Mobile Defense,Corpus,/Lotus/Types/Game/CorpusSquadA,,30 - 70,0.5,0
 Thalassa,海王星,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard,30 - 70,0.5,0
 Naiad,海王星,Deception,Corpus,/Lotus/Types/Game/CorpusSquadC,,30 - 70,0.5,0

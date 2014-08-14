@@ -198,14 +198,14 @@ Caliban,Urano,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadFive,,30 - 70,0.40000
 Puck,Urano,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadOne,,30 - 70,0.40000001,2
 ,Urano,Assassination,Grineer,,,30 - 70,0.40000001,2
 ,Urano,Assassination,Grineer,,,30 - 70,0.40000001,3
+Ur,Urano,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 70,0.40000001,3
 Sycorax,Urano,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadOne,,30 - 70,0.40000001,3
 Stephano,Urano,Interception,Grineer,/Lotus/Types/Game/GrineerDefenseA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium,30 - 70,0.40000001,3
 Trinculo,Urano,Capture,Grineer,/Lotus/Types/Game/GrineerSquadThree,,30 - 70,0.40000001,3
 ,Urano,Assassination,Grineer,,,30 - 70,0.40000001,3
 ,Urano,Assassination,Grineer,,,30 - 70,0.40000001,3
-Ethniu,Urano,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 70,0.40000001,3
 Assur,Urano,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards,30 - 70,0.40000001,3
-Ur,Urano,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 70,0.40000001,3
+Ethniu,Urano,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 70,0.40000001,3
 Larissa,Netuno,Mobile Defense,Corpus,/Lotus/Types/Game/CorpusSquadA,,30 - 70,0.5,0
 Thalassa,Netuno,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard,30 - 70,0.5,0
 Naiad,Netuno,Deception,Corpus,/Lotus/Types/Game/CorpusSquadC,,30 - 70,0.5,0

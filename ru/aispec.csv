@@ -161,6 +161,10 @@ CorpusSquadD,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.050000001,0,0
 ,Drones/AIWeek/VacuumDroneAgent,0.02,0,0
 ,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
+CorpusSquadE,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
+,Солдат (Spaceman/AIWeek/ShotgunSpacemanAgent),0.75,0,0
+,Дрон Щитогенератор (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
 CorpusSquadDefenseA,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Солдат С Жезлом (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
 ,Моа Шагоход (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0

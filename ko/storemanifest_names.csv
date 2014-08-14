@@ -1024,6 +1024,7 @@ Nami Solo Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoCutlassBlueprin
 Tigris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoDoubleBarrelShotgunBlueprint
 Galatine Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoGreatSwordBlueprint
 Pyrana Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoHandShotgunBlueprint
+Karyst Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoKrisBlueprint
 Sybaris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoLeverActionRifleBlueprint
 Vectis Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoSniperRifleBlueprint
 히코우 Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoStarsBlueprint
@@ -1365,6 +1366,7 @@ Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HalfShieldsLevelAu
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HighDamageEnemyLevelAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveDoubleDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveExtraDamageEnemyAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/WeakEnemyLevelAura
 Common 퓨젼 코어,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl1ModFuser
 Common 퓨젼 코어,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl2ModFuser
@@ -2446,6 +2448,7 @@ Galatine,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/GreatSword/TennoGreatSword
 조우 소드,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/JawSword/JawLongSword
 Nikana,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/Katana
 Dragon Nikana,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/LowKatana
+Karyst,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/KrisDagger/KrisDagger
 팽골린 소드,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/PangolinSword/PangolinLongSword
 플라즈마 소드,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/PlasmaSword/PlasmaLongSword
 Silva & Aegis,/Lotus/StoreItems/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield
