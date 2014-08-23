@@ -876,7 +876,7 @@ GrineerShipyardsA,AIWeek/RifleLancer,1,0,0
 ,AIWeek/GrineerFemale,0.1,0,0
 ,AIWeek/EviseratorLancer,0.1,0,0
 ,AIWeek/JetpackMarine,0.050000001,0,0
-,AIWeek/GrineerMeleeStaffAgent,0.2,0,0
+,AIWeek/GrineerMeleeStaffAgent,0.5,1,0
 GrineerShipyardsDefenseA,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawmanNoCover,0.30000001,0,0

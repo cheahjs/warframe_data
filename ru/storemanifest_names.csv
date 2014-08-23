@@ -1362,6 +1362,7 @@ Lightning Blades,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerMeleeElectricityDama
 Ускоритель,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSprintAuraMod
 Усилитель: Синтез,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerXPAuraMod
 Эми Аура,/Lotus/StoreItems/Upgrades/Mods/Aura/RobotPoorAimAuraMod
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/BossDropReductionAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HalfShieldsLevelAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HighDamageEnemyLevelAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveDoubleDamageEnemyAura
@@ -1981,6 +1982,7 @@ Gradivus: Sacrifice Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/AggressionEvent
 Gradivus: Loyalty Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/AggressionEventGrineerBadgeItem
 Alliance Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/AllianceEmblemItem
 ,/Lotus/StoreItems/Upgrades/Skins/Clan/BaseEventBadgeItem
+(Temp) Bounty Hunter Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/BountyHunterBadgeItem
 Эмблема Клана,/Lotus/StoreItems/Upgrades/Skins/Clan/ClanEmblemItem
 Arid Fear Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/CorpusVoidBadgeItem
 Disciple's Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeDiscipleItem
@@ -2345,13 +2347,9 @@ Tysis,/Lotus/StoreItems/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDart
 Embolist,/Lotus/StoreItems/Weapons/Infested/Pistols/InfestedPistol
 Mk1-Bo,/Lotus/StoreItems/Weapons/MK1Series/MK1Bo
 Mk1-Braton,/Lotus/StoreItems/Weapons/MK1Series/MK1Braton
-Mk1-Fang,/Lotus/StoreItems/Weapons/MK1Series/MK1Fang
-Mk1-Fragor,/Lotus/StoreItems/Weapons/MK1Series/MK1Fragor
 Mk1-Furax,/Lotus/StoreItems/Weapons/MK1Series/MK1Furax
 Mk1-Furis,/Lotus/StoreItems/Weapons/MK1Series/MK1Furis
 Mk1-Kunai,/Lotus/StoreItems/Weapons/MK1Series/MK1Kunai
-Mk1-Latron,/Lotus/StoreItems/Weapons/MK1Series/MK1Latron
-Mk1-Lex,/Lotus/StoreItems/Weapons/MK1Series/MK1Lex
 Mk1-Paris,/Lotus/StoreItems/Weapons/MK1Series/MK1Paris
 Mk1-Strun,/Lotus/StoreItems/Weapons/MK1Series/MK1Strun
 Aklex,/Lotus/StoreItems/Weapons/Tenno/Akimbo/AkLexPistols
