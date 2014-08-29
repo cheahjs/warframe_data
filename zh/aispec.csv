@@ -1,14 +1,22 @@
 Deck,Enemy,Probability,Max Simultaneous,Tier
+SupCorpusInfestedMix,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,熔岩恐鸟 (BipedRobot/AIWeek/SuperMoaBipedAgent),0.25,0,0
+,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
+,狂奔者 (AiWeek/Runners/SuicideRunner),1,0,0
+,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,0
+,AiWeek/Ancients/MeleeAncient,0.1,0,0
+,剧毒爬行者 (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
+,AiWeek/Crawlers/GrenadeCrawler,0.1,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 TestSectorGrineer,Corrupted Crewman (RifleSpacemanAgent),1,0,0
 ,Corrupted Lancer (RifleLancer),1,0,0
 ,Corrupted Moa (OrokinMoaBipedAgent),1,0,1
 ,堕落者 (OrokinDroneAttackAgent),1,0,2
 ,OrokinMinigunBombard,1,0,2
-TutorialGrineer,AIWeek/RifleLancer,1,1,0
-,Forest/JetpackMarineTutorial,1,2,0
-,AIWeek/BladeSawmanNoCover,0.30000001,2,0
-,TutorialMarine,1,0,0
-,AIWeek/GrineerFemaleTutorial,0.2,1,0
 CorpusEvent,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
 ,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
 ,狙击手船员 (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
@@ -18,6 +26,19 @@ CorpusEvent,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
 ,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
 ,磁轨炮恐鸟 (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
 ,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
+CorpusExcavationA,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
+,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
+,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),1,3,1
+,船员 (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,1
+,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,2
+,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,3,3
+,狙击手船员 (Spaceman/AIWeek/SniperSpacemanAgent),0.25,4,3
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,2,3
+,熔岩恐鸟 (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,4
+,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,4
+,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
+,磁轨炮恐鸟 (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
 CorpusGrineerDesertMix,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
 ,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
@@ -161,10 +182,6 @@ CorpusSquadD,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.050000001,0,0
 ,Drones/AIWeek/VacuumDroneAgent,0.02,0,0
 ,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
-CorpusSquadE,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,船员 (Spaceman/AIWeek/ShotgunSpacemanAgent),0.75,0,0
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
 CorpusSquadDefenseA,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
 ,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
@@ -193,6 +210,10 @@ CorpusSquadDefenseB,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.02,0,2
 ,Drones/AIWeek/VacuumDroneAgent,0.0099999998,0,2
 ,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.025,0,1
+CorpusSquadE,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
+,船员 (Spaceman/AIWeek/ShotgunSpacemanAgent),0.75,0,0
+,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
 CorpusSurvivalA,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
 ,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
@@ -747,26 +768,76 @@ OrokinDefenseSquad,Corrupted Lancer (RifleLancer),0.75,0,0
 ,OrokinMinigunBombard,0.25,0,2
 ,Orokin Drone (OrokinShieldDroneAgent),0.25,0,1
 ,Corrupted Moa (OrokinMoaBipedAgent),0.5,0,1
+OrokinSabotageCorpus,Corrupted Lancer (RifleLancer),0.75,0,0
+,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
+,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
+,OrokinMinigunBombard,0.2,0,0
+,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
+,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
+,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,1
+,Elite Crewman (Spaceman/EliteSpacemanAgent),0.60000002,0,0
+,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,3,1
+,船员 (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,0,1
+,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,2,1
+,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),0.15000001,3,1
+,吸血鱼鹰 (Drones/AIWeek/LeechDroneAgent),0.02,0,1
+,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),1,0,1
+,狙击手船员 (Spaceman/AIWeek/SniperSpacemanAgent),0.1,2,1
+,熔岩恐鸟 (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,2,1
+,磁轨炮恐鸟 (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,2,1
+,Corpus 科技员 (Spaceman/AIWeek/DeployableSpacemanAgent),1,0,2
+,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,2
+,狙击手船员 (Spaceman/AIWeek/SniperSpacemanAgent),1,0,2
 OrokinSabotageGrineer,Corrupted Lancer (RifleLancer),0.75,0,0
 ,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
 ,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
 ,OrokinMinigunBombard,0.2,0,0
 ,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
 ,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
-,AIWeek/EliteRifleLancer,0.1,0,0
-,AIWeek/MinigunBombard,0.050000001,0,0
-,AIWeek/ShotgunLancer,0.050000001,0,0
 ,AIWeek/EliteRifleLancer,1,0,1
 ,AIWeek/BladeSawmanNoCoverSurvival,0.2,3,1
 ,AIWeek/ShotgunLancer,0.25,0,1
 ,AIWeek/MinigunBombard,0.050000001,2,1
-,AIWeek/ShieldLancer,1,3,1
+,AIWeek/ShieldLancer,0.1,2,1
 ,AIWeek/GrineerFemale,0.1,2,1
 ,AIWeek/RocketBombard,0.0024999999,1,1
 ,AIWeek/MinigunBombard,1,0,2
 ,AIWeek/RocketBombard,1,0,2
-,AIWeek/JetpackMarine,1,0,2
 ,AIWeek/IncendiaryBombard,1,0,2
+OrokinSabotageGrineerForest,Corrupted Lancer (RifleLancer),0.75,0,0
+,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
+,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
+,OrokinMinigunBombard,0.2,0,0
+,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
+,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
+,Forest/EliteRifleLancer,1,0,1
+,Forest/BladeSawmanNoCover,0.2,3,1
+,Forest/ShotgunLancer,0.25,0,1
+,Forest/JetpackMarine,0.1,0,0
+,Forest/MinigunBombard,0.050000001,2,1
+,AIWeek/ShieldLancer,0.050000001,2,1
+,AIWeek/GrineerFemale,0.1,2,1
+,Forest/MinigunBombard,1,0,2
+,AIWeek/RocketBombard,1,0,2
+,GrineerMarinePistol,1,0,2
+,Forest/EvisceratorLancer,1,0,2
+OrokinSabotageGrineerSettlement,Corrupted Lancer (RifleLancer),0.75,0,0
+,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
+,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
+,OrokinMinigunBombard,0.2,0,0
+,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
+,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
+,Desert/EliteRifleLancer,1,0,1
+,Desert/BladeSawmanNoCoverSurvival,0.2,3,1
+,Desert/ShotgunLancer,0.25,0,1
+,Desert/JetpackMarine,0.1,0,0
+,Desert/MinigunBombard,0.050000001,2,1
+,AIWeek/ShieldLancer,0.050000001,2,1
+,AIWeek/GrineerFemale,0.1,2,1
+,Desert/MinigunBombard,1,0,2
+,AIWeek/RocketBombard,1,0,2
+,AIWeek/IncendiaryBombard,1,0,2
+,Forest/EvisceratorLancer,1,0,2
 OrokinSquadOne,Corrupted Lancer (RifleLancer),0.75,0,0
 ,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
 ,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
@@ -779,19 +850,6 @@ OrokinSurvivalA,Corrupted Lancer (RifleLancer),1,0,0
 ,OrokinMinigunBombard,1,2,2
 ,Corrupted Ancient (OrokinHealingAncient),1,2,3
 ,Corrupted Moa (OrokinMoaBipedAgent),1,1,4
-SupCorpusInfestedMix,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,震荡波恐鸟 (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,护盾鱼鹰 (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,监工船员 (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,熔岩恐鸟 (BipedRobot/AIWeek/SuperMoaBipedAgent),0.25,0,0
-,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,疾冲者 (AiWeek/Quadrupeds/Quadruped),1,0,0
-,狂奔者 (AiWeek/Runners/SuicideRunner),1,0,0
-,奔跳者 (AiWeek/Runners/LeapingRunner),0.25,0,0
-,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,剧毒爬行者 (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
-,AiWeek/Crawlers/GrenadeCrawler,0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 ExtremeCorpusInvasion,船员 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,恐鸟 (BipedRobot/AIWeek/LaserCannonBipedAgent),0.30000001,0,0

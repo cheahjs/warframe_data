@@ -69,7 +69,7 @@ Lua,地球,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseForest,/Lotus/Types/G
 ,地球,Assassination,Grineer,,,10 - 50,0.30000001,1
 Strata Relay,地球,MT_PVP,Corrupted,,,10 - 50,0.30000001,1
 Oro,地球,Sabotage,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,/Lotus/Types/Game/MissionDecks/ForestSabotageRewards,10 - 50,0.30000001,1
-Tethra's Doom,地球,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadSabotageEvent,,10 - 50,0.30000001,1
+Cryotic Front,地球,MT_EXCAVATE,Grineer,/Lotus/Types/Game/GrineerSquadSabotageEvent,,10 - 50,0.30000001,1
 Coba,地球,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,10 - 50,0.30000001,1
 ,地球,Assassination,Grineer,,,10 - 50,0.30000001,2
 ,地球,Assassination,Grineer,,,10 - 50,0.30000001,2
@@ -393,7 +393,7 @@ Larzac,欧罗巴,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/T
 ,欧罗巴,Assassination,Grineer,,,10 - 75,0.40000001,2
 Beleth,欧罗巴,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
 Kokabiel,欧罗巴,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadA,,10 - 75,0.40000001,2
-Neit,欧罗巴,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
+Cryotic Front,欧罗巴,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
 ,欧罗巴,Assassination,Grineer,,,10 - 75,0.40000001,2
 ,欧罗巴,Assassination,Grineer,,,10 - 75,0.40000001,3
 ,欧罗巴,Assassination,Grineer,,,10 - 75,0.40000001,3
@@ -424,7 +424,7 @@ Shklovsky,Phobos,Spy,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,,20 - 50,0.
 Clustril,Phobos,Extermination,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,,20 - 50,0.30000001,1
 Wendell,Phobos,Survival,Grineer,/Lotus/Types/Game/GrineerSettlementSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,20 - 50,0.30000001,2
 Todd,Phobos,Capture,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,,20 - 50,0.30000001,2
-,Phobos,Assassination,Grineer,,,20 - 50,0.30000001,2
+Cryotic Front,Phobos,MT_EXCAVATE,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,20 - 50,0.30000001,2
 Flimnap,Phobos,Deception,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,,20 - 50,0.30000001,2
 Memphis,Phobos,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,20 - 50,0.30000001,2
 Iliad,Phobos,Assassination,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,/Lotus/Types/Game/MissionDecks/BossMissionRewards/MiterGremlinsRewards,20 - 50,0.30000001,2
