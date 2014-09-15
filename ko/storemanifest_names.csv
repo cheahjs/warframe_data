@@ -36,6 +36,9 @@ Gradivus Dilemma Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/Compo
 여성형 그리니어 동상 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerFemaleStatueRecipe
 그리니어 마린 동상 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerMarineStatueRecipe
 레크 크릴 동상 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/HammerBossStatueRecipe
+Cryotic Front Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/IcePlanetTrophyBronzeRecipe
+Cryotic Front Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/IcePlanetTrophyGoldRecipe
+Cryotic Front Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/IcePlanetTrophySilverRecipe
 Large Topiary Bush Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/LargeTopiaryBushRecipe
 남자 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ManTestRecipe
 Leaning Maple Tree Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeARecipe
@@ -1527,7 +1530,7 @@ Corrupt Charge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/CorruptedHeavyDama
 Voltaic Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/ElectEventMeleeMod
 Volcanic Edge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/FireEventMeleeMod
 포커스 에너지,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/FocusEnergyMod
-Cold Touch,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/IceEventMeleeMod
+Vicious Frost ,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/IceEventMeleeMod
 Virulent Scourge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/PoisonEventMeleeMod
 렌딩 스트라이크,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/RendingStrikeMod
 선더링 스트라이크,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponArmorPiercingDamageModExpert

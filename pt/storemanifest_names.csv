@@ -36,6 +36,9 @@ Estátua De Grineer Em Armadura Blueprint,/Lotus/StoreItems/Levels/ClanDojo/Comp
 Estátua De Grineer Fêmea Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerFemaleStatueRecipe
 Estátua De Soldado Grineer Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/GrineerMarineStatueRecipe
 Estátua De Lech Kril Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/HammerBossStatueRecipe
+Cryotic Front Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/IcePlanetTrophyBronzeRecipe
+Cryotic Front Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/IcePlanetTrophyGoldRecipe
+Cryotic Front Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/IcePlanetTrophySilverRecipe
 Large Topiary Bush Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/LargeTopiaryBushRecipe
 Homem Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ManTestRecipe
 Leaning Maple Tree Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeARecipe
@@ -1527,7 +1530,7 @@ Corrupt Charge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/CorruptedHeavyDama
 Voltaic Strike,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/ElectEventMeleeMod
 Volcanic Edge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/FireEventMeleeMod
 Focar Energia,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/FocusEnergyMod
-Cold Touch,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/IceEventMeleeMod
+Vicious Frost ,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/IceEventMeleeMod
 Virulent Scourge,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/PoisonEventMeleeMod
 Ataque Despedaçador,/Lotus/StoreItems/Upgrades/Mods/Melee/DualStat/RendingStrikeMod
 Golpe Divisório,/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponArmorPiercingDamageModExpert
