@@ -17,7 +17,7 @@ Cicero Crisis Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentP
 Cicero Crisis Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CiceroCrisisSilverTrophyRecipe
 Couch Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/CouchTestRecipe
 Planter Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/DojoPlanterARecipe
-(Temp) Beacon Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/DojoTeleporterRecipe
+Transporter Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/DojoTeleporterRecipe
 Chokkan Fountain Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainBambooARecipe
 Hokidachi Fountain Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainBambooBRecipe
 Shakan Fountain Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/FountainBambooCRecipe
@@ -46,6 +46,9 @@ Autumn Maple Tree Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecip
 Spring Maple Tree Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeCRecipe
 Summer Maple Tree Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeDRecipe
 Ramu Pillar Lantern Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ModPathLightARecipe
+Orokin Sabotage Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/OrokinSabotageTrophyBronzeRecipe
+Orokin Sabotage Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/OrokinSabotageTrophyGoldRecipe
+Orokin Sabotage Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/OrokinSabotageTrophySilverRecipe
 Cairn Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/RockStatueStonePileRecipe
 Tethra's Doom Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ShipyardsEventBronzeTrophyRecipe
 Tethra's Doom Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ShipyardsEventGoldTrophyRecipe
@@ -327,6 +330,10 @@ Howl,/Lotus/StoreItems/Types/Friendly/Pets/KubrowPetPrecepts/KubrowFearPrecept
 Protect,/Lotus/StoreItems/Types/Friendly/Pets/KubrowPetPrecepts/KubrowShieldPrecept
 Scavenge,/Lotus/StoreItems/Types/Friendly/Pets/KubrowPetPrecepts/KubrowThiefPrecept
 Unleashed,/Lotus/StoreItems/Types/Friendly/Pets/KubrowPetPrecepts/KubrowVipChasePrecept
+,/Lotus/StoreItems/Types/Game/KubrowPet/BodyTypes/KubrowPetBodyType
+,/Lotus/StoreItems/Types/Game/KubrowPet/BodyTypes/KubrowPetHeavyBodyType
+,/Lotus/StoreItems/Types/Game/KubrowPet/BodyTypes/KubrowPetRegularBodyType
+,/Lotus/StoreItems/Types/Game/KubrowPet/BodyTypes/KubrowPetThinBodyType
 ,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColor
 ,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorEyesA
 ,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorEyesB
@@ -533,6 +540,10 @@ Orokin Derelict Survival,/Lotus/StoreItems/Types/Keys/DerelictSurvivalKey
 Orokin Derelict Survival Blueprint,/Lotus/StoreItems/Types/Keys/DerelictSurvivalKeyBlueprint
 Clan Key,/Lotus/StoreItems/Types/Keys/DojoKey
 Clan Key Blueprint,/Lotus/StoreItems/Types/Keys/DojoKeyBlueprint
+Test Derelict Sabotage Forest,/Lotus/StoreItems/Types/Keys/EventKeyOrokinDerelictSabotageForest
+Test Derelict Sabotage Settlement,/Lotus/StoreItems/Types/Keys/EventKeyOrokinDerelictSabotageSettlement
+Test Derelict Sabotage Settlement,/Lotus/StoreItems/Types/Keys/EventKeyOrokinDerelictSabotageSettlementChallenge
+Test Derelict Sabotage Shipyards,/Lotus/StoreItems/Types/Keys/EventKeyOrokinDerelictSabotageShipyards
 Orokin Derelict Assassinate Blueprint,/Lotus/StoreItems/Types/Keys/GolemKeyBlueprint
 Breeding Grounds,/Lotus/StoreItems/Types/Keys/InfestedCorpusHiveEventKey
 Hidden Messages Blueprint,/Lotus/StoreItems/Types/Keys/MirageQuestKeyBlueprint
@@ -594,11 +605,14 @@ Ruk Ruk Ruk!,/Lotus/StoreItems/Types/Keys/TestKeyGrineerToCorpusTorpedo
 Forest Excavation,/Lotus/StoreItems/Types/Keys/TestKeyGrnForestExcavation
 Settlement Excavation,/Lotus/StoreItems/Types/Keys/TestKeyGrnSettlementExcavation
 Hyena Pack Assassinate,/Lotus/StoreItems/Types/Keys/TestKeyHyenaPack
-J3 Golem Assassinate Test,/Lotus/StoreItems/Types/Keys/TestKeyInfested
 Breeding Grounds,/Lotus/StoreItems/Types/Keys/TestKeyInfestedCorpusHive
 Kubrow Test,/Lotus/StoreItems/Types/Keys/TestKeyKubrow
 Forest Defense,/Lotus/StoreItems/Types/Keys/TestKeyKubrowDefense
-Test Orokin Sabotage I,/Lotus/StoreItems/Types/Keys/TestKeyOrokinDerelictSabotageForest
+Test Derelict Sabotage Forest,/Lotus/StoreItems/Types/Keys/TestKeyOrokinDerelictSabotageForest
+Test Derelict Sabotage Ice Planet,/Lotus/StoreItems/Types/Keys/TestKeyOrokinDerelictSabotageIcePlanet
+Test Derelict Sabotage Outpost,/Lotus/StoreItems/Types/Keys/TestKeyOrokinDerelictSabotageOutpost
+Test Derelict Sabotage Settlement,/Lotus/StoreItems/Types/Keys/TestKeyOrokinDerelictSabotageSettlement
+Test Derelict Sabotage Shipyards,/Lotus/StoreItems/Types/Keys/TestKeyOrokinDerelictSabotageShipyards
 Test Orokin Sabotage Forest,/Lotus/StoreItems/Types/Keys/TestKeyOrokinSabotageForest
 Test Orokin Sabotage Ice Planet,/Lotus/StoreItems/Types/Keys/TestKeyOrokinSabotageIcePlanet
 Test Orokin Sabotage Outpost,/Lotus/StoreItems/Types/Keys/TestKeyOrokinSabotageOutpost
@@ -1041,13 +1055,14 @@ Gorgon Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GorgonBlueprint
 Gram Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GreatSwordBlueprint
 Twin Gremlins Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GremlinBlueprint
 Penta Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrenadeLauncherBlueprint
-Hartuk Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerCombatKnifeBlueprint
+Sheev Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerCombatKnifeBlueprint
 Drakgoon Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerFlakCannonBlueprint
 Stug Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerGooGunBlueprint
 Brakk Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerHandcannonBlueprint
 Jat Kittag Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerJetPolearmBlueprint
 Viper Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerLightPistolBlueprint
 Karak Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerM16RifleBlueprint
+Atterax Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerWhipBlueprint
 Grakata Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnAssaultRifleBlueprint
 Hind Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnBurstRifleBlueprint
 Kraken Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnHeavyPistolBlueprint
@@ -1450,6 +1465,7 @@ Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HighDamageEnemyLev
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveDoubleDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveExtraDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceDamageEnemyAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PortalEventAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/WeakEnemyLevelAura
 Common Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl1ModFuser
 Common Fusion Core,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl2ModFuser
@@ -1569,6 +1585,7 @@ True Steel,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponCritChanceMod
 Organ Shatter,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponCritDamageMod
 Berserker,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponCritFireRateBonusMod
 Shocking Touch,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponElectricityDamageMod
+Buzz Kill,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponEventSlashDamageMod
 Molten Impact,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponFireDamageMod
 Fury,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponFireRateMod
 North Wind,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponFreezeDamageMod
@@ -1656,6 +1673,7 @@ Pistol Gambit,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponCritChanceMod
 Target Cracker,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponCritDamageMod
 Hornet Strike,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponDamageAmountMod
 Convulsion,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponElectricityDamageMod
+Maim,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponEventSlashDamageMod
 Heated Charge,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponFireDamageMod
 Barrel Diffusion,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponFireIterationsMod
 Gunslinger,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponFireRateMod
@@ -1755,6 +1773,7 @@ Point Strike,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponCritChanceMod
 Vital Sense,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponCritDamageMod
 Serration,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponDamageAmountMod
 Stormbringer,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponElectricityDamageMod
+Fanged Fusillade,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponEventSlashDamageMod
 Bane Of Corpus,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFactionDamageCorpus
 Bane Of Grineer,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFactionDamageGrineer
 Bane Of Infested,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFactionDamageInfested
@@ -1849,6 +1868,7 @@ Blunderbuss,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponCritChanceMod
 Ravage,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponCritDamageMod
 Point Blank,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponDamageAmountMod
 Charged Shell,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponElectricityDamageMod
+Sweeping Serration,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponEventSlashDamageMod
 Incendiary Coat,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponFireDamageMod
 Hell's Chamber,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponFireIterationsMod
 Shotgun Spazz,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponFireRateMod
@@ -2095,6 +2115,7 @@ Mountain Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeMountain
 Shadow Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeShadowItem
 Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 Tenno Mentor Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/LotusGuideBadgeItem
+Gate Crash Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/OrokinSabotageBadgeItem
 Placeholder,/Lotus/StoreItems/Upgrades/Skins/Clan/ReferralBadgeTierAItem
 Placeholder,/Lotus/StoreItems/Upgrades/Skins/Clan/ReferralBadgeTierBItem
 Placeholder,/Lotus/StoreItems/Upgrades/Skins/Clan/ReferralBadgeTierCItem
@@ -2388,6 +2409,7 @@ Ignis,/Lotus/StoreItems/Weapons/ClanTech/Chemical/FlameThrower
 Ignis Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Chemical/FlameThrowerBlueprint
 Marelok Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Chemical/GLAPistolBlueprint
 Grinlok Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Chemical/GLARifleBlueprint
+Buzlok Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Chemical/GrnGorgSniperRifleBlueprint
 Nukor Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Chemical/GrnMicrowavePistolBlueprint
 Ogris,/Lotus/StoreItems/Weapons/ClanTech/Chemical/RocketLauncher
 Ogris Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Chemical/RocketLauncherBlueprint
@@ -2436,12 +2458,14 @@ Grinlok,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/GLARi
 Karak,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerM16Homage/GrineerM16Rifle
 Miter,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerSawbladeGun/SawBladeGun
 Vulkar,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerSniperRifle/GrnSniperRifle
+Buzlok,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrnGorgSniperRifle/GrnGorgSniperRifle
 Gorgon Wraith,/Lotus/StoreItems/Weapons/Grineer/LongGuns/WraithGorgon/WraithGorgon
-Hartuk,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerCombatKnife/GrineerCombatKnife
+Sheev,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerCombatKnife/GrineerCombatKnife
 Jat Kittag,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerJetPoweredPolearm/GrineerJetPolearm
 Dual Cleavers,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon
 Machete,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/Machete
 Machete Wraith,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon
+Atterax,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerWhip/GrineerWhip
 Stug,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun
 Brakk,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon
 Marelok,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol
@@ -2693,6 +2717,7 @@ Kubrow Starter Kit,/Lotus/Types/StoreItems/Packages/KubrowStarterKit
 Loki Pack,/Lotus/Types/StoreItems/Packages/LokiPack
 Male Helmet Pack,/Lotus/Types/StoreItems/Packages/MaleS2HelmetPack
 Sugatra Pack,/Lotus/Types/StoreItems/Packages/MeleeDanglePack
+Gate Crash Mod Pack,/Lotus/Types/StoreItems/Packages/OrokinSabotageModPack
 Paladin Bundle,/Lotus/Types/StoreItems/Packages/PaladinPack
 Sentinel Accessory Pack,/Lotus/Types/StoreItems/Packages/PetAttachmentsPackA
 Sentinel Accessory Pack2,/Lotus/Types/StoreItems/Packages/PetAttachmentsPackB

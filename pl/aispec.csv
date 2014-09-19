@@ -1,4 +1,50 @@
 Deck,Enemy,Probability,Max Simultaneous,Tier
+OrokinSabotageGrineerForest,Corrupted Lancer (RifleLancer),0.75,0,0
+,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
+,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
+,OrokinMinigunBombard,0.2,0,0
+,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
+,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
+,Forest/EliteRifleLancer,1,0,1
+,Forest/BladeSawmanNoCover,0.2,3,1
+,Forest/ShotgunLancer,0.25,0,1
+,Forest/JetpackMarine,0.1,0,0
+,Forest/MinigunBombard,0.050000001,2,1
+,AIWeek/ShieldLancer,0.050000001,2,1
+,AIWeek/GrineerFemale,0.1,2,1
+,Forest/MinigunBombard,1,0,2
+,AIWeek/RocketBombard,1,0,2
+,GrineerMarinePistol,1,0,2
+,Forest/EvisceratorLancer,1,0,2
+OrokinSabotageGrineerSettlement,Corrupted Lancer (RifleLancer),0.75,0,0
+,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
+,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
+,OrokinMinigunBombard,0.2,0,0
+,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
+,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
+,Desert/EliteRifleLancer,1,0,1
+,Desert/BladeSawmanNoCoverSurvival,0.2,3,1
+,Desert/ShotgunLancer,0.25,0,1
+,Desert/JetpackMarine,0.1,0,0
+,Desert/MinigunBombard,0.050000001,2,1
+,AIWeek/ShieldLancer,0.050000001,2,1
+,AIWeek/GrineerFemale,0.1,2,1
+,Desert/MinigunBombard,1,0,2
+,AIWeek/RocketBombard,1,0,2
+,AIWeek/IncendiaryBombard,1,0,2
+,Forest/EvisceratorLancer,1,0,2
+OrokinSquadOne,Corrupted Lancer (RifleLancer),0.75,0,0
+,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
+,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
+,OrokinMinigunBombard,0.2,0,0
+,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
+,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
+OrokinSurvivalA,Corrupted Lancer (RifleLancer),1,0,0
+,Corrupted Crewman (RifleSpacemanAgent),0.5,0,0
+,Orokin Drone (OrokinShieldDroneAgent),1,2,1
+,OrokinMinigunBombard,1,2,2
+,Corrupted Ancient (OrokinHealingAncient),1,2,3
+,Corrupted Moa (OrokinMoaBipedAgent),1,1,4
 SupCorpusInfestedMix,Załogant (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Sejsmiczny Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
 ,Osprey-Tarcza (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
@@ -773,6 +819,51 @@ OrokinDefenseSquad,Corrupted Lancer (RifleLancer),0.75,0,0
 ,OrokinMinigunBombard,0.25,0,2
 ,Orokin Drone (OrokinShieldDroneAgent),0.25,0,1
 ,Corrupted Moa (OrokinMoaBipedAgent),0.5,0,1
+OrokinDerelictSabotageGrineerForest,Taran (AiWeek/Quadrupeds/Quadruped),1,0,0
+,Biegacz (AiWeek/Runners/SuicideRunner),0.5,0,0
+,Skoczek (AiWeek/Runners/LeapingRunner),0.2,0,0
+,Trujący Pełzacz (AiWeek/Crawlers/NoxiousCrawler),0.5,0,0
+,Toksyczny Starożytny (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,AiWeek/Crawlers/LightningCrawler,0.050000001,0,0
+,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,0
+,Forest/RifleLancer,1,0,1
+,Forest/EliteRifleLancer,0.5,3,1
+,Forest/BladeSawmanNoCover,0.2,3,1
+,Forest/ShotgunLancer,0.25,2,1
+,Forest/JetpackMarine,0.050000001,1,1
+,Forest/MinigunBombard,0.050000001,2,1
+,AIWeek/ShieldLancer,0.050000001,3,1
+OrokinDerelictSabotageGrineerSettlement,Taran (AiWeek/Quadrupeds/Quadruped),1,0,0
+,Biegacz (AiWeek/Runners/SuicideRunner),0.5,0,0
+,Skoczek (AiWeek/Runners/LeapingRunner),0.2,0,0
+,Trujący Pełzacz (AiWeek/Crawlers/NoxiousCrawler),0.5,0,0
+,Toksyczny Starożytny (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,AiWeek/Crawlers/LightningCrawler,0.050000001,0,0
+,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,0
+,Desert/RifleLancer,1,0,1
+,Desert/EliteRifleLancer,0.5,3,1
+,Desert/BladeSawmanNoCoverSurvival,0.2,3,1
+,Desert/ShotgunLancer,0.25,2,1
+,Desert/JetpackMarine,0.050000001,1,1
+,Desert/MinigunBombard,0.050000001,2,1
+,AIWeek/ShieldLancer,0.050000001,3,1
+OrokinDerelictSabotageGrineerShipyards,Taran (AiWeek/Quadrupeds/Quadruped),1,0,0
+,Biegacz (AiWeek/Runners/SuicideRunner),0.5,0,0
+,Skoczek (AiWeek/Runners/LeapingRunner),0.2,0,0
+,Trujący Pełzacz (AiWeek/Crawlers/NoxiousCrawler),0.5,0,0
+,Toksyczny Starożytny (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,AiWeek/Crawlers/LightningCrawler,0.050000001,0,0
+,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.30000001,0,0
+,AIWeek/RifleLancer,1,0,1
+,AIWeek/EliteRifleLancer,0.5,3,1
+,AIWeek/BladeSawmanNoCoverSurvival,0.2,3,1
+,AIWeek/ShotgunLancer,0.25,2,1
+,AIWeek/MinigunBombard,0.050000001,2,1
+,AIWeek/ShieldLancer,0.050000001,3,1
+,AIWeek/RocketBombard,0.0024999999,1,1
 OrokinSabotageCorpus,Corrupted Lancer (RifleLancer),0.75,0,0
 ,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
 ,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
@@ -780,7 +871,7 @@ OrokinSabotageCorpus,Corrupted Lancer (RifleLancer),0.75,0,0
 ,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
 ,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
 ,Załogant (Spaceman/AIWeek/RifleSpacemanAgent),1,0,1
-,Elite Crewman (Spaceman/EliteSpacemanAgent),0.60000002,0,0
+,Elite Crewman (Spaceman/EliteSpacemanAgent),0.2,0,1
 ,Załogant Z Nahajem (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,3,1
 ,Załogant (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,0,1
 ,Technik Corpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,2,1
@@ -803,58 +894,12 @@ OrokinSabotageGrineer,Corrupted Lancer (RifleLancer),0.75,0,0
 ,AIWeek/BladeSawmanNoCoverSurvival,0.2,3,1
 ,AIWeek/ShotgunLancer,0.25,0,1
 ,AIWeek/MinigunBombard,0.050000001,2,1
-,AIWeek/ShieldLancer,0.1,2,1
+,AIWeek/ShieldLancer,0.050000001,2,1
 ,AIWeek/GrineerFemale,0.1,2,1
 ,AIWeek/RocketBombard,0.0024999999,1,1
 ,AIWeek/MinigunBombard,1,0,2
 ,AIWeek/RocketBombard,1,0,2
 ,AIWeek/IncendiaryBombard,1,0,2
-OrokinSabotageGrineerForest,Corrupted Lancer (RifleLancer),0.75,0,0
-,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
-,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
-,OrokinMinigunBombard,0.2,0,0
-,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
-,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
-,Forest/EliteRifleLancer,1,0,1
-,Forest/BladeSawmanNoCover,0.2,3,1
-,Forest/ShotgunLancer,0.25,0,1
-,Forest/JetpackMarine,0.1,0,0
-,Forest/MinigunBombard,0.050000001,2,1
-,AIWeek/ShieldLancer,0.050000001,2,1
-,AIWeek/GrineerFemale,0.1,2,1
-,Forest/MinigunBombard,1,0,2
-,AIWeek/RocketBombard,1,0,2
-,GrineerMarinePistol,1,0,2
-,Forest/EvisceratorLancer,1,0,2
-OrokinSabotageGrineerSettlement,Corrupted Lancer (RifleLancer),0.75,0,0
-,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
-,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
-,OrokinMinigunBombard,0.2,0,0
-,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
-,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
-,Desert/EliteRifleLancer,1,0,1
-,Desert/BladeSawmanNoCoverSurvival,0.2,3,1
-,Desert/ShotgunLancer,0.25,0,1
-,Desert/JetpackMarine,0.1,0,0
-,Desert/MinigunBombard,0.050000001,2,1
-,AIWeek/ShieldLancer,0.050000001,2,1
-,AIWeek/GrineerFemale,0.1,2,1
-,Desert/MinigunBombard,1,0,2
-,AIWeek/RocketBombard,1,0,2
-,AIWeek/IncendiaryBombard,1,0,2
-,Forest/EvisceratorLancer,1,0,2
-OrokinSquadOne,Corrupted Lancer (RifleLancer),0.75,0,0
-,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
-,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
-,OrokinMinigunBombard,0.2,0,0
-,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
-,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
-OrokinSurvivalA,Corrupted Lancer (RifleLancer),1,0,0
-,Corrupted Crewman (RifleSpacemanAgent),0.5,0,0
-,Orokin Drone (OrokinShieldDroneAgent),1,2,1
-,OrokinMinigunBombard,1,2,2
-,Corrupted Ancient (OrokinHealingAncient),1,2,3
-,Corrupted Moa (OrokinMoaBipedAgent),1,1,4
 ExtremeCorpusInvasion,Załogant (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.30000001,0,0
