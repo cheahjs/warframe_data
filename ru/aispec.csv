@@ -1,4 +1,40 @@
 Deck,Enemy,Probability,Max Simultaneous,Tier
+OrokinSabotageCorpus,Corrupted Lancer (RifleLancer),0.75,0,0
+,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
+,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
+,OrokinMinigunBombard,0.2,0,0
+,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
+,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
+,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,1
+,Elite Crewman (Spaceman/EliteSpacemanAgent),0.2,0,1
+,Солдат С Жезлом (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,3,1
+,Солдат (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,0,1
+,Техник Корпуса (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,2,1
+,Дрон Щитогенератор (Drones/AIWeek/ShieldDroneAgent),0.15000001,3,1
+,Дрон Пиявка (Drones/AIWeek/LeechDroneAgent),0.02,0,1
+,Моа Шагоход (BipedRobot/AIWeek/LaserCannonBipedAgent),1,0,1
+,Солдат-Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.1,2,1
+,Гибридный Моа (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,2,1
+,Моа Рельсотрон (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,2,1
+,Техник Корпуса (Spaceman/AIWeek/DeployableSpacemanAgent),1,0,2
+,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,2
+,Солдат-Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),1,0,2
+OrokinSabotageGrineer,Corrupted Lancer (RifleLancer),0.75,0,0
+,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
+,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
+,OrokinMinigunBombard,0.2,0,0
+,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
+,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
+,AIWeek/EliteRifleLancer,1,0,1
+,AIWeek/BladeSawmanNoCoverSurvival,0.2,3,1
+,AIWeek/ShotgunLancer,0.25,0,1
+,AIWeek/MinigunBombard,0.050000001,2,1
+,AIWeek/ShieldLancer,0.050000001,2,1
+,AIWeek/GrineerFemale,0.1,2,1
+,AIWeek/RocketBombard,0.0024999999,1,1
+,AIWeek/MinigunBombard,1,0,2
+,AIWeek/RocketBombard,1,0,2
+,AIWeek/IncendiaryBombard,1,0,2
 OrokinSabotageGrineerForest,Corrupted Lancer (RifleLancer),0.75,0,0
 ,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
 ,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
@@ -864,42 +900,6 @@ OrokinDerelictSabotageGrineerShipyards,Инфестоид (AiWeek/Quadrupeds/Qua
 ,AIWeek/MinigunBombard,0.050000001,2,1
 ,AIWeek/ShieldLancer,0.050000001,3,1
 ,AIWeek/RocketBombard,0.0024999999,1,1
-OrokinSabotageCorpus,Corrupted Lancer (RifleLancer),0.75,0,0
-,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
-,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
-,OrokinMinigunBombard,0.2,0,0
-,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
-,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
-,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,1
-,Elite Crewman (Spaceman/EliteSpacemanAgent),0.2,0,1
-,Солдат С Жезлом (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,3,1
-,Солдат (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,0,1
-,Техник Корпуса (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,2,1
-,Дрон Щитогенератор (Drones/AIWeek/ShieldDroneAgent),0.15000001,3,1
-,Дрон Пиявка (Drones/AIWeek/LeechDroneAgent),0.02,0,1
-,Моа Шагоход (BipedRobot/AIWeek/LaserCannonBipedAgent),1,0,1
-,Солдат-Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.1,2,1
-,Гибридный Моа (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,2,1
-,Моа Рельсотрон (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,2,1
-,Техник Корпуса (Spaceman/AIWeek/DeployableSpacemanAgent),1,0,2
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,2
-,Солдат-Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),1,0,2
-OrokinSabotageGrineer,Corrupted Lancer (RifleLancer),0.75,0,0
-,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
-,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
-,OrokinMinigunBombard,0.2,0,0
-,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
-,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
-,AIWeek/EliteRifleLancer,1,0,1
-,AIWeek/BladeSawmanNoCoverSurvival,0.2,3,1
-,AIWeek/ShotgunLancer,0.25,0,1
-,AIWeek/MinigunBombard,0.050000001,2,1
-,AIWeek/ShieldLancer,0.050000001,2,1
-,AIWeek/GrineerFemale,0.1,2,1
-,AIWeek/RocketBombard,0.0024999999,1,1
-,AIWeek/MinigunBombard,1,0,2
-,AIWeek/RocketBombard,1,0,2
-,AIWeek/IncendiaryBombard,1,0,2
 ExtremeCorpusInvasion,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,Моа Шагоход (BipedRobot/AIWeek/LaserCannonBipedAgent),0.30000001,0,0

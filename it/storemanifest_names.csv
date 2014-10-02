@@ -242,7 +242,7 @@ Chaos,/Lotus/StoreItems/Powersuits/Jade/ChaosAbilityCard
 Psychic Bolts,/Lotus/StoreItems/Powersuits/Jade/DaggerAbilityCard
 Nyx,/Lotus/StoreItems/Powersuits/Jade/Jade
 Mind Control,/Lotus/StoreItems/Powersuits/Jade/MindControlAbilityCard
-Placeholder,/Lotus/StoreItems/Powersuits/Jade/NyxPrime
+Nyx Prime,/Lotus/StoreItems/Powersuits/Jade/NyxPrime
 Absorb,/Lotus/StoreItems/Powersuits/Jade/SelfBulletAttractorAbilityCard
 Decoy,/Lotus/StoreItems/Powersuits/Loki/DecoyAbilityCard
 Radial Disarm,/Lotus/StoreItems/Powersuits/Loki/DisarmAbilityCard
@@ -544,6 +544,7 @@ Test Derelict Sabotage Forest,/Lotus/StoreItems/Types/Keys/EventKeyOrokinDerelic
 Test Derelict Sabotage Settlement,/Lotus/StoreItems/Types/Keys/EventKeyOrokinDerelictSabotageSettlement
 Test Derelict Sabotage Settlement,/Lotus/StoreItems/Types/Keys/EventKeyOrokinDerelictSabotageSettlementChallenge
 Test Derelict Sabotage Shipyards,/Lotus/StoreItems/Types/Keys/EventKeyOrokinDerelictSabotageShipyards
+Forest Exterminate,/Lotus/StoreItems/Types/Keys/ForestHaloweenCacheExterminate
 Orokin Derelict Assassinate Blueprint,/Lotus/StoreItems/Types/Keys/GolemKeyBlueprint
 Breeding Grounds,/Lotus/StoreItems/Types/Keys/InfestedCorpusHiveEventKey
 Hidden Messages Blueprint,/Lotus/StoreItems/Types/Keys/MirageQuestKeyBlueprint
@@ -691,11 +692,13 @@ Arcane Avalon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/Excalibur
 Arcane Aurora Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/FrostAltHelmetBlueprint
 Arcane Scorpion Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/HarlequinAltHelmetBlueprint
 Arcane Essence Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LokiAltHelmetBlueprint
+Enigma Loki Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LokiEnigmaHelmetBlueprint
 Arcane Coil Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/MagAltHelmetBlueprint
 Raknis Nekros Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NekrosAraknidHelmetBlueprint
 Shroud Nekros Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NekrosShroudHelmetBlueprint
 Arcane Flux Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NovaAltHelmetBlueprint
 Quantum Nova Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NovaQuantumHelmetBlueprint
+Slipstream Nova Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NovaSlipstreamHelmetBlueprint
 Arcane Menticide Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NyxAltHelmetBlueprint
 Markhor Oberon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/OberonAltBHelmetBlueprint
 Oryx Oberon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/OberonAltHelmetBlueprint
@@ -874,13 +877,13 @@ Nyx Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxChassis
 Nyx Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxChassisComponent
 Nyx Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxHelmetBlueprint
 Nyx Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxHelmetComponent
-Placeholder Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeBlueprint
-Placeholder Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeChassisBlueprint
-Placeholder,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeChassisComponent
-Placeholder Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeHelmetBlueprint
-Placeholder,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeHelmetComponent
-Placeholder Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeSystemsBlueprint
-Placeholder,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeSystemsComponent
+Nyx Prime Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeBlueprint
+Nyx Prime Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeChassisBlueprint
+Nyx Prime Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeChassisComponent
+Nyx Prime Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeHelmetBlueprint
+Nyx Prime Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeHelmetComponent
+Nyx Prime Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeSystemsBlueprint
+Nyx Prime Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxPrimeSystemsComponent
 Nyx Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxSystemsBlueprint
 Nyx Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NyxSystemsComponent
 Oberon Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/PaladinBlueprint
@@ -985,12 +988,12 @@ Dakra Prime Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCronu
 Dakra Prime Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCronusLongSwordHandle
 Fang Prime Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeFangBlade
 Fang Prime Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeFangHandle
-Placeholder,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeHikouHolster
-Placeholder,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeHikouStars
+Hikou Prime Pouch,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeHikouHolster
+Hikou Prime Stars,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeHikouStars
 Orthos Prime Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimePolearmBlade
 Orthos Prime Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimePolearmHandle
-Placeholder,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeScindoBlade
-Placeholder,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeScindoHandle
+Scindo  Prime Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeScindoBlade
+Scindo Prime Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeScindoHandle
 Reaper Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeScytheBlade
 Reaper Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeScytheHandle
 Wyrm Prime Carapace,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCarapace
@@ -1031,6 +1034,7 @@ Nami Skyla Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/CutlassPoignardBlue
 Dark Dagger Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DarkDaggerBlueprint
 Detron Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DetronBlueprint
 Sobek Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DoubleBarrelShotgunBlueprint
+Tiberon Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DrakeRifleBlueprint
 Dual Zoren Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualAxeBlueprint
 Dual Broncos Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualBroncosBlueprint
 Dual Cleavers Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualCleaversBlueprint
@@ -1095,8 +1099,8 @@ Orthos Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PolearmBlueprint
 Orthos Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PolearmPrimeBlueprint
 Bo Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PrimeBoBlueprint
 Dakra Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PrimeCronusLongSwordBlueprint
-Placeholder Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PrimeHikouBlueprint
-Placeholder Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PrimeScindoBlueprint
+Hikou Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PrimeHikouBlueprint
+Scindo Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PrimeScindoBlueprint
 Reaper Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PrimeScytheBlueprint
 Hek Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/QuadShotgunBlueprint
 Vasto Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/RevolverPistolBlueprint
@@ -1254,6 +1258,8 @@ Squall Frost Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostSq
 Squall Frost Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostSquallDark
 Loki Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiBright
 Loki Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiDark
+Enigma Loki Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiEnigmaBright
+Enigma Loki Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiEnigmaDark
 Essence Loki Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiEssenceBright
 Essence Loki Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiEssenceDark
 Loki Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiPrimeBright
@@ -1284,12 +1290,14 @@ Nova Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaBright
 Nova Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaDark
 Quantum Nova Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaQuantumBright
 Quantum Nova Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaQuantumDark
+Locust Ash Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaSlipstreamBright
+Locust Ash Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaSlipstreamDark
 Nyx Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxBright
 Nyx Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxDark
 Menticide Nyx Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxMenticideBright
 Menticide Nyx Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxMenticideDark
-Placeholder,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxPrimeBright
-Placeholder,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxPrimeDark
+Nyx Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxPrimeBright
+Nyx Prime Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxPrimeDark
 Vespa Nyx Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxVespaBright
 Vespa Nyx Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxVespaDark
 Oryx Oberon Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageOberonAltBright
@@ -2023,6 +2031,7 @@ Nova Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiMatterA
 Nova Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiMatterNobleAnims
 Nova Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaAlternateSkin
 Quantum Nova Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaQuantumHelmet
+Slipstream Nova Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaSlipstreamHelmet
 Dendra Shoulder Guard,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncALArmor
 Dendra Shoulder Guard,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncARArmor
 Dendra Leg Guard,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncLLArmor
@@ -2032,16 +2041,18 @@ Harkonar Spaulders,/Lotus/StoreItems/Upgrades/Skins/Armor/GrineerTurbines/Grinee
 Harkonar Chestguard,/Lotus/StoreItems/Upgrades/Skins/Armor/GrineerTurbines/GrineerTurbinesChestArmor
 Harkonar Leg Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/GrineerTurbines/GrineerTurbinesLegLeftArmor
 Harkonar Leg Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/GrineerTurbines/GrineerTurbinesLegRightArmor
+Naberus,/Lotus/StoreItems/Upgrades/Skins/Armor/Halloween2014Wings/Halloween2014ArmLeftArmor
+Naberus,/Lotus/StoreItems/Upgrades/Skins/Armor/Halloween2014Wings/Halloween2014ArmRightArmor
 Iliac Shoulder Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsArmLeftArmor
 Iliac Shoulder Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsArmRightArmor
 Iliac Chest Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsChestArmor
 Iliac Ankle Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsLegLeftArmor
 Iliac Ankle Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/InfestedFins/InfestedFinsLegRightArmor
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneArmLeftArmor
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneArmRightArmor
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneChestArmor
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneLegLeftArmor
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneLegRightArmor
+Targis Prime Arm Shoulder Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneArmLeftArmor
+Targis Prime Arm Shoulder Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneArmRightArmor
+Targis Prime Cuirass,/Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneChestArmor
+Targis Prime Greaves,/Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneLegLeftArmor
+Targis Prime Greaves,/Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneLegRightArmor
 Daedalus Shoulder Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeArmLeftArmor
 Daedalus Shoulder Plates,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeArmRightArmor
 Daedalus Chest Plate,/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/SetThreeChestArmor
@@ -2204,18 +2215,28 @@ Forest-Camo Soma,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestSom
 Forest-Camo Vasto,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestVasto
 Forest-Camo Vectis,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestVectis
 Day Of The Dead Aklato Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenAklato
+Day Of The Dead Akvasto Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenAkvasto
+Day Of The Dead Amprex Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenAmprex
 Day Of The Dead Braton Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenBraton
+Day Of The Dead Buzlok Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenBuzlok
 Day Of The Dead Dual Zoren Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenDualZoren
 Day Of The Dead Glaive Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenGlaive
+Day Of The Dead Glaxion Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenGlaxion
 Day Of The Dead Gorgon Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenGorgon
+Day Of The Dead Grinlok Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenGrinlok
+Day Of The Dead Jat Kittag Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenJatKittag
+Day Of The Dead Kronen Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenKronen
 Day Of The Dead Lato Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenLato
 Day Of The Dead Lato Vandal Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenLatoVandal
+Day Of The Dead Marelok Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenMarelok
+Day Of The Dead Nukor Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenNukor
 Day Of The Dead Orthos Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenOrthos
 Day Of The Dead Paris Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenParis
 Day Of The Dead Scindo Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenScindo
 Day Of The Dead Sobek Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenSobek
 Day Of The Dead Soma Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenSoma
 Day Of The Dead Gremlins Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenTwinGremlins
+Day Of The Dead Vasto Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenVasto
 Skin Martello Brokk,/Lotus/StoreItems/Upgrades/Skins/Hammer/GrnHammer
 Mirage Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinAgileAnims
 Mirage Helmet,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinHelmet
@@ -2233,9 +2254,10 @@ Vespa Nyx Helmet,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmetAltBStatless
 Casco Menticide Nyx,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmetAltStatless
 Nyx Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeNobleAnims
 Nyx Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Jade/NyxAlternateSkin
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/Jade/NyxPrimeHelmet
+Nyx Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Jade/NyxPrimeHelmet
 Loki Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiAgileAnims
 Loki Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiAlternateSkin
+Enigma Loki Helmet,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiEnigmaHelmet
 Casco Loki,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmet
 Arcane Essence Helmet,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmetAlt
 Arcane Swindle Helmet,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmetAltB
@@ -2257,7 +2279,12 @@ Tantu Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/CordsMeleeDangle
 Suraka Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/LotusPointMeleeDangle
 Daman Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PolearmFriendlyMeleeDangle
 Daman Sugatra Prime,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PrimeMeleeDangle
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/ValaPrimeMeleeDangle
+Vala Sugatra Prime,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/ValaPrimeMeleeDangle
+The Gentleman,/Lotus/StoreItems/Upgrades/Skins/Mustache/Stache
+The Tusker,/Lotus/StoreItems/Upgrades/Skins/Mustache/Stache02
+The Magnum,/Lotus/StoreItems/Upgrades/Skins/Mustache/Stache03
+The Villain,/Lotus/StoreItems/Upgrades/Skins/Mustache/Stache04
+The Baron,/Lotus/StoreItems/Upgrades/Skins/Mustache/Stache05
 Nekros Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroAgileAnims
 Raknis Nekros Helmet,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroAraknidHelmet
 Mortos Syandana,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroDangles
@@ -2499,12 +2526,13 @@ Paris,/Lotus/StoreItems/Weapons/Tenno/Bows/HuntingBow
 Paris Prime,/Lotus/StoreItems/Weapons/Tenno/Bows/PrimeHuntingBow
 Dread,/Lotus/StoreItems/Weapons/Tenno/Bows/StalkerBow
 Tigris,/Lotus/StoreItems/Weapons/Tenno/LongGuns/DoubleBarrelShotgun/TennoDoubleBarrelShotgun
+Tiberon,/Lotus/StoreItems/Weapons/Tenno/LongGuns/DrakeRifle/DrakeRifle
 Boltor Prime,/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeBoltor/PrimeBoltor
 Burston Prime,/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeBurston/PrimeBurston
 Sybaris,/Lotus/StoreItems/Weapons/Tenno/LongGuns/TnoLeverAction/TnoLeverActionRifle
 Attica,/Lotus/StoreItems/Weapons/Tenno/LongGuns/TnoPrmryXbow/TnoPrmryXbowWeapon
 Latron Wraith,/Lotus/StoreItems/Weapons/Tenno/LongGuns/WraithLatron/WraithLatron
-Placeholder,/Lotus/StoreItems/Weapons/Tenno/Melee/Axe/PrimeScindo/PrimeScindoWeapon
+Scindo Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Axe/PrimeScindo/PrimeScindoWeapon
 Scindo,/Lotus/StoreItems/Weapons/Tenno/Melee/Axe/AxeWeapon
 Dual Zoren,/Lotus/StoreItems/Weapons/Tenno/Melee/Axe/DualAxeWeapon
 Dual Ichor,/Lotus/StoreItems/Weapons/Tenno/Melee/Axe/DualInfestedAxesWeapon
@@ -2625,7 +2653,7 @@ Boar Prime,/Lotus/StoreItems/Weapons/Tenno/Shotgun/PrimeBoar
 Hek,/Lotus/StoreItems/Weapons/Tenno/Shotgun/QuadShotgun
 Strun,/Lotus/StoreItems/Weapons/Tenno/Shotgun/Shotgun
 Strun Wraith,/Lotus/StoreItems/Weapons/Tenno/Shotgun/ShotgunVandal
-Placeholder,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/PrimeThrowingStar/PrimeHikou
+Hikou Prime,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/PrimeThrowingStar/PrimeHikou
 Castanas,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/StickyBomb/StickyBombs
 Kunai,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/Kunai
 Despair,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/StalkerKunai
@@ -2644,6 +2672,7 @@ Frost Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrost
 Frost Prime Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrostPrime
 Squall Frost Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrostSquall
 Loki Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLoki
+Enigma Loki Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLokiEnigma
 Swindle Loki Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLokiSwindle
 Mag Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMag
 Gauss Mag Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMagGauss
@@ -2653,6 +2682,7 @@ Nekros Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekros
 Shroud Nekros Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekrosShroud
 Nova Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNova
 Nova Quantum Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNovaQuantum
+Locust Ash Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNovaSlipstream
 Nyx Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNyx
 Vespa Nyx Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNyxVespa
 Oberon Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackOberon
@@ -2704,6 +2734,8 @@ Assalto Grineer,/Lotus/Types/StoreItems/Packages/GrineerPack
 Harkonar Armor Set,/Lotus/Types/StoreItems/Packages/GrineerTurbinesArmorPack
 Day Of The Dead Lato Skin,/Lotus/Types/StoreItems/Packages/HalloweenLatoSkinPack
 Day Of The Dead Weapon Skin Pack,/Lotus/Types/StoreItems/Packages/HalloweenSkinPack
+Day Of The Dead Weapon Skin Pack Ii,/Lotus/Types/StoreItems/Packages/HalloweenSkinPackII
+Day Of The Dead Vasto Skin,/Lotus/Types/StoreItems/Packages/HalloweenVastoSkinPack
 Cryotic Mod Pack,/Lotus/Types/StoreItems/Packages/IceEventModPack
 Immortal Skin Bundle,/Lotus/Types/StoreItems/Packages/ImmortalSkinPack
 Iliac Armor Bundle,/Lotus/Types/StoreItems/Packages/InfestedFinsArmorPack
