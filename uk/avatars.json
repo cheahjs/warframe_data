@@ -278,6 +278,7 @@
   "/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarShieldMaxModIntermediate": "Перенаправлення",
   "/Lotus/StoreItems/Upgrades/Mods/Warframe/Intermediate/AvatarShieldToStaminaModIntermediate": "Shield Flux",
   "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetBaseAvatar": "Corpus Target",
+  "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetGrineer": "Grineer Target",
   "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetGrineerMercuryAvatar": "Grineer Target",
   "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetGrineerMiterAvatar": "Grineer Target",
   "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetGrineerPistolAvatar": "Grineer Target",

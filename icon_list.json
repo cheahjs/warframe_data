@@ -177,7 +177,8 @@
   "/Lotus/Powersuits/Volt/ShockAbilityCard": "/Lotus/Interface/Cards/Images/PowerVoltShock.jpeg",
   "/Lotus/Powersuits/Volt/SpeedAbilityCard": "/Lotus/Interface/Cards/Images/PowerVoltSpeed.jpeg",
   "/Lotus/Powersuits/Volt/Volt": "/Lotus/Interface/Icons/Store/Volt.png",
-  "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetGrineerMercuryAvatar": "/Lotus/Interface/Icons/Npcs/GrineerCaptureTarget.png",
+  "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetCorpus": "/Lotus/Interface/Icons/Npcs/CorpusCaptureTarget.png",
+  "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetGrineer": "/Lotus/Interface/Icons/Npcs/GrineerCaptureTarget.png",
   "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/LaserCannonBipedAvatar": "/Lotus/Interface/Icons/Npcs/MoaNormal.png",
   "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/LaserCannonBipedAvatarLeader": "/Lotus/Interface/Icons/Npcs/MoaNormal.png",
   "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/LaserDiscBipedAvatar": "/Lotus/Interface/Icons/Npcs/MoaRicochet.png",
@@ -701,6 +702,7 @@
   "/Lotus/Weapons/Tenno/Melee/MeleeTrees/HammerCmbTwoMeleeTree": "/Lotus/Interface/Cards/Images/Stances/HammerCombo2b.jpeg",
   "/Lotus/Weapons/Tenno/Melee/MeleeTrees/IronPhoenixMeleeTree": "/Lotus/Interface/Cards/Images/Stances/IronPhoenix1a.jpeg",
   "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbOneMeleeTree": "/Lotus/Interface/Cards/Images/Stances/KatanaCombo1a.jpeg",
+  "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbThreeMeleeTree": "/Lotus/Interface/Cards/Images/Stances/KatanaZatoCombo1a.png",
   "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbTwoMeleeTree": "/Lotus/Interface/Cards/Images/Stances/KatanaCombo1a.jpeg",
   "/Lotus/Weapons/Tenno/Melee/MeleeTrees/MacheteCmbOneMeleeTree": "/Lotus/Interface/Cards/Images/Stances/Machete1a.jpeg",
   "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbOneMeleeTree": "/Lotus/Interface/Cards/Images/Stances/PolearmCombo1a.jpeg",
@@ -858,5 +860,6 @@
   "/Lotus/Types/Enemies/TennoReplicants/TennoDroneAttackAvatar": "/Lotus/Interface/Icons/Npcs/TennoAttackDrone.png",
   "/Lotus/Types/Enemies/Corpus/Spaceman/CivilianAvatarCaptureEventTwo": "/Lotus/Interface/Icons/Npcs/CorpusCaptureTarget.png",
   "/Lotus/Types/Enemies/Corpus/Spaceman/CivilianAvatarCaptureEventThree": "/Lotus/Interface/Icons/Npcs/CorpusCaptureTarget.png",
-  "/Lotus/Types/Enemies/Corpus/Spaceman/CivilianAvatarCaptureEvent": "/Lotus/Interface/Icons/Npcs/CorpusCaptureTarget.png"
+  "/Lotus/Types/Enemies/Corpus/Spaceman/CivilianAvatarCaptureEvent": "/Lotus/Interface/Icons/Npcs/CorpusCaptureTarget.png",
+  "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetGrineerMercuryAvatar": "/Lotus/Interface/Icons/Npcs/GrineerCaptureTarget.png"
 }

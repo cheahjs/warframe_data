@@ -690,7 +690,7 @@ Storm Helmet Conversion Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/Conver
 Arcane Phoenix Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/EmberAltHelmetBlueprint
 Arcane Avalon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ExcaliburAltHelmetBlueprint
 Arcane Aurora Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/FrostAltHelmetBlueprint
-Arcane Scorpion Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/HarlequinAltHelmetBlueprint
+Harlequin Mirage Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/HarlequinAltHelmetBlueprint
 Arcane Essence Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LokiAltHelmetBlueprint
 Enigma Loki Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LokiEnigmaHelmetBlueprint
 Arcane Coil Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/MagAltHelmetBlueprint
@@ -2227,7 +2227,6 @@ Day Of The Dead Grinlok Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/Hallowee
 Day Of The Dead Jat Kittag Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenJatKittag
 Day Of The Dead Kronen Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenKronen
 Day Of The Dead Lato Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenLato
-Day Of The Dead Lato Vandal Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenLatoVandal
 Day Of The Dead Marelok Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenMarelok
 Day Of The Dead Nukor Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenNukor
 Day Of The Dead Orthos Skin,/Lotus/StoreItems/Upgrades/Skins/Halloween/HalloweenOrthos
@@ -2580,6 +2579,7 @@ Shattering Storm,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/HammerCmbOneMe
 Crushing Ruin,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/HammerCmbTwoMeleeTree
 Iron Phoenix,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/IronPhoenixMeleeTree
 Tranquil Cleave,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbOneMeleeTree
+Blind Justice,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbThreeMeleeTree
 Decisive Judgement,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbTwoMeleeTree
 Sundering Weave,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/MacheteCmbOneMeleeTree
 Shimmering Blight,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbOneMeleeTree
@@ -2682,7 +2682,7 @@ Nekros Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekros
 Shroud Nekros Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekrosShroud
 노바 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNova
 Nova Quantum Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNovaQuantum
-로커스트 애쉬 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNovaSlipstream
+Slipstream Nova Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNovaSlipstream
 닉스 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNyx
 베스파 닉스 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNyxVespa
 Oberon Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackOberon
@@ -2732,10 +2732,8 @@ Grineer Desert Tactics Pack,/Lotus/Types/StoreItems/Packages/GrineerCamoSkinPack
 Forest-Camo Skin Pack,/Lotus/Types/StoreItems/Packages/GrineerForestSkinPack
 그리니어 어설트,/Lotus/Types/StoreItems/Packages/GrineerPack
 Harkonar Armor Set,/Lotus/Types/StoreItems/Packages/GrineerTurbinesArmorPack
-Day Of The Dead Lato Skin,/Lotus/Types/StoreItems/Packages/HalloweenLatoSkinPack
 Day Of The Dead Weapon Skin Pack,/Lotus/Types/StoreItems/Packages/HalloweenSkinPack
 Day Of The Dead Weapon Skin Pack Ii,/Lotus/Types/StoreItems/Packages/HalloweenSkinPackII
-Day Of The Dead Vasto Skin,/Lotus/Types/StoreItems/Packages/HalloweenVastoSkinPack
 Cryotic Mod Pack,/Lotus/Types/StoreItems/Packages/IceEventModPack
 Immortal Skin Bundle,/Lotus/Types/StoreItems/Packages/ImmortalSkinPack
 Iliac Armor Bundle,/Lotus/Types/StoreItems/Packages/InfestedFinsArmorPack
