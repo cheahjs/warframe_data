@@ -183,6 +183,8 @@ Mountain バラック Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecip
 Moon バラック Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Tier5BarracksRecipe
 Temple Of Honor Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/TrophyRoomRecipe
 Djinn,/Lotus/StoreItems/Levels/MiniGames/Sentinel/SpaceInvaders/DefenderPowerSuitI
+Bronze Buddha Statue Blueprint,/Lotus/StoreItems/Levels/Relays/ComponentPropRecipes/HubSchemaTestDecoRecipe
+十字コネクター Blueprint,/Lotus/StoreItems/Levels/Relays/ComponentRecipes/HubSchemaTestSpawnRecipe
 Rail Core Blueprint,/Lotus/StoreItems/Levels/SectorWars/ComponentRecipes/SectorWarsExit01Recipe
 Data Relay Blueprint,/Lotus/StoreItems/Levels/SectorWars/ComponentRecipes/SectorWarsMid01Recipe
 Primary Generator Room Blueprint,/Lotus/StoreItems/Levels/SectorWars/ComponentRecipes/SectorWarsMid02Recipe
@@ -204,27 +206,43 @@ Nova,/Lotus/StoreItems/Powersuits/AntiMatter/Anti
 Antimatter Drop,/Lotus/StoreItems/Powersuits/AntiMatter/AntiMatterDropAbilityCard
 Molecular Prime,/Lotus/StoreItems/Powersuits/AntiMatter/MolecularPrimeAbilityCard
 Null Star,/Lotus/StoreItems/Powersuits/AntiMatter/NullStarAbilityCard
+Neutron Star,/Lotus/StoreItems/Powersuits/AntiMatter/NullStarAugmentCard
 Worm Hole,/Lotus/StoreItems/Powersuits/AntiMatter/WormHoleAbilityCard
+Thumper,/Lotus/StoreItems/Powersuits/Archwing/DemolitionJetPack/ArtilleryBarrageAbilityCard
+Warhead,/Lotus/StoreItems/Powersuits/Archwing/DemolitionJetPack/BigBoyAbilityCard
+Elytron,/Lotus/StoreItems/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack
+Core Vent,/Lotus/StoreItems/Powersuits/Archwing/DemolitionJetPack/ExhaustTrailAbilityCard
+Bloomer,/Lotus/StoreItems/Powersuits/Archwing/DemolitionJetPack/TnTAbilityCard
+Repel,/Lotus/StoreItems/Powersuits/Archwing/StandardJetPack/EMPPushAbilityCard
+Energy Shell,/Lotus/StoreItems/Powersuits/Archwing/StandardJetPack/FireShieldAbilityCard
+Disarray,/Lotus/StoreItems/Powersuits/Archwing/StandardJetPack/FlareCounterMeasureAbilityCard
+Seeking Fire,/Lotus/StoreItems/Powersuits/Archwing/StandardJetPack/MissileVolleyAbilityCard
+Odonata,/Lotus/StoreItems/Powersuits/Archwing/StandardJetPack/StandardJetPack
 Banshee,/Lotus/StoreItems/Powersuits/Banshee/Banshee
 Sound Quake,/Lotus/StoreItems/Powersuits/Banshee/EarthQuakeAbilityCard
 Sonic Boom,/Lotus/StoreItems/Powersuits/Banshee/PushAbilityCard
 Silence,/Lotus/StoreItems/Powersuits/Banshee/SilenceAbilityCard
+Savage Silence,/Lotus/StoreItems/Powersuits/Banshee/SilenceAugmentCard
 Sonar,/Lotus/StoreItems/Powersuits/Banshee/SonarAbilityCard
 Valkyr,/Lotus/StoreItems/Powersuits/Berserker/Berserker
 Rip Line,/Lotus/StoreItems/Powersuits/Berserker/GrappleAbilityCard
 Warcry,/Lotus/StoreItems/Powersuits/Berserker/IntimidateAbilityCard
 Hysteria,/Lotus/StoreItems/Powersuits/Berserker/LastStandAbilityCard
+Prolonged Paralysis,/Lotus/StoreItems/Powersuits/Berserker/ShieldBashAugmentCard
 Paralysis,/Lotus/StoreItems/Powersuits/Berserker/ShieldBlastAbilityCard
 Ember,/Lotus/StoreItems/Powersuits/Ember/Ember
 Ember Prime,/Lotus/StoreItems/Powersuits/Ember/EmberPrime
 Fireball,/Lotus/StoreItems/Powersuits/Ember/FireBallAbilityCard
+Fireball Frenzy,/Lotus/StoreItems/Powersuits/Ember/FireBallAugmentCard
 Fire Blast,/Lotus/StoreItems/Powersuits/Ember/FireBlastAbilityCard
+Placeholder Fire Blast Augment,/Lotus/StoreItems/Powersuits/Ember/FireBlastAugmentCard
 Overheat,/Lotus/StoreItems/Powersuits/Ember/FireSkinAbilityCard
 World On Fire,/Lotus/StoreItems/Powersuits/Ember/WorldOnFireAbilityCard
 Excalibur,/Lotus/StoreItems/Powersuits/Excalibur/Excalibur
 Excalibur Prime,/Lotus/StoreItems/Powersuits/Excalibur/ExcaliburPrime
 Radial Blind,/Lotus/StoreItems/Powersuits/Excalibur/RadialBlindAbilityCard
 Radial Javelin,/Lotus/StoreItems/Powersuits/Excalibur/RadialJavelinAbilityCard
+Furious Javelin,/Lotus/StoreItems/Powersuits/Excalibur/RadialJavelinAugmentCard
 Slash Dash,/Lotus/StoreItems/Powersuits/Excalibur/SlashDashAbilityCard
 Super Jump,/Lotus/StoreItems/Powersuits/Excalibur/SuperJumpAbilityCard
 Avalanche,/Lotus/StoreItems/Powersuits/Frost/AvalancheAbilityCard
@@ -233,13 +251,17 @@ Frost Prime,/Lotus/StoreItems/Powersuits/Frost/FrostPrime
 Snow Globe,/Lotus/StoreItems/Powersuits/Frost/IceShieldAbilityCard
 Ice Wave,/Lotus/StoreItems/Powersuits/Frost/IceSpikeAbilityCard
 Freeze,/Lotus/StoreItems/Powersuits/Frost/IcicleAbilityCard
+Freeze Force,/Lotus/StoreItems/Powersuits/Frost/IcicleAugmentCard
 Mirage,/Lotus/StoreItems/Powersuits/Harlequin/Harlequin
 Hall Of Mirrors,/Lotus/StoreItems/Powersuits/Harlequin/IllusionAbilityCard
+Hall Of Malevolence,/Lotus/StoreItems/Powersuits/Harlequin/IllusionAugmentCard
 Eclipse,/Lotus/StoreItems/Powersuits/Harlequin/LightAbilityCard
 Sleight Of Hand,/Lotus/StoreItems/Powersuits/Harlequin/ObjectChangeAbilityCard
+Placeholder Sleight Of Hand Augment,/Lotus/StoreItems/Powersuits/Harlequin/ObjectChangeAugmentCard
 Prism,/Lotus/StoreItems/Powersuits/Harlequin/PrismAbilityCard
 Chaos,/Lotus/StoreItems/Powersuits/Jade/ChaosAbilityCard
 Psychic Bolts,/Lotus/StoreItems/Powersuits/Jade/DaggerAbilityCard
+Pacifying Bolts,/Lotus/StoreItems/Powersuits/Jade/DaggerAugmentCard
 Nyx,/Lotus/StoreItems/Powersuits/Jade/Jade
 Mind Control,/Lotus/StoreItems/Powersuits/Jade/MindControlAbilityCard
 Nyx Prime,/Lotus/StoreItems/Powersuits/Jade/NyxPrime
@@ -250,30 +272,43 @@ Invisibility,/Lotus/StoreItems/Powersuits/Loki/InvisibilityAbilityCard
 Loki,/Lotus/StoreItems/Powersuits/Loki/Loki
 Loki Prime,/Lotus/StoreItems/Powersuits/Loki/LokiPrime
 Switch Teleport,/Lotus/StoreItems/Powersuits/Loki/SwitchAbilityCard
+Safeguard Switch,/Lotus/StoreItems/Powersuits/Loki/SwitchAugmentCard
 Bullet Attractor,/Lotus/StoreItems/Powersuits/Mag/BulletAttractorAbilityCard
+Placeholder Bullet Attractor Augment,/Lotus/StoreItems/Powersuits/Mag/BulletAttractorAugmentCard
 Crush,/Lotus/StoreItems/Powersuits/Mag/CrushAbilityCard
 Mag,/Lotus/StoreItems/Powersuits/Mag/Mag
 Mag Prime,/Lotus/StoreItems/Powersuits/Mag/MagPrime
 Pull,/Lotus/StoreItems/Powersuits/Mag/PullAbilityCard
+Greedy Pull,/Lotus/StoreItems/Powersuits/Mag/PullAugmentCard
 Shield Polarize,/Lotus/StoreItems/Powersuits/Mag/ShieldRegenAbilityCard
+Banish,/Lotus/StoreItems/Powersuits/Magician/BanishAbilityCard
+Haven,/Lotus/StoreItems/Powersuits/Magician/BanishAugmentCard
+Limbo,/Lotus/StoreItems/Powersuits/Magician/Magician
+Rift Walk,/Lotus/StoreItems/Powersuits/Magician/RiftWalkAbilityCard
+Cataclysm,/Lotus/StoreItems/Powersuits/Magician/TearInSpaceAbilityCard
+Rift Surge,/Lotus/StoreItems/Powersuits/Magician/VolatileAbilityCard
 Shadows Of The Dead,/Lotus/StoreItems/Powersuits/Necro/CloneTheDeadAbilityCard
 Nekros,/Lotus/StoreItems/Powersuits/Necro/Necro
 Desecrate,/Lotus/StoreItems/Powersuits/Necro/SearchTheDeadAbilityCard
 Soul Punch,/Lotus/StoreItems/Powersuits/Necro/SoulPunchAbilityCard
+Soul Survivor,/Lotus/StoreItems/Powersuits/Necro/SoulPunchAugmentCard
 Terrify,/Lotus/StoreItems/Powersuits/Necro/TerrorTotemAbilityCard
 Shuriken,/Lotus/StoreItems/Powersuits/Ninja/GlaiveAbilityCard
 Ash,/Lotus/StoreItems/Powersuits/Ninja/Ninja
 Blade Storm,/Lotus/StoreItems/Powersuits/Ninja/NinjaStormAbilityCard
 Smoke Screen,/Lotus/StoreItems/Powersuits/Ninja/SmokeScreenAbilityCard
+Smoke Shadow,/Lotus/StoreItems/Powersuits/Ninja/SmokeScreenAugmentCard
 Teleport,/Lotus/StoreItems/Powersuits/Ninja/TelelportToAbilityCard
 Oberon,/Lotus/StoreItems/Powersuits/Paladin/Paladin
 Reckoning,/Lotus/StoreItems/Powersuits/Paladin/ReckoningAbilityCard
 Renewal,/Lotus/StoreItems/Powersuits/Paladin/RegenerationAbilityCard
 Smite,/Lotus/StoreItems/Powersuits/Paladin/SmiteAbilityCard
+Smite Infusion,/Lotus/StoreItems/Powersuits/Paladin/SmiteAugmentCard
 Hallowed Ground,/Lotus/StoreItems/Powersuits/Paladin/StairwayToHeavenAbilityCard
 Tempest Barrage,/Lotus/StoreItems/Powersuits/Pirate/CannonBarrageAbilityCard
 Tentacle Swarm,/Lotus/StoreItems/Powersuits/Pirate/KrakenAbilityCard
 Undertow,/Lotus/StoreItems/Powersuits/Pirate/LiquifyAbilityCard
+Curative Undertow,/Lotus/StoreItems/Powersuits/Pirate/LiquifyAugmentCard
 Hydroid,/Lotus/StoreItems/Powersuits/Pirate/Pirate
 Tidal Surge,/Lotus/StoreItems/Powersuits/Pirate/TidalWaveAbilityCard
 Radial Blast,/Lotus/StoreItems/Powersuits/PowersuitAbilities/RadialBlastAbilityCard
@@ -281,14 +316,17 @@ Iron Skin,/Lotus/StoreItems/Powersuits/Rhino/IronSkinAbilityCard
 Roar,/Lotus/StoreItems/Powersuits/Rhino/RadialBlastAbilityCard
 Rhino,/Lotus/StoreItems/Powersuits/Rhino/Rhino
 Rhino Charge,/Lotus/StoreItems/Powersuits/Rhino/RhinoChargeAbilityCard
+Ironclad Charge,/Lotus/StoreItems/Powersuits/Rhino/RhinoChargeAugmentCard
 Rhino Prime,/Lotus/StoreItems/Powersuits/Rhino/RhinoPrime
 Rhino Stomp,/Lotus/StoreItems/Powersuits/Rhino/RhinoStompAbilityCard
 Miasma,/Lotus/StoreItems/Powersuits/Saryn/ExplosiveDissolveAbilityCard
 Venom,/Lotus/StoreItems/Powersuits/Saryn/PoisonAbilityCard
+Venom Dose,/Lotus/StoreItems/Powersuits/Saryn/PoisonAugmentCard
 Saryn,/Lotus/StoreItems/Powersuits/Saryn/Saryn
 Molt,/Lotus/StoreItems/Powersuits/Saryn/ShedAbilityCard
 Contagion,/Lotus/StoreItems/Powersuits/Saryn/WeaponPoisonAbilityCard
 Dive Bomb,/Lotus/StoreItems/Powersuits/Tengu/DiveBombAbilityCard
+Divebomb Vortex,/Lotus/StoreItems/Powersuits/Tengu/DiveBombAugmentCard
 Tail Wind,/Lotus/StoreItems/Powersuits/Tengu/TailWindAbilityCard
 Zephyr,/Lotus/StoreItems/Powersuits/Tengu/Tengu
 Tornado,/Lotus/StoreItems/Powersuits/Tengu/TornadoAbilityCard
@@ -298,14 +336,17 @@ Bastille,/Lotus/StoreItems/Powersuits/Trapper/LevTrapAbilityCard
 Vortex,/Lotus/StoreItems/Powersuits/Trapper/MagHoleAbilityCard
 Vauban,/Lotus/StoreItems/Powersuits/Trapper/Trapper
 Tesla,/Lotus/StoreItems/Powersuits/Trapper/ZapTrapAbilityCard
+Tesla Link,/Lotus/StoreItems/Powersuits/Trapper/ZapTrapAugmentCard
 Blessing,/Lotus/StoreItems/Powersuits/Trinity/BlessingAbilityCard
 Energy Vampire,/Lotus/StoreItems/Powersuits/Trinity/EnergyVampireAbilityCard
 Link,/Lotus/StoreItems/Powersuits/Trinity/LinkAbilityCard
 Trinity,/Lotus/StoreItems/Powersuits/Trinity/Trinity
 Well Of Life,/Lotus/StoreItems/Powersuits/Trinity/WellOfLifeAbilityCard
+Pool Of Life,/Lotus/StoreItems/Powersuits/Trinity/WellOfLifeAugmentCard
 Overload,/Lotus/StoreItems/Powersuits/Volt/OverloadAbilityCard
 Electric Shield,/Lotus/StoreItems/Powersuits/Volt/ShieldAbilityCard
 Shock,/Lotus/StoreItems/Powersuits/Volt/ShockAbilityCard
+Shock Trooper,/Lotus/StoreItems/Powersuits/Volt/ShockAugmentCard
 Speed,/Lotus/StoreItems/Powersuits/Volt/SpeedAbilityCard
 Volt,/Lotus/StoreItems/Powersuits/Volt/Volt
 Hawk Mod パック,/Lotus/StoreItems/Types/BoosterPacks/CommonArtifactPack
@@ -374,10 +415,14 @@ Alad Blue,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantG
 Venus Brown,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantH
 Lotus Purple,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantI
 Valkyr Brown,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantJ
+Lotus White,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMidA
+Jadeleaf Green,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMidB
+Tenno Red,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMundaneA
+Nova White,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMundaneB
+Brokk Brown,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorXmasVibrantA
+Trinity Red,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorXmasVibrantB
 Kubrow Egg,/Lotus/StoreItems/Types/Game/KubrowPet/Eggs/KubrowEgg
 Kubrow Egg,/Lotus/StoreItems/Types/Game/KubrowPet/Eggs/KubrowPetEggItem
-Kubrow Egg,/Lotus/StoreItems/Types/Game/KubrowPet/Eggs/KubrowRandomizerEgg
-Kubrow Egg,/Lotus/StoreItems/Types/Game/KubrowPet/Eggs/KubrowTestEgg
 ,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPattern
 Striped Fur Pattern,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternA
 Patchy Fur Pattern,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternB
@@ -417,7 +462,9 @@ Warframe,/Lotus/StoreItems/Types/Game/PlayerPowerSuit
 ,/Lotus/StoreItems/Types/Game/RecipeItem
 Orokin Void Key,/Lotus/StoreItems/Types/Game/VoidKeyItem
 合金板,/Lotus/StoreItems/Types/Items/MiscItems/AlloyPlate
+Orokin Archive,/Lotus/StoreItems/Types/Items/MiscItems/ArchWingNavCode
 Argon Crystal,/Lotus/StoreItems/Types/Items/MiscItems/ArgonCrystal
+Proof Fragment,/Lotus/StoreItems/Types/Items/MiscItems/Beacon
 Golem Nav Coordinate,/Lotus/StoreItems/Types/Items/MiscItems/BossNavCode
 回路基板,/Lotus/StoreItems/Types/Items/MiscItems/Circuits
 /Lotus/Language/Items/Clancreator,/Lotus/StoreItems/Types/Items/MiscItems/ClanCreator
@@ -428,6 +475,7 @@ Tethra Data Fragments,/Lotus/StoreItems/Types/Items/MiscItems/DataFragment
 フォーマ,/Lotus/StoreItems/Types/Items/MiscItems/Forma
 ガリウム,/Lotus/StoreItems/Types/Items/MiscItems/Gallium
 Vay Hek Nav Coordinate [Obsolete??],/Lotus/StoreItems/Types/Items/MiscItems/HekNavCode
+/Lotus/Language/Items/Limbocodename,/Lotus/StoreItems/Types/Items/MiscItems/LimboCode
 Orokin Cipher,/Lotus/StoreItems/Types/Items/MiscItems/MirageCode
 モーフィクス,/Lotus/StoreItems/Types/Items/MiscItems/Morphic
 ナノ胞子,/Lotus/StoreItems/Types/Items/MiscItems/Nanospores
@@ -442,6 +490,7 @@ Oxium,/Lotus/StoreItems/Types/Items/MiscItems/OxiumAlloy
 ポリマーバンドル,/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle
 ポリマーバンドル,/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle240TutorialQuest
 ポリマーバンドル,/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundleRaidTutorial
+(Temp) Prime Bucks,/Lotus/StoreItems/Types/Items/MiscItems/PrimeBucks
 ルビドー,/Lotus/StoreItems/Types/Items/MiscItems/Rubedo
 サルベージ,/Lotus/StoreItems/Types/Items/MiscItems/Salvage
 サルベージ,/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest
@@ -469,6 +518,36 @@ Corpus Datamass,/Lotus/StoreItems/Types/Items/Research/DataMassPlus
 フィールドロン,/Lotus/StoreItems/Types/Items/Research/EnergyComponent
 フィールドロン Blueprint,/Lotus/StoreItems/Types/Items/Research/EnergyComponentBlueprint
 フィールドロン サンプル,/Lotus/StoreItems/Types/Items/Research/EnergyFragment
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/AladVBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/AshBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/BansheeBobbleHead
+Ember Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/EmberBobbleHead
+Excalibur Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburBobbleHead
+Frost Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/FrostBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/GrineerExcavationBossBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/GrineerMarineAlt2DesertBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/GrineerMarineAltArcticBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/GrineerMarineAltDesertBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/GrineerMarineArcticBobbleHead
+Grineer Lancer Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/GrineerMarineBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/GrineerMarineDesertBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/HydroidBobbleHead
+Loki Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/LokiBobbleHead
+Mag Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/MagBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/MirageBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/NekrosBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/NovaBobbleHead
+Nyx Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/NyxBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/OberonBobbleHead
+Rhino Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/RhinoBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/SargusRukBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/SarynBobbleHead
+Trinity Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/TrinityBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/ValkyrBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/VaubanBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/VoltBobbleHead
+Vor Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/VorBobbleHead
+Placeholder,/Lotus/StoreItems/Types/Items/ShipDecos/ZephyrBobbleHead
 Alerts Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/AlertsFeatureItem
 Arsenal Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/ArsenalFeatureItem
 Ceres Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/CeresNavigationFeatureItem
@@ -497,10 +576,27 @@ Solar Chart Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/SolarChartFea
 Uranus Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/UranusNavigationFeatureItem
 Venus Nav Segment,/Lotus/StoreItems/Types/Items/ShipFeatureItems/VenusNavigationFeatureItem
 ,/Lotus/StoreItems/Types/Items/NavigationFeatureItem
+The Archwing,/Lotus/StoreItems/Types/Keys/ArchwingQuest/ArchwingQuestKeyChain
+Find Corpus Intelligence About The Balor Fomorians,/Lotus/StoreItems/Types/Keys/ArchwingQuest/MissionFour
+Recover The Orokin Archive,/Lotus/StoreItems/Types/Keys/ArchwingQuest/MissionOne
+Find Corpus Intelligence About The Balor Fomorians,/Lotus/StoreItems/Types/Keys/ArchwingQuest/MissionThree
+Extract The Archwing Part Blueprints,/Lotus/StoreItems/Types/Keys/ArchwingQuest/MissionTwo
+Once Awake,/Lotus/StoreItems/Types/Keys/InfestedIntroQuest/InfestedIntroQuestKeyChain
+Investigate The Bio Weapon,/Lotus/StoreItems/Types/Keys/InfestedIntroQuest/MissionOne
+Defend The Bomb,/Lotus/StoreItems/Types/Keys/InfestedIntroQuest/MissionThree
+Exterminate An Infestation,/Lotus/StoreItems/Types/Keys/InfestedIntroQuest/MissionTwo
 Howl Of The Kubrow,/Lotus/StoreItems/Types/Keys/KubrowQuest/KubrowQuestKeyChain
 Acquire The Incubator Segment,/Lotus/StoreItems/Types/Keys/KubrowQuest/MissionOne
 Defend Your Kubrow In Combat,/Lotus/StoreItems/Types/Keys/KubrowQuest/MissionThree
 Find A Kubrow Egg In Feral Kubrow Dens,/Lotus/StoreItems/Types/Keys/KubrowQuest/MissionTwo
+Limbo Theorem,/Lotus/StoreItems/Types/Keys/LimboQuest/LimboBeaconKey
+Limbo Chassis Theorem,/Lotus/StoreItems/Types/Keys/LimboQuest/LimboChassisKey
+Limbo Chassis Theorem Blueprint,/Lotus/StoreItems/Types/Keys/LimboQuest/LimboChassisKeyBlueprint
+Limbo Theorem,/Lotus/StoreItems/Types/Keys/LimboQuest/LimboHelmetKey
+Limbo Theorem Blueprint,/Lotus/StoreItems/Types/Keys/LimboQuest/LimboHelmetKeyBlueprint
+The Limbo Theorem,/Lotus/StoreItems/Types/Keys/LimboQuest/LimboQuestKeyChain
+Limbo Systems Theorem,/Lotus/StoreItems/Types/Keys/LimboQuest/LimboSystemsKey
+Limbo Systems Theorem Blueprint,/Lotus/StoreItems/Types/Keys/LimboQuest/LimboSystemsKeyBlueprint
 Hidden Messages,/Lotus/StoreItems/Types/Keys/MirageQuest/MirageQuestKeyChain
 Solve The Riddle From The Inbox Message,/Lotus/StoreItems/Types/Keys/MirageQuest/MissionOne
 Solve The Riddle From The Inbox Message,/Lotus/StoreItems/Types/Keys/MirageQuest/MissionThree
@@ -510,6 +606,10 @@ Tower Iv Defense,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerDefense
 Tower Iv Exterminate,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerExterminateTier4Key
 Tower Iv Interception,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerInterceptionTier4Key
 Tower Iv Mobile Defense,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerMobileDefenseTier4Key
+Tower I Sabotage,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerSabotageTier1Key
+Tower Ii Sabotage,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerSabotageTier2Key
+Tower Iii Sabotage,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerSabotageTier3Key
+Tower Iv Sabotage,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerSabotageTier4Key
 Tower Iv Survival,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerSurvivalTier4Key
 Survivalasteroidgrn,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalAsteroidGrn
 Survivalasteroidinf,/Lotus/StoreItems/Types/Keys/TestKeys/SurvivalAsteroidInf
@@ -536,6 +636,8 @@ Orokin Derelict Exterminate,/Lotus/StoreItems/Types/Keys/DerelictExterminateKey
 Orokin Derelict Exterminate Blueprint,/Lotus/StoreItems/Types/Keys/DerelictExterminateKeyBlueprint
 Orokin Derelict Assassinate,/Lotus/StoreItems/Types/Keys/DerelictGolemKey
 Survival Test Key Blueprint,/Lotus/StoreItems/Types/Keys/DerelictKeyBlueprint
+Orokin Derelict Sabotage,/Lotus/StoreItems/Types/Keys/DerelictSabotageKey
+Orokin Derelict Sabotage Blueprint,/Lotus/StoreItems/Types/Keys/DerelictSabotageKeyBlueprint
 Orokin Derelict Survival,/Lotus/StoreItems/Types/Keys/DerelictSurvivalKey
 Orokin Derelict Survival Blueprint,/Lotus/StoreItems/Types/Keys/DerelictSurvivalKeyBlueprint
 クラン キー,/Lotus/StoreItems/Types/Keys/DojoKey
@@ -547,6 +649,7 @@ Test Derelict Sabotage Shipyards,/Lotus/StoreItems/Types/Keys/EventKeyOrokinDere
 Forest Exterminate,/Lotus/StoreItems/Types/Keys/ForestHaloweenCacheExterminate
 Orokin Derelict Assassinate Blueprint,/Lotus/StoreItems/Types/Keys/GolemKeyBlueprint
 Breeding Grounds,/Lotus/StoreItems/Types/Keys/InfestedCorpusHiveEventKey
+The Limbo Theorem Blueprint,/Lotus/StoreItems/Types/Keys/LimboQuestKeyBlueprint
 Hidden Messages Blueprint,/Lotus/StoreItems/Types/Keys/MirageQuestKeyBlueprint
 Tethra Shield Cipher,/Lotus/StoreItems/Types/Keys/NightmareKeyShipyardsRetrieval
 Tethra Shield Cipher Blueprint,/Lotus/StoreItems/Types/Keys/NightmareRetrievalKeyBlueprint
@@ -570,6 +673,13 @@ Template Quest Mission 2,/Lotus/StoreItems/Types/Keys/QuestKeyB
 Template Quest Mission 3,/Lotus/StoreItems/Types/Keys/QuestKeyC
 Tethra Cipher Blueprint,/Lotus/StoreItems/Types/Keys/RetrievalKeyBlueprint
 Tower I Exterminate,/Lotus/StoreItems/Types/Keys/SettlementTestKey
+Archwing Defense Test,/Lotus/StoreItems/Types/Keys/TRDefenseTestKey
+Archwing Exterminate Test,/Lotus/StoreItems/Types/Keys/TRExterminateTestKey
+Archwing Sabotage Test,/Lotus/StoreItems/Types/Keys/TRSabotageTestKey
+Ice Planet Tac Alert Easy,/Lotus/StoreItems/Types/Keys/TacAlertKeyIcePlanetCaptureBonus
+Ice Planet Tac Alert Easy,/Lotus/StoreItems/Types/Keys/TacAlertKeyIcePlanetCaptureEasy
+Ice Planet Tac Alert Easy,/Lotus/StoreItems/Types/Keys/TacAlertKeyIcePlanetCaptureHard
+Ice Planet Tac Alert Easy,/Lotus/StoreItems/Types/Keys/TacAlertKeyIcePlanetCaptureMed
 Defense Test Key,/Lotus/StoreItems/Types/Keys/TestKeyA
 Testattackdefend,/Lotus/StoreItems/Types/Keys/TestKeyAttackDefend
 Survival Test Key,/Lotus/StoreItems/Types/Keys/TestKeyB
@@ -602,11 +712,18 @@ Gas Rescue Test,/Lotus/StoreItems/Types/Keys/TestKeyGasRescue
 Gas Sabotage Test,/Lotus/StoreItems/Types/Keys/TestKeyGasSabotage
 Gas Capture Test,/Lotus/StoreItems/Types/Keys/TestKeyGasSurvival
 Grineer Galleon Boss Test,/Lotus/StoreItems/Types/Keys/TestKeyGrineerGalleonBoss
+Space Grn Exterminate,/Lotus/StoreItems/Types/Keys/TestKeyGrineerSpaceExtermination
+Space Grn Interception,/Lotus/StoreItems/Types/Keys/TestKeyGrineerSpaceInterception
 Ruk Ruk Ruk!,/Lotus/StoreItems/Types/Keys/TestKeyGrineerToCorpusTorpedo
 Forest Excavation,/Lotus/StoreItems/Types/Keys/TestKeyGrnForestExcavation
 Settlement Excavation,/Lotus/StoreItems/Types/Keys/TestKeyGrnSettlementExcavation
 Hyena Pack Assassinate,/Lotus/StoreItems/Types/Keys/TestKeyHyenaPack
+Gas Endless Defense Test,/Lotus/StoreItems/Types/Keys/TestKeyIceDefense
+Infested Alad Assassinate Test,/Lotus/StoreItems/Types/Keys/TestKeyInfestedAladAssassinate
 Breeding Grounds,/Lotus/StoreItems/Types/Keys/TestKeyInfestedCorpusHive
+Infested Ai Defense Test,/Lotus/StoreItems/Types/Keys/TestKeyInfestedNewAiDefense
+Infested Ai Exterminate Test,/Lotus/StoreItems/Types/Keys/TestKeyInfestedNewAiExterminate
+Infested Ai Survival Test,/Lotus/StoreItems/Types/Keys/TestKeyInfestedNewAiSurvival
 Kubrow Test,/Lotus/StoreItems/Types/Keys/TestKeyKubrow
 Forest Defense,/Lotus/StoreItems/Types/Keys/TestKeyKubrowDefense
 Test Derelict Sabotage Forest,/Lotus/StoreItems/Types/Keys/TestKeyOrokinDerelictSabotageForest
@@ -618,6 +735,7 @@ Test Orokin Sabotage Forest,/Lotus/StoreItems/Types/Keys/TestKeyOrokinSabotageFo
 Test Orokin Sabotage Ice Planet,/Lotus/StoreItems/Types/Keys/TestKeyOrokinSabotageIcePlanet
 Test Orokin Sabotage Outpost,/Lotus/StoreItems/Types/Keys/TestKeyOrokinSabotageOutpost
 Test Orokin Sabotage Settlement,/Lotus/StoreItems/Types/Keys/TestKeyOrokinSabotageSettlement
+Tethra Cipher,/Lotus/StoreItems/Types/Keys/TestKeyOutpostHijack
 Testsectorwars,/Lotus/StoreItems/Types/Keys/TestKeySectorWars
 Shipyards Boss Test,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsBoss
 Shipyards Defense Test,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsDefense
@@ -627,7 +745,7 @@ Shipyards Mobile Defense Test,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsMobil
 Shipyards Rescue (Medium),/Lotus/StoreItems/Types/Keys/TestKeyShipyardsRescueMed
 Tethra Cipher,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsRetrieval
 Shipyards Sabotage Test,/Lotus/StoreItems/Types/Keys/TestKeyShipyardsSabotage
-Space Flight,/Lotus/StoreItems/Types/Keys/TestKeySpaceFlight
+Arch Wing Escape,/Lotus/StoreItems/Types/Keys/TestKeySpaceFlight
 Survival Test Key,/Lotus/StoreItems/Types/Keys/TestKeySurvival
 Asteroid Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitional
 Corpus Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitionalB
@@ -642,6 +760,35 @@ Vay Hek Frequency Triangulator Blueprint,/Lotus/StoreItems/Types/Keys/VeyHekKeyB
 4000 Credits Cache,/Lotus/StoreItems/Types/PickUps/Credits/4000Credits
 5000 Credits Cache,/Lotus/StoreItems/Types/PickUps/Credits/5000Credits
 500 Credits Cache,/Lotus/StoreItems/Types/PickUps/Credits/500Credits
+Elytron Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingBlueprint
+Elytron Harness Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingChassisBlueprint
+Elytron Harness,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingChassisComponent
+Elytron Systems Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingSystemsBlueprint
+Elytron Systems,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingSystemsComponent
+Elytron Wings Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingWingsBlueprint
+Elytron Wings,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingWingsComponent
+Odonata Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingBlueprint
+Odonata Harness Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingChassisBlueprint
+Odonata Harness,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingChassisComponent
+Odonata Systems Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingSystemsBlueprint
+Odonata Systems,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingSystemsComponent
+Odonata Wings Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingWingsBlueprint
+Odonata Wings,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingWingsComponent
+Daedalus Chest Plate Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/DaedelusChestPlateBlueprint
+Daedalus Knee Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/DaedelusLeftLegBlueprint
+Daedalus Shoulder Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/DaedelusLeftShoulderBlueprint
+Daedalus Knee Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/DaedelusRightLegBlueprint
+Daedalus Shoulder Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/DaedelusRightShoulderBlueprint
+Edo Chest Plate Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EdoChestPlateBlueprint
+Edo Knee Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EdoLeftLegBlueprint
+Edo Shoulder Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EdoLeftShoulderBlueprint
+Edo Knee Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EdoRightLegBlueprint
+Edo Shoulder Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EdoRightShoulderBlueprint
+Eos Chest Plate Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EosChestPlateBlueprint
+Eos Knee Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EosLeftLegBlueprint
+Eos Shoulder Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EosLeftShoulderBlueprint
+Eos Knee Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EosRightLegBlueprint
+Eos Shoulder Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EosRightShoulderBlueprint
 Grustrag Bolt Release Blueprint,/Lotus/StoreItems/Types/Recipes/Components/BrandRemovalBlueprint
 Grustrag Bolt Release,/Lotus/StoreItems/Types/Recipes/Components/BrandRemovalFakeItem
 Vapor Specter x10 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/BronzeSpectreBlueprint
@@ -691,9 +838,11 @@ Arcane Phoenix Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/EmberAlt
 Arcane Avalon Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ExcaliburAltHelmetBlueprint
 Arcane Aurora Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/FrostAltHelmetBlueprint
 Harlequin Mirage Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/HarlequinAltHelmetBlueprint
+Aristeas Limbo Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LimboAristeasHelmetBlueprint
 Arcane Essence Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LokiAltHelmetBlueprint
 Enigma Loki Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LokiEnigmaHelmetBlueprint
 Arcane Coil Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/MagAltHelmetBlueprint
+Arcane Scorpion Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/MagicianAristeasHelmetBlueprint
 Raknis Nekros Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NekrosAraknidHelmetBlueprint
 Shroud Nekros Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NekrosShroudHelmetBlueprint
 Arcane Flux Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NovaAltHelmetBlueprint
@@ -760,6 +909,9 @@ Dethcube Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/DethCubeSenti
 Wyrm Prime Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/PrimeWyrmSentinelBlueprint
 Shade Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/ShadeSentinelBlueprint
 Wyrm Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/WyrmSentinelBlueprint
+Asa Syandana Blueprint,/Lotus/StoreItems/Types/Recipes/Syandanas/AsaSyandanaBlueprint
+Uru Syandana Blueprint,/Lotus/StoreItems/Types/Recipes/Syandanas/UruSyandanaBlueprint
+Yomo Syandana Blueprint,/Lotus/StoreItems/Types/Recipes/Syandanas/YomoSyandanaBlueprint
 Ash Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshBlueprint
 Ash シャーシ Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshChassisBlueprint
 Ash シャーシ,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshChassisComponent
@@ -858,6 +1010,13 @@ Mag Prime Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagP
 Mag Prime Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagPrimeSystemsComponent
 Mag システム Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagSystemsBlueprint
 Mag システム,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagSystemsComponent
+Limbo Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagicianBlueprint
+Limbo Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagicianChassisBlueprint
+Limbo Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagicianChassisComponent
+Limbo Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagicianHelmetBlueprint
+Limbo Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagicianHelmetComponent
+Limbo Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagicianSystemsBlueprint
+Limbo Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagicianSystemsComponent
 Nekros Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NecroBlueprint
 Nekros Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NecroChassisBlueprint
 Nekros Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NecroChassisComponent
@@ -942,6 +1101,18 @@ Volt ヘルメット Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/V
 Volt ヘルメット,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VOLTHelmetComponent
 Volt システム Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VOLTSystemsBlueprint
 Volt システム,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VOLTSystemsComponent
+Ember Immortal Skin Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeSkins/EmberImmortalBlueprint
+Excalibur Immortal Skin Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeSkins/ExcaliburImmortalBlueprint
+Frost Immortal Skin Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeSkins/FrostImmortalBlueprint
+Daman Sugatra Blueprint,/Lotus/StoreItems/Types/Recipes/WeaponSkins/WeaponAttachments/DamanSugatraBlueprint
+Pazza Sugatra Blueprint,/Lotus/StoreItems/Types/Recipes/WeaponSkins/WeaponAttachments/PazzaSugatraBlueprint
+Tantu Sugatra Blueprint,/Lotus/StoreItems/Types/Recipes/WeaponSkins/WeaponAttachments/TantuSugatraBlueprint
+Forest-Camo Akvasto Blueprint,/Lotus/StoreItems/Types/Recipes/WeaponSkins/ForestCamoAkVastoBlueprint
+Forest-Camo Scindo Blueprint,/Lotus/StoreItems/Types/Recipes/WeaponSkins/ForestCamoScindoBlueprint
+Forest-Camo Soma Blueprint,/Lotus/StoreItems/Types/Recipes/WeaponSkins/ForestCamoSomaBlueprint
+Shock Camo Detron Blueprint,/Lotus/StoreItems/Types/Recipes/WeaponSkins/ShockCamoDetronBlueprint
+Shock Camo Penta Blueprint,/Lotus/StoreItems/Types/Recipes/WeaponSkins/ShockCamoPentaBlueprint
+Shock Camo Prova Blueprint,/Lotus/StoreItems/Types/Recipes/WeaponSkins/ShockCamoProvaBlueprint
 Dagger Axe スキン Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/Skins/DaggerAxeBlueprint
 Dagger Axe スキン Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/Skins/DualDaggerAxeBlueprint
 Manticore Axe スキン Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/Skins/GrnAxeBlueprint
@@ -949,6 +1120,11 @@ Brokk Hammer スキン Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/Skins/G
 Akbronco Prime Link,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/AkbroncoPrimeLink
 Ankyros Prime Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/AnkyrosPrimeBlade
 Ankyros Prime Gauntlet,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/AnkyrosPrimeGauntlet
+Onorix Blade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/ArchAxeBlade
+Onorix Handle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/ArchAxeHandle
+Corvas Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/ArchCannonBarrel
+Corvas Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/ArchCannonReceiver
+Corvas Stock,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/ArchCannonStock
 Boar Prime Barrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BoarPrimeBarrel
 Boar Prime Receiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BoarPrimeReceiver
 Boar Prime Stock,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BoarPrimeStock
@@ -1009,6 +1185,8 @@ Akbronco Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AkbroncoPrimeBl
 Aklex Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AklexBlueprint
 Ankyros Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AnkyrosPrimeBlueprint
 Cernos Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AntlerBowBlueprint
+Onorix Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ArchAxeBlueprint
+Corvas Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ArchCannonBlueprint
 Ballistica Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AutoCrossBowBlueprint
 Scindo Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AxeBlueprint
 Boar Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoarPrimeBlueprint
@@ -1068,6 +1246,7 @@ Viper Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerLightPistolBluepr
 Karak Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerM16RifleBlueprint
 Atterax Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrineerWhipBlueprint
 Grakata Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnAssaultRifleBlueprint
+Halikar Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnBoomerangBlueprint
 Hind Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnBurstRifleBlueprint
 Kraken Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnHeavyPistolBlueprint
 Vulkar Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnSniperRifleBlueprint
@@ -1141,15 +1320,31 @@ Topaz Antitoxin,/Lotus/StoreItems/Types/Restoratives/Consumable/Toxins/NightUnCo
 Lapis Antitoxin,/Lotus/StoreItems/Types/Restoratives/Consumable/Toxins/RareAntitoxin
 Vermillion Antitoxin,/Lotus/StoreItems/Types/Restoratives/Consumable/Toxins/SoloRareAntitoxin
 Α Corruptor,/Lotus/StoreItems/Types/Restoratives/Consumable/AlphaCorruptor
+Ancient Healer Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/AncientHealerBall
 Β Corruptor,/Lotus/StoreItems/Types/Restoratives/Consumable/BetaCorruptor
 Vapor Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/BronzeSpectre
+Charger Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/ChargerBall
+Corrupted Lancer Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/CorruptedLancerBall
 グランドフィナーレ,/Lotus/StoreItems/Types/Restoratives/Consumable/FireWorksCrate
 スターバースト,/Lotus/StoreItems/Types/Restoratives/Consumable/FireWorksSingle
 Force Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/GoldSpectre
+Scorpion Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/MacheteWomanBall
+Moa Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/MoaBall
 Cosmic Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/PlatinumSpectre
+Roller Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/RollerBall
 Codex Scanner,/Lotus/StoreItems/Types/Restoratives/Consumable/Scanner
+Shield Osprey Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/ShieldDroneBall
 Phase Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/SilverSpectre
 安定した Corruptor,/Lotus/StoreItems/Types/Restoratives/Consumable/StableCorruptor
+Xattractor 1,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractor
+Xattractor 2,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorB
+Xattractor 3,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorC
+Xattractor 4,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorD
+Xattractor 5,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorE
+Xattractor 6,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorF
+Xattractor 7,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorG
+Xattractor 8,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorH
+Xattractor 9,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorI
 Extinguished Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/DamageDebuffKey
 Bleeding Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/HealthDebuffKey
 Decaying Dragon Key,/Lotus/StoreItems/Types/Restoratives/Upgraded/ShieldDebuffKey
@@ -1169,6 +1364,10 @@ Medium Team Shield Restore,/Lotus/StoreItems/Types/Restoratives/ClanTeamShieldTo
 シールドレストア,/Lotus/StoreItems/Types/Restoratives/SelfShieldHeal
 ショットガン弾薬ボックス,/Lotus/StoreItems/Types/Restoratives/SelfShotgunAmmo
 スナイパーライフル弾薬ボックス,/Lotus/StoreItems/Types/Restoratives/SelfSniperAmmo
+Large Team Ammo Restore,/Lotus/StoreItems/Types/Restoratives/SyndicateTeamAmmoTotem
+Large Team Energy Restore,/Lotus/StoreItems/Types/Restoratives/SyndicateTeamEnergyTotem
+Large Team Heal Restore,/Lotus/StoreItems/Types/Restoratives/SyndicateTeamHealTotem
+Large Team Shield Restore,/Lotus/StoreItems/Types/Restoratives/SyndicateTeamShieldTotem
 Team Ammo Restore,/Lotus/StoreItems/Types/Restoratives/TeamAmmoTotem
 Team Energy Restore,/Lotus/StoreItems/Types/Restoratives/TeamEnergyTotem
 チームヒール,/Lotus/StoreItems/Types/Restoratives/TeamHeal
@@ -1256,6 +1455,10 @@ Frost Primeのアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/Image
 Frost Primeのアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostPrimeDark
 Squall Frost のアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostSquallBright
 Squall Frost のアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostSquallDark
+Aristeas Limbo Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLimboAristeasBright
+Aristeas Limbo Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLimboAristeasDark
+Limbo Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLimboBright
+Limbo Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLimboDark
 Lokiのアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiBright
 Lokiのアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiDark
 Enigma Loki Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiEnigmaBright
@@ -1290,8 +1493,8 @@ Nova のアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaBr
 Nova のアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaDark
 Quantum Nova Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaQuantumBright
 Quantum Nova Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaQuantumDark
-Locust Ash のアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaSlipstreamBright
-Locust Ash のアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaSlipstreamDark
+Slipstream Nova Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaSlipstreamBright
+Slipstream Nova Profile Icon,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaSlipstreamDark
 Nyxのアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxBright
 Nyxのアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxDark
 Menticide Nyxのアバター,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxMenticideBright
@@ -1371,6 +1574,10 @@ Team Shield Restore x50 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables
 ラージヘルスレストア Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/SelfHealBlueprint
 Decaying Dragon Key Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/ShieldDebuffKeyBlueprint
 Hobbled Dragon Key Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/SpeedDebuffKeyBlueprint
+Large Team Ammo Restore x10 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/SyndicateTeamAmmoTenPackBlueprint
+Large Team Energy Restore x10 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/SyndicateTeamEnergyTenPackBlueprint
+Large Team Heal Restore x10 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/SyndicateTeamHealTenPackBlueprint
+Large Team Shield Restore x10 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/SyndicateTeamShieldTenPackBlueprint
 Team Ammo Restore Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/TeamAmmoTotemBlueprint
 Team Energy Restore Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/TeamEnergyTotemBlueprint
 チームヒール Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/TeamHealTotemBlueprint
@@ -1439,6 +1646,39 @@ Vazarin Lens,/Lotus/StoreItems/Upgrades/Focus/DefenseLens
 Zenurik Lens,/Lotus/StoreItems/Upgrades/Focus/PowerLens
 Naramon Lens,/Lotus/StoreItems/Upgrades/Focus/TacticLens
 Unairu Lens,/Lotus/StoreItems/Upgrades/Focus/WardLens
+Tempered Blade,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingMeleeCritChanceMod
+Bleeding Edge,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingMeleeCritDamageMod
+Cutting Edge,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingMeleeDamageMod
+Furor,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingMeleeFireRateMod
+Extend,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingMeleeRangeIncMod
+Sudden Impact,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingMeleeStatusChanceMod
+Galvanized Blade,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingWeaponElectricityDamageMod
+Blazing Steel,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFireDamageMod
+Glacial Edge,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFreezeDamageMod
+Poisonous Sting,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingWeaponToxinDamageMod
+Shell Rush,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingRifleChargeSpeedMod
+Magazine Extension,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingRifleClipMaxMod
+Parallax Scope,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritChanceMod
+Hollowed Bullets,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritDamageMod
+Rubedo-Lined Barrel,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingRifleDamageAmountMod
+Dual Rounds,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingRifleFireIterationsMod
+Automatic Trigger,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingRifleFireRateMod
+Ballista Measure,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingRifleRangeMod
+Modified Munitions,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingRifleStatusChanceMod
+Electrified Barrel,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponElectricityDamageMod
+Combustion Rounds,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponFireDamageMod
+Polar Magazine,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponFreezeDamageMod
+Venomous Clip,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponToxinDamageMod
+Efficient Transferral,/Lotus/StoreItems/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityDurationMod
+System Reroute,/Lotus/StoreItems/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityEfficiencyMod
+Energy Amplifier,/Lotus/StoreItems/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityRangeMod
+Morphic Transformer,/Lotus/StoreItems/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityStrengthMod
+Argon Plating,/Lotus/StoreItems/Upgrades/Mods/Archwing/Suit/ArchwingSuitArmourMod
+Enhanced Durability,/Lotus/StoreItems/Upgrades/Mods/Archwing/Suit/ArchwingSuitHealthMaxMod
+Auxillary Power,/Lotus/StoreItems/Upgrades/Mods/Archwing/Suit/ArchwingSuitPowerMaxMod
+Energy Inversion,/Lotus/StoreItems/Upgrades/Mods/Archwing/Suit/ArchwingSuitShieldMaxMod
+Superior Defenses,/Lotus/StoreItems/Upgrades/Mods/Archwing/Suit/ArchwingSuitShieldRechargeRateMod
+Hyperion Thrusters,/Lotus/StoreItems/Upgrades/Mods/Archwing/Suit/ArchwingSuitSprintSpeedMod
 Corrosive Projection,/Lotus/StoreItems/Upgrades/Mods/Aura/EnemyArmorReductionAuraMod
 Shield Disruption,/Lotus/StoreItems/Upgrades/Mods/Aura/EnemyShieldReductionAuraMod
 Infested Impedance,/Lotus/StoreItems/Upgrades/Mods/Aura/InfestationSpeedReductionAuraMod
@@ -1611,6 +1851,7 @@ Finishing Touch,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeFinisherDamageM
 Killing Blow,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeHeavyDamageMod
 Reach,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponMeleeRangeIncMod
 Melee Channel,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponPowerDamageMod
+Lasting Sting,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponProcTimeMod
 Jagged Edge,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponSlashDamageMod
 Second Wind,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponStaminaBonusMod
 Staggering Force,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponStunChanceMod
@@ -1635,8 +1876,10 @@ Quickdraw,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponReloadSpeedModBe
 Razor Shot,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponSlashDamageModBeginner
 Stopping Power,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponStatusChanceModBeginner
 Pathogen Rounds,/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponToxinDamageModBeginner
+Creeping Bullseye,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedCritChanceFireRatePistol
 Hollow Point,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedCritDamagePistol
 Magnum Force,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedDamageRecoilPistol
+Anemic Agility,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedFireRateDamagePistol
 Tainted Clip,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/CorruptedMaxClipReloadSpeedPistol
 Jolt,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod
 Scorch,/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/FireEventPistolMod
@@ -1676,6 +1919,7 @@ Steady Hands,/Lotus/StoreItems/Upgrades/Mods/Pistol/Intermediate/WeaponRecoilRed
 Stopping Power,/Lotus/StoreItems/Upgrades/Mods/Pistol/Intermediate/WeaponStatusChanceModIntermediate
 Trick Mag,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponAmmoMaxMod
 No Return,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponArmorPiercingDamageMod
+Ruinous Extension,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponBeamDistanceMod
 Slip Magazine,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponClipMaxMod
 Pistol Gambit,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponCritChanceMod
 Target Cracker,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponCritDamageMod
@@ -1693,6 +1937,8 @@ Expel Corpus,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCor
 Expel Grineer,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponPistolFactionDamageGrineer
 Expel Infested,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponPistolFactionDamageInfested
 Hawk Eye,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponPistolZoomFovMod
+Perpetual Agony,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponProcTimeMod
+Lethal Momentum,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponProjectileSpeedMod
 Seeker,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponPunctureDepthMod
 Steady Hands,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponRecoilReductionMod
 Quickdraw,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponReloadSpeedMod
@@ -1722,6 +1968,7 @@ Thunderclap,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponStatusChanceMod
 Infected Clip,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponToxinDamageModBeginner
 Critical Delay,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedCritRateFireRateRifle
 Heavy Caliber,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedDamageRecoilRifle
+Vile Acceleration,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedFireRateDamageRifle
 Tainted Mag,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedMaxClipReloadSpeedRifle
 Vile Precision,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/CorruptedRecoilFireRateRifle
 High Voltage,/Lotus/StoreItems/Upgrades/Mods/Rifle/DualStat/ElectEventRifleMod
@@ -1775,6 +2022,7 @@ Primed Chamber,/Lotus/StoreItems/Upgrades/Mods/Rifle/EventSniperReloadDamageMod
 Charged Chamber,/Lotus/StoreItems/Upgrades/Mods/Rifle/SniperReloadDamageMod
 Ammo Drum,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponAmmoMaxMod
 Piercing Hit,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponArmorPiercingDamageMod
+Sinister Reach,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponBeamDistanceMod
 Arrow Mutation,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponBowConvertAmmoMod
 Magazine Warp,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponClipMaxMod
 Point Strike,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponCritChanceMod
@@ -1792,6 +2040,8 @@ Cryo Rounds,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponFreezeDamageMod
 Rupture,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponImpactDamageMod
 Firestorm,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponIncreaseRadialExplosionMod
 Hush,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponNoiseReductionMod
+Continuous Misery,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponProcTimeMod
+Terminal Velocity,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponProjectileSpeedMod
 Metal Auger,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponPunctureDepthMod
 Stabilizer,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponRecoilReductionMod
 Fast Hands,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponReloadSpeedMod
@@ -1841,7 +2091,9 @@ Contagious Spread,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponToxinDa
 Accelerated Blast,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/AcceleratedBlastMod
 Blaze,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/BlazeMod
 Tainted Shell,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedAccuracyFireRateShotgun
+Critical Deceleration,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedCritChanceFireRateShotgun
 Vicious Spread,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedDamageAccuracyShotgun
+Frail Momentum,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedFireRateDamageShotgun
 Burdened Magazine,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/CorruptedMaxClipReloadSpeedShotgun
 Shell Shock,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/ElectEventShotgunMod
 Scattering Inferno,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/FireEventShotgunMod
@@ -1882,6 +2134,8 @@ Hell's Chamber,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponFireIterationsMod
 Shotgun Spazz,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponFireRateMod
 Chilling Grasp,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponFreezeDamageMod
 Disruptor,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponImpactDamageMod
+Lingering Torment,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponProcTimeMod
+Fatal Acceleration,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponProjectileSpeedMod
 Seeking Force,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponPunctureDepthMod
 Tactical Pump,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponReloadSpeedMod
 Shotgun Ammo Mutation,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponShotgunConvertAmmoMod
@@ -1891,6 +2145,45 @@ Cleanse Infested,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponShotgunFactionDam
 Shredder,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponSlashDamageMod
 Crowd Control,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponStunChanceMod
 Contagious Spread,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponToxinDamageMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/AshMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/BansheeMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/EmberMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/ExcaliburMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/FrostMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/HydroidMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/LokiMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/MagMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/MirageMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/NekrosMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/NovaMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/NyxMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/OberonMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/RhinoMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/SarynMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/TrinityMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/ValkyrMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/VaubanMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/VoltMod
+Tbd,/Lotus/StoreItems/Upgrades/Mods/Syndicate/Warframes/ZephyrMod
+Toxic Sequence,/Lotus/StoreItems/Upgrades/Mods/Syndicate/AcridMod
+Soaring Truth,/Lotus/StoreItems/Upgrades/Mods/Syndicate/BallisticaMod
+Entropy Spike,/Lotus/StoreItems/Upgrades/Mods/Syndicate/BoltoMod
+Gilded Truth,/Lotus/StoreItems/Upgrades/Mods/Syndicate/BurstonPrimeMod
+Gleaming Blight,/Lotus/StoreItems/Upgrades/Mods/Syndicate/DarkDaggerMod
+Justice Blades,/Lotus/StoreItems/Upgrades/Mods/Syndicate/DualCleaversMod
+Eroding Blight,/Lotus/StoreItems/Upgrades/Mods/Syndicate/EmbolistMod
+Winds Of Purity,/Lotus/StoreItems/Upgrades/Mods/Syndicate/FurisMod
+Deadly Sequence,/Lotus/StoreItems/Upgrades/Mods/Syndicate/GrinlokMod
+Scattered Justice,/Lotus/StoreItems/Upgrades/Mods/Syndicate/HekMod
+Blade Of Truth,/Lotus/StoreItems/Upgrades/Mods/Syndicate/JawSwordMod
+Entropy Flight,/Lotus/StoreItems/Upgrades/Mods/Syndicate/KestrelMod
+Toxic Blight,/Lotus/StoreItems/Upgrades/Mods/Syndicate/MireMod
+Bright Purity,/Lotus/StoreItems/Upgrades/Mods/Syndicate/SkanaMod
+Shattering Justice,/Lotus/StoreItems/Upgrades/Mods/Syndicate/SobekMod
+Sequence Burn,/Lotus/StoreItems/Upgrades/Mods/Syndicate/SpectraMod
+Entropy Burst,/Lotus/StoreItems/Upgrades/Mods/Syndicate/SupraMod
+Stinging Truth,/Lotus/StoreItems/Upgrades/Mods/Syndicate/ViperMod
+Lasting Purity,/Lotus/StoreItems/Upgrades/Mods/Syndicate/VulkarMod
 Continuity,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarAbilityDurationModBeginner
 Streamline,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarAbilityEfficiencyModBeginner
 Stretch,/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarAbilityRangeModBeginner
@@ -1924,6 +2217,7 @@ Constitution,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/ConstitutionMod
 Narrow Minded,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedDurationRangeWarframe
 Fleeting Expertise,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedEfficiencyDurationWarframe
 Blind Rage,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedPowerEfficiencyWarframe
+Transient Fortitude,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedPowerStrengthPowerDurationWarframe
 Overextended,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/CorruptedRangePowerWarframe
 Fortitude,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/FortitudeMod
 Vigor,/Lotus/StoreItems/Upgrades/Mods/Warframe/DualStat/VigorMod
@@ -2008,6 +2302,7 @@ Reflection,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarParryReflectMod
 Equilibrium,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarPickupBonusMod
 Flow,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarPowerMaxMod
 Quick Thinking,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarPowerToHealthOnDeathMod
+Rapid Resilience,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarProcTimeMod
 Retribution,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarRevengeDamageMelee
 Redirection,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarShieldMaxMod
 Fast Deflection,/Lotus/StoreItems/Upgrades/Mods/Warframe/AvatarShieldRechargeRateMod
@@ -2032,6 +2327,8 @@ Nova Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiMatterN
 Nova Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaAlternateSkin
 Quantum Nova Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaQuantumHelmet
 Slipstream Nova Helmet,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaSlipstreamHelmet
+Unlock Nova's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/UnlockAntiMatterAgile
+Unlock Nova's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/UnlockAntiMatterNoble
 Dendra Shoulder Guard,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncALArmor
 Dendra Shoulder Guard,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncARArmor
 Dendra Leg Guard,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncLLArmor
@@ -2089,12 +2386,16 @@ Hemlock Saryn ヘルム,/Lotus/StoreItems/Upgrades/Skins/Asp/AspAltHelmetStatles
 Saryn ヘルム,/Lotus/StoreItems/Upgrades/Skins/Asp/AspHelmet
 Saryn Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Asp/AspNobleAnims
 Saryn Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Asp/SarynAlternateSkin
+Unlock Saryn's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Asp/UnlockAspAgile
+Unlock Saryn's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Asp/UnlockAspNoble
 Dagger Axe スキン,/Lotus/StoreItems/Upgrades/Skins/Axe/DaggerAxe
 Valkyr Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerAgileAnims
 Bastet Valkyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerBastetHelmet
 Valkyr's Bonds,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerDangles
 Valkyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerHelmet
 Valkyr Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerNobleAnims
+Unlock Valkyr's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Berserker/UnlockBerserkerAgile
+Unlock Valkyr's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Berserker/UnlockBerserkerNoble
 Kara Valkyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Berserker/ValkyrAltBHelmet
 Valkyr Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Berserker/ValkyrAlternateSkin
 Desert-Camo Twin Vipers,/Lotus/StoreItems/Upgrades/Skins/Camo/AkimboViperCamo
@@ -2164,6 +2465,8 @@ Chorus Banshee ヘルム,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeAltHelmet
 Reverb Banshee ヘルム,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeAltHelmetStatless
 Banshee ヘルム,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeHelmet
 Banshee Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeNobleAnims
+Unlock Banshee's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Decree/UnlockDecreeAgile
+Unlock Banshee's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Decree/UnlockDecreeNoble
 Dagger Axe スキン,/Lotus/StoreItems/Upgrades/Skins/DualAxe/DaggerAxe
 Ember Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberAgileAnims
 Ember Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberAlternateSkin
@@ -2174,6 +2477,8 @@ Backdraft Ember ヘルム,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberHelmetAltB
 Phoenix Ember ヘルム,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberHelmetAltStatless
 Ember Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberNobleAnims
 Ember Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberPrimeHelmet
+Unlock Ember's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Ember/UnlockEmberAgile
+Unlock Ember's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Ember/UnlockEmberNoble
 Polar Glaxion Skin,/Lotus/StoreItems/Upgrades/Skins/Events/GlaxionPolar
 Excalibur Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburAgileAnims
 Excalibur Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburAlternateSkin
@@ -2188,6 +2493,8 @@ Excalibur Prime ヘルム,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPr
 Excalibur Proto-Armor Skin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoHelmet
 Excalibur Proto-Armor Skin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoSuit
 Excalibur ヘルム,/Lotus/StoreItems/Upgrades/Skins/Excalibur/GeoffcaliburHelmet
+Unlock Excalibur's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Excalibur/UnlockExcaliburAgile
+Unlock Excalibur's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Excalibur/UnlockExcaliburNoble
 Frost Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostAgileAnims
 Frost Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostAlternateSkin
 Frost ヘルム,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostHelmet
@@ -2197,6 +2504,8 @@ Squall Frost ヘルム,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostHelmetAltBSta
 Aurora Frost ヘルム,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostHelmetAltStatless
 Frost Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostNobleAnims
 Frost Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostPrimeHelmet
+Unlock Frost's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Frost/UnlockFrostAgile
+Unlock Frost's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Frost/UnlockFrostNoble
 Forest-Camo Afuris,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestAfuris
 Forest-Camo Ballistica,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestBallistica
 Forest-Camo Boltor,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestBoltor
@@ -2241,9 +2550,13 @@ Mirage Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinA
 Mirage Helmet,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinHelmet
 Harlequin Mirage Helmet,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinHelmetAlt
 Mirage Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinNobleAnims
+Unlock Mirage's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Harlequin/UnlockHarlequinAgile
+Unlock Mirage's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Harlequin/UnlockHarlequinNoble
 Manticore Axe スキン,/Lotus/StoreItems/Upgrades/Skins/HeavyAxe/GrnAxe
 Hydroid Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Hydroid/HydroidAgileAnims
 Hydroid Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Hydroid/HydroidNobleAnims
+Unlock Hydroid's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Hydroid/UnlockHydroidAgile
+Unlock Hydroid's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Hydroid/UnlockHydroidNoble
 Iahgames Braton,/Lotus/StoreItems/Upgrades/Skins/IAHGames/IAHGamesBratonSkin
 Nyx Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeAgileAnims
 Nyx ヘルム,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmet
@@ -2254,6 +2567,8 @@ Menticide Nyx ヘルム,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmetAltStatl
 Nyx Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeNobleAnims
 Nyx Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Jade/NyxAlternateSkin
 Nyx Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Jade/NyxPrimeHelmet
+Unlock Nyx's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Jade/UnlockJadeAgile
+Unlock Nyx's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Jade/UnlockJadeNoble
 Loki Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiAgileAnims
 Loki Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiAlternateSkin
 Enigma Loki Helmet,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiEnigmaHelmet
@@ -2264,6 +2579,8 @@ Swindle Loki ヘルム,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmetAltBStatl
 Essence Loki ヘルム,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmetAltStatless
 Loki Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiNobleAnims
 Loki Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiPrimeHelmet
+Unlock Loki's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Loki/UnlockLokiAgile
+Unlock Loki's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Loki/UnlockLokiNoble
 Mag Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Mag/MagAgileAnims
 Mag Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Mag/MagAlternateSkin
 Mag ヘルム,/Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmet
@@ -2273,12 +2590,22 @@ Gauss Mag ヘルム,/Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmetAltBStatless
 Coil Mag ヘルム,/Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmetAltStatless
 Mag Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Mag/MagNobleAnims
 Mag Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Mag/MagPrimeHelmet
+Unlock Mag's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Mag/UnlockMagAgile
+Unlock Mag's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Mag/UnlockMagNoble
+Limbo Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianAgileAnims
+Aristeas Limbo Helmet,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianAristeasHelmet
+Limbo Helmet,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianHelmet
+Limbo Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianNobleAnims
+Unlock Limbo's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Magician/UnlockMagicianAgile
+Unlock Limbo's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Magician/UnlockMagicianNoble
 Pazza Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/ChainTridentMeleeDangle
 Tantu Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/CordsMeleeDangle
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/FireMeleeDangle
 Suraka Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/LotusPointMeleeDangle
 Daman Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PolearmFriendlyMeleeDangle
 Daman Sugatra Prime,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PrimeMeleeDangle
 Vala Sugatra Prime,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/ValaPrimeMeleeDangle
+Huntsman Soma Skin,/Lotus/StoreItems/Upgrades/Skins/Miscellaneous/HuntsmanSoma
 The Gentleman,/Lotus/StoreItems/Upgrades/Skins/Mustache/Stache
 The Tusker,/Lotus/StoreItems/Upgrades/Skins/Mustache/Stache02
 The Magnum,/Lotus/StoreItems/Upgrades/Skins/Mustache/Stache03
@@ -2291,6 +2618,8 @@ Nekros Helmet,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroHelmet
 Nekros Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroNobleAnims
 Shroud Nekros Helmet,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroShroudHelmet
 Nekros Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Necro/NekrosAlternateSkin
+Unlock Nekros' Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Necro/UnlockNecroAgile
+Unlock Nekros' Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Necro/UnlockNecroNoble
 Ash Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Ninja/AshAlternateSkin
 Ash Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaAgileAnims
 Ash ヘルム,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmet
@@ -2299,6 +2628,8 @@ Arcane Locust Helmet,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAltB
 Locust Ash ヘルム,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAltBStatless
 Scorpion Ash ヘルム,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAltStatless
 Ash Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaNobleAnims
+Unlock Ash's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Ninja/UnlockNinjaAgile
+Unlock Ash's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Ninja/UnlockNinjaNoble
 Nvidia Braton,/Lotus/StoreItems/Upgrades/Skins/Nvidia/NvidiaBratonSkin
 Oberon Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Paladin/OberonAlternateSkin
 Oberon Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinAgileAnims
@@ -2306,6 +2637,8 @@ Oberon Helmet,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinHelmet
 Oryx Oberon Helmet,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinHelmetAlt
 Markhor Oberon Helmet,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinHelmetAltB
 Oberon Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinNobleAnims
+Unlock Oberon's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Paladin/UnlockPaladinAgile
+Unlock Oberon's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Paladin/UnlockPaladinNoble
 Ketos Hydroid Helmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateAltBHelmet
 Triton Hydroid Helmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateAltHelmet
 Hydroid Helmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateDefaultHelmet
@@ -2333,6 +2666,8 @@ Rhino Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoNobleAnims
 Rhino Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoPrimeHelmet
 Rubedo Plated Rhino Skin,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkin
 Rubedo Plated Helmet,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkinHelmet
+Unlock Rhino's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Rhino/UnlockRhinoAgile
+Unlock Rhino's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Rhino/UnlockRhinoNoble
 Yomo Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/ArmScarf
 Yamako Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/DinoSpikeScarf
 Asa Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarf
@@ -2383,6 +2718,93 @@ Para Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ParrotWings
 Carabus Dethcube,/Lotus/StoreItems/Upgrades/Skins/Sentinels/CarbuncleDethcubeSkin
 Para Carrier,/Lotus/StoreItems/Upgrades/Skins/Sentinels/ParrotCarrierSkin
 Sprite Shade,/Lotus/StoreItems/Upgrades/Skins/Sentinels/SpriteShadeSkin
+Alliance Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/AllianceSigilBasic
+/Lotus/Language/Sigils/Alliancesigilmaskedeffectname,/Lotus/StoreItems/Upgrades/Skins/Sigils/AllianceSigilMaskedEffect
+Clan Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/ClanSigilBasic
+Phased Clan Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/ClanSigilBasicAdd
+Gilded Clan Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/ClanSigilMaskedEffect
+Glyphed Clan Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/ClanSigilTwoTone
+/Lotus/Language/Sigils/Deathmarksigilgrustragname,/Lotus/StoreItems/Upgrades/Skins/Sigils/DeathMarkSigilGrustrag
+/Lotus/Language/Sigils/Deathmarksigilstalkername,/Lotus/StoreItems/Upgrades/Skins/Sigils/DeathMarkSigilStalker
+/Lotus/Language/Sigils/Deathmarksigilzanukaname,/Lotus/StoreItems/Upgrades/Skins/Sigils/DeathMarkSigilZanuka
+Rift Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/EnergySigilA
+Flaming Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/FireSigil
+Disciple Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/FounderSigilDisciple
+Grand Master Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/FounderSigilGrandMaster
+Hunter Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/FounderSigilHunter
+Master Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/FounderSigilMaster
+Pinnacle Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/MasterySigil
+Sera Prime Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/PrimeAccessSigilFive
+Flickering Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SparkSigil
+Arbiter Of Hexis Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisA
+Guiding Path Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisB
+Bending Will Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisC
+Discipline Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisD
+Will Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisE
+Choice Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisF
+Growth Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisG
+Potential Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisH
+Succession Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisI
+Surpassing Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisJ
+Truth Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisK
+Cephalon Suda Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaA
+Query Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaB
+Searching Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaC
+Pattern Match Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaD
+Atomic Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaE
+Manifold Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaF
+Fractal Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaG
+Multivariate Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaH
+Labyrinth Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaI
+Hexan Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaJ
+Oracle Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaK
+New Loka Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaA
+Sacrifice Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaB
+Seed Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaC
+Rebirth Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaD
+Growth Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaE
+Clarity Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaF
+Bloom Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaG
+Purity Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaH
+Gaia Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaI
+Bounty Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaJ
+Humanity Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaK
+Perrin Sequence Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceA
+Progress Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceB
+Opportunity Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceC
+Calculating Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceD
+Synergy Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceE
+Directives Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceF
+Strategy Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceG
+Tessilations Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceH
+Optimum Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceI
+Capital Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceJ
+Chairman Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceK
+Red Veil Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilRedVeilA
+Blades Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilRedVeilB
+Cull Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilRedVeilC
+Threat Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilRedVeilD
+Maelstrom Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilRedVeilE
+Lesion Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilRedVeilF
+Ruin Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilRedVeilG
+Viscera Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilRedVeilH
+Malevolent Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilRedVeilI
+Covert Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilRedVeilJ
+Assassin Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilRedVeilK
+Steel Meridian Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianA
+Defiance Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianB
+Armarda Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianC
+Vigilance Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianD
+Uprising Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianE
+Protectorate Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianF
+Freedom Fighter Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianG
+Armored Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianH
+Rebellion Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianI
+Unyielding Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianJ
+Champion Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianK
+Glyphed Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/TwoToneSigil
+Obsidian Excalibur,/Lotus/StoreItems/Upgrades/Skins/Sony/ExcaliburPSPlusSkin
+Obsidian Excalibur,/Lotus/StoreItems/Upgrades/Skins/Sony/ExcaliburPSPlusSkinHelmet
 Obsidian Braton Skin,/Lotus/StoreItems/Upgrades/Skins/Sony/PS4Braton
 Obsidian Lato Skin,/Lotus/StoreItems/Upgrades/Skins/Sony/PS4Lato
 Obsidian Braton Skin,/Lotus/StoreItems/Upgrades/Skins/Sony/PS4Mk1Braton
@@ -2392,6 +2814,8 @@ Tengu Zephyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguAltBHelmet
 Cierzo Zephyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguAltHelmet
 Zephyr Helmet,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguHelmet
 Zephyr Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguNobleAnims
+Unlock Zephyr's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Tengu/UnlockTenguAgile
+Unlock Zephyr's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Tengu/UnlockTenguNoble
 Vauban Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperAgileAnims
 Vauban ヘルム,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperDefaultHelmet
 Arcane Esprit Helmet,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAlt
@@ -2399,6 +2823,8 @@ Arcane Gambit Helmet,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAltB
 Gambit Vauban ヘルム,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAltBStatless
 Esprit Vauban ヘルム,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAltStatless
 Vauban Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperNobleAnims
+Unlock Vauban's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Trapper/UnlockTrapperAgile
+Unlock Vauban's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Trapper/UnlockTrapperNoble
 Vauban Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Trapper/VaubanAlternateSkin
 Phased Vauban Skin,/Lotus/StoreItems/Upgrades/Skins/Trapper/VaubanVoidSkin
 Phased Vauban Helmet,/Lotus/StoreItems/Upgrades/Skins/Trapper/VaubanVoidSkinHelmet
@@ -2409,6 +2835,10 @@ Arcane Meridian Helmet,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAlt
 Meridian Trinity ヘルム,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAltBStatless
 Aura Trinity ヘルム,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAltStatless
 Trinity Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityNobleAnims
+Unlock Trinity's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Trinity/UnlockTrinityAgile
+Unlock Trinity's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Trinity/UnlockTrinityNoble
+Unlock Volt's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Volt/UnlockVoltAgile
+Unlock Volt's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Volt/UnlockVoltNoble
 Volt Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltAgileAnims
 Volt Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltAlternateSkin
 Volt ヘルム,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmet
@@ -2445,6 +2875,7 @@ Medium Team Shield Restore Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/C
 Medium Team Energy Restore x10 Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ClanTenTeamEnergyBlueprint
 Medium Team Shield Restore x10 Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ClanTenTeamShieldBlueprint
 Serro Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/CorpusPolearmWeaponBlueprint
+Opticor  Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpBFGBlueprint
 Glaxion Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpFreezeRayRifleBlueprint
 Supra,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpHeavyRifle
 Supra Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpHeavyRifleBlueprint
@@ -2463,6 +2894,7 @@ Lanka Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/RailgunBlueprint
 Prova Vandal,/Lotus/StoreItems/Weapons/ClanTech/Energy/VandalElectroProd
 Amprex,/Lotus/StoreItems/Weapons/Corpus/LongGuns/ChainLightningGun/ChainLightningRifle
 Tetra,/Lotus/StoreItems/Weapons/Corpus/LongGuns/CorpusUMP/CorpusUMP
+Opticor ,/Lotus/StoreItems/Weapons/Corpus/LongGuns/CrpBFG/CrpBFG
 Glaxion,/Lotus/StoreItems/Weapons/Corpus/LongGuns/CrpFreezeRay/CrpFreezeRayRifle
 Quanta,/Lotus/StoreItems/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRifle
 Penta,/Lotus/StoreItems/Weapons/Corpus/LongGuns/GrenadeLauncher/GrenadeLauncher
@@ -2492,6 +2924,7 @@ Dual Cleavers,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/
 Machete,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/Machete
 Machete Wraith,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon
 Atterax,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerWhip/GrineerWhip
+Halikar,/Lotus/StoreItems/Weapons/Grineer/Melee/GrnBoomerang/GrnBoomerang
 Stug,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun
 Brakk,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon
 Marelok,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol
@@ -2520,6 +2953,10 @@ Twin Vipers,/Lotus/StoreItems/Weapons/Tenno/Akimbo/AkimboViperPistols
 Akmagnus,/Lotus/StoreItems/Weapons/Tenno/Akimbo/DualMagnus
 Akvasto,/Lotus/StoreItems/Weapons/Tenno/Akimbo/DualVastos
 Akbronco Prime,/Lotus/StoreItems/Weapons/Tenno/Akimbo/PrimeAkimboShotGun
+Onorix,/Lotus/StoreItems/Weapons/Tenno/Archwing/Melee/Archaxe/ArchAxeWeapon
+Veritux,/Lotus/StoreItems/Weapons/Tenno/Archwing/Melee/Archsword/ArchSwordWeapon
+Imperator,/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun
+Corvas,/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon
 Cernos,/Lotus/StoreItems/Weapons/Tenno/Bows/AntlerBow/AntlerBow
 Paris,/Lotus/StoreItems/Weapons/Tenno/Bows/HuntingBow
 Paris Prime,/Lotus/StoreItems/Weapons/Tenno/Bows/PrimeHuntingBow
@@ -2671,6 +3108,7 @@ Pendragon Excalibur アバターパック,/Lotus/Types/StoreItems/AvatarImages/A
 Frost アバターパック,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrost
 Frost Prime Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrostPrime
 Squall Frost アバターパック,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrostSquall
+Limbo Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLimbo
 Loki アバターパック,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLoki
 Enigma Loki Profile Icon Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLokiEnigma
 Swindle Loki アバターパック,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLokiSwindle
@@ -2710,18 +3148,22 @@ Mod Drop Chance Booster,/Lotus/Types/StoreItems/Boosters/ModDropChanceBoosterSto
 Resource Booster,/Lotus/Types/StoreItems/Boosters/ResourceAmountBoosterStoreItem
 Resource Drop Chance Booster,/Lotus/Types/StoreItems/Boosters/ResourceDropChanceBoosterStoreItem
 リバイブブースター,/Lotus/Types/StoreItems/Boosters/ReviveBoosterStoreItem
+Ancient Healer Specter,/Lotus/Types/StoreItems/Packages/AncientHealerBallPack
 Cicero Crisis Antidote Pack,/Lotus/Types/StoreItems/Packages/AntitoxinPack
 デッドサイレンスパック,/Lotus/Types/StoreItems/Packages/BansheePack
 Berserker Bundle,/Lotus/Types/StoreItems/Packages/BerserkerPack
 Spearmint Scythes,/Lotus/Types/StoreItems/Packages/CandyCaneScythePack
+Charger Specter,/Lotus/Types/StoreItems/Packages/ChargerBallPack
 カラーパックα,/Lotus/Types/StoreItems/Packages/ColorPack
 カラーパックβ,/Lotus/Types/StoreItems/Packages/ColorPackB
 サバイバルキット,/Lotus/Types/StoreItems/Packages/ConsumablesPack
 Shock Camo Cestra,/Lotus/Types/StoreItems/Packages/CorpusDazzleCamoCestraSkinPack
 Shock Camo Pack,/Lotus/Types/StoreItems/Packages/CorpusDazzleCamoSkinPack
 Shock Camo Lanka,/Lotus/Types/StoreItems/Packages/CorpusDazzleCamoSniperSkinPack
+Corrupted Lancer Specter,/Lotus/Types/StoreItems/Packages/CorruptedLancerBallPack
 Dendra Armor Set,/Lotus/Types/StoreItems/Packages/CrpFncArmorPack
 Dethcube週末限定セール,/Lotus/Types/StoreItems/Packages/DefenseEventPack
+Elytron Ultimatum Bundle,/Lotus/Types/StoreItems/Packages/DemolitionArchwingBundle
 Double Affinity Weekend Pack,/Lotus/Types/StoreItems/Packages/DoubleAffinityPack
 Voltバリューパック,/Lotus/Types/StoreItems/Packages/ElectricPack
 女性ヘルムパック,/Lotus/Types/StoreItems/Packages/FemaleS2HelmetPack
@@ -2747,6 +3189,7 @@ Kubrow Starter Kit,/Lotus/Types/StoreItems/Packages/KubrowStarterKit
 Lokiパック,/Lotus/Types/StoreItems/Packages/LokiPack
 男性ヘルムパック,/Lotus/Types/StoreItems/Packages/MaleS2HelmetPack
 Sugatra Pack,/Lotus/Types/StoreItems/Packages/MeleeDanglePack
+Moa Specter,/Lotus/Types/StoreItems/Packages/MoaBallPack
 Gate Crash Mod Pack,/Lotus/Types/StoreItems/Packages/OrokinSabotageModPack
 Paladin Bundle,/Lotus/Types/StoreItems/Packages/PaladinPack
 Sentinel アクセサリーパック,/Lotus/Types/StoreItems/Packages/PetAttachmentsPackA
@@ -2756,19 +3199,28 @@ Ictus Sentinel Pack,/Lotus/Types/StoreItems/Packages/PetAttachmentsPackIctus
 Update 13 Mega Pack,/Lotus/Types/StoreItems/Packages/PiratePack
 ピストリアスペシャル,/Lotus/Types/StoreItems/Packages/PistolPack
 進撃のrhinoパック,/Lotus/Types/StoreItems/Packages/RhinoWreckPack
+Roller Specter,/Lotus/Types/StoreItems/Packages/RollerBallPack
 綺麗な花には毒があるパック,/Lotus/Types/StoreItems/Packages/SarynPack
 Eos Armor Bundle,/Lotus/Types/StoreItems/Packages/SetOneArmorPack
 Daedalus Armor Bundle,/Lotus/Types/StoreItems/Packages/SetThreeArmorPack
 Edo Armor Bundle,/Lotus/Types/StoreItems/Packages/SetTwoArmorPack
+Shield Osprey Specter,/Lotus/Types/StoreItems/Packages/ShieldDroneBallPack
 Stalkerって何のこと？,/Lotus/Types/StoreItems/Packages/StalkerPack
 ステルスパック,/Lotus/Types/StoreItems/Packages/StealthPack
 Super Charge Pack,/Lotus/Types/StoreItems/Packages/SuperChargePack
 Update 12 Mega Bundle,/Lotus/Types/StoreItems/Packages/TenguPack
+Tower Iv Capture,/Lotus/Types/StoreItems/Packages/TowerIVCapturePack
+Tower Iv Defense,/Lotus/Types/StoreItems/Packages/TowerIVDefensePack
+Tower Iv Exterminate,/Lotus/Types/StoreItems/Packages/TowerIVExterminatePack
+Tower Iv Interception,/Lotus/Types/StoreItems/Packages/TowerIVInterceptionPack
+Tower Iv Mobile Defense,/Lotus/Types/StoreItems/Packages/TowerIVMobileDefensePack
+Tower Iv Survival,/Lotus/Types/StoreItems/Packages/TowerIVSurvivalPack
 デッドサイレンスパック,/Lotus/Types/StoreItems/Packages/TranslatorPack
 デッドサイレンスパック,/Lotus/Types/StoreItems/Packages/TranslatorPackTwo
 Update 10 Mega Bundle,/Lotus/Types/StoreItems/Packages/Update10MegaPack
 U12 Cosmetic Pack,/Lotus/Types/StoreItems/Packages/Update12CosmeticPack
 Mirage Bundle,/Lotus/Types/StoreItems/Packages/Update14MegaPack
+Limbo Bundle,/Lotus/Types/StoreItems/Packages/Update15Bundle
 Vault Raider Package,/Lotus/Types/StoreItems/Packages/VaultRaiderPack
 Placeholder,/Lotus/Types/StoreItems/Packages/VoidSkinPack
 Vulkar バリューパック,/Lotus/Types/StoreItems/Packages/VulkarDealPack
