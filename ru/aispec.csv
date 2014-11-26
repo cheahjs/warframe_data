@@ -1,4 +1,100 @@
 Deck,Enemy,Probability,Max Simultaneous,Tier
+ForestBossGrineerSquadOne,Forest/RifleLancer,1,0,0
+,Forest/BladeSawman,0.25,0,0
+,Forest/ShotgunLancer,0.2,3,0
+,Forest/JetpackMarine,0.25,1,0
+,Forest/GrineerMarinePistol,0.050000001,3,0
+,Forest/EliteRifleLancer,0.25,3,1
+,Forest/EvisceratorLancer,0.1,1,1
+,AIWeek/FlameLancer,0.1,1,2
+ForestGrineer2PointTerritories,Forest/RifleLancer,1,0,0
+,Forest/ShotgunLancer,0.25,0,0
+,Forest/GrineerMarinePistol,0.050000001,0,0
+,Forest/EliteRifleLancer,0.5,0,1
+,AIWeek/MacheteWoman,0.2,0,1
+,Forest/EvisceratorLancer,0.15000001,1,1
+,AIWeek/GrineerFemale,0.2,3,1
+,AIWeek/ShieldLancer,0.1,0,1
+,Forest/MinigunBombard,0.1,2,1
+ForestGrineerExcavationA,Forest/RifleLancer,1,0,0
+,AIWeek/MacheteWomanNoCover,0.40000001,2,0
+,Forest/BladeSawmanNoCover,0.40000001,0,0
+,Forest/JetpackMarine,0.25,1,1
+,Forest/ShotgunLancer,0.25,1,1
+,Forest/GrineerMarinePistol,0.25,1,2
+,Frontier Regulator (SpecialEvents/ForestDroneAgent),1,2,2
+,AIWeek/GrineerFemale,1,2,3
+,Forest/EliteRifleLancer,0.5,3,3
+,AIWeek/FlameLancer,0.2,1,4
+,Forest/MinigunBombard,0.1,2,4
+,Forest/JetpackMarine,0.25,2,5
+,AIWeek/RocketBombard,0.5,1,5
+,AIWeek/BeastMaster,0.2,2,2
+,AIWeek/CarrierRifleLancer,1,4,0
+ForestGrineerSquadOne,Forest/RifleLancer,1,0,0
+,Forest/BladeSawman,0.25,0,0
+,Forest/ShotgunLancer,0.2,3,0
+,Forest/MinigunBombard,0.050000001,1,0
+,AIWeek/GrineerFemale,0.1,1,0
+,Forest/JetpackMarine,0.25,1,0
+,Frontier Regulator (SpecialEvents/ForestDroneAgent),0.050000001,0,0
+,Forest/GrineerMarinePistol,0.050000001,3,0
+,Forest/EliteRifleLancer,0.25,3,1
+,AIWeek/MacheteWoman,0.2,2,1
+,Forest/EvisceratorLancer,0.050000001,1,2
+,Forest/MinigunBombard,0.1,2,2
+,AIWeek/BeastMaster,0.15000001,2,0
+ForestGrineerSurvivalA,Forest/RifleLancer,1,0,0
+,AIWeek/MacheteWomanNoCover,0.40000001,2,0
+,Forest/BladeSawmanNoCover,0.40000001,0,0
+,Forest/JetpackMarine,0.25,1,1
+,Forest/ShotgunLancer,0.25,1,1
+,Forest/GrineerMarinePistol,0.25,1,2
+,Frontier Regulator (SpecialEvents/ForestDroneAgent),1,2,2
+,AIWeek/GrineerFemale,1,2,3
+,Forest/EliteRifleLancer,0.5,3,3
+,AIWeek/FlameLancer,0.2,1,4
+,Forest/MinigunBombard,0.1,2,4
+,Forest/JetpackMarine,0.25,2,5
+,AIWeek/RocketBombard,0.5,1,5
+,AIWeek/BeastMaster,0.2,2,2
+ForestGrineerTerritoriesOne,Forest/RifleLancer,1,0,0
+,Forest/BladeSawman,0.30000001,0,0
+,Forest/ShotgunLancer,0.25,0,0
+,Forest/MinigunBombard,0.050000001,2,0
+,Forest/JetpackMarine,0.25,1,0
+,Forest/GrineerMarinePistol,0.050000001,0,0
+,Forest/EliteRifleLancer,0.5,0,1
+,AIWeek/MacheteWoman,0.2,0,1
+,Forest/EvisceratorLancer,0.15000001,1,1
+,AIWeek/GrineerFemale,0.2,3,1
+,AIWeek/ShieldLancer,0.1,0,1
+,AIWeek/RocketBombard,0.1,1,2
+,AIWeek/FlameLancer,0.1,2,2
+,Forest/MinigunBombard,0.1,2,2
+,Forest/EvisceratorLancer,0.2,2,2
+ForestKubrowTestSquad,Forest/RifleLancer,1,0,0
+,Forest/BladeSawman,0.25,0,0
+,Forest/ShotgunLancer,0.2,3,0
+,Forest/JetpackMarine,0.25,1,0
+,Forest/GrineerMarinePistol,0.050000001,3,0
+,Forest/EliteRifleLancer,0.25,3,1
+,Forest/EvisceratorLancer,0.1,1,1
+,AIWeek/FlameLancer,0.1,1,2
+,Kubrow (/Lotus/Types/NeutralCreatures/Kubrow/KubrowAgent),1,0,0
+GrineerCaptureTargets,CaptureTargets/CaptureTargetGrineerShotgunAgent,1,0,5
+,CaptureTargets/CaptureTargetGrineerRifleAgent,1,0,5
+,CaptureTargets/CaptureTargetGrineerPistolAgent,1,0,5
+,CaptureTargets/CaptureTargetGrineerShotgunAgent,1,0,6
+,CaptureTargets/CaptureTargetGrineerMiterAgent,1,0,6
+,CaptureTargets/CaptureTargetGrineerPyroAgent,1,0,6
+,CaptureTargets/CaptureTargetGrineerRifleAgentFast,1,0,6
+,CaptureTargets/CaptureTargetGrineerRollerAgent,1,0,6
+,CaptureTargets/CaptureTargetGrineerMiterAgent,1,0,7
+,CaptureTargets/CaptureTargetGrineerPyroAgent,1,0,7
+,CaptureTargets/CaptureTargetGrineerRollerAgent,1,0,7
+,CaptureTargets/CaptureTargetGrineerShotgunAgentFast,1,0,7
+,CaptureTargets/CaptureTargetGrineerRifleAgentFast,1,0,7
 GrineerDefenseA,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawmanNoCover,0.30000001,0,0
@@ -94,6 +190,20 @@ GrineerInfestedMixForest,Forest/RifleLancer,1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.2,0,0
 ,Токсичный Древний (AiWeek/Ancients/ToxicAncient),0.1,0,0
 ,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
+GrineerSettlementExcavationA,Desert/RifleLancer,1,0,0
+,Desert/BladeSawmanNoCoverSurvival,0.40000001,0,0
+,Desert/JetpackMarine,0.5,3,1
+,Regulator (SpecialEvents/SurveillanceDroneAgent),1,2,1
+,AIWeek/GrineerFemale,0.5,4,2
+,AIWeek/ShieldLancer,0.40000001,5,2
+,AIWeek/ShotgunLancer,0.5,3,3
+,Desert/EliteRifleLancer,0.60000002,0,3
+,Desert/MinigunBombard,0.60000002,3,4
+,AIWeek/IncendiaryBombard,0.40000001,2,4
+,AIWeek/RocketBombard,0.30000001,3,5
+,Desert/EvisceratorLancer,0.2,2,5
+,AIWeek/BeastMaster,0.2,2,2
+,AIWeek/CarrierJetpack,1,4,0
 GrineerSettlementSurvivalA,Desert/RifleLancer,1,0,0
 ,Desert/BladeSawmanNoCoverSurvival,0.40000001,0,0
 ,Desert/JetpackMarine,0.5,3,1
@@ -678,6 +788,19 @@ TestSectorGrineer,Corrupted Crewman (RifleSpacemanAgent),1,0,0
 ,Corrupted Moa (OrokinMoaBipedAgent),1,0,1
 ,Порабощённый (OrokinDroneAttackAgent),1,0,2
 ,OrokinMinigunBombard,1,0,2
+CorpusCaptureTargets,CaptureTargets/CaptureTargetCorpusEngineerAgentEasy,1,0,5
+,CaptureTargets/CaptureTargetCorpusScoutAgentEasy,1,0,5
+,CaptureTargets/CaptureTargetCorpusMrFreezeAgent,1,0,5
+,CaptureTargets/CaptureTargetCorpusEngineerAgent,1,0,6
+,CaptureTargets/CaptureTargetCorpusMrFreezeAgent,1,0,6
+,CaptureTargets/CaptureTargetCorpusScoutAgent,1,0,6
+,CaptureTargets/CaptureTargetCorpusShockAgent,1,0,16
+,CaptureTargets/CaptureTargetCorpusHeavyAgent,1,0,6
+,CaptureTargets/CaptureTargetCorpusEngineerAgent,1,0,7
+,CaptureTargets/CaptureTargetCorpusMrFreezeAgent,1,0,7
+,CaptureTargets/CaptureTargetCorpusScoutAgent,1,0,7
+,CaptureTargets/CaptureTargetCorpusShockAgent,1,0,7
+,CaptureTargets/CaptureTargetCorpusHeavyAgent,1,0,7
 CorpusEvent,Моа Шагоход (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
 ,Дрон Щитогенератор (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
 ,Солдат-Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
@@ -700,6 +823,7 @@ CorpusExcavationA,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,4
 ,Техник Корпуса (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
 ,Моа Рельсотрон (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
+,Corpus Power Carrier (Spaceman/AIWeek/CarrierSpacemanAgent),1,4,0
 CorpusGrineerDesertMix,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Моа Шагоход (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
 ,Ударный Моа (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
@@ -945,74 +1069,32 @@ EventGrineerSquadOne,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EviseratorLancer,0.1,0,0
 ,AIWeek/JetpackMarine,0.050000001,0,0
 ,AIWeek/GrineerMeleeStaffAgent,1,3,0
-ForestBossGrineerSquadOne,Forest/RifleLancer,1,0,0
-,Forest/BladeSawman,0.25,0,0
-,Forest/ShotgunLancer,0.2,3,0
-,Forest/JetpackMarine,0.25,1,0
-,Forest/GrineerMarinePistol,0.050000001,3,0
-,Forest/EliteRifleLancer,0.25,3,1
-,Forest/EvisceratorLancer,0.1,1,1
-,AIWeek/FlameLancer,0.1,1,2
-ForestGrineer2PointTerritories,Forest/RifleLancer,1,0,0
-,Forest/ShotgunLancer,0.25,0,0
-,Forest/GrineerMarinePistol,0.050000001,0,0
-,Forest/EliteRifleLancer,0.5,0,1
-,AIWeek/MacheteWoman,0.2,0,1
-,Forest/EvisceratorLancer,0.15000001,1,1
-,AIWeek/GrineerFemale,0.2,3,1
-,AIWeek/ShieldLancer,0.1,0,1
-,Forest/MinigunBombard,0.1,2,1
-ForestGrineerSquadOne,Forest/RifleLancer,1,0,0
-,Forest/BladeSawman,0.25,0,0
-,Forest/ShotgunLancer,0.2,3,0
-,Forest/MinigunBombard,0.050000001,1,0
-,AIWeek/GrineerFemale,0.1,1,0
-,Forest/JetpackMarine,0.25,1,0
-,Frontier Regulator (SpecialEvents/ForestDroneAgent),0.050000001,0,0
-,Forest/GrineerMarinePistol,0.050000001,3,0
-,Forest/EliteRifleLancer,0.25,3,1
-,AIWeek/MacheteWoman,0.2,2,1
-,Forest/EvisceratorLancer,0.050000001,1,2
-,Forest/MinigunBombard,0.1,2,2
-,AIWeek/BeastMaster,0.15000001,2,0
-ForestGrineerSurvivalA,Forest/RifleLancer,1,0,0
-,AIWeek/MacheteWomanNoCover,0.40000001,2,0
-,Forest/BladeSawmanNoCover,0.40000001,0,0
-,Forest/JetpackMarine,0.25,1,1
-,Forest/ShotgunLancer,0.25,1,1
-,Forest/GrineerMarinePistol,0.25,1,2
-,Frontier Regulator (SpecialEvents/ForestDroneAgent),1,2,2
-,AIWeek/GrineerFemale,1,2,3
-,Forest/EliteRifleLancer,0.5,3,3
-,AIWeek/FlameLancer,0.2,1,4
-,Forest/MinigunBombard,0.1,2,4
-,Forest/JetpackMarine,0.25,2,5
-,AIWeek/RocketBombard,0.5,1,5
-,AIWeek/BeastMaster,0.2,2,2
-ForestGrineerTerritoriesOne,Forest/RifleLancer,1,0,0
-,Forest/BladeSawman,0.30000001,0,0
-,Forest/ShotgunLancer,0.25,0,0
-,Forest/MinigunBombard,0.050000001,2,0
-,Forest/JetpackMarine,0.25,1,0
-,Forest/GrineerMarinePistol,0.050000001,0,0
-,Forest/EliteRifleLancer,0.5,0,1
-,AIWeek/MacheteWoman,0.2,0,1
-,Forest/EvisceratorLancer,0.15000001,1,1
-,AIWeek/GrineerFemale,0.2,3,1
-,AIWeek/ShieldLancer,0.1,0,1
-,AIWeek/RocketBombard,0.1,1,2
-,AIWeek/FlameLancer,0.1,2,2
-,Forest/MinigunBombard,0.1,2,2
-,Forest/EvisceratorLancer,0.2,2,2
-ForestKubrowTestSquad,Forest/RifleLancer,1,0,0
-,Forest/BladeSawman,0.25,0,0
-,Forest/ShotgunLancer,0.2,3,0
-,Forest/JetpackMarine,0.25,1,0
-,Forest/GrineerMarinePistol,0.050000001,3,0
-,Forest/EliteRifleLancer,0.25,3,1
-,Forest/EvisceratorLancer,0.1,1,1
-,AIWeek/FlameLancer,0.1,1,2
-,Kubrow (/Lotus/Types/NeutralCreatures/Kubrow/KubrowAgent),1,0,0
+CorpusGrineerInvasionHard,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
+,Моа Шагоход (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
+,Ударный Моа (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
+,Дрон Щитогенератор (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,Солдат С Жезлом (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,AIWeek/RifleLancer,1,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/BladeSawman,0.30000001,0,0
+,AIWeek/ShotgunLancer,0.25,0,0
+,AIWeek/MinigunBombard,0.1,0,0
+,AIWeek/ShieldLancer,0.1,0,0
+CorpusGrineerInvasionEasy,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
+,Моа Шагоход (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
+,Ударный Моа (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,0,0
+,Дрон Щитогенератор (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,Солдат С Жезлом (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,AIWeek/RifleLancer,1,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/BladeSawman,0.30000001,0,0
+,AIWeek/ShotgunLancer,0.25,0,0
+,AIWeek/MinigunBombard,0.1,0,0
+,AIWeek/ShieldLancer,0.1,0,0
 ExtremeCorpusInvasion,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,Моа Шагоход (BipedRobot/AIWeek/LaserCannonBipedAgent),0.30000001,0,0
@@ -1028,32 +1110,6 @@ ExtremeCorpusInvasion,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
 ,AIWeek/MinigunBombard,0.1,0,0
 ,AIWeek/EviseratorLancer,0.25,0,0
-CorpusGrineerInvasionEasy,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Моа Шагоход (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
-,Ударный Моа (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,0,0
-,Дрон Щитогенератор (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Солдат С Жезлом (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,AIWeek/RifleLancer,1,0,0
-,AIWeek/EliteRifleLancer,1,0,0
-,AIWeek/BladeSawman,0.30000001,0,0
-,AIWeek/ShotgunLancer,0.25,0,0
-,AIWeek/MinigunBombard,0.1,0,0
-,AIWeek/ShieldLancer,0.1,0,0
-CorpusGrineerInvasionHard,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Моа Шагоход (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
-,Ударный Моа (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
-,Дрон Щитогенератор (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Солдат С Жезлом (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,AIWeek/RifleLancer,1,0,0
-,AIWeek/EliteRifleLancer,1,0,0
-,AIWeek/BladeSawman,0.30000001,0,0
-,AIWeek/ShotgunLancer,0.25,0,0
-,AIWeek/MinigunBombard,0.1,0,0
-,AIWeek/ShieldLancer,0.1,0,0
 ExtremeGrineerInvasion,Солдат (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,Моа Шагоход (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
