@@ -6,7 +6,7 @@ Elion,Меркурий,Mobile Defense,Grineer,/Lotus/Types/Game/GrineerSquadOne,
 Terminus,Меркурий,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadOne,,20 - 50,0.2,0
 M Prime,Меркурий,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadOne,,20 - 50,0.2,0
 Tolstoj,Меркурий,Assassination,Grineer,/Lotus/Types/Game/GrineerSquadOne,/Lotus/Types/Game/MissionDecks/BossMissionRewards/SeerPistolRewards,20 - 50,0.2,0
-,Меркурий,Assassination,Grineer,,,20 - 50,0.2,0
+Larunda Relay,Меркурий,MT_PVP,Corrupted,,,20 - 50,0.2,0
 Balor,Меркурий,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadSabotageEvent,,20 - 50,0.2,0
 ,Меркурий,Assassination,Grineer,,,20 - 50,0.2,1
 ,Меркурий,Assassination,Grineer,,,20 - 50,0.2,1
@@ -66,8 +66,8 @@ E Prime,Земля,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne
 Gaia,Земля,Interception,Grineer,/Lotus/Types/Game/ForestGrineerTerritoriesOne,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsEasy,10 - 50,0.30000001,1
 Eurasia,Земля,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,1
 Lua,Земля,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseForest,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsEasy,10 - 50,0.30000001,1
-,Земля,Assassination,Grineer,,,10 - 50,0.30000001,1
 Strata Relay,Земля,MT_PVP,Corrupted,,,10 - 50,0.30000001,1
+,Земля,MT_PVP,Corrupted,,,10 - 50,0.30000001,1
 Oro,Земля,Sabotage,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,/Lotus/Types/Game/MissionDecks/ForestSabotageRewards,10 - 50,0.30000001,1
 Gate Crash,Земля,Sabotage,Grineer,/Lotus/Types/Game/OrokinDerelictSabotageGrineerForest,/Lotus/Types/Game/MissionDecks/OrokinSabotageEventRewards,10 - 50,0.30000001,1
 Coba,Земля,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,10 - 50,0.30000001,1
@@ -100,7 +100,7 @@ Ara,Марс,Survival,Corpus,/Lotus/Types/Game/CorpusSurvivalA,/Lotus/Types/Game
 Silvanus,Марс,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadD,,20 - 50,0.30000001,1
 Martialis,Марс,Spy,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,20 - 50,0.30000001,2
 Kadesh,Марс,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,20 - 50,0.30000001,2
-Shaun's Relay Test,Марс,MT_PVP,Corrupted,,,20 - 50,0.30000001,2
+,Марс,MT_PVP,Corrupted,,,20 - 50,0.30000001,2
 War,Марс,Assassination,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/BossMissionRewards/MagRewards,20 - 50,0.30000001,2
 Elatha,Марс,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,20 - 50,0.30000001,2
 Gradivus,Марс,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadA,,20 - 50,0.30000001,2
@@ -161,7 +161,7 @@ Tethys,Сатурн,Assassination,Grineer,/Lotus/Types/Game/GrineerSquadFour,/Lo
 ,Сатурн,Assassination,Grineer,,,30 - 60,0.5,1
 Phoebe,Сатурн,Capture,Grineer,/Lotus/Types/Game/GrineerSquadThree,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,30 - 60,0.5,1
 Rhea,Сатурн,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadThree,,30 - 60,0.5,1
-,Сатурн,Assassination,Grineer,,,30 - 60,0.5,2
+Kronia Relay,Сатурн,MT_PVP,Corrupted,,,30 - 60,0.5,2
 Pallene,Сатурн,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadFive,,30 - 60,0.5,2
 Telesto,Сатурн,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadSix,,30 - 60,0.5,2
 Aegaeon,Сатурн,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadTwo,,30 - 60,0.5,2
@@ -254,7 +254,7 @@ Minthe,Плутон,Mobile Defense,Corpus,/Lotus/Types/Game/CorpusSquadA,,30 - 7
 ,Плутон,Assassination,Grineer,,,30 - 75,0.5,1
 Nix,Плутон,Deception,Corpus,/Lotus/Types/Game/CorpusSquadC,,30 - 75,0.5,1
 Cypress,Плутон,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadA,,30 - 75,0.5,1
-Cerberus,Плутон,Interception,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsHard,30 - 75,0.5,1
+Cerberus,Плутон,Interception,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsHard,30 - 75,0.5,1
 Palus,Плутон,Survival,Corpus,/Lotus/Types/Game/CorpusSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,30 - 75,0.5,1
 Sechura,Плутон,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 75,0.5,1
 ,Плутон,Assassination,Grineer,,,30 - 75,0.5,1
@@ -264,7 +264,7 @@ Conclave,Плутон,MT_PVP,Corpus,,,30 - 75,0.5,1
 Hieracon,Плутон,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards,30 - 75,0.5,2
 ,Плутон,Assassination,Grineer,,,30 - 75,0.5,2
 ,Плутон,Assassination,Grineer,,,30 - 75,0.5,2
-,Плутон,Assassination,Grineer,,,30 - 75,0.5,2
+Orcus Relay,Плутон,MT_PVP,Corrupted,,,30 - 75,0.5,2
 Corb,Плутон,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,30 - 75,0.5,2
 ,Плутон,Assassination,Grineer,,,30 - 75,0.5,2
 ,Плутон,Assassination,Grineer,,,30 - 75,0.5,2
@@ -323,7 +323,7 @@ Gnathos,Эрида,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseB,/Lotus
 Histo,Эрида,Extermination,Infestation,/Lotus/Types/Game/InfestedSquadB,,30 - 70,0.40000001,1
 Naeglar,Эрида,Extermination,Infestation,/Lotus/Types/Game/InfestedSquadB,,30 - 70,0.40000001,1
 Ixodes,Эрида,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/MissionRewardsCorpus,30 - 70,0.40000001,1
-,Эрида,Assassination,Grineer,,,30 - 70,0.40000001,2
+Kuiper Relay,Эрида,MT_PVP,Corrupted,,,30 - 70,0.40000001,2
 Saxis,Эрида,Extermination,Infestation,/Lotus/Types/Game/InfestedSquadC,,30 - 70,0.40000001,2
 Phalan,Эрида,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalB,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 70,0.40000001,2
 ,Эрида,Assassination,Grineer,,,30 - 70,0.40000001,2
@@ -390,7 +390,7 @@ Baal,Европа,Mobile Defense,Corpus,/Lotus/Types/Game/CorpusSquadC,,10 - 75,
 Valefor,Европа,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
 ,Европа,Assassination,Grineer,,,10 - 75,0.40000001,1
 Cryotic Front,Европа,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,1
-Sorath,Европа,Mobile Defense,Corpus,/Lotus/Types/Game/CorpusSquadA,,10 - 75,0.40000001,1
+Sorath,Европа,MT_RETRIEVAL,Corpus,/Lotus/Types/Game/CorpusSquadD,,10 - 75,0.40000001,1
 Ose,Европа,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusExcavationA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,10 - 75,0.40000001,1
 Valac,Европа,Spy,Corpus,/Lotus/Types/Game/CorpusSquadC,,10 - 75,0.40000001,1
 Shax,Европа,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium,10 - 75,0.40000001,1
@@ -403,7 +403,7 @@ Cryotic Front,Европа,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/
 Beleth,Европа,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
 Kokabiel,Европа,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadA,,10 - 75,0.40000001,2
 Cryotic Front,Европа,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
-,Европа,Assassination,Grineer,,,10 - 75,0.40000001,2
+Leonov Relay,Европа,MT_PVP,Corrupted,,,10 - 75,0.40000001,2
 ,Европа,Assassination,Grineer,,,10 - 75,0.40000001,3
 ,Европа,Assassination,Grineer,,,10 - 75,0.40000001,3
 ,Европа,Assassination,Grineer,,,10 - 75,0.40000001,3

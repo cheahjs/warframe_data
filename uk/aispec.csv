@@ -1,4 +1,124 @@
 Deck,Enemy,Probability,Max Simultaneous,Tier
+CorpusGrineerDesertMix,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
+,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,2,0
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
+,AIWeek/RifleLancer,1,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/BladeSawman,0.30000001,0,0
+,AIWeek/MacheteWoman,0.1,0,0
+,AIWeek/ShotgunLancer,0.25,0,0
+,AIWeek/MinigunBombard,0.1,0,0
+,AIWeek/ShieldLancer,0.1,0,0
+,GrineerMarineLeader,0.1,0,0
+,Desert/RifleLancer,1,0,0
+,Desert/EliteRifleLancer,1,0,0
+,Desert/BladeSawman,0.30000001,0,0
+,Desert/ShotgunLancer,0.25,0,0
+,Desert/MinigunBombard,0.050000001,2,0
+,Desert/EvisceratorLancer,0.1,2,0
+,Desert/JetpackMarine,0.25,0,0
+,Desert/GrineerMarinePistol,0.050000001,0,0
+,/Lotus/Types/NeutralCreatures/SandRayCreature,0.25,3,0
+,AIWeek/GrineerFemale,0.1,4,0
+CorpusGrineerForestMix,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
+,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,2,0
+,Forest/RifleLancer,1,0,0
+,Forest/EliteRifleLancer,0.2,2,0
+,Forest/BladeSawman,0.30000001,0,0
+,Forest/ShotgunLancer,0.25,3,0
+,Forest/MinigunBombard,0.050000001,2,0
+,AIWeek/GrineerFemale,0.1,1,0
+,Forest/JetpackMarine,0.25,1,0
+,Frontier Regulator (SpecialEvents/ForestDroneAgent),0.050000001,0,0
+,Forest/GrineerMarinePistol,0.050000001,0,0
+,AIWeek/MacheteWoman,0.2,0,1
+,Forest/EvisceratorLancer,0.1,1,1
+,AIWeek/RocketBombard,0.1,1,2
+,AIWeek/FlameLancer,0.1,1,2
+,Forest/MinigunBombard,0.1,2,2
+CorpusGrineerMix,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
+,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,1,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,2,0
+,AIWeek/RifleLancer,1,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/BladeSawman,0.30000001,0,0
+,AIWeek/MacheteWoman,0.1,0,0
+,AIWeek/ShotgunLancer,0.25,0,0
+,AIWeek/MinigunBombard,0.1,0,0
+,AIWeek/ShieldLancer,0.1,0,0
+,GrineerMarineLeader,0.1,0,0
+CorpusHeavyEnemies,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,9
+,Член Команди (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,2,9
+,Рядовий Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.5,2,9
+,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),1,1,9
+,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),1,1,9
+,Моа З Рейлганом (BipedRobot/AIWeek/RailgunBipedAgent),1,1,9
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.30000001,2,9
+CorpusInfestedMix,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
+,Химера (AiWeek/Quadrupeds/Quadruped),1,0,0
+,Бігун (AiWeek/Runners/SuicideRunner),1,0,0
+,Стрибун (AiWeek/Runners/LeapingRunner),0.25,0,0
+,AiWeek/Ancients/MeleeAncient,0.1,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,0
+CorpusInfestedMixB,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,Рядовий Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.25,0,0
+,Дрон Шахтар (Drones/AIWeek/MineDroneAgent),0.25,0,0
+,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
+,Химера (AiWeek/Quadrupeds/Quadruped),1,0,0
+,Бігун (AiWeek/Runners/SuicideRunner),1,0,0
+,AiWeek/Ancients/MeleeAncient,0.1,0,0
+,Токсичний Древній (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,0
+CorpusInfestedMixEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
+,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,Рядовий Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
+,Дрон Шахтар (Drones/AIWeek/MineDroneAgent),0.025,0,0
+,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
+,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
+,Моа З Рейлганом (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
+,Химера (AiWeek/Quadrupeds/Quadruped),1,0,0
+,Бігун (AiWeek/Runners/SuicideRunner),1,0,0
+,AiWeek/Ancients/MeleeAncient,0.1,0,0
+,Токсичний Древній (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,0
 CorpusIntelTiersA,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.2,2,1
 ,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,2,1
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,1
@@ -8,25 +128,25 @@ CorpusIntelTiersA,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.2,2,1
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.5,2,5
 ,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
 ,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.60000002,0,5
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,1
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,2
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,2,2
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,1
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,2
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,2
 CorpusIntelTiersB,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.2,2,1
 ,Рядовий Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.2,3,1
 ,Моа З Рейлганом (BipedRobot/AIWeek/RailgunBipedAgent),0.2,3,1
 ,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.1,2,1
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,1
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.1,2,1
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,2,1
 ,Моа З Рейлганом (BipedRobot/AIWeek/RailgunBipedAgent),0.30000001,3,2
 ,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.15000001,2,2
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,2
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.2,2,2
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,2,2
 ,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
 ,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),1,0,5
 ,Рядовий Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.2,3,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,5
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,5
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),1,2,5
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.30000001,2,5
 CorpusSquadA,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
 ,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
@@ -35,7 +155,7 @@ CorpusSquadA,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
 ,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
 CorpusSquadB,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,0,0
@@ -46,8 +166,8 @@ CorpusSquadB,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
 ,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,1,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,0
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,0
 CorpusSquadC,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
 ,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
@@ -58,7 +178,7 @@ CorpusSquadC,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
 ,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,0,0
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.30000001,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.2,2,0
 CorpusSquadD,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,Член Команди (Spaceman/AIWeek/ShotgunSpacemanAgent),0.75,0,0
@@ -71,16 +191,16 @@ CorpusSquadD,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.050000001,0,0
 ,Drones/AIWeek/VacuumDroneAgent,0.02,0,0
 ,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.30000001,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.25,0,0
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,2,0
 CorpusSquadDefenseA,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
 ,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,0,1
 ,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,1
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,1
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,1
 ,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,1
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
 ,Моа З Рейлганом (BipedRobot/AIWeek/RailgunBipedAgent),0.2,0,2
 ,Дрон Шахтар (Drones/AIWeek/MineDroneAgent),0.15000001,0,2
 ,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,2
@@ -89,15 +209,15 @@ CorpusSquadDefenseA,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent)
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,0,1
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.02,0,2
 ,Drones/AIWeek/VacuumDroneAgent,0.0099999998,0,2
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.15000001,1,2
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,1,2
 CorpusSquadDefenseB,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Член Команди (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
 ,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,0,1
 ,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,1
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,1
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,1
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,1
 ,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.025,0,1
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),0.2,0,2
 ,Дрон Шахтар (Drones/AIWeek/MineDroneAgent),0.15000001,0,2
@@ -108,53 +228,53 @@ CorpusSquadDefenseB,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent)
 ,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.02,0,2
 ,Drones/AIWeek/VacuumDroneAgent,0.0099999998,0,2
 ,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.025,0,2
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,2
 CorpusSquadE,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,Член Команди (Spaceman/AIWeek/ShotgunSpacemanAgent),0.75,0,0
 ,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.15000001,2,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.25,0,0
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
 CorpusSurvivalA,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
 ,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),1,3,1
 ,Член Команди (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,1
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,2
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
 ,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,2
 ,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,3,3
 ,Рядовий Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.25,4,3
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,2,3
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,3
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.15000001,2,3
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,3
 ,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,4
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,4
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
 ,Моа З Рейлганом (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.30000001,3,5
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,3,5
 CorpusSurvivalB,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,1
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,1
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,1
 ,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),1,3,1
 ,Член Команди (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,1
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,2
 ,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,2
 ,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,3,3
 ,Рядовий Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.25,4,3
 ,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,2,3
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,3
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,3
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,3
 ,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,4
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,4
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
 ,Моа З Рейлганом (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.5,3,5
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,3,5
 DesertGrineerDefenseA,Desert/RifleLancer,1,0,0
 ,Desert/EliteRifleLancer,1,0,0
 ,Desert/BladeSawmanNoCoverSurvival,0.5,5,0
@@ -190,7 +310,7 @@ EventCorpusSquadA,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1
 ,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.25,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
 EventGrineerSquadOne,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/MacheteWoman,0.2,0,0
@@ -403,6 +523,15 @@ GrineerInfestedMixForest,Forest/RifleLancer,1,0,0
 ,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,0
 ,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,0
 ,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+GrineerIntelTiersSquadOne,AIWeek/MinigunBombard,0.1,2,1
+,AIWeek/ShieldLancer,0.15000001,3,1
+,AIWeek/MinigunBombard,0.15000001,2,2
+,AIWeek/RifleLancer,1,0,5
+,AIWeek/EliteRifleLancer,1,0,5
+,AIWeek/BladeSawman,0.30000001,0,5
+,AIWeek/ShotgunLancer,0.5,0,5
+,AIWeek/MinigunBombard,0.25,2,5
+,AIWeek/CameraDroneAgent,1,0,6
 GrineerSettlementExcavationA,Desert/RifleLancer,1,0,0
 ,Desert/BladeSawmanNoCoverSurvival,0.40000001,0,0
 ,Desert/JetpackMarine,0.5,3,1
@@ -509,7 +638,7 @@ GrineerSquadTwo,AIWeek/RifleLancer,1,0,0
 GrineerSurvivalA,AIWeek/RifleLancer,1,10,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawmanNoCoverSurvival,0.40000001,0,0
-,Forest/ShotgunLancer,0.5,3,1
+,AIWeek/ShotgunLancer,0.5,3,1
 ,AIWeek/GrineerFemale,0.5,3,2
 ,AIWeek/ShieldLancer,0.40000001,4,2
 ,GrineerMarinePistol,0.2,2,3
@@ -562,7 +691,7 @@ InfestedCorpusMixSquadA,Химера (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,0
 ,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
 ,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
 ,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,0
 ,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
 InfestedDefenseA,Химера (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
@@ -619,8 +748,8 @@ InfestedDefenseCorpusA,Химера (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
 ,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,1
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,2
+,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.15000001,2,1
+,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.15000001,2,2
 ,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,1
 ,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,2
 InfestedDefenseDerelict,Химера (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
@@ -632,16 +761,16 @@ InfestedDefenseDerelict,Химера (AiWeek/Quadrupeds/Quadruped),0.69999999,0,
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.050000001,0,1
 ,AiWeek/Crawlers/LightningCrawler,0.1,0,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.15000001,2,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,1
+,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,0
+,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,2,1
 ,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,2
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.15000001,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,1
+,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,0
+,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,2,1
 ,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,2
 ,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,1
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,2
+,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.050000001,2,2
 ,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,2
+,Boiler (AiWeek/Ancients/SpawningAncient),0.050000001,2,2
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,1
 ,AiWeek/Ancients/MeleeAncient,0.1,0,2
@@ -816,7 +945,7 @@ InfestedSurvivalACorpus,Член Команди (Spaceman/AIWeek/RifleSpacemanAg
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),0.5,1,0
 ,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
 ,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.5,1,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.30000001,1,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,1,0
 ,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,1,0
 ,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,1,0
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,1,0
@@ -1008,7 +1137,7 @@ OrokinSabotageCorpus,Corrupted Lancer (RifleLancer),0.75,0,0
 ,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,2
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),1,0,2
 ,Член Команди (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,2,2
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,1,0
 OrokinSabotageGrineerForest,Corrupted Lancer (RifleLancer),0.75,0,0
 ,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
@@ -1102,7 +1231,7 @@ SupCorpusInfestedMix,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent
 ,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
 ,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.25,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.2,1,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,1,0
 ,Химера (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,Бігун (AiWeek/Runners/SuicideRunner),1,0,0
 ,Стрибун (AiWeek/Runners/LeapingRunner),0.25,0,0
@@ -1114,11 +1243,11 @@ TRDefenseA,Дрон (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
 ,SpaceBattles/FlakShipNavAgent,0.60000002,0,0
 ,SpaceBattles/LaserShipNavAgent,1,0,0
 ,SpaceBattles/SwarmShipNavAgent,0.60000002,0,0
-,Cannon Battery (SpaceBattles/Turrets/CorpusSpaceTurretAgent),0.60000002,0,0
 ,SpaceBattles/CrewMan/JetCorpusNavAgent,1,0,0
 ,SpaceBattles/CrewMan/JetCorpusTwoNavAgent,0.5,0,0
 ,SpaceBattles/CrewMan/JetCorpusThreeNavAgent,0.5,0,0
 ,SpaceBattles/Ships/CorpusPodAgent,0.2,2,0
+,Cannon Battery (SpaceBattles/Turrets/CorpusSpaceTurretAgent),0.5,0,0
 TRExterminateA,Дрон (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
 ,SpaceBattles/FlakShipNavAgent,0.60000002,0,0
 ,SpaceBattles/LaserShipNavAgent,0.80000001,0,0
@@ -1164,8 +1293,8 @@ CorpusEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
 ,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
 ,Моа З Рейлганом (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
 ,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.25,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.15000001,2,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
 CorpusExcavationA,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
@@ -1180,128 +1309,8 @@ CorpusExcavationA,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
 ,Моа З Рейлганом (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
 ,Corpus Power Carrier (Spaceman/AIWeek/CarrierSpacemanAgent),1,4,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.15000001,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
-CorpusGrineerDesertMix,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
-,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,0,0
-,AIWeek/RifleLancer,1,0,0
-,AIWeek/EliteRifleLancer,1,0,0
-,AIWeek/BladeSawman,0.30000001,0,0
-,AIWeek/MacheteWoman,0.1,0,0
-,AIWeek/ShotgunLancer,0.25,0,0
-,AIWeek/MinigunBombard,0.1,0,0
-,AIWeek/ShieldLancer,0.1,0,0
-,GrineerMarineLeader,0.1,0,0
-,Desert/RifleLancer,1,0,0
-,Desert/EliteRifleLancer,1,0,0
-,Desert/BladeSawman,0.30000001,0,0
-,Desert/ShotgunLancer,0.25,0,0
-,Desert/MinigunBombard,0.050000001,2,0
-,Desert/EvisceratorLancer,0.1,2,0
-,Desert/JetpackMarine,0.25,0,0
-,Desert/GrineerMarinePistol,0.050000001,0,0
-,/Lotus/Types/NeutralCreatures/SandRayCreature,0.25,3,0
-,AIWeek/GrineerFemale,0.1,4,0
-CorpusGrineerForestMix,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
-,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
-,Forest/RifleLancer,1,0,0
-,Forest/EliteRifleLancer,0.2,2,0
-,Forest/BladeSawman,0.30000001,0,0
-,Forest/ShotgunLancer,0.25,3,0
-,Forest/MinigunBombard,0.050000001,2,0
-,AIWeek/GrineerFemale,0.1,1,0
-,Forest/JetpackMarine,0.25,1,0
-,Frontier Regulator (SpecialEvents/ForestDroneAgent),0.050000001,0,0
-,Forest/GrineerMarinePistol,0.050000001,0,0
-,AIWeek/MacheteWoman,0.2,0,1
-,Forest/EvisceratorLancer,0.1,1,1
-,AIWeek/RocketBombard,0.1,1,2
-,AIWeek/FlameLancer,0.1,1,2
-,Forest/MinigunBombard,0.1,2,2
-CorpusGrineerMix,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
-,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
-,AIWeek/RifleLancer,1,0,0
-,AIWeek/EliteRifleLancer,1,0,0
-,AIWeek/BladeSawman,0.30000001,0,0
-,AIWeek/MacheteWoman,0.1,0,0
-,AIWeek/ShotgunLancer,0.25,0,0
-,AIWeek/MinigunBombard,0.1,0,0
-,AIWeek/ShieldLancer,0.1,0,0
-,GrineerMarineLeader,0.1,0,0
-CorpusHeavyEnemies,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,9
-,Член Команди (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,2,9
-,Рядовий Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.5,2,9
-,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),1,1,9
-,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),1,1,9
-,Моа З Рейлганом (BipedRobot/AIWeek/RailgunBipedAgent),1,1,9
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.5,2,9
-CorpusInfestedMix,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
-,Химера (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Бігун (AiWeek/Runners/SuicideRunner),1,0,0
-,Стрибун (AiWeek/Runners/LeapingRunner),0.25,0,0
-,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,0
-CorpusInfestedMixB,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
-,Рядовий Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.25,0,0
-,Дрон Шахтар (Drones/AIWeek/MineDroneAgent),0.25,0,0
-,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
-,Химера (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Бігун (AiWeek/Runners/SuicideRunner),1,0,0
-,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Токсичний Древній (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,0
-CorpusInfestedMixEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
-,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
-,Рядовий Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
-,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
-,Дрон Шахтар (Drones/AIWeek/MineDroneAgent),0.025,0,0
-,Гібридні Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
-,Моа З Ударною Хвилею (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
-,Моа З Рейлганом (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
-,Scorching Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
-,Химера (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Бігун (AiWeek/Runners/SuicideRunner),1,0,0
-,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Токсичний Древній (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,0
 CorpusGrineerInvasionHard,Член Команди (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
@@ -1311,6 +1320,8 @@ CorpusGrineerInvasionHard,Член Команди (Spaceman/AIWeek/RifleSpaceman
 ,Рядовий Рукопашник (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,0
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
 ,AIWeek/ShotgunLancer,0.25,0,0
 ,AIWeek/MinigunBombard,0.1,0,0
@@ -1338,6 +1349,8 @@ ExtremeCorpusInvasion,Член Команди (Spaceman/AIWeek/RifleSpacemanAgen
 ,Дрон Щит (Drones/AIWeek/ShieldDroneAgent),0.40000001,0,0
 ,Технік Корпусу (Spaceman/AIWeek/DeployableSpacemanAgent),0.60000002,0,0
 ,Рядовий Снайпер (Spaceman/AIWeek/SniperSpacemanAgent),0.25,0,0
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.15000001,2,0
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.25,2,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
