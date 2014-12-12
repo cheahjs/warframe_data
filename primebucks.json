@@ -1,0 +1,906 @@
+[
+  {
+    "Name": "Akbronco Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Ankyros Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Boar Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Boltor Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Paris Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Braton Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Bronco Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Burston Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Fang Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Glaive Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Latron Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Orthos Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Bo Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Dakra Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Hikou Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Scindo Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Reaper Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Sicarus Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Soma Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Vasto Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Ember Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Ember Prime Chassis Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Ember Prime Chassis",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Ember Prime Helmet Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Ember Prime Helmet",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Ember Prime Systems Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Ember Prime Systems",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Frost Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Frost Prime Chassis Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Frost Prime Chassis",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Frost Prime Helmet Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Frost Prime Helmet",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Frost Prime Systems Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Frost Prime Systems",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Loki Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Loki Prime Chassis Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Loki Prime Chassis",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Loki Prime Helmet Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Loki Prime Helmet",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Loki Prime Systems Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Loki Prime Systems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Mag Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Mag Prime Chassis Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Mag Prime Chassis",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Mag Prime Helmet Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Mag Prime Helmet",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Mag Prime Systems Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Mag Prime Systems",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Nova Prime Chassis",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nova Prime Helmet",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Nova Prime Systems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Chassis Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Chassis",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Helmet Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Helmet",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Systems Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Systems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Rhino Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Rhino Prime Chassis Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Rhino Prime Chassis",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Rhino Prime Helmet Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Rhino Prime Helmet",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Rhino Prime Systems Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Rhino Prime Systems",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Akbronco Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Ankyros Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Boar Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Boltor Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Paris Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Braton Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Bronco Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Burston Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Fang Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Glaive Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Latron Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Orthos Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Bo Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Dakra Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Hikou Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Scindo Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Reaper Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Sicarus Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Soma Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Vasto Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Boltor Prime Stock",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Akbronco Prime Link",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Ankyros Prime Blade",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Ankyros Prime Gauntlet",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Boar Prime Barrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Boar Prime Receiver",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Boar Prime Stock",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Boltor Prime Barrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Boltor Prime Receiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Braton Prime Barrel",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Braton Prime Receiver",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Braton Prime Stock",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Bronco Prime Barrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Bronco Prime Receiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Burston Prime Barrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Burston Prime Receiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Burston Prime Stock",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Glaive Prime Blade",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Glaive Prime Disc",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Latron Prime Barrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Latron Prime Receiver",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Latron Prime Stock",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Lex Prime Barrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Lex Prime Receiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Bo Prime Handle",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Bo Prime Ornament",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Paris Prime Grip",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Paris Prime Lower Limb",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Paris Prime String",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Paris Prime Upper Limb",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Dakra Prime Blade",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Dakra Prime Handle",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Fang Prime Blade",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Fang Prime Handle",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Hikou Prime Pouch",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Hikou Prime Stars",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Orthos Prime Blade",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Orthos Prime Handle",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Scindo  Prime Blade",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Scindo Prime Handle",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Reaper Blade",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Reaper Handle",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Wyrm Prime Carapace",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Wyrm Prime Cerebrum",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Wyrm Prime Systems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Sicarus Prime Barrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Sicarus Prime Receiver",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Ember Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Ember Prime Chassis Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Ember Prime Chassis",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Ember Prime Helmet Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Ember Prime Helmet",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Ember Prime Systems Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Ember Prime Systems",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Frost Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Frost Prime Chassis Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Frost Prime Chassis",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Frost Prime Helmet Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Frost Prime Helmet",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Frost Prime Systems Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Frost Prime Systems",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Loki Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Loki Prime Chassis Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Loki Prime Chassis",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Loki Prime Helmet Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Loki Prime Helmet",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Loki Prime Systems Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Loki Prime Systems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Mag Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Mag Prime Chassis Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Mag Prime Chassis",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Mag Prime Helmet Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Mag Prime Helmet",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Mag Prime Systems Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Mag Prime Systems",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Nova Prime Chassis",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nova Prime Helmet",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Nova Prime Systems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Chassis Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Chassis",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Helmet Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Helmet",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Systems Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Nyx Prime Systems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Rhino Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Rhino Prime Chassis Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Rhino Prime Chassis",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Rhino Prime Helmet Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Rhino Prime Helmet",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Rhino Prime Systems Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Rhino Prime Systems",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Wyrm Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Wyrm Prime Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Boltor Prime Stock",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Akbronco Prime Link",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Ankyros Prime Blade",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Ankyros Prime Gauntlet",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Boar Prime Barrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Boar Prime Receiver",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Boar Prime Stock",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Boltor Prime Barrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Boltor Prime Receiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Braton Prime Barrel",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Braton Prime Receiver",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Braton Prime Stock",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Bronco Prime Barrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Bronco Prime Receiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Burston Prime Barrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Burston Prime Receiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Burston Prime Stock",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Glaive Prime Blade",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Glaive Prime Disc",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Latron Prime Barrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Latron Prime Receiver",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Latron Prime Stock",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Lex Prime Barrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Lex Prime Receiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Bo Prime Handle",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Bo Prime Ornament",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Paris Prime Grip",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Paris Prime Lower Limb",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Paris Prime String",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Paris Prime Upper Limb",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Dakra Prime Blade",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Dakra Prime Handle",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Fang Prime Blade",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Fang Prime Handle",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Hikou Prime Pouch",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Hikou Prime Stars",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Orthos Prime Blade",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Orthos Prime Handle",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Scindo  Prime Blade",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Scindo Prime Handle",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Reaper Blade",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Reaper Handle",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Wyrm Prime Carapace",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Wyrm Prime Cerebrum",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Wyrm Prime Systems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Sicarus Prime Barrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Sicarus Prime Receiver",
+    "PrimeBucks": "50"
+  }
+]
