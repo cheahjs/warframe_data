@@ -364,7 +364,7 @@ Venom,/Lotus/StoreItems/Powersuits/Saryn/PoisonAbilityCard
 Venom Dose,/Lotus/StoreItems/Powersuits/Saryn/PoisonAugmentCard
 Saryn,/Lotus/StoreItems/Powersuits/Saryn/Saryn
 Molt,/Lotus/StoreItems/Powersuits/Saryn/ShedAbilityCard
-Regenerative Moult,/Lotus/StoreItems/Powersuits/Saryn/ShedAugmentCard
+Regenerative Molt,/Lotus/StoreItems/Powersuits/Saryn/ShedAugmentCard
 Contagion,/Lotus/StoreItems/Powersuits/Saryn/WeaponPoisonAbilityCard
 Dive Bomb,/Lotus/StoreItems/Powersuits/Tengu/DiveBombAbilityCard
 Divebomb Vortex,/Lotus/StoreItems/Powersuits/Tengu/DiveBombAugmentCard
@@ -511,9 +511,11 @@ Warframe,/Lotus/StoreItems/Types/Game/PlayerPowerSuit
 ,/Lotus/StoreItems/Types/Game/RecipeItem
 Orokin Void Key,/Lotus/StoreItems/Types/Game/VoidKeyItem
 Piastra In Lega,/Lotus/StoreItems/Types/Items/MiscItems/AlloyPlate
+Corruttore Alfa,/Lotus/StoreItems/Types/Items/MiscItems/AlphaCorruptorResource
 Orokin Archive,/Lotus/StoreItems/Types/Items/MiscItems/ArchWingNavCode
 Argon Crystal,/Lotus/StoreItems/Types/Items/MiscItems/ArgonCrystal
 Proof Fragment,/Lotus/StoreItems/Types/Items/MiscItems/Beacon
+Corruttore Beta,/Lotus/StoreItems/Types/Items/MiscItems/BetaCorruptorResource
 Golem Nav Coordinate,/Lotus/StoreItems/Types/Items/MiscItems/BossNavCode
 Circuiti,/Lotus/StoreItems/Types/Items/MiscItems/Circuits
 /Lotus/Language/Items/Clancreator,/Lotus/StoreItems/Types/Items/MiscItems/ClanCreator
@@ -533,6 +535,7 @@ Nano Spore,/Lotus/StoreItems/Types/Items/MiscItems/Nanospores
 Nav Coordinate,/Lotus/StoreItems/Types/Items/MiscItems/NavCode
 Sensori Neurali,/Lotus/StoreItems/Types/Items/MiscItems/NeuralSensor
 Neurodes,/Lotus/StoreItems/Types/Items/MiscItems/Neurode
+Omega Isotope,/Lotus/StoreItems/Types/Items/MiscItems/OmegaIsotope
 Catalizzatore Orokin,/Lotus/StoreItems/Types/Items/MiscItems/OrokinCatalyst
 Cella Orokin,/Lotus/StoreItems/Types/Items/MiscItems/OrokinCell
 Reattore Orokin,/Lotus/StoreItems/Types/Items/MiscItems/OrokinReactor
@@ -546,6 +549,7 @@ Rubedo,/Lotus/StoreItems/Types/Items/MiscItems/Rubedo
 Reperti,/Lotus/StoreItems/Types/Items/MiscItems/Salvage
 Reperti,/Lotus/StoreItems/Types/Items/MiscItems/Salvage450TutorialQuest
 Reperti,/Lotus/StoreItems/Types/Items/MiscItems/SalvageRaidTutorial
+Corruttore Stabile,/Lotus/StoreItems/Types/Items/MiscItems/StableCorruptorResource
 Tellurium,/Lotus/StoreItems/Types/Items/MiscItems/Tellurium
 Delta Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentA
 Gamma Beacon,/Lotus/StoreItems/Types/Items/MiscItems/VayHekCoordinateFragmentB
@@ -887,11 +891,12 @@ Odonata Systems Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/Standa
 Odonata Systems,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingSystemsComponent
 Odonata Wings Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingWingsBlueprint
 Odonata Wings,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingWingsComponent
-Elytron Harness Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingChassisBlueprint
+Itzal  Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingBlueprint
+Itzal Harness Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingChassisBlueprint
 Itzal Harness,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingChassisComponent
-Elytron Systems Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingSystemsBlueprint
+Itzal Systems Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingSystemsBlueprint
 Itzal Systems,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingSystemsComponent
-Elytron Wings Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingWingsBlueprint
+Itzal Wings Blueprint,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingWingsBlueprint
 Itzal Wings,/Lotus/StoreItems/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingWingsComponent
 Daedalus Chest Plate Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/DaedelusChestPlateBlueprint
 Daedalus Knee Plates Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/DaedelusLeftLegBlueprint
@@ -1155,12 +1160,12 @@ Nova Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaChass
 Nova Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaChassisComponent
 Nova Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaHelmetBlueprint
 Nova Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaHelmetComponent
-Frost Prime Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaPrimeBlueprint
-Frost Prime Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaPrimeChassisBlueprint
+Nova Prime Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaPrimeBlueprint
+Nova Prime Chassis Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaPrimeChassisBlueprint
 Nova Prime Chassis,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaPrimeChassisComponent
-Frost Prime Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaPrimeHelmetBlueprint
+Nova Prime Helmet Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaPrimeHelmetBlueprint
 Nova Prime Helmet,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaPrimeHelmetComponent
-Frost Prime Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaPrimeSystemsBlueprint
+Nova Prime Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaPrimeSystemsBlueprint
 Nova Prime Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaPrimeSystemsComponent
 Nova Systems Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaSystemsBlueprint
 Nova Systems,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NovaSystemsComponent
@@ -1340,6 +1345,8 @@ Corvas Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ArchCannonBlueprint
 Rathbone Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ArchHammerBlueprint
 Dual Decurion Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ArchHeavyPistolsBlueprint
 Velocitus Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ArchRailgunBlueprint
+Fluctus  Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ArchRocketCrossbowBlueprint
+Centaur Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ArchSwordShieldBlueprint
 Ballistica Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AutoCrossBowBlueprint
 Scindo Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AxeBlueprint
 Boar Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoarPrimeBlueprint
@@ -1485,7 +1492,7 @@ Charger Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/ChargerBall
 Corrupted Lancer Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/CorruptedLancerBall
 Gran Finale,/Lotus/StoreItems/Types/Restoratives/Consumable/FireWorksCrate
 Starburst,/Lotus/StoreItems/Types/Restoratives/Consumable/FireWorksSingle
-[Placeholder] Fomorian Negator Alpha,/Lotus/StoreItems/Types/Restoratives/Consumable/FomorianNegator
+Fomorian Disruptor,/Lotus/StoreItems/Types/Restoratives/Consumable/FomorianNegator
 [Placeholder] Fomorian Negator Beta,/Lotus/StoreItems/Types/Restoratives/Consumable/FomorianNegatorBeta
 Force Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/GoldSpectre
 Scorpion Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/MacheteWomanBall
@@ -1733,7 +1740,7 @@ Lapis Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restora
 Vermillion Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/SoloRareAntitoxinBlueprint
 Extinguished Dragon Key Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/DamageDebuffKeyBlueprint
 [Placeholder] Fomorian Negator Beta Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/FomorianNegatorBetaBlueprint
-[Placeholder] Fomorian Negator Alpha Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/FomorianNegatorBlueprint
+Fomorian Disruptor Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/FomorianNegatorBlueprint
 Bleeding Dragon Key Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/HealthDebuffKeyBlueprint
 Team Ammo Restore x50 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/HundredTeamAmmoTotemBlueprint
 Team Energy Restore x50 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/HundredTeamEnergyTotemBlueprint
@@ -1815,6 +1822,7 @@ Vazarin Lens,/Lotus/StoreItems/Upgrades/Focus/DefenseLens
 Zenurik Lens,/Lotus/StoreItems/Upgrades/Focus/PowerLens
 Naramon Lens,/Lotus/StoreItems/Upgrades/Focus/TacticLens
 Unairu Lens,/Lotus/StoreItems/Upgrades/Focus/WardLens
+Searing Steel,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingEventFireStatusMeleeMod
 Tempered Blade,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingMeleeCritChanceMod
 Bleeding Edge,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingMeleeCritDamageMod
 Cutting Edge,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingMeleeDamageMod
@@ -1825,6 +1833,7 @@ Galvanized Blade,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingWeaponEl
 Blazing Steel,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFireDamageMod
 Glacial Edge,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFreezeDamageMod
 Poisonous Sting,/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingWeaponToxinDamageMod
+Magma Chamber,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingEventFireStatusRifleMod
 Shell Rush,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingRifleChargeSpeedMod
 Magazine Extension,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingRifleClipMaxMod
 Parallax Scope,/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritChanceMod
@@ -2642,6 +2651,7 @@ Tethra's Doom Quantum Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/ShipyardsEven
 Bronze Skull Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/SkullBadgeBronzeItem
 Gold Skull Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/SkullBadgeGoldItem
 Silver Skull Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/SkullBadgeSilverItem
+Eyes Of Blight Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/SlingStone2EmblemItem
 Sling Stone Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/SlingStoneEmblemItem
 Survival Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/SurvivalEventBadgeItem
 Tenno Operative Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/TranslatorBadgeItem
@@ -3249,6 +3259,7 @@ Skana,/Lotus/StoreItems/Weapons/Tenno/Melee/LongSword/LongSword
 Skana Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/LongSword/SkanaPrime
 Magistar,/Lotus/StoreItems/Weapons/Tenno/Melee/Maces/PaladinMace/PaladinMaceWeapon
 Rending Crane,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbOneMeleeTree
+Cleaving Whirlwind,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbThreeMeleeTree
 Cleaving Whirlwind,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbTwoMeleeTree
 Malicious Raptor,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ClawCmbOneMeleeTree
 Crimson Dervish,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/CrimsonDervishMeleeTree
@@ -3420,6 +3431,8 @@ Prestige Pack I - Exclusive,/Lotus/Types/StoreItems/Packages/ExcaliburXBonePack
 Kit Elmi Femminile,/Lotus/Types/StoreItems/Packages/FemaleS2HelmetPack
 Kit Warframe Femminile,/Lotus/Types/StoreItems/Packages/FemaleSuitPack
 Femme Fatale Pack,/Lotus/Types/StoreItems/Packages/FemaleSuitPackB
+Eyes Of Blight Mod Pack,/Lotus/Types/StoreItems/Packages/FomorianRevengeModPack
+Eyes Of Blight Skin Pack,/Lotus/Types/StoreItems/Packages/FomorianRevengeSkinPack
 Kit Stay Frosty,/Lotus/Types/StoreItems/Packages/FrostPack
 Grineer Desert Tactics Pack,/Lotus/Types/StoreItems/Packages/GrineerCamoSkinPack
 Forest-Camo Skin Pack,/Lotus/Types/StoreItems/Packages/GrineerForestSkinPack
@@ -3458,6 +3471,7 @@ Eos Armor Bundle,/Lotus/Types/StoreItems/Packages/SetOneArmorPack
 Daedalus Armor Bundle,/Lotus/Types/StoreItems/Packages/SetThreeArmorPack
 Edo Armor Bundle,/Lotus/Types/StoreItems/Packages/SetTwoArmorPack
 Quale Stalker?,/Lotus/Types/StoreItems/Packages/StalkerPack
+Itzal Raider Pack,/Lotus/Types/StoreItems/Packages/StealthArchwingBundle
 Stealth Pack,/Lotus/Types/StoreItems/Packages/StealthPack
 Super Charge Pack,/Lotus/Types/StoreItems/Packages/SuperChargePack
 Update 12 Mega Bundle,/Lotus/Types/StoreItems/Packages/TenguPack

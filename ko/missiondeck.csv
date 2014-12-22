@@ -48,9 +48,9 @@ Romula,금성,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Type
 ,금성,Assassination,Grineer,,,20 - 40,0.2,2
 ,금성,Assassination,Grineer,,,20 - 40,0.2,2
 ,금성,Assassination,Grineer,,,20 - 40,0.2,2
+,금성,Assassination,Grineer,,,20 - 40,0.2,2
+,금성,Assassination,Grineer,,,20 - 40,0.2,2
 Tethra,금성,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadSabotageEvent,,20 - 40,0.2,2
-,금성,Assassination,Grineer,,,20 - 40,0.2,2
-,금성,Assassination,Grineer,,,20 - 40,0.2,2
 Vesper Relay,금성,MT_PVP,Corrupted,,,20 - 40,0.2,2
 Montes,금성,Extermination,Corpus,/Lotus/Types/Game/TRExterminateA,/Lotus/Types/Game/MissionDecks/ArchwingExterminateRewards,20 - 40,0.2,2
 ,지구,Assassination,Grineer,,,10 - 50,0.30000001,0
@@ -67,9 +67,9 @@ Gaia,지구,Interception,Grineer,/Lotus/Types/Game/ForestGrineerTerritoriesOne,/
 Eurasia,지구,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,1
 Lua,지구,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseForest,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsEasy,10 - 50,0.30000001,1
 Strata Relay,지구,MT_PVP,Corrupted,,,10 - 50,0.30000001,1
-,지구,MT_PVP,Corrupted,,,10 - 50,0.30000001,1
-Oro,지구,Sabotage,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,/Lotus/Types/Game/MissionDecks/ForestSabotageRewards,10 - 50,0.30000001,1
 Gate Crash,지구,Sabotage,Grineer,/Lotus/Types/Game/OrokinDerelictSabotageGrineerForest,/Lotus/Types/Game/MissionDecks/OrokinSabotageEventRewards,10 - 50,0.30000001,1
+Oro,지구,Sabotage,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,/Lotus/Types/Game/MissionDecks/ForestSabotageRewards,10 - 50,0.30000001,1
+,지구,Assassination,Grineer,,,10 - 50,0.30000001,1
 Coba,지구,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,10 - 50,0.30000001,1
 Erpo,지구,Interception,Grineer,/Lotus/Types/Game/SpaceGrineerDefenseA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/ArchwingInterceptionMissionRewardsEasy,10 - 50,0.30000001,2
 ,지구,Assassination,Grineer,,,10 - 50,0.30000001,2
@@ -170,11 +170,11 @@ Cassini,토성,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/
 Anthe,토성,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadFour,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,30 - 60,0.5,2
 ,토성,Assassination,Grineer,,,30 - 60,0.5,2
 Numa,토성,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadFive,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,30 - 60,0.5,2
-,토성,Assassination,Grineer,,,30 - 60,0.5,3
+Birog,토성,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,30 - 60,0.5,3
 Calypso,토성,Capture,Grineer,/Lotus/Types/Game/GrineerSquadThree,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,30 - 60,0.5,3
 Pandora,토성,Extermination,Grineer,/Lotus/Types/Game/SpaceGrineerB,,30 - 60,0.5,3
 ,토성,Assassination,Grineer,,,30 - 60,0.5,3
-Birog,토성,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,30 - 60,0.5,3
+,토성,Assassination,Grineer,,,30 - 60,0.5,3
 Conclave,토성,MT_PVP,Grineer,,,30 - 60,0.5,3
 Piscinas,토성,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards,30 - 60,0.5,3
 ,토성,Assassination,Grineer,,,30 - 60,0.5,3
@@ -378,26 +378,26 @@ Amarna,세드나,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus
 Veles,세드나,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadSix,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium,30 - 80,0.5,3
 Sangeru,세드나,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 80,0.5,3
 Abaddon,유로파,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,0
-Gamygyn,유로파,Spy,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,10 - 75,0.40000001,0
-Armaros,유로파,Interception,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium,10 - 75,0.40000001,0
-Morax,유로파,Spy,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,10 - 75,0.40000001,0
+Gamygyn,유로파,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,10 - 75,0.40000001,0
+Armaros,유로파,Spy,Corpus,/Lotus/Types/Game/CorpusGrineerMix,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium,10 - 75,0.40000001,0
+Morax,유로파,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,10 - 75,0.40000001,0
 Eligor,유로파,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,0
 Lillith,유로파,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusExcavationA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,10 - 75,0.40000001,0
 Naamah,유로파,Assassination,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/BossMissionRewards/NovaRewards,10 - 75,0.40000001,0
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,0
 Baal,유로파,Mobile Defense,Corpus,/Lotus/Types/Game/CorpusSquadC,,10 - 75,0.40000001,0
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,1
-Valefor,유로파,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
+Valefor,유로파,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusExcavationA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
 ,유로파,Assassination,Grineer,,,10 - 75,0.40000001,1
 Cryotic Front,유로파,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,1
 Sorath,유로파,MT_RETRIEVAL,Corpus,/Lotus/Types/Game/CorpusSquadD,,10 - 75,0.40000001,1
-Ose,유로파,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusExcavationA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,10 - 75,0.40000001,1
-Valac,유로파,Spy,Corpus,/Lotus/Types/Game/CorpusSquadC,,10 - 75,0.40000001,1
+Ose,유로파,Interception,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,10 - 75,0.40000001,1
+Valac,유로파,Spy,Corpus,/Lotus/Types/Game/CorpusGrineerMix,,10 - 75,0.40000001,1
 Shax,유로파,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium,10 - 75,0.40000001,1
 Paimon,유로파,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
 Conclave,유로파,MT_PVP,Corpus,,,10 - 75,0.40000001,2
 Orias,유로파,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,10 - 75,0.40000001,2
-Zagan,유로파,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
+Zagan,유로파,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
 Larzac,유로파,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,10 - 75,0.40000001,2
 Cryotic Front,유로파,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
 Beleth,유로파,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2

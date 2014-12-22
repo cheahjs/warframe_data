@@ -48,9 +48,9 @@ Romula,Venus,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types
 ,Venus,Assassination,Grineer,,,20 - 40,0.2,2
 ,Venus,Assassination,Grineer,,,20 - 40,0.2,2
 ,Venus,Assassination,Grineer,,,20 - 40,0.2,2
+,Venus,Assassination,Grineer,,,20 - 40,0.2,2
+,Venus,Assassination,Grineer,,,20 - 40,0.2,2
 Tethra,Venus,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadSabotageEvent,,20 - 40,0.2,2
-,Venus,Assassination,Grineer,,,20 - 40,0.2,2
-,Venus,Assassination,Grineer,,,20 - 40,0.2,2
 Vesper Relay,Venus,MT_PVP,Corrupted,,,20 - 40,0.2,2
 Montes,Venus,Extermination,Corpus,/Lotus/Types/Game/TRExterminateA,/Lotus/Types/Game/MissionDecks/ArchwingExterminateRewards,20 - 40,0.2,2
 ,Earth,Assassination,Grineer,,,10 - 50,0.30000001,0
@@ -67,9 +67,9 @@ Gaia,Earth,Interception,Grineer,/Lotus/Types/Game/ForestGrineerTerritoriesOne,/L
 Eurasia,Earth,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,1
 Lua,Earth,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseForest,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsEasy,10 - 50,0.30000001,1
 Strata Relay,Earth,MT_PVP,Corrupted,,,10 - 50,0.30000001,1
-,Earth,MT_PVP,Corrupted,,,10 - 50,0.30000001,1
-Oro,Earth,Sabotage,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,/Lotus/Types/Game/MissionDecks/ForestSabotageRewards,10 - 50,0.30000001,1
 Gate Crash,Earth,Sabotage,Grineer,/Lotus/Types/Game/OrokinDerelictSabotageGrineerForest,/Lotus/Types/Game/MissionDecks/OrokinSabotageEventRewards,10 - 50,0.30000001,1
+Oro,Earth,Sabotage,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,/Lotus/Types/Game/MissionDecks/ForestSabotageRewards,10 - 50,0.30000001,1
+,Earth,Assassination,Grineer,,,10 - 50,0.30000001,1
 Coba,Earth,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,10 - 50,0.30000001,1
 Erpo,Earth,Interception,Grineer,/Lotus/Types/Game/SpaceGrineerDefenseA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/ArchwingInterceptionMissionRewardsEasy,10 - 50,0.30000001,2
 ,Earth,Assassination,Grineer,,,10 - 50,0.30000001,2
@@ -170,11 +170,11 @@ Cassini,Saturn,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/
 Anthe,Saturn,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadFour,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,30 - 60,0.5,2
 ,Saturn,Assassination,Grineer,,,30 - 60,0.5,2
 Numa,Saturn,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadFive,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,30 - 60,0.5,2
-,Saturn,Assassination,Grineer,,,30 - 60,0.5,3
+Birog,Saturn,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,30 - 60,0.5,3
 Calypso,Saturn,Capture,Grineer,/Lotus/Types/Game/GrineerSquadThree,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,30 - 60,0.5,3
 Pandora,Saturn,Extermination,Grineer,/Lotus/Types/Game/SpaceGrineerB,,30 - 60,0.5,3
 ,Saturn,Assassination,Grineer,,,30 - 60,0.5,3
-Birog,Saturn,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,30 - 60,0.5,3
+,Saturn,Assassination,Grineer,,,30 - 60,0.5,3
 Conclave,Saturn,MT_PVP,Grineer,,,30 - 60,0.5,3
 Piscinas,Saturn,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards,30 - 60,0.5,3
 ,Saturn,Assassination,Grineer,,,30 - 60,0.5,3
@@ -378,26 +378,26 @@ Amarna,Sedna,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Typ
 Veles,Sedna,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadSix,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium,30 - 80,0.5,3
 Sangeru,Sedna,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 80,0.5,3
 Abaddon,Europa,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,0
-Gamygyn,Europa,Spy,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,10 - 75,0.40000001,0
-Armaros,Europa,Interception,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium,10 - 75,0.40000001,0
-Morax,Europa,Spy,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,10 - 75,0.40000001,0
+Gamygyn,Europa,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,10 - 75,0.40000001,0
+Armaros,Europa,Spy,Corpus,/Lotus/Types/Game/CorpusGrineerMix,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium,10 - 75,0.40000001,0
+Morax,Europa,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,10 - 75,0.40000001,0
 Eligor,Europa,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,0
 Lillith,Europa,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusExcavationA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,10 - 75,0.40000001,0
 Naamah,Europa,Assassination,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/BossMissionRewards/NovaRewards,10 - 75,0.40000001,0
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,0
 Baal,Europa,Mobile Defense,Corpus,/Lotus/Types/Game/CorpusSquadC,,10 - 75,0.40000001,0
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,1
-Valefor,Europa,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
+Valefor,Europa,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusExcavationA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
 ,Europa,Assassination,Grineer,,,10 - 75,0.40000001,1
 Cryotic Front,Europa,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,1
 Sorath,Europa,MT_RETRIEVAL,Corpus,/Lotus/Types/Game/CorpusSquadD,,10 - 75,0.40000001,1
-Ose,Europa,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusExcavationA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,10 - 75,0.40000001,1
-Valac,Europa,Spy,Corpus,/Lotus/Types/Game/CorpusSquadC,,10 - 75,0.40000001,1
+Ose,Europa,Interception,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,10 - 75,0.40000001,1
+Valac,Europa,Spy,Corpus,/Lotus/Types/Game/CorpusGrineerMix,,10 - 75,0.40000001,1
 Shax,Europa,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium,10 - 75,0.40000001,1
 Paimon,Europa,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
 Conclave,Europa,MT_PVP,Corpus,,,10 - 75,0.40000001,2
 Orias,Europa,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,10 - 75,0.40000001,2
-Zagan,Europa,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
+Zagan,Europa,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
 Larzac,Europa,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,10 - 75,0.40000001,2
 Cryotic Front,Europa,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
 Beleth,Europa,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2

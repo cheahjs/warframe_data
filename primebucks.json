@@ -44,6 +44,10 @@
     "PrimeBucks": "10"
   },
   {
+    "Name": "Lex Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
     "Name": "Orthos Prime Blueprint",
     "PrimeBucks": "10"
   },
@@ -192,12 +196,28 @@
     "PrimeBucks": "20"
   },
   {
+    "Name": "Nova Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Nova Prime Chassis Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
     "Name": "Nova Prime Chassis",
     "PrimeBucks": "50"
   },
   {
+    "Name": "Nova Prime Helmet Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
     "Name": "Nova Prime Helmet",
     "PrimeBucks": "20"
+  },
+  {
+    "Name": "Nova Prime Systems Blueprint",
+    "PrimeBucks": "50"
   },
   {
     "Name": "Nova Prime Systems",
@@ -304,6 +324,10 @@
     "PrimeBucks": "10"
   },
   {
+    "Name": "Lex Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
     "Name": "Orthos Prime Blueprint",
     "PrimeBucks": "10"
   },
@@ -528,6 +552,26 @@
     "PrimeBucks": "50"
   },
   {
+    "Name": "Soma Prime Barrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Soma Prime Receiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Soma Prime Stock",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Vasto Prime Barrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Vasto Prime Receiver",
+    "PrimeBucks": "20"
+  },
+  {
     "Name": "Ember Prime Blueprint",
     "PrimeBucks": "20"
   },
@@ -640,12 +684,28 @@
     "PrimeBucks": "20"
   },
   {
+    "Name": "Nova Prime Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Nova Prime Chassis Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
     "Name": "Nova Prime Chassis",
     "PrimeBucks": "50"
   },
   {
+    "Name": "Nova Prime Helmet Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
     "Name": "Nova Prime Helmet",
     "PrimeBucks": "20"
+  },
+  {
+    "Name": "Nova Prime Systems Blueprint",
+    "PrimeBucks": "50"
   },
   {
     "Name": "Nova Prime Systems",
@@ -902,5 +962,25 @@
   {
     "Name": "Sicarus Prime Receiver",
     "PrimeBucks": "50"
+  },
+  {
+    "Name": "Soma Prime Barrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Soma Prime Receiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "Soma Prime Stock",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Vasto Prime Barrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Vasto Prime Receiver",
+    "PrimeBucks": "20"
   }
 ]
