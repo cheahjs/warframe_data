@@ -58,6 +58,9 @@ Autumn Maple Tree Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecip
 Spring Maple Tree Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeCRecipe
 Summer Maple Tree Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MapleTreeDRecipe
 Ramu Pillar Lantern Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/ModPathLightARecipe
+Bronze Mutalist Incursion Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MutalistIncursionBronzeTrophyRecipe
+Gold Mutalist Incursion Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MutalistIncursionGoldTrophyRecipe
+Silver Mutalist Incursion Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/MutalistIncursionSilverTrophyRecipe
 Orokin Sabotage Bronze Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/OrokinSabotageTrophyBronzeRecipe
 Orokin Sabotage Gold Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/OrokinSabotageTrophyGoldRecipe
 Orokin Sabotage Silver Trophy Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentPropRecipes/OrokinSabotageTrophySilverRecipe
@@ -1470,6 +1473,7 @@ Hikou Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoStarsBlueprint
 Silva & Aegis Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoSwordShieldBlueprint
 Kronen Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoTonfaBlueprint
 Akstiletto Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoUziBlueprint
+Tipedo Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TnoMonkStaffBlueprint
 Attica Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TnoPrmryXbowBlueprint
 Vipers Jumeaux Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TwinViperBlueprint
 Vasto Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/VastoPrimeBlueprint
@@ -2655,6 +2659,16 @@ Eyes Of Blight Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/SlingStone2EmblemIte
 Emblème Sling Stone,/Lotus/StoreItems/Upgrades/Skins/Clan/SlingStoneEmblemItem
 Survival Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/SurvivalEventBadgeItem
 Tenno Operative Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/TranslatorBadgeItem
+Sharpshooter Vectis,/Lotus/StoreItems/Upgrades/Skins/Contests/LongGuns/VectisSharpshooter
+Silferer Vectis ,/Lotus/StoreItems/Upgrades/Skins/Contests/LongGuns/VectisSilferer
+Combustion Dual Zoren,/Lotus/StoreItems/Upgrades/Skins/Contests/Melee/DualZorenCombustion
+Kuberus Dual Zoren,/Lotus/StoreItems/Upgrades/Skins/Contests/Melee/DualZorenKuberus
+Combustion Scindo,/Lotus/StoreItems/Upgrades/Skins/Contests/Melee/ScindoCombustion
+Kuberus Scindo,/Lotus/StoreItems/Upgrades/Skins/Contests/Melee/ScindoKuberus
+Dakila Akmagnus,/Lotus/StoreItems/Upgrades/Skins/Contests/Pistols/AkmagnusDakila
+Hivelight Akmagnus,/Lotus/StoreItems/Upgrades/Skins/Contests/Pistols/AkmagnusHiveLight
+Dakila Magnus,/Lotus/StoreItems/Upgrades/Skins/Contests/Pistols/MagnusDakila
+Hivelight Magnus,/Lotus/StoreItems/Upgrades/Skins/Contests/Pistols/MagnusHiveLight
 Mesa Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Cowgirl/CowgirlAgileAnims
 Longhorn Mesa Helmet,/Lotus/StoreItems/Upgrades/Skins/Cowgirl/CowgirlAltHelmet
 Mesa Helmet,/Lotus/StoreItems/Upgrades/Skins/Cowgirl/CowgirlHelmet
@@ -2828,7 +2842,7 @@ Unlock Limbo's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Magician/Unlock
 Unlock Limbo's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Magician/UnlockMagicianNoble
 Pazza Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/ChainTridentMeleeDangle
 Tantu Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/CordsMeleeDangle
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/FireMeleeDangle
+Pyra Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/FireMeleeDangle
 Suraka Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/LotusPointMeleeDangle
 Daman Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PolearmFriendlyMeleeDangle
 Daman Sugatra Prime,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PrimeMeleeDangle
@@ -3297,6 +3311,7 @@ Orthos Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PrimePolearmWeapon
 Ether Reaper,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/EtherScytheWeapon
 Reaper Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/ReaperWeapon
 Hate,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/StalkerScytheWeapon
+Tipedo,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/MonkSpade/TnoMonkStaff
 Bo Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/PrimeBo/PrimeBoWeapon
 Amphis,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/GrnStaff
 Bo,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/Staff
@@ -3485,5 +3500,6 @@ Vault Raider Package,/Lotus/Types/StoreItems/Packages/VaultRaiderPack
 Placeholder,/Lotus/Types/StoreItems/Packages/VoidSkinPack
 Pack Contrat Vulkar,/Lotus/Types/StoreItems/Packages/VulkarDealPack
 Ultimate Warframe Pack,/Lotus/Types/StoreItems/Packages/WarframePack
+<Ugc> Tennogen Weapon Skin Bundle,/Lotus/Types/StoreItems/Packages/WeaponSkinContestBundle
 Winter Accessories Bundle,/Lotus/Types/StoreItems/Packages/WinterAccessoriesBundle
 Winter Bundle,/Lotus/Types/StoreItems/Packages/WinterBundle

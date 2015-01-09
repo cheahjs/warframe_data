@@ -1,5 +1,4 @@
 {
-  "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/CarrierSpacemanAvatar": "/Lotus/Interface/Icons/Npcs/PowercellCrewman.png",
   "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/CarrierRifleLancerAvatar": "/Lotus/Interface/Icons/Npcs/PowercellLancer.png",
   "SlingStoneLore": "/Lotus/Interface/Icons/CodexEvents/EventSlingStone.png",
   "FomorianDestroyedLore": "/Lotus/Interface/Icons/CodexEvents/EventSlingStoneVictory.png",
@@ -196,6 +195,7 @@
   "/Lotus/Types/Enemies/Corpus/Drones/Vip/DroneAttackAvatar": "/Lotus/Interface/Icons/Npcs/BossRaptor.png",
   "/Lotus/Types/Enemies/Corpus/QuadRobot/MiniBoss/QuadRobotMiniBossAvatar": "/Lotus/Interface/Icons/Npcs/CrpMiniJackal.png",
   "/Lotus/Types/Enemies/Corpus/QuadRobot/QuadRobotAvatar": "/Lotus/Interface/Icons/Npcs/QuadJackal.png",
+  "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/CarrierSpacemanAvatar": "/Lotus/Interface/Icons/Npcs/PowercellCrewman.png",
   "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/DeployableSpacemanAvatar": "/Lotus/Interface/Icons/Npcs/CrewmanTech.png",
   "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/DeployableSpacemanAvatarLeader": "/Lotus/Interface/Icons/Npcs/CrewmanTech.png",
   "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/MeleeSpacemanAvatar": "/Lotus/Interface/Icons/Npcs/CrewmanProd.png",
@@ -852,6 +852,7 @@
   "/Lotus/Weapons/Tenno/Melee/Scythe/EtherScytheWeapon": "/Lotus/Interface/Icons/Store/EtherScythe.png",
   "/Lotus/Weapons/Tenno/Melee/Scythe/ReaperWeapon": "/Lotus/Interface/Icons/Store/ReaperPrime.png",
   "/Lotus/Weapons/Tenno/Melee/Scythe/StalkerScytheWeapon": "/Lotus/Interface/Icons/Store/StalkerScythe.png",
+  "/Lotus/Weapons/Tenno/Melee/Staff/MonkSpade/TnoMonkStaff": "/Lotus/Interface/Icons/Store/TnoMonkStaff.png",
   "/Lotus/Weapons/Tenno/Melee/Staff/PrimeBo/PrimeBoWeapon": "/Lotus/Interface/Icons/Store/PrimeBo.png",
   "/Lotus/Weapons/Tenno/Melee/Staff/GrnStaff": "/Lotus/Interface/Icons/Store/HeavyStaff.png",
   "/Lotus/Weapons/Tenno/Melee/Staff/Staff": "/Lotus/Interface/Icons/Store/BoStaff.png",

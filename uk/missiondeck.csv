@@ -379,7 +379,7 @@ Veles,Седна,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadSix,/Lotus/Types/G
 Sangeru,Седна,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 80,0.5,3
 Abaddon,Європа,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,0
 Gamygyn,Європа,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,10 - 75,0.40000001,0
-Armaros,Європа,Spy,Corpus,/Lotus/Types/Game/CorpusGrineerMix,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium,10 - 75,0.40000001,0
+Armaros,Європа,Spy,Corpus,/Lotus/Types/Game/CorpusSquadC,,10 - 75,0.40000001,0
 Morax,Європа,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/IntelMissionRewardsA,10 - 75,0.40000001,0
 Eligor,Європа,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,0
 Lillith,Європа,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusExcavationA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,10 - 75,0.40000001,0
@@ -392,7 +392,7 @@ Valefor,Європа,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusExcavationA,/Lot
 Cryotic Front,Європа,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,1
 Sorath,Європа,MT_RETRIEVAL,Corpus,/Lotus/Types/Game/CorpusSquadD,,10 - 75,0.40000001,1
 Ose,Європа,Interception,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,10 - 75,0.40000001,1
-Valac,Європа,Spy,Corpus,/Lotus/Types/Game/CorpusGrineerMix,,10 - 75,0.40000001,1
+Valac,Європа,Spy,Corpus,/Lotus/Types/Game/CorpusSquadC,,10 - 75,0.40000001,1
 Shax,Європа,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium,10 - 75,0.40000001,1
 Paimon,Європа,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
 Conclave,Європа,MT_PVP,Corpus,,,10 - 75,0.40000001,2
