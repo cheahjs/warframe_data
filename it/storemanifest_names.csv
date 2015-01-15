@@ -409,6 +409,7 @@ Eagle Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/RareArtifactPack
 Pack Wolf Fusion,/Lotus/StoreItems/Types/BoosterPacks/RareFusionPack
 Eagle Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/SingleCommonArtifact
 Eagle Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/SingleRareArtifact
+Void Key Pack,/Lotus/StoreItems/Types/BoosterPacks/SyndicateRandomKey
 Falcon Mod Pack,/Lotus/StoreItems/Types/BoosterPacks/UncommonArtifactPack
 Fox Fusion Pack,/Lotus/StoreItems/Types/BoosterPacks/UncommonFusionPack
 Paracyst,/Lotus/StoreItems/Types/Enemies/Corpus/Vip/InfestedAladV/AladVInfQuantaRifle
@@ -1473,6 +1474,7 @@ Hikou Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoStarsBlueprint
 Silva & Aegis Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoSwordShieldBlueprint
 Kronen Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoTonfaBlueprint
 Akstiletto Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TennoUziBlueprint
+Panthera Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TnoMiterBlueprint
 Tipedo Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TnoMonkStaffBlueprint
 Attica Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TnoPrmryXbowBlueprint
 Twin Vipers Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TwinViperBlueprint
@@ -1497,7 +1499,7 @@ Corrupted Lancer Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/Corrupt
 Gran Finale,/Lotus/StoreItems/Types/Restoratives/Consumable/FireWorksCrate
 Starburst,/Lotus/StoreItems/Types/Restoratives/Consumable/FireWorksSingle
 Fomorian Disruptor,/Lotus/StoreItems/Types/Restoratives/Consumable/FomorianNegator
-[Placeholder] Fomorian Negator Beta,/Lotus/StoreItems/Types/Restoratives/Consumable/FomorianNegatorBeta
+/Lotus/Language/Items/Fomoriannegatorbetaname,/Lotus/StoreItems/Types/Restoratives/Consumable/FomorianNegatorBeta
 Force Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/GoldSpectre
 Scorpion Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/MacheteWomanBall
 Moa Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/MoaBall
@@ -1743,7 +1745,7 @@ Topaz Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restora
 Lapis Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/RareAntitoxinBlueprint
 Vermillion Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/SoloRareAntitoxinBlueprint
 Extinguished Dragon Key Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/DamageDebuffKeyBlueprint
-[Placeholder] Fomorian Negator Beta Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/FomorianNegatorBetaBlueprint
+/Lotus/Language/Items/Fomoriannegatorbetaname Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/FomorianNegatorBetaBlueprint
 Fomorian Disruptor Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/FomorianNegatorBlueprint
 Bleeding Dragon Key Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/HealthDebuffKeyBlueprint
 Team Ammo Restore x50 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/HundredTeamAmmoTotemBlueprint
@@ -2929,6 +2931,7 @@ Misa Prime Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeScarf
 Uru Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/RazorScarf
 Rubedo Plated Yamako Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/RubedoDinoSpikeScarf
 Imperator Syandana ,/Lotus/StoreItems/Upgrades/Skins/Scarves/TurtleNeckScarf
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/Scarves/VTDinoSpikeScarf
 Coltek Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GunHeadMask
 Maschera Hunhow,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/HunhowMask
 Ictus Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/IctusMask
@@ -3174,6 +3177,7 @@ Miter,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerSawbladeGun/SawBladeGun
 Vulkar,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerSniperRifle/GrnSniperRifle
 Buzlok,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrnGorgSniperRifle/GrnGorgSniperRifle
 Kohm ,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrnSpark/GrnSparkRifle
+Prisma Gorgon,/Lotus/StoreItems/Weapons/Grineer/LongGuns/VoidTraderGorgon/VTGorgon
 Gorgon Wraith,/Lotus/StoreItems/Weapons/Grineer/LongGuns/WraithGorgon/WraithGorgon
 Sheev,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerCombatKnife/GrineerCombatKnife
 Jat Kittag,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerJetPoweredPolearm/GrineerJetPolearm
@@ -3234,6 +3238,7 @@ Paris Prime,/Lotus/StoreItems/Weapons/Tenno/Bows/PrimeHuntingBow
 Dread,/Lotus/StoreItems/Weapons/Tenno/Bows/StalkerBow
 Tigris,/Lotus/StoreItems/Weapons/Tenno/LongGuns/DoubleBarrelShotgun/TennoDoubleBarrelShotgun
 Tiberon,/Lotus/StoreItems/Weapons/Tenno/LongGuns/DrakeRifle/DrakeRifle
+Panthera,/Lotus/StoreItems/Weapons/Tenno/LongGuns/Miter/TnoMiter
 Boltor Prime,/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeBoltor/PrimeBoltor
 Burston Prime,/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeBurston/PrimeBurston
 Soma Prime,/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeSoma/PrimeSomaRifle
@@ -3313,6 +3318,7 @@ Reaper Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/ReaperWeapon
 Hate,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/StalkerScytheWeapon
 Tipedo,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/MonkSpade/TnoMonkStaff
 Bo Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/PrimeBo/PrimeBoWeapon
+Bo,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/BaseStaff
 Amphis,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/GrnStaff
 Bo,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/Staff
 Nami Skyla,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/CutlassPoignardSwords

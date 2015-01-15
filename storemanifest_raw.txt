@@ -409,6 +409,7 @@ StoreItems={
 /Lotus/StoreItems/Types/BoosterPacks/RareFusionPack,
 /Lotus/StoreItems/Types/BoosterPacks/SingleCommonArtifact,
 /Lotus/StoreItems/Types/BoosterPacks/SingleRareArtifact,
+/Lotus/StoreItems/Types/BoosterPacks/SyndicateRandomKey,
 /Lotus/StoreItems/Types/BoosterPacks/UncommonArtifactPack,
 /Lotus/StoreItems/Types/BoosterPacks/UncommonFusionPack,
 /Lotus/StoreItems/Types/Enemies/Corpus/Vip/InfestedAladV/AladVInfQuantaRifle,
@@ -1473,6 +1474,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoSwordShieldBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoTonfaBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TennoUziBlueprint,
+/Lotus/StoreItems/Types/Recipes/Weapons/TnoMiterBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TnoMonkStaffBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TnoPrmryXbowBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TwinViperBlueprint,
@@ -2929,6 +2931,7 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Scarves/RazorScarf,
 /Lotus/StoreItems/Upgrades/Skins/Scarves/RubedoDinoSpikeScarf,
 /Lotus/StoreItems/Upgrades/Skins/Scarves/TurtleNeckScarf,
+/Lotus/StoreItems/Upgrades/Skins/Scarves/VTDinoSpikeScarf,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GunHeadMask,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/HunhowMask,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/IctusMask,
@@ -3174,6 +3177,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerSniperRifle/GrnSniperRifle,
 /Lotus/StoreItems/Weapons/Grineer/LongGuns/GrnGorgSniperRifle/GrnGorgSniperRifle,
 /Lotus/StoreItems/Weapons/Grineer/LongGuns/GrnSpark/GrnSparkRifle,
+/Lotus/StoreItems/Weapons/Grineer/LongGuns/VoidTraderGorgon/VTGorgon,
 /Lotus/StoreItems/Weapons/Grineer/LongGuns/WraithGorgon/WraithGorgon,
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerCombatKnife/GrineerCombatKnife,
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerJetPoweredPolearm/GrineerJetPolearm,
@@ -3234,6 +3238,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Tenno/Bows/StalkerBow,
 /Lotus/StoreItems/Weapons/Tenno/LongGuns/DoubleBarrelShotgun/TennoDoubleBarrelShotgun,
 /Lotus/StoreItems/Weapons/Tenno/LongGuns/DrakeRifle/DrakeRifle,
+/Lotus/StoreItems/Weapons/Tenno/LongGuns/Miter/TnoMiter,
 /Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeBoltor/PrimeBoltor,
 /Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeBurston/PrimeBurston,
 /Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeSoma/PrimeSomaRifle,
@@ -3313,6 +3318,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/StalkerScytheWeapon,
 /Lotus/StoreItems/Weapons/Tenno/Melee/Staff/MonkSpade/TnoMonkStaff,
 /Lotus/StoreItems/Weapons/Tenno/Melee/Staff/PrimeBo/PrimeBoWeapon,
+/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/BaseStaff,
 /Lotus/StoreItems/Weapons/Tenno/Melee/Staff/GrnStaff,
 /Lotus/StoreItems/Weapons/Tenno/Melee/Staff/Staff,
 /Lotus/StoreItems/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/CutlassPoignardSwords,
@@ -3512,7 +3518,7 @@ OverrideTexture=/Lotus/Interface/Graphics/Store/FeaturedMesa_d.png
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Weapons/Infested/LongGuns/QuantaFullyInfested/InfQuantaRifle
+StoreItem=/Lotus/StoreItems/Weapons/Tenno/LongGuns/Miter/TnoMiter
 Slot=Primary
 OverrideTexture=""
 OverrideMaterial=""
@@ -3524,13 +3530,13 @@ OverrideTexture=""
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Weapons/Tenno/Melee/Gunblade/TnoGunblade
+StoreItem=/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/MonkSpade/TnoMonkStaff
 Slot=Melee
 OverrideTexture=""
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinFlavourItemB
+StoreItem=/Lotus/Types/StoreItems/Packages/WeaponSkinContestBundle
 Slot=Equipment
 OverrideTexture=""
 OverrideMaterial=""
