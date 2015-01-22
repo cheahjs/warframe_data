@@ -1499,7 +1499,7 @@ Corrupted Lancer Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/Corrupt
 Грандиозный Финал,/Lotus/StoreItems/Types/Restoratives/Consumable/FireWorksCrate
 Звездная Вспышка,/Lotus/StoreItems/Types/Restoratives/Consumable/FireWorksSingle
 Fomorian Disruptor,/Lotus/StoreItems/Types/Restoratives/Consumable/FomorianNegator
-/Lotus/Language/Items/Fomoriannegatorbetaname,/Lotus/StoreItems/Types/Restoratives/Consumable/FomorianNegatorBeta
+[Placeholder] Fomorian Negator Beta,/Lotus/StoreItems/Types/Restoratives/Consumable/FomorianNegatorBeta
 Force Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/GoldSpectre
 Scorpion Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/MacheteWomanBall
 Moa Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/MoaBall
@@ -1745,7 +1745,7 @@ Topaz Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restora
 Lapis Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/RareAntitoxinBlueprint
 Vermillion Antitoxin Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/Toxins/SoloRareAntitoxinBlueprint
 Extinguished Dragon Key Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/DamageDebuffKeyBlueprint
-/Lotus/Language/Items/Fomoriannegatorbetaname Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/FomorianNegatorBetaBlueprint
+[Placeholder] Fomorian Negator Beta Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/FomorianNegatorBetaBlueprint
 Fomorian Disruptor Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/FomorianNegatorBlueprint
 Bleeding Dragon Key Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/HealthDebuffKeyBlueprint
 Team Ammo Restore x50 Blueprint,/Lotus/StoreItems/Types/StoreItems/Consumables/Restoratives/HundredTeamAmmoTotemBlueprint
@@ -1899,6 +1899,7 @@ Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HighDamageEnemyLev
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveDoubleDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveExtraDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceDamageEnemyAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceProcEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PoisonDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PortalEventAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/WeakEnemyLevelAura
@@ -2931,7 +2932,7 @@ Misa Prime Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeScarf
 Uru Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/RazorScarf
 Rubedo Plated Yamako Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/RubedoDinoSpikeScarf
 Imperator Syandana ,/Lotus/StoreItems/Upgrades/Skins/Scarves/TurtleNeckScarf
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/Scarves/VTDinoSpikeScarf
+Prisma Yamako,/Lotus/StoreItems/Upgrades/Skins/Scarves/VTDinoSpikeScarf
 Coltek Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GunHeadMask
 Маска Хунхау,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/HunhowMask
 Ictus Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/IctusMask
@@ -3095,6 +3096,7 @@ Arcane Meridian Helmet,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAlt
 Trinity Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityNobleAnims
 Unlock Trinity's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Trinity/UnlockTrinityAgile
 Unlock Trinity's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Trinity/UnlockTrinityNoble
+Placeholder,/Lotus/StoreItems/Upgrades/Skins/ValentinesDay/ValentinesArrow
 Unlock Volt's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Volt/UnlockVoltAgile
 Unlock Volt's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Volt/UnlockVoltNoble
 Volt Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltAgileAnims
@@ -3226,6 +3228,7 @@ Rathbone,/Lotus/StoreItems/Weapons/Tenno/Archwing/Melee/ArchHammer/ArchHammer
 Onorix,/Lotus/StoreItems/Weapons/Tenno/Archwing/Melee/Archaxe/ArchAxeWeapon
 Veritux,/Lotus/StoreItems/Weapons/Tenno/Archwing/Melee/Archsword/ArchSwordWeapon
 Centaur,/Lotus/StoreItems/Weapons/Tenno/Archwing/Melee/Archswordandshield/ArchSwordShield
+Prisma Veritux,/Lotus/StoreItems/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon
 Dual Decurion,/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols
 Imperator,/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun
 Imperator Vandal,/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal
@@ -3291,6 +3294,7 @@ Crossing Snakes,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbTwo
 Fracturing Wind,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/FistCmbOneMeleeTree
 Seismic Palm,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/FistCmbTwoMeleeTree
 Gleaming Talon,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbOneMeleeTree
+Astral Twilight,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbTwoMeleeTree
 High Noon,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/GunbladeCmbOneMeleeTree
 Shattering Storm,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/HammerCmbOneMeleeTree
 Crushing Ruin,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/HammerCmbTwoMeleeTree
