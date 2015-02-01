@@ -1509,6 +1509,7 @@ Codex Scanner,/Lotus/StoreItems/Types/Restoratives/Consumable/Scanner
 Shield Osprey Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/ShieldDroneBall
 Phase Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/SilverSpectre
 Стабільний Спотворювач,/Lotus/StoreItems/Types/Restoratives/Consumable/StableCorruptor
+Eros Arrow Skin,/Lotus/StoreItems/Types/Restoratives/Consumable/ValentinesArrowBundle
 Xattractor 1,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractor
 Xattractor 2,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorB
 Xattractor 3,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorC
@@ -2931,6 +2932,12 @@ Pyra Prime Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeFlameScarf
 Misa Prime Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeScarf
 Uru Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/RazorScarf
 Rubedo Plated Yamako Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/RubedoDinoSpikeScarf
+Telos Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/SyndicateAHScarf
+Synoid Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/SyndicateCSScarf
+Sancti Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/SyndicateNLScarf
+Secura Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/SyndicatePSScarf
+Asita Rakta Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/SyndicateRVScarf
+Vaykor Syandana,/Lotus/StoreItems/Upgrades/Skins/Scarves/SyndicateSMScarf
 Imperator Syandana ,/Lotus/StoreItems/Upgrades/Skins/Scarves/TurtleNeckScarf
 Prisma Yamako,/Lotus/StoreItems/Upgrades/Skins/Scarves/VTDinoSpikeScarf
 Coltek Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GunHeadMask
@@ -3096,7 +3103,7 @@ Arcane Meridian Helmet,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAlt
 Trinity Noble Animation Set,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityNobleAnims
 Unlock Trinity's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Trinity/UnlockTrinityAgile
 Unlock Trinity's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Trinity/UnlockTrinityNoble
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/ValentinesDay/ValentinesArrow
+Eros Arrow Skin,/Lotus/StoreItems/Upgrades/Skins/ValentinesDay/ValentinesArrow
 Unlock Volt's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Volt/UnlockVoltAgile
 Unlock Volt's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Volt/UnlockVoltNoble
 Volt Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltAgileAnims
