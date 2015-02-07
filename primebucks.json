@@ -1,5 +1,9 @@
 [
   {
+    "Name": "Vasto Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
     "Name": "Akbronco Prime Blueprint",
     "PrimeBucks": "10"
   },
@@ -78,10 +82,6 @@
   {
     "Name": "Soma Prime Blueprint",
     "PrimeBucks": "10"
-  },
-  {
-    "Name": "Vasto Prime Blueprint",
-    "PrimeBucks": "50"
   },
   {
     "Name": "Ember Prime Blueprint",
@@ -245,7 +245,7 @@
   },
   {
     "Name": "Nyx Prime Systems Blueprint",
-    "PrimeBucks": "50"
+    "PrimeBucks": "10"
   },
   {
     "Name": "Nyx Prime Systems",
@@ -278,6 +278,38 @@
   {
     "Name": "Rhino Prime Systems",
     "PrimeBucks": "10"
+  },
+  {
+    "Name": "Volt Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Volt Prime Chassis Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Volt Prime Chassis",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Volt Prime Helmet Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Volt Prime Helmet",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Volt Prime Systems Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Volt Prime Systems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Vasto Prime Blueprint",
+    "PrimeBucks": "50"
   },
   {
     "Name": "Akbronco Prime Blueprint",
@@ -358,10 +390,6 @@
   {
     "Name": "Soma Prime Blueprint",
     "PrimeBucks": "10"
-  },
-  {
-    "Name": "Vasto Prime Blueprint",
-    "PrimeBucks": "50"
   },
   {
     "Name": "Boltor Prime Stock",
@@ -733,7 +761,7 @@
   },
   {
     "Name": "Nyx Prime Systems Blueprint",
-    "PrimeBucks": "50"
+    "PrimeBucks": "10"
   },
   {
     "Name": "Nyx Prime Systems",
@@ -766,6 +794,34 @@
   {
     "Name": "Rhino Prime Systems",
     "PrimeBucks": "10"
+  },
+  {
+    "Name": "Volt Prime Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Volt Prime Chassis Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Volt Prime Chassis",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Volt Prime Helmet Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Volt Prime Helmet",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "Volt Prime Systems Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "Volt Prime Systems",
+    "PrimeBucks": "50"
   },
   {
     "Name": "Wyrm Prime Blueprint",

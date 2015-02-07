@@ -202,6 +202,21 @@ CorpusIntelTiersC,쉴드 어스프레이 (Drones/AIWeek/ShieldDroneAgent),0.2,2,
 ,크루맨 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
 ,코퍼스 테크 (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,5
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.30000001,1,5
+CorpusIntelTiersD,퓨젼 M.O.A (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,2,1
+,코퍼스 테크 (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,1
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,2,1
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,2,1
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,1
+,퓨젼 M.O.A (BipedRobot/AIWeek/SuperMoaBipedAgent),0.1,3,2
+,코퍼스 테크 (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,3,2
+,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.2,3,2
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,2
+,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,2,2
+,크루맨 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
+,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,5
+,크루맨 (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,5
+,코퍼스 테크 (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,5
+,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,2,5
 CorpusSquadA,크루맨 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,쇼크웨이브 M.O.A (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
 ,쉴드 어스프레이 (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
@@ -413,7 +428,6 @@ ForestGrineerExcavationA,Forest/RifleLancer,1,0,0
 ,Forest/JetpackMarine,0.25,1,1
 ,Forest/ShotgunLancer,0.25,1,1
 ,Forest/GrineerMarinePistol,0.25,1,2
-,Frontier Regulator (SpecialEvents/ForestDroneAgent),1,2,2
 ,AIWeek/GrineerFemale,1,2,3
 ,Forest/EliteRifleLancer,0.5,3,3
 ,AIWeek/FlameLancer,0.2,1,4
@@ -591,6 +605,33 @@ GrineerInfestedMixForest,Forest/RifleLancer,1,0,0
 ,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,0
 ,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,0
 ,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+GrineerIntelTiersDesert,Desert/ShotgunLancer,0.25,0,1
+,Desert/MinigunBombard,0.15000001,2,1
+,Desert/GrineerMarinePistol,0.2,0,1
+,AIWeek/GrineerFemale,0.15000001,0,1
+,Desert/EvisceratorLancer,0.15000001,2,2
+,AIWeek/GrineerFemale,0.2,0,2
+,Desert/MinigunBombard,0.2,2,2
+,Desert/MinigunBombard,1,0,5
+,Desert/RifleLancer,1,0,5
+,Desert/EliteRifleLancer,1,0,5
+,Desert/ShotgunLancer,1,0,5
+,Desert/BladeSawman,1,0,5
+,AIWeek/CameraDroneAgent,1,0,6
+GrineerIntelTiersSquadFour,AIWeek/ShotgunLancer,0.30000001,0,1
+,AIWeek/MinigunBombard,0.1,2,1
+,AIWeek/ShieldLancer,0.15000001,2,1
+,AIWeek/GrineerFemale,0.15000001,0,1
+,AIWeek/FlameLancer,0.25,0,1
+,AIWeek/MinigunBombard,0.15000001,3,2
+,AIWeek/ShieldLancer,0.2,3,2
+,AIWeek/GrineerFemale,0.2,0,2
+,AIWeek/RifleLancer,1,0,5
+,AIWeek/EliteRifleLancer,1,0,5
+,AIWeek/GrineerFemale,1,0,5
+,AIWeek/MinigunBombard,1,0,5
+,AIWeek/FlameLancer,1,0,5
+,AIWeek/CameraDroneAgent,1,0,6
 GrineerIntelTiersSquadOne,AIWeek/MinigunBombard,0.1,2,1
 ,AIWeek/ShieldLancer,0.15000001,3,1
 ,AIWeek/MinigunBombard,0.15000001,2,2
@@ -600,10 +641,63 @@ GrineerIntelTiersSquadOne,AIWeek/MinigunBombard,0.1,2,1
 ,AIWeek/ShotgunLancer,0.5,0,5
 ,AIWeek/MinigunBombard,0.25,2,5
 ,AIWeek/CameraDroneAgent,1,0,6
+GrineerIntelTiersSquadSix,AIWeek/ShotgunLancer,0.30000001,0,1
+,AIWeek/MinigunBombard,0.15000001,2,1
+,AIWeek/RocketBombard,0.15000001,2,1
+,GrineerMarinePistol,0.2,0,1
+,AIWeek/GrineerFemale,0.15000001,0,1
+,AIWeek/EviseratorLancer,0.15000001,0,1
+,AIWeek/JetpackMarine,0.1,0,1
+,AIWeek/MinigunBombard,0.15000001,3,2
+,GrineerMarinePistol,0.2,0,2
+,AIWeek/GrineerFemale,0.2,0,2
+,AIWeek/EviseratorLancer,0.2,0,2
+,AIWeek/JetpackMarine,0.15000001,0,2
+,AIWeek/RifleLancer,1,0,5
+,AIWeek/EliteRifleLancer,1,0,5
+,AIWeek/ShotgunLancer,1,0,5
+,AIWeek/MinigunBombard,0.5,0,5
+,AIWeek/RocketBombard,0.5,0,5
+,GrineerMarinePistol,1,0,5
+,AIWeek/GrineerFemale,1,0,5
+,AIWeek/CameraDroneAgent,1,0,6
+GrineerIntelTiersSquadThree,AIWeek/ShotgunLancer,0.30000001,0,1
+,AIWeek/ShieldLancer,0.15000001,2,1
+,AIWeek/IncendiaryBombard,0.1,2,1
+,GrineerMarinePistol,0.2,0,1
+,AIWeek/FlameLancer,0.15000001,2,1
+,AIWeek/ShieldLancer,0.15000001,3,2
+,AIWeek/IncendiaryBombard,0.1,3,2
+,GrineerMarinePistol,0.25,0,2
+,AIWeek/FlameLancer,0.2,2,2
+,AIWeek/RifleLancer,1,0,5
+,AIWeek/EliteRifleLancer,1,0,5
+,AIWeek/ShotgunLancer,1,0,5
+,AIWeek/IncendiaryBombard,1,0,5
+,GrineerMarinePistol,1,0,5
+,AIWeek/CameraDroneAgent,1,0,6
+GrineerIntelTiersSquadTwo,AIWeek/ShotgunLancer,0.30000001,0,1
+,AIWeek/RocketBombard,0.1,1,1
+,AIWeek/ShieldLancer,0.15000001,2,1
+,GrineerMarineLeader,0.1,1,1
+,AIWeek/GrineerFemale,0.15000001,0,1
+,AIWeek/FlameLancer,0.25,2,1
+,AIWeek/BeastMaster,0.15000001,2,1
+,AIWeek/RocketBombard,0.15000001,1,2
+,AIWeek/ShieldLancer,0.15000001,3,2
+,GrineerMarineLeader,0.2,1,2
+,AIWeek/GrineerFemale,0.2,0,2
+,AIWeek/FlameLancer,0.30000001,3,2
+,AIWeek/BeastMaster,0.2,2,2
+,AIWeek/RifleLancer,1,0,5
+,AIWeek/EliteRifleLancer,1,0,5
+,GrineerMarineLeader,1,0,5
+,AIWeek/GrineerFemale,1,0,5
+,AIWeek/ShotgunLancer,1,0,5
+,AIWeek/CameraDroneAgent,1,0,6
 GrineerSettlementExcavationA,Desert/RifleLancer,1,0,0
 ,Desert/BladeSawmanNoCoverSurvival,0.40000001,0,0
 ,Desert/JetpackMarine,0.5,3,1
-,Regulator (SpecialEvents/SurveillanceDroneAgent),1,2,1
 ,AIWeek/GrineerFemale,0.5,4,2
 ,AIWeek/ShieldLancer,0.40000001,5,2
 ,AIWeek/ShotgunLancer,0.5,3,3
@@ -898,6 +992,15 @@ InfestedHiveSquadC,차져 (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,2
 ,AiWeek/Ancients/MeleeAncient,0.2,4,1
 ,톡식 에인션트 (AiWeek/Ancients/ToxicAncient),0.1,4,2
+InfestedIntelSquadB,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,1
+,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.30000001,2,1
+,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,1
+,톡식 에인션트 (AiWeek/Ancients/ToxicAncient),0.2,2,1
+,에인션트 힐러 (AiWeek/Ancients/HealingAncient),0.2,2,1
+,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),1,0,5
+,톡식 에인션트 (AiWeek/Ancients/ToxicAncient),1,0,5
+,에인션트 힐러 (AiWeek/Ancients/HealingAncient),1,0,5
+,AiWeek/Runners/MeleeRunner,1,0,5
 InfestedSquadA,차져 (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,리퍼 (AiWeek/Runners/LeapingRunner),0.75,0,0
 ,러너 (AiWeek/Runners/SuicideRunner),0.1,0,0
