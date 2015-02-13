@@ -148,7 +148,7 @@ Ananke,木星,Capture,Corpus,/Lotus/Types/Game/CorpusSquadD,/Lotus/Types/Game/Mi
 ,木星,Assassination,Grineer,,,20 - 60,0.40000001,2
 Galilea,木星,Sabotage,Corpus,/Lotus/Types/Game/TRExterminateB,/Lotus/Types/Game/MissionDecks/ArchwingSabotageRewards,20 - 60,0.40000001,2
 ,木星,Assassination,Grineer,,,20 - 60,0.40000001,2
-Cameria,木星,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards,20 - 60,0.40000001,2
+Cameria,木星,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards,20 - 60,0.40000001,2
 ,木星,Assassination,Grineer,,,20 - 60,0.40000001,2
 ,木星,Assassination,Grineer,,,20 - 60,0.40000001,2
 ,木星,Assassination,Grineer,,,20 - 60,0.40000001,2
@@ -163,7 +163,7 @@ Titan,土星,Spy,Grineer,/Lotus/Types/Game/GrineerSquadTwo,/Lotus/Types/Game/Mis
 Dione,土星,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadThree,,30 - 60,0.5,0
 ,土星,Assassination,Grineer,,,30 - 60,0.5,1
 Mimas,土星,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 60,0.5,1
-Iapetus,土星,Interception,Grineer,/Lotus/Types/Game/GrineerSquadFive,/Lotus/Types/Game/MissionDecks/InterceptRewardsGrineer,30 - 60,0.5,1
+Iapetus,土星,Interception,Grineer,/Lotus/Types/Game/GrineerSquadFive,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium,30 - 60,0.5,1
 Janus,土星,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadOne,,30 - 60,0.5,1
 Keeler,土星,Mobile Defense,Grineer,/Lotus/Types/Game/GrineerSquadThree,,30 - 60,0.5,1
 Tethys,土星,Assassination,Grineer,/Lotus/Types/Game/GrineerSquadFour,/Lotus/Types/Game/MissionDecks/BossMissionRewards/EmberRewards,30 - 60,0.5,1
@@ -175,7 +175,7 @@ Pallene,土星,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadFive,,30 - 60,0.5,
 Telesto,土星,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadSix,,30 - 60,0.5,2
 Aegaeon,土星,Spy,Grineer,/Lotus/Types/Game/GrineerSquadTwo,/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMediumMissionRewards,30 - 60,0.5,2
 Methone,土星,Deception,Grineer,/Lotus/Types/Game/GrineerSquadThree,,30 - 60,0.5,2
-Cassini,土星,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 60,0.5,2
+Cassini,土星,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,30 - 60,0.5,2
 Anthe,土星,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadFour,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,30 - 60,0.5,2
 ,土星,Assassination,Grineer,,,30 - 60,0.5,2
 Numa,土星,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadFive,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,30 - 60,0.5,2
@@ -196,12 +196,12 @@ Umbriel,天王星,Spy,Grineer,/Lotus/Types/Game/GrineerSquadFour,/Lotus/Types/Ga
 Cordelia,天王星,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadFive,,30 - 70,0.40000001,0
 ,天王星,Assassination,Grineer,,,30 - 70,0.40000001,0
 Miranda,天王星,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,30 - 70,0.40000001,0
-Ophelia,天王星,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 70,0.40000001,0
+Ophelia,天王星,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,30 - 70,0.40000001,0
 Portia,天王星,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadOne,,30 - 70,0.40000001,1
 Cressida,天王星,Mobile Defense,Grineer,/Lotus/Types/Game/GrineerSquadThree,,30 - 70,0.40000001,1
 Juliet,天王星,Deception,Grineer,/Lotus/Types/Game/GrineerSquadSix,,30 - 70,0.40000001,1
 Desdemona,天王星,Capture,Grineer,/Lotus/Types/Game/GrineerSquadTwo,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,30 - 70,0.40000001,1
-Cupid,天王星,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 70,0.40000001,1
+Cupid,天王星,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,30 - 70,0.40000001,1
 Rosalind,天王星,Spy,Grineer,/Lotus/Types/Game/GrineerSquadFour,/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMediumMissionRewards,30 - 70,0.40000001,1
 ,天王星,Assassination,Grineer,,,30 - 70,0.40000001,1
 Bianca,天王星,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,30 - 70,0.40000001,1
@@ -218,11 +218,11 @@ Puck,天王星,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadOne,,30 - 70,
 ,天王星,Assassination,Grineer,,,30 - 70,0.40000001,3
 Ur,天王星,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 70,0.40000001,3
 Sycorax,天王星,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadOne,,30 - 70,0.40000001,3
-Stephano,天王星,Interception,Grineer,/Lotus/Types/Game/GrineerDefenseA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium,30 - 70,0.40000001,3
+Stephano,天王星,Interception,Grineer,/Lotus/Types/Game/GrineerDefenseA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsHard,30 - 70,0.40000001,3
 Trinculo,天王星,Capture,Grineer,/Lotus/Types/Game/GrineerSquadThree,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,30 - 70,0.40000001,3
 Caelus,天王星,Interception,Grineer,/Lotus/Types/Game/SpaceGrineerDefenseC,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard,30 - 70,0.40000001,3
 ,天王星,Assassination,Grineer,,,30 - 70,0.40000001,3
-Assur,天王星,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards,30 - 70,0.40000001,3
+Assur,天王星,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards,30 - 70,0.40000001,3
 Ethniu,天王星,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,30 - 70,0.40000001,3
 Larissa,海王星,Mobile Defense,Corpus,/Lotus/Types/Game/CorpusSquadA,,30 - 70,0.5,0
 Thalassa,海王星,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard,30 - 70,0.5,0
@@ -360,10 +360,10 @@ Undine,セドナ,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadTwo,,30 - 80,0.5
 Jengu,セドナ,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadSix,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy,30 - 80,0.5,0
 ,セドナ,Assassination,Grineer,,,30 - 80,0.5,0
 Nakki,セドナ,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadSix,,30 - 80,0.5,1
-Berehynia,セドナ,Interception,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium,30 - 80,0.5,1
+Berehynia,セドナ,Interception,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsHard,30 - 80,0.5,1
 Tikoloshe,セドナ,Spy,Grineer,/Lotus/Types/Game/GrineerSquadSix,/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMediumMissionRewards,30 - 80,0.5,1
 ,セドナ,Assassination,Grineer,,,30 - 80,0.5,1
-Selkie,セドナ,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 80,0.5,1
+Selkie,セドナ,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,30 - 80,0.5,1
 Marid,セドナ,Extermination,Grineer,/Lotus/Types/Game/GrineerSquadSix,,30 - 80,0.5,1
 Phithale,セドナ,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadFour,,30 - 80,0.5,1
 Kelpie,セドナ,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadFive,,30 - 80,0.5,1
@@ -380,10 +380,10 @@ Scylla,セドナ,Spy,Grineer,/Lotus/Types/Game/GrineerSquadSix,/Lotus/Types/Game
 Nemed,セドナ,Spy,Grineer,/Lotus/Types/Game/GrineerSquadSix,,30 - 80,0.5,3
 ,セドナ,Assassination,Grineer,,,30 - 80,0.5,3
 Tiamat,セドナ,Capture,Grineer,/Lotus/Types/Game/GrineerSquadSix,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,30 - 80,0.5,3
-Yemaja,セドナ,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,30 - 80,0.5,3
+Yemaja,セドナ,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,30 - 80,0.5,3
 Conclave,セドナ,MT_PVP,Grineer,,,30 - 80,0.5,3
 ,セドナ,Assassination,Grineer,,,30 - 80,0.5,3
-Amarna,セドナ,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards,30 - 80,0.5,3
+Amarna,セドナ,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards,30 - 80,0.5,3
 Veles,セドナ,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadSix,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium,30 - 80,0.5,3
 Sangeru,セドナ,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 80,0.5,3
 Abaddon,エウロパ,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,0
@@ -400,13 +400,13 @@ Valefor,エウロパ,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusExcavationA,/Lot
 ,エウロパ,Assassination,Grineer,,,10 - 75,0.40000001,1
 ,エウロパ,Assassination,Grineer,,,10 - 75,0.40000001,1
 Sorath,エウロパ,MT_RETRIEVAL,Corpus,/Lotus/Types/Game/CorpusSquadD,,10 - 75,0.40000001,1
-Ose,エウロパ,Interception,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,10 - 75,0.40000001,1
+Ose,エウロパ,Interception,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsHard,10 - 75,0.40000001,1
 Valac,エウロパ,Spy,Corpus,/Lotus/Types/Game/CorpusGrineerMix,/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMediumMissionRewards,10 - 75,0.40000001,1
 Shax,エウロパ,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium,10 - 75,0.40000001,1
 Paimon,エウロパ,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
 Conclave,エウロパ,MT_PVP,Corpus,,,10 - 75,0.40000001,2
 Orias,エウロパ,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard,10 - 75,0.40000001,2
-Zagan,エウロパ,Survival,Corpus,/Lotus/Types/Game/CorpusSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,10 - 75,0.40000001,2
+Zagan,エウロパ,Survival,Corpus,/Lotus/Types/Game/CorpusSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,10 - 75,0.40000001,2
 Larzac,エウロパ,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,10 - 75,0.40000001,2
 Cryotic Front,エウロパ,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
 Beleth,エウロパ,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,2
@@ -443,12 +443,12 @@ Clustril,Phobos,Extermination,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,,2
 Wendell,Phobos,MT_EXCAVATE,Grineer,/Lotus/Types/Game/GrineerSettlementExcavationA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,20 - 50,0.30000001,2
 Todd,Phobos,Capture,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,20 - 50,0.30000001,2
 Shifting Sands,Phobos,Sabotage,Grineer,/Lotus/Types/Game/OrokinDerelictSabotageGrineerSettlement,/Lotus/Types/Game/MissionDecks/OrokinSabotageEventRewards,20 - 50,0.30000001,2
-Flimnap,Phobos,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,20 - 50,0.30000001,2
+Flimnap,Phobos,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,20 - 50,0.30000001,2
 Memphis,Phobos,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,20 - 50,0.30000001,2
 Iliad,Phobos,Assassination,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,/Lotus/Types/Game/MissionDecks/BossMissionRewards/MiterGremlinsRewards,20 - 50,0.30000001,2
 ,Phobos,Assassination,Grineer,,,20 - 50,0.30000001,2
 Gate Crash,Phobos,Sabotage,Grineer,/Lotus/Types/Game/OrokinDerelictSabotageGrineerSettlement,/Lotus/Types/Game/MissionDecks/OrokinSabotageEventRewards,20 - 50,0.30000001,2
-Opik,Phobos,Interception,Grineer,/Lotus/Types/Game/DesertGrineerDefenseA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium,20 - 50,0.30000001,2
+Opik,Phobos,Interception,Grineer,/Lotus/Types/Game/DesertGrineerDefenseA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsHard,20 - 50,0.30000001,2
 ,Phobos,Assassination,Grineer,,,20 - 50,0.30000001,3
 ,Phobos,Assassination,Grineer,,,20 - 50,0.30000001,3
 ,Phobos,Assassination,Grineer,,,20 - 50,0.30000001,3
