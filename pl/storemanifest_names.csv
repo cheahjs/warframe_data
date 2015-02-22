@@ -1430,6 +1430,7 @@ Akvasto Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualVastosBlueprint
 Ether Reaper Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/EtherScytheBlueprint
 Eteryczny Miecz Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/EtherSwordBlueprint
 Fang Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/FangPrimeBlueprint
+Tonbo Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/FlowerPowerPolearmBlueprint
 Furax Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/FuraxBlueprint
 Furis Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/FurisBlueprint
 Ankyros Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GauntletBlueprint
@@ -2700,7 +2701,6 @@ Eyes Of Blight Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/SlingStone2EmblemIte
 Sling Stone Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/SlingStoneEmblemItem
 Survival Badge,/Lotus/StoreItems/Upgrades/Skins/Clan/SurvivalEventBadgeItem
 Tenno Operative Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/TranslatorBadgeItem
-Mortos Syandana,/Lotus/StoreItems/Upgrades/Skins/ClothTests/NecroDanglesSkelCloth
 Sharpshooter Vectis,/Lotus/StoreItems/Upgrades/Skins/Contests/LongGuns/VectisSharpshooter
 Silferer Vectis ,/Lotus/StoreItems/Upgrades/Skins/Contests/LongGuns/VectisSilferer
 Combustion Dual Zoren,/Lotus/StoreItems/Upgrades/Skins/Contests/Melee/DualZorenCombustion
@@ -3029,6 +3029,10 @@ Alliance Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/AllianceSigilBasic
 /Lotus/Language/Sigils/Bosssigilcaptainvorname,/Lotus/StoreItems/Upgrades/Skins/Sigils/BossSigilCaptainVor
 /Lotus/Language/Sigils/Bosssigilhyenapackname,/Lotus/StoreItems/Upgrades/Skins/Sigils/BossSigilHyenaPack
 /Lotus/Language/Sigils/Bosssigillechkrilname,/Lotus/StoreItems/Upgrades/Skins/Sigils/BossSigilLechKril
+/Lotus/Language/Sigils/Bosssigillephantisname,/Lotus/StoreItems/Upgrades/Skins/Sigils/BossSigilLephantis
+/Lotus/Language/Sigils/Bosssigillynxname,/Lotus/StoreItems/Upgrades/Skins/Sigils/BossSigilLynx
+/Lotus/Language/Sigils/Bosssigilphoridname,/Lotus/StoreItems/Upgrades/Skins/Sigils/BossSigilPhorid
+/Lotus/Language/Sigils/Bosssigilraptorname,/Lotus/StoreItems/Upgrades/Skins/Sigils/BossSigilRaptor
 /Lotus/Language/Sigils/Bosssigilsargusrukname,/Lotus/StoreItems/Upgrades/Skins/Sigils/BossSigilSargusRuk
 Clan Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/ClanSigilBasic
 Phased Clan Sigil,/Lotus/StoreItems/Upgrades/Skins/Sigils/ClanSigilBasicAdd
@@ -3394,6 +3398,7 @@ Eleventh Storm,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/SwordShieldCmbOn
 Gemini Cross,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/TonfaCmbOneMeleeTree
 Burning Wasp,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/WhipCmbOneMeleeTree
 Coiling Viper,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/WhipCmbTwoMeleeTree
+Tonbo,/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/FlowerPowerPolearm/FlowerPowerPolearmWep
 Orthos,/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PolearmWeapon
 Orthos Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PrimePolearmWeapon
 Ether Reaper,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/EtherScytheWeapon

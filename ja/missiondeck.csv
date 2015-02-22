@@ -388,7 +388,7 @@ Veles,セドナ,Rescue,Grineer,/Lotus/Types/Game/GrineerSquadSix,/Lotus/Types/Ga
 Sangeru,セドナ,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,30 - 80,0.5,3
 Abaddon,エウロパ,Capture,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,10 - 75,0.40000001,0
 Gamygyn,エウロパ,Sabotage,Corpus,/Lotus/Types/Game/CorpusSquadC,,10 - 75,0.40000001,0
-Armaros,エウロパ,Spy,Corpus,/Lotus/Types/Game/CorpusGrineerMix,/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMediumMissionRewards,10 - 75,0.40000001,0
+Armaros,エウロパ,Spy,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMediumMissionRewards,10 - 75,0.40000001,0
 Morax,エウロパ,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadB,,10 - 75,0.40000001,0
 Eligor,エウロパ,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,0
 Lillith,エウロパ,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusExcavationA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,10 - 75,0.40000001,0
@@ -401,7 +401,7 @@ Valefor,エウロパ,MT_EXCAVATE,Corpus,/Lotus/Types/Game/CorpusExcavationA,/Lot
 ,エウロパ,Assassination,Grineer,,,10 - 75,0.40000001,1
 Sorath,エウロパ,MT_RETRIEVAL,Corpus,/Lotus/Types/Game/CorpusSquadD,,10 - 75,0.40000001,1
 Ose,エウロパ,Interception,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsHard,10 - 75,0.40000001,1
-Valac,エウロパ,Spy,Corpus,/Lotus/Types/Game/CorpusGrineerMix,/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMediumMissionRewards,10 - 75,0.40000001,1
+Valac,エウロパ,Spy,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMediumMissionRewards,10 - 75,0.40000001,1
 Shax,エウロパ,Rescue,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium,10 - 75,0.40000001,1
 Paimon,エウロパ,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,10 - 75,0.40000001,1
 Conclave,エウロパ,MT_PVP,Corpus,,,10 - 75,0.40000001,2
