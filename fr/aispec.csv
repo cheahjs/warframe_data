@@ -1386,6 +1386,34 @@ TestSectorGrineer,Corrupted Crewman (RifleSpacemanAgent),1,0,0
 ,Corrupted Moa (OrokinMoaBipedAgent),1,0,1
 ,Corrompu (OrokinDroneAttackAgent),1,0,2
 ,OrokinMinigunBombard,1,0,2
+GrineerShipyardsSurvivalA,AIWeek/RifleLancer,1,0,0
+,AIWeek/MacheteWomanNoCover,0.2,3,0
+,AIWeek/BladeSawmanNoCoverSurvival,0.30000001,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/ShotgunLancer,0.25,3,1
+,GrineerMarinePistol,0.2,2,1
+,AIWeek/JetpackMarine,0.1,2,1
+,AIWeek/ShieldLancer,0.30000001,4,2
+,AIWeek/GrineerMeleeStaffAgentNoLeader,0.30000001,4,2
+,AIWeek/GrineerFemale,1,3,3
+,AIWeek/MinigunBombard,0.1,3,3
+,AIWeek/RocketBombard,0.1,3,4
+,AIWeek/EviseratorLancer,0.1,2,5
+,AIWeek/GrineerRollingDrone,0.050000001,1,5
+,AIWeek/DeltaProsecutorAgent,1,1,9
+CorpusGrineerInvasionEasy,Homme D'équipage (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
+,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
+,Moa Onde De Choc (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,0,0
+,Osprey Protecteur (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,Homme D'équipage Prod (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,AIWeek/RifleLancer,1,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/BladeSawman,0.30000001,0,0
+,AIWeek/ShotgunLancer,0.25,0,0
+,AIWeek/MinigunBombard,0.1,0,0
+,AIWeek/ShieldLancer,0.1,0,0
 CorpusGrineerInvasionHard,Homme D'équipage (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
 ,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
@@ -1397,19 +1425,6 @@ CorpusGrineerInvasionHard,Homme D'équipage (Spaceman/AIWeek/RifleSpacemanAgent)
 ,AIWeek/EliteRifleLancer,1,0,0
 ,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,0
 ,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,0,0
-,AIWeek/BladeSawman,0.30000001,0,0
-,AIWeek/ShotgunLancer,0.25,0,0
-,AIWeek/MinigunBombard,0.1,0,0
-,AIWeek/ShieldLancer,0.1,0,0
-CorpusGrineerInvasionEasy,Homme D'équipage (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
-,Moa Onde De Choc (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,0,0
-,Osprey Protecteur (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Homme D'équipage Prod (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,AIWeek/RifleLancer,1,0,0
-,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
 ,AIWeek/ShotgunLancer,0.25,0,0
 ,AIWeek/MinigunBombard,0.1,0,0
@@ -1488,21 +1503,6 @@ GrineerShipyardsDefenseA,AIWeek/RifleLancer,1,0,0
 ,AIWeek/GrineerFemale,0.1,0,1
 ,AIWeek/FlameLancer,0.15000001,0,1
 ,AIWeek/GrineerMeleeStaffAgentNoLeader,0.2,0,1
-,AIWeek/DeltaProsecutorAgent,1,1,9
-GrineerShipyardsSurvivalA,AIWeek/RifleLancer,1,0,0
-,AIWeek/MacheteWomanNoCover,0.2,3,0
-,AIWeek/BladeSawmanNoCoverSurvival,0.30000001,0,0
-,AIWeek/EliteRifleLancer,1,0,0
-,AIWeek/ShotgunLancer,0.25,3,1
-,GrineerMarinePistol,0.2,2,1
-,AIWeek/JetpackMarine,0.1,2,1
-,AIWeek/ShieldLancer,0.30000001,4,2
-,AIWeek/GrineerMeleeStaffAgentNoLeader,0.30000001,4,2
-,AIWeek/GrineerFemale,1,3,3
-,AIWeek/MinigunBombard,0.1,3,3
-,AIWeek/RocketBombard,0.1,3,4
-,AIWeek/EviseratorLancer,0.1,2,5
-,AIWeek/GrineerRollingDrone,0.050000001,1,5
 ,AIWeek/DeltaProsecutorAgent,1,1,9
 InfestedHiveSquadQuest,Chargeur (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,Sauteur (AiWeek/Runners/LeapingRunner),0.75,0,0

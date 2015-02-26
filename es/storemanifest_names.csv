@@ -339,6 +339,7 @@ Shuriken,/Lotus/StoreItems/Powersuits/Ninja/GlaiveAbilityCard
 Seeking Shuriken,/Lotus/StoreItems/Powersuits/Ninja/GlaiveAugmentCard
 Ash,/Lotus/StoreItems/Powersuits/Ninja/Ninja
 Tormenta De Espadas,/Lotus/StoreItems/Powersuits/Ninja/NinjaStormAbilityCard
+Rising Storm,/Lotus/StoreItems/Powersuits/Ninja/NinjaStormAugmentCard
 Pantalla De Humo,/Lotus/StoreItems/Powersuits/Ninja/SmokeScreenAbilityCard
 Smoke Shadow,/Lotus/StoreItems/Powersuits/Ninja/SmokeScreenAugmentCard
 Teletransportación,/Lotus/StoreItems/Powersuits/Ninja/TelelportToAbilityCard
@@ -351,6 +352,7 @@ Hallowed Ground,/Lotus/StoreItems/Powersuits/Paladin/StairwayToHeavenAbilityCard
 Hallowed Eruption,/Lotus/StoreItems/Powersuits/Paladin/StairwayToHeavenAugmentCard
 Tempest Barrage,/Lotus/StoreItems/Powersuits/Pirate/CannonBarrageAbilityCard
 Tentacle Swarm,/Lotus/StoreItems/Powersuits/Pirate/KrakenAbilityCard
+Pilfering Swarm,/Lotus/StoreItems/Powersuits/Pirate/KrakenAugmentCard
 Undertow,/Lotus/StoreItems/Powersuits/Pirate/LiquifyAbilityCard
 Curative Undertow,/Lotus/StoreItems/Powersuits/Pirate/LiquifyAugmentCard
 Hydroid,/Lotus/StoreItems/Powersuits/Pirate/Pirate
@@ -360,6 +362,7 @@ Explosión Radial,/Lotus/StoreItems/Powersuits/PowersuitAbilities/RadialBlastAbi
 Piel De Hierro,/Lotus/StoreItems/Powersuits/Rhino/IronSkinAbilityCard
 Iron Shrapnel,/Lotus/StoreItems/Powersuits/Rhino/IronSkinAugmentCard
 Rugido,/Lotus/StoreItems/Powersuits/Rhino/RadialBlastAbilityCard
+Piercing Roar,/Lotus/StoreItems/Powersuits/Rhino/RadialBlastAugmentCard
 Rhino,/Lotus/StoreItems/Powersuits/Rhino/Rhino
 Rhino Embestida,/Lotus/StoreItems/Powersuits/Rhino/RhinoChargeAbilityCard
 Ironclad Charge,/Lotus/StoreItems/Powersuits/Rhino/RhinoChargeAugmentCard
@@ -535,7 +538,7 @@ Forma,/Lotus/StoreItems/Types/Items/MiscItems/Forma
 Galio,/Lotus/StoreItems/Types/Items/MiscItems/Gallium
 Vay Hek Nav Coordinate [Obsolete??],/Lotus/StoreItems/Types/Items/MiscItems/HekNavCode
 Mutalist Alad V Nav Coordinate,/Lotus/StoreItems/Types/Items/MiscItems/InfestedAladCoordinate
-(Placeholder) Library Slip,/Lotus/StoreItems/Types/Items/MiscItems/LibrarySlip
+/Lotus/Language/Items/Libraryslipname,/Lotus/StoreItems/Types/Items/MiscItems/LibrarySlip
 /Lotus/Language/Items/Limbocodename,/Lotus/StoreItems/Types/Items/MiscItems/LimboCode
 Orokin Cipher,/Lotus/StoreItems/Types/Items/MiscItems/MirageCode
 Morphics,/Lotus/StoreItems/Types/Items/MiscItems/Morphic
@@ -611,6 +614,7 @@ Muestra De Fieldron,/Lotus/StoreItems/Types/Items/Research/EnergyFragment
 Alad V Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/AladVBobbleHead
 Ash Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/AshBobbleHead
 Banshee Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/BansheeBobbleHead
+Baro'ki Teer,/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerBobbleHead
 Ember Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/EmberBobbleHead
 Excalibur Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburBobbleHead
 Frost Noggle Statue,/Lotus/StoreItems/Types/Items/ShipDecos/FrostBobbleHead
@@ -1541,7 +1545,7 @@ Estallido De Color,/Lotus/StoreItems/Types/Restoratives/Consumable/FireWorksSing
 Fomorian Disruptor,/Lotus/StoreItems/Types/Restoratives/Consumable/FomorianNegator
 [Placeholder] Fomorian Negator Beta,/Lotus/StoreItems/Types/Restoratives/Consumable/FomorianNegatorBeta
 Force Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/GoldSpectre
-Library Scanner,/Lotus/StoreItems/Types/Restoratives/Consumable/LibraryScanner
+Simaris Scanner,/Lotus/StoreItems/Types/Restoratives/Consumable/LibraryScanner
 Scorpion Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/MacheteWomanBall
 Moa Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/MoaBall
 Cosmic Specter,/Lotus/StoreItems/Types/Restoratives/Consumable/PlatinumSpectre
@@ -1948,6 +1952,7 @@ Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceProcEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PoisonDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PortalEventAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/RaidEnemyDamageResistLevelAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/ShipyardsInterceptionLevelAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/WeakEnemyLevelAura
 Common Nucleo De Fusión,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl1ModFuser
 Common Nucleo De Fusión,/Lotus/StoreItems/Upgrades/Mods/Fusers/CommonLvl2ModFuser
@@ -2755,6 +2760,7 @@ Ember Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberPrimeHelmet
 Unlock Ember's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Ember/UnlockEmberAgile
 Unlock Ember's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Ember/UnlockEmberNoble
 Rahk Fluctus Skin,/Lotus/StoreItems/Upgrades/Skins/Events/ArchRocketCrossbowGrineer
+Lepus Headgear,/Lotus/StoreItems/Upgrades/Skins/Events/BunnyEars
 Polar Glaxion Skin,/Lotus/StoreItems/Upgrades/Skins/Events/GlaxionPolar
 Zebra Paracyst Skin,/Lotus/StoreItems/Upgrades/Skins/Events/InfQuantaInfestedAladV
 Excalibur Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburAgileAnims
@@ -2852,12 +2858,13 @@ Nyx Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Jade/NyxAlternateSkin
 Nyx Prime Helmet,/Lotus/StoreItems/Upgrades/Skins/Jade/NyxPrimeHelmet
 Unlock Nyx's Agile Animations,/Lotus/StoreItems/Upgrades/Skins/Jade/UnlockJadeAgile
 Unlock Nyx's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Jade/UnlockJadeNoble
-Dragon Nikana Lightning Sheath,/Lotus/StoreItems/Upgrades/Skins/KatanaSheaths/DragonKatanaSheathLightning
-Nikana Lightning Sheath,/Lotus/StoreItems/Upgrades/Skins/KatanaSheaths/KatanaSheathLightning
+Surt-Form Gemini Nikana Sheath,/Lotus/StoreItems/Upgrades/Skins/KatanaSheaths/DragonKatanaSheathLightning
+Ymir-Form Gemini Nikana Sheath,/Lotus/StoreItems/Upgrades/Skins/KatanaSheaths/KatanaSheathLightning
 Hima Liset Skin,/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinFlavourItemB
 Kuza Liset Skin,/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinFlavourItemC
 Zikha Liset Skin,/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinFlavourItemD
 ,/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinFlavourItemDefault
+Prisma Liset Skin,/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinVoidTrader
 Loki Agile Animation Set,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiAgileAnims
 Loki Immortal Skin,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiAlternateSkin
 Enigma Loki Helmet,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiEnigmaHelmet
@@ -2890,6 +2897,7 @@ Unlock Limbo's Noble Animations,/Lotus/StoreItems/Upgrades/Skins/Magician/Unlock
 Pazza Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/ChainTridentMeleeDangle
 Tantu Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/CordsMeleeDangle
 Pyra Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/FireMeleeDangle
+Kazeru Prime Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/KazeruPrimeMeleeDangle
 Suraka Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/LotusPointMeleeDangle
 Daman Sugatra,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PolearmFriendlyMeleeDangle
 Daman Sugatra Prime,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PrimeMeleeDangle
@@ -2943,7 +2951,7 @@ Phased Ankyros Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/AnkyrosVoidSkin
 Phased Tigris Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/TigrisVoidSkin
 Phased Vasto Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Void/VastoVoidSkin
 Abra Paris Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Warframe/PromoParis
-Placeholder,/Lotus/StoreItems/Upgrades/Skins/Promo/Warframe/ProtoGlaive
+Proto-Glaive Skin,/Lotus/StoreItems/Upgrades/Skins/Promo/Warframe/ProtoGlaive
 /Lotus/Language/Items/Redveillatronskinname,/Lotus/StoreItems/Upgrades/Skins/RedVeil/LatronRedVeil
 Rubedo Plated Twin Vipers Skin,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoAkimboViperCamo
 Rubedo Plated Drakgoon Skin,/Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoDrakgoonCamo
@@ -2995,7 +3003,7 @@ Máscara Lotus,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/LotusMask
 Mascara Cabeza De Meca,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/MechHeadMask
 Summus Prime Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/OrokinMask
 Para Sentinel Mask,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/ParrotMask
-Placeholder Helios,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Skins/LibrarianHelios
+Simaris Helios Skin,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Skins/LibrarianHelios
 Cola Cápsula,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/CapsuleTail
 Coltek Sentinel Tail,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/ColtekTail
 Cola Koi Para Centinela,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/FishTail
@@ -3262,7 +3270,6 @@ Buzlok,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrnGorgSniperRifle/GrnGorgSnip
 Kohm ,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrnSpark/GrnSparkRifle
 Prisma Gorgon,/Lotus/StoreItems/Weapons/Grineer/LongGuns/VoidTraderGorgon/VTGorgon
 Gorgon Wraith,/Lotus/StoreItems/Weapons/Grineer/LongGuns/WraithGorgon/WraithGorgon
-Placeholder,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerClaws/GrnClaws
 Sheev,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerCombatKnife/GrineerCombatKnife
 Jat Kittag,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerJetPoweredPolearm/GrineerJetPolearm
 Hachas Duales,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon
@@ -3274,7 +3281,6 @@ Stug,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun
 Brakk,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon
 Marelok,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol
 Nukor,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerMicrowavegun/GrnMicrowavePistol
-Placeholder,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrnDWUniques/GrnTwinBurstPistols
 Wraith Twin Vipers,/Lotus/StoreItems/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers
 Mutalist Quanta,/Lotus/StoreItems/Weapons/Infested/LongGuns/InfCrpShockSwarm/InfCrpShockSwarmRifle
 Paracyst,/Lotus/StoreItems/Weapons/Infested/LongGuns/QuantaFullyInfested/InfQuantaRifle
@@ -3364,7 +3370,7 @@ Skana,/Lotus/StoreItems/Weapons/Tenno/Melee/LongSword/LongSword
 Skana Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/LongSword/SkanaPrime
 Magistar,/Lotus/StoreItems/Weapons/Tenno/Melee/Maces/PaladinMace/PaladinMaceWeapon
 Rending Crane,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbOneMeleeTree
-Cleaving Whirlwind,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbThreeMeleeTree
+Tempo Royale,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbThreeMeleeTree
 Cleaving Whirlwind,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbTwoMeleeTree
 Malicious Raptor,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ClawCmbOneMeleeTree
 Crimson Dervish,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/CrimsonDervishMeleeTree
@@ -3412,6 +3418,7 @@ Bastón-Bo,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/Staff
 Nami Skyla,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/CutlassPoignardSwords
 Nami Solo,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/TennoCutlass
 Espada Oscura,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/DarkSword/DarkLongSword
+Dex Dakra,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/DexTheSecond/DexTheSecond
 Galatine,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/GreatSword/TennoGreatSword
 Espada De Calor,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/HeatSword/HeatLongSword
 Espada Mandíbula,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/JawSword/JawLongSword
@@ -3462,7 +3469,6 @@ Boar Prime,/Lotus/StoreItems/Weapons/Tenno/Shotgun/PrimeBoar
 Hek,/Lotus/StoreItems/Weapons/Tenno/Shotgun/QuadShotgun
 Strun,/Lotus/StoreItems/Weapons/Tenno/Shotgun/Shotgun
 Strun Wraith,/Lotus/StoreItems/Weapons/Tenno/Shotgun/ShotgunVandal
-Placeholder,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/CyLiDagger/CYLiDagger
 Hikou Prime,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/PrimeThrowingStar/PrimeHikou
 Castanas,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/StickyBomb/StickyBombs
 Kunai,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/Kunai
@@ -3565,6 +3571,7 @@ Nart-Deer Gene-Masking Kit,/Lotus/Types/StoreItems/Packages/KubrowColorPackReind
 Telmatian Gene-Masking Kit,/Lotus/Types/StoreItems/Packages/KubrowColorPackSpeckled
 Savenga Gene-Masking Kit,/Lotus/Types/StoreItems/Packages/KubrowColorPackStriped
 Kubrow Starter Kit,/Lotus/Types/StoreItems/Packages/KubrowStarterKit
+Gemini Nikana Sheath,/Lotus/Types/StoreItems/Packages/LightningSheathPack
 Pack De Loki,/Lotus/Types/StoreItems/Packages/LokiPack
 Pack De Cascos Masculinos,/Lotus/Types/StoreItems/Packages/MaleS2HelmetPack
 Sugatra Pack,/Lotus/Types/StoreItems/Packages/MeleeDanglePack
