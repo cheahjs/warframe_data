@@ -12,42 +12,42 @@ CorpusCaptureTargets,CaptureTargets/CaptureTargetCorpusEngineerAgentEasy,1,0,5
 ,CaptureTargets/CaptureTargetCorpusScoutAgent,1,0,7
 ,CaptureTargets/CaptureTargetCorpusShockAgent,1,0,7
 ,CaptureTargets/CaptureTargetCorpusHeavyAgent,1,0,7
-CorpusEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
-,Mine Osprey (Drones/AIWeek/MineDroneAgent),0.02,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
-CorpusExcavationA,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),1,3,1
-,Crewman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,1
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,2
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,3,3
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,4,3
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,2,3
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,4
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,4
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
-,Corpus Power Carrier (Spaceman/AIWeek/CarrierSpacemanAgent),1,4,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,0
-CorpusGrineerDesertMix,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,2,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
+CorpusEvent,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
+,/Lotus/Language/Game/Minedrone (Drones/AIWeek/MineDroneAgent),0.02,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
+,/Lotus/Language/Game/Laserdiscbiped (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
+CorpusExcavationA,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),1,3,1
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,1
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,2
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.050000001,3,3
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,4,3
+,/Lotus/Language/Game/Laserdiscbiped (BipedRobot/AIWeek/LaserDiscBipedAgent),1,2,3
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,4
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,2,4
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
+,/Lotus/Language/Game/Crpexcavationcarrier (Spaceman/AIWeek/CarrierSpacemanAgent),1,4,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,0
+CorpusGrineerDesertMix,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.15000001,2,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
@@ -66,15 +66,15 @@ CorpusGrineerDesertMix,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Desert/GrineerMarinePistol,0.050000001,0,0
 ,/Lotus/Types/NeutralCreatures/SandRayCreature,0.25,3,0
 ,AIWeek/GrineerFemale,0.1,4,0
-CorpusGrineerForestMix,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,2,0
+CorpusGrineerForestMix,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.15000001,2,0
 ,Forest/RifleLancer,1,0,0
 ,Forest/EliteRifleLancer,0.2,2,0
 ,Forest/BladeSawman,0.30000001,0,0
@@ -82,22 +82,22 @@ CorpusGrineerForestMix,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,Forest/MinigunBombard,0.050000001,2,0
 ,AIWeek/GrineerFemale,0.1,1,0
 ,Forest/JetpackMarine,0.25,1,0
-,Frontier Regulator (SpecialEvents/ForestDroneAgent),0.050000001,0,0
+,/Lotus/Language/Game/Grineerregulatorforest (SpecialEvents/ForestDroneAgent),0.050000001,0,0
 ,Forest/GrineerMarinePistol,0.050000001,0,0
 ,AIWeek/MacheteWoman,0.2,0,1
 ,Forest/EvisceratorLancer,0.1,1,1
 ,AIWeek/RocketBombard,0.1,1,2
 ,AIWeek/FlameLancer,0.1,1,2
 ,Forest/MinigunBombard,0.1,2,2
-CorpusGrineerMix,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,1,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,2,0
+CorpusGrineerMix,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,1,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.15000001,2,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
@@ -106,245 +106,266 @@ CorpusGrineerMix,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,AIWeek/MinigunBombard,0.1,0,0
 ,AIWeek/ShieldLancer,0.1,0,0
 ,GrineerMarineLeader,0.1,0,0
-CorpusHeavyEnemies,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,9
-,Crewman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,2,9
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.5,2,9
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),1,1,9
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),1,1,9
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),1,1,9
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.30000001,2,9
-CorpusInfestedMix,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
-,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.25,0,0
+CorpusHeavyEnemies,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,2,9
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,2,9
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.5,2,9
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),1,1,9
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),1,1,9
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),1,1,9
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.30000001,2,9
+CorpusInfestedMix,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
+,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.25,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,0
-CorpusInfestedMixB,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.25,0,0
-,Mine Osprey (Drones/AIWeek/MineDroneAgent),0.25,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
-,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,0
+CorpusInfestedMixB,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.25,0,0
+,/Lotus/Language/Game/Minedrone (Drones/AIWeek/MineDroneAgent),0.25,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.0099999998,0,0
+,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,0
-CorpusInfestedMixEvent,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
-,Mine Osprey (Drones/AIWeek/MineDroneAgent),0.025,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
-,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,0
+CorpusInfestedMixEvent,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.75,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.15000001,0,0
+,/Lotus/Language/Game/Minedrone (Drones/AIWeek/MineDroneAgent),0.025,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,0
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,0,0
+,/Lotus/Language/Game/Laserdiscbiped (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
+,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,0
-CorpusIntelTiersA,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.2,2,1
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,2,1
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,1
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.2,3,2
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.1,2,2
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,2
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.5,2,5
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.60000002,0,5
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,1
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,2
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,2
-CorpusIntelTiersB,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.2,2,1
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.2,3,1
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),0.2,3,1
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.1,2,1
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,1
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,2,1
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),0.30000001,3,2
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.15000001,2,2
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,2
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,2,2
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),1,0,5
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.2,3,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,5
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,5
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.30000001,2,5
-CorpusIntelTiersC,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.2,2,1
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.2,3,1
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.2,3,1
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,1
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,2,1
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.30000001,3,2
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.30000001,3,2
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,2
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.2,2,2
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,2
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.5,0,5
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),1,0,5
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,5
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.30000001,1,5
-CorpusIntelTiersD,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,2,1
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,1
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,2,1
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,2,1
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,1
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.1,3,2
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,3,2
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.2,3,2
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,2
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,2,2
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,5
-,Crewman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,5
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,5
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,2,5
-CorpusSquadA,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
-CorpusSquadB,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.1,0,0
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),0.1,0,0
-,Leech Osprey (Drones/AIWeek/LeechDroneAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,0
-CorpusSquadC,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.25,0,0
-,Mine Osprey (Drones/AIWeek/MineDroneAgent),0.25,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.2,2,0
-CorpusSquadD,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Crewman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.75,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.050000001,0,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,0
+CorpusIntelTiersA,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.2,2,1
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,2,1
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,1
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.2,3,2
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.1,2,2
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,2
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.5,2,5
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.60000002,0,5
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,1
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,2
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,2
+CorpusIntelTiersB,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.2,2,1
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.2,3,1
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),0.2,3,1
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.1,2,1
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,1
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,2,1
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),0.30000001,3,2
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.15000001,2,2
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,2
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,2,2
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),1,0,5
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.2,3,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,5
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,5
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.30000001,2,5
+CorpusIntelTiersC,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.2,2,1
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.2,3,1
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.2,3,1
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,1
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,2,1
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.30000001,3,2
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.30000001,3,2
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,2
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.2,2,2
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,2
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.5,0,5
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),1,0,5
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,5
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.30000001,1,5
+CorpusIntelTiersD,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,2,1
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,2,1
+,/Lotus/Language/Game/Laserdiscbiped (BipedRobot/AIWeek/LaserDiscBipedAgent),0.1,2,1
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,2,1
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,1
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.1,3,2
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,3,2
+,/Lotus/Language/Game/Laserdiscbiped (BipedRobot/AIWeek/LaserDiscBipedAgent),0.2,3,2
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,2
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,2,2
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,5
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,5
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,5
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.2,2,5
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,2,5
+CorpusSquadA,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
+CorpusSquadB,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.1,0,0
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),0.1,0,0
+,/Lotus/Language/Game/Leechdrone (Drones/AIWeek/LeechDroneAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,0
+CorpusSquadC,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,2,0
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.1,1,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.25,0,0
+,/Lotus/Language/Game/Minedrone (Drones/AIWeek/MineDroneAgent),0.25,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.1,0,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.2,2,0
+CorpusSquadD,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.75,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,2,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,2,0
+,/Lotus/Language/Game/Laserdiscbiped (BipedRobot/AIWeek/LaserDiscBipedAgent),0.050000001,0,0
 ,Drones/AIWeek/VacuumDroneAgent,0.02,0,0
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.25,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,2,0
-CorpusSquadDefenseA,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,0,1
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,1
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,1
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,1
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),0.2,0,2
-,Mine Osprey (Drones/AIWeek/MineDroneAgent),0.15000001,0,2
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,2
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,0,2
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,2
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,0,1
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.02,0,2
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.25,3,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.15000001,2,0
+CorpusSquadDefenseA,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,0,1
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,1
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,1
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,1
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),0.2,0,2
+,/Lotus/Language/Game/Minedrone (Drones/AIWeek/MineDroneAgent),0.15000001,0,2
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,2
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,0,2
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,2
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,0,1
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.02,0,2
 ,Drones/AIWeek/VacuumDroneAgent,0.0099999998,0,2
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,1,2
-CorpusSquadDefenseB,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Crewman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,0,1
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,1
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,1
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,1
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.025,0,1
-,Elite Crewman (Spaceman/EliteSpacemanAgent),0.2,0,2
-,Mine Osprey (Drones/AIWeek/MineDroneAgent),0.15000001,0,2
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,2
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,0,2
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,2
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,0,1
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),0.02,0,2
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,1,2
+CorpusSquadDefenseB,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,0,1
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,1
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,1
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,1
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.025,0,1
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),0.2,0,2
+,/Lotus/Language/Game/Minedrone (Drones/AIWeek/MineDroneAgent),0.15000001,0,2
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,2
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,0,2
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,2
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,0,1
+,/Lotus/Language/Game/Laserdiscbiped (BipedRobot/AIWeek/LaserDiscBipedAgent),0.02,0,2
 ,Drones/AIWeek/VacuumDroneAgent,0.0099999998,0,2
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.025,0,2
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,2
-CorpusSquadE,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Crewman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.75,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
-CorpusSurvivalA,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),1,3,1
-,Crewman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,1
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,2
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,3,3
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,4,3
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.15000001,2,3
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,3
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,4
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,4
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,3,5
-CorpusSurvivalB,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,1
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,1
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),1,3,1
-,Crewman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,1
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,2
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,2
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,3,3
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,4,3
-,Anti Moa (BipedRobot/AIWeek/LaserDiscBipedAgent),1,2,3
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,3
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,3
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,4
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,2,4
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,3,5
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.025,0,2
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,2
+CorpusSquadDefenseBDragonQuest,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,0,1
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,1
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,1
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,1
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.025,0,1
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),0.2,0,2
+,/Lotus/Language/Game/Minedrone (Drones/AIWeek/MineDroneAgent),0.15000001,0,2
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.25,0,2
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,0,2
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,2
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,0,1
+,/Lotus/Language/Game/Laserdiscbiped (BipedRobot/AIWeek/LaserDiscBipedAgent),0.02,0,2
+,Drones/AIWeek/VacuumDroneAgent,0.0099999998,0,2
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.025,0,2
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,2
+,/Lotus/Language/Items/Chromaname (TennoReplicants/TennoReplicantChromaAgent),1,1,9
+CorpusSquadE,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.75,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
+CorpusSurvivalA,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),1,3,1
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,1
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,2
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.1,3,3
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,4,3
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.15000001,2,3
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,3
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,4
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,2,4
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,3,5
+CorpusSurvivalB,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,6,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.60000002,0,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.050000001,0,1
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,1
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),1,3,1
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.5,0,1
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,2
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.050000001,1,2
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),1,3,2
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.050000001,3,3
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,4,3
+,/Lotus/Language/Game/Laserdiscbiped (BipedRobot/AIWeek/LaserDiscBipedAgent),1,2,3
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,3
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,3
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),1,3,4
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,2,4
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),1,3,5
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),1,3,5
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.2,3,5
 DesertGrineerDefenseA,Desert/RifleLancer,1,0,0
 ,Desert/EliteRifleLancer,1,0,0
 ,Desert/BladeSawmanNoCoverSurvival,0.5,5,0
@@ -365,22 +386,22 @@ DesertGrineerSquadOne,Desert/RifleLancer,1,0,0
 ,Desert/ShotgunLancer,0.25,0,0
 ,Desert/MinigunBombard,0.050000001,2,0
 ,Desert/EvisceratorLancer,0.1,2,0
-,Desert/JetpackMarine,0.25,5,0
-,Regulator (SpecialEvents/SurveillanceDroneAgent),0.050000001,0,0
+,Desert/JetpackMarine,0.25,2,0
+,/Lotus/Language/Game/Grineerregulatorname (SpecialEvents/SurveillanceDroneAgent),0.050000001,0,0
 ,Desert/GrineerMarinePistol,0.050000001,0,0
 ,/Lotus/Types/NeutralCreatures/SandRayCreature,0.25,3,0
-,AIWeek/GrineerFemale,0.1,4,0
+,AIWeek/GrineerFemale,0.1,2,0
 ,AIWeek/BeastMaster,0.15000001,2,0
-EventCorpusSquadA,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
+EventCorpusSquadA,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.2,0,0
 EventGrineerSquadOne,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/MacheteWoman,0.2,0,0
@@ -392,19 +413,19 @@ EventGrineerSquadOne,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EviseratorLancer,0.1,0,0
 ,AIWeek/JetpackMarine,0.050000001,0,0
 ,AIWeek/GrineerMeleeStaffAgent,1,3,0
-FomorianAttackSpec,Hellion Dargyn (SpaceBattles/Skiffs/MissileSkiff),1,0,0
-,Dargyn (SpaceBattles/Skiffs/GrineerSpaceMarine),1,0,0
-,Lancer Dreg (SpaceBattles/Drones/LaserDrone),0.60000002,0,0
-,Shield Dargyn (SpaceBattles/Skiffs/ShieldSkiff),0.5,0,0
-,Shield Dargyn (SpaceBattles/Skiffs/ShieldSkiff),0.25,0,1
-,Dargyn (SpaceBattles/Skiffs/GrineerSpaceMarine),0.75,0,1
-,Hellion Dargyn (SpaceBattles/Skiffs/MissileSkiff),0.25,0,1
-,Ogma Elite (SpaceBattles/Pods/HekCombatPod),0.25,0,1
-,Shield Dargyn (SpaceBattles/Skiffs/ShieldSkiff),0.25,0,2
-,Dargyn (SpaceBattles/Skiffs/GrineerSpaceMarine),0.2,0,2
-,Temporal Dreg (SpaceBattles/Drones/StasisDrone),0.2,3,2
-,Shield-Hellion Dargyn (SpaceBattles/Skiffs/MissileShieldSkiff),0.2,0,2
-,Ogma Elite (SpaceBattles/Pods/HekCombatPod),0.75,0,2
+FomorianAttackSpec,/Lotus/Language/Game/Grineermissileskiffname (SpaceBattles/Skiffs/MissileSkiff),1,0,0
+,/Lotus/Language/Game/Grineerskiffname (SpaceBattles/Skiffs/GrineerSpaceMarine),1,0,0
+,/Lotus/Language/Game/Grineerlaserdronename (SpaceBattles/Drones/LaserDrone),0.60000002,0,0
+,/Lotus/Language/Game/Grineershieldskiffname (SpaceBattles/Skiffs/ShieldSkiff),0.5,0,0
+,/Lotus/Language/Game/Grineershieldskiffname (SpaceBattles/Skiffs/ShieldSkiff),0.25,0,1
+,/Lotus/Language/Game/Grineerskiffname (SpaceBattles/Skiffs/GrineerSpaceMarine),0.75,0,1
+,/Lotus/Language/Game/Grineermissileskiffname (SpaceBattles/Skiffs/MissileSkiff),0.25,0,1
+,/Lotus/Language/Game/Hekcombatpodname (SpaceBattles/Pods/HekCombatPod),0.25,0,1
+,/Lotus/Language/Game/Grineershieldskiffname (SpaceBattles/Skiffs/ShieldSkiff),0.25,0,2
+,/Lotus/Language/Game/Grineerskiffname (SpaceBattles/Skiffs/GrineerSpaceMarine),0.2,0,2
+,/Lotus/Language/Game/Grineerstasisdronename (SpaceBattles/Drones/StasisDrone),0.2,3,2
+,/Lotus/Language/Game/Grineermissileshieldskiffname (SpaceBattles/Skiffs/MissileShieldSkiff),0.2,0,2
+,/Lotus/Language/Game/Hekcombatpodname (SpaceBattles/Pods/HekCombatPod),0.75,0,2
 ForestBossGrineerSquadOne,Forest/RifleLancer,1,0,0
 ,Forest/BladeSawman,0.25,0,0
 ,Forest/ShotgunLancer,0.2,3,0
@@ -442,7 +463,7 @@ ForestGrineerSquadOne,Forest/RifleLancer,1,0,0
 ,Forest/MinigunBombard,0.050000001,1,0
 ,AIWeek/GrineerFemale,0.1,1,0
 ,Forest/JetpackMarine,0.25,1,0
-,Frontier Regulator (SpecialEvents/ForestDroneAgent),0.050000001,0,0
+,/Lotus/Language/Game/Grineerregulatorforest (SpecialEvents/ForestDroneAgent),0.050000001,0,0
 ,Forest/GrineerMarinePistol,0.050000001,3,0
 ,Forest/EliteRifleLancer,0.25,3,1
 ,AIWeek/MacheteWoman,0.2,2,1
@@ -455,14 +476,14 @@ ForestGrineerSurvivalA,Forest/RifleLancer,1,0,0
 ,Forest/JetpackMarine,0.25,1,1
 ,Forest/ShotgunLancer,0.25,1,1
 ,Forest/GrineerMarinePistol,0.25,1,2
-,Frontier Regulator (SpecialEvents/ForestDroneAgent),1,2,2
-,AIWeek/GrineerFemale,1,2,3
+,/Lotus/Language/Game/Grineerregulatorforest (SpecialEvents/ForestDroneAgent),1,2,2
+,AIWeek/GrineerFemale,0.1,2,3
 ,Forest/EliteRifleLancer,0.5,3,3
 ,AIWeek/FlameLancer,0.2,1,4
 ,Forest/MinigunBombard,0.1,2,4
 ,Forest/JetpackMarine,0.25,2,5
 ,AIWeek/RocketBombard,0.5,1,5
-,AIWeek/BeastMaster,0.2,2,2
+,AIWeek/BeastMaster,0.1,1,2
 ForestGrineerTerritoriesOne,Forest/RifleLancer,1,0,0
 ,Forest/BladeSawman,0.30000001,0,0
 ,Forest/ShotgunLancer,0.25,0,0
@@ -486,7 +507,7 @@ ForestKubrowTestSquad,Forest/RifleLancer,1,0,0
 ,Forest/EliteRifleLancer,0.25,3,1
 ,Forest/EvisceratorLancer,0.1,1,1
 ,AIWeek/FlameLancer,0.1,1,2
-,Kubrow (/Lotus/Types/NeutralCreatures/Kubrow/KubrowAgent),1,0,0
+,/Lotus/Language/Game/Kubrowname (/Lotus/Types/NeutralCreatures/Kubrow/KubrowAgent),1,0,0
 GrineerCaptureTargets,CaptureTargets/CaptureTargetGrineerShotgunAgent,1,0,5
 ,CaptureTargets/CaptureTargetGrineerRifleAgent,1,0,5
 ,CaptureTargets/CaptureTargetGrineerPistolAgent,1,0,5
@@ -541,29 +562,29 @@ GrineerInfestedMix,AIWeek/RifleLancer,1,0,0
 ,AIWeek/ShotgunLancer,0.25,0,0
 ,AIWeek/MinigunBombard,0.050000001,2,0
 ,AIWeek/ShieldLancer,0.1,2,0
-,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.25,0,0
+,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.25,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 ,AIWeek/GrineerRollingDrone,0.1,0,0
 ,AIWeek/GrineerFemale,0.1,0,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,0
 GrineerInfestedMixB,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/PistonSawman,0.30000001,0,0
 ,AIWeek/RocketBombard,0.050000001,2,0
 ,AIWeek/BladeSawman,0.1,2,0
-,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.25,0,0
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.25,0,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
 GrineerInfestedMixDesert,Desert/RifleLancer,1,0,0
 ,Desert/EliteRifleLancer,1,0,0
 ,Desert/BladeSawman,0.30000001,0,0
@@ -574,14 +595,14 @@ GrineerInfestedMixDesert,Desert/RifleLancer,1,0,0
 ,Desert/GrineerMarinePistol,0.050000001,0,0
 ,/Lotus/Types/NeutralCreatures/SandRayCreature,0.25,3,0
 ,AIWeek/GrineerFemale,0.1,4,0
-,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.5,0,0
 ,AiWeek/Ancients/MeleeAncient,0.2,0,0
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
-,Boiler (AiWeek/Ancients/SpawningAncient),0,0,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0,0,0
 GrineerInfestedMixForest,Forest/RifleLancer,1,0,0
 ,Forest/EliteRifleLancer,0.2,2,0
 ,Forest/BladeSawman,0.30000001,0,0
@@ -596,15 +617,15 @@ GrineerInfestedMixForest,Forest/RifleLancer,1,0,0
 ,AIWeek/RocketBombard,0.1,1,2
 ,AIWeek/FlameLancer,0.1,1,2
 ,Forest/MinigunBombard,0.1,2,2
-,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.5,0,0
 ,AiWeek/Ancients/MeleeAncient,0.2,0,0
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
 GrineerIntelTiersDesert,Desert/ShotgunLancer,0.25,0,1
 ,Desert/MinigunBombard,0.15000001,2,1
 ,Desert/GrineerMarinePistol,0.2,0,1
@@ -695,6 +716,13 @@ GrineerIntelTiersSquadTwo,AIWeek/ShotgunLancer,0.30000001,0,1
 ,AIWeek/GrineerFemale,1,0,5
 ,AIWeek/ShotgunLancer,1,0,5
 ,AIWeek/CameraDroneAgent,1,0,6
+GrineerRaidHijackPuzzle,AIWeek/ShieldLancer,0.2,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/MacheteWoman,0.2,0,0
+,AIWeek/ShotgunLancer,0.25,0,0
+,AIWeek/IncendiaryBombard,0.1,2,0
+,AIWeek/PistonSawman,0.30000001,0,0
+,AIWeek/ManicGrineer,1,4,1
 GrineerSettlementExcavationA,Desert/RifleLancer,1,0,0
 ,Desert/BladeSawmanNoCoverSurvival,0.40000001,0,0
 ,Desert/JetpackMarine,0.5,3,1
@@ -710,17 +738,17 @@ GrineerSettlementExcavationA,Desert/RifleLancer,1,0,0
 ,AIWeek/CarrierJetpack,1,4,0
 GrineerSettlementSurvivalA,Desert/RifleLancer,1,0,0
 ,Desert/BladeSawmanNoCoverSurvival,0.40000001,0,0
-,Desert/JetpackMarine,0.5,3,1
-,Regulator (SpecialEvents/SurveillanceDroneAgent),1,2,1
-,AIWeek/GrineerFemale,0.5,4,2
+,Desert/JetpackMarine,0.5,2,1
+,/Lotus/Language/Game/Grineerregulatorname (SpecialEvents/SurveillanceDroneAgent),1,2,1
+,AIWeek/GrineerFemale,0.1,2,2
 ,AIWeek/ShieldLancer,0.40000001,5,2
 ,AIWeek/ShotgunLancer,0.5,3,3
 ,Desert/EliteRifleLancer,0.60000002,0,3
-,Desert/MinigunBombard,0.60000002,3,4
-,AIWeek/IncendiaryBombard,0.40000001,2,4
-,AIWeek/RocketBombard,0.30000001,3,5
-,Desert/EvisceratorLancer,0.2,2,5
-,AIWeek/BeastMaster,0.2,2,2
+,Desert/MinigunBombard,0.30000001,2,4
+,AIWeek/IncendiaryBombard,0.2,2,4
+,AIWeek/RocketBombard,0.1,2,5
+,Desert/EvisceratorLancer,0.1,1,5
+,AIWeek/BeastMaster,0.1,1,2
 GrineerSquadFive,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/MacheteWoman,0.2,0,0
@@ -786,27 +814,26 @@ GrineerSquadTwo,AIWeek/RifleLancer,1,0,0
 ,AIWeek/GrineerFemale,0.1,0,0
 ,AIWeek/FlameLancer,0.2,0,0
 ,AIWeek/BeastMaster,0.1,2,0
-GrineerSurvivalA,AIWeek/RifleLancer,1,10,0
+GrineerSurvivalA,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawmanNoCoverSurvival,0.40000001,0,0
 ,AIWeek/ShotgunLancer,0.5,3,1
-,AIWeek/GrineerFemale,0.5,3,2
-,AIWeek/ShieldLancer,0.40000001,4,2
+,AIWeek/GrineerFemale,0.1,2,2
+,AIWeek/ShieldLancer,0.30000001,3,2
 ,GrineerMarinePistol,0.2,2,3
-,AIWeek/MinigunBombard,0.60000002,3,4
-,AIWeek/IncendiaryBombard,0.30000001,3,4
-,AIWeek/RocketBombard,0.2,2,5
+,AIWeek/MinigunBombard,0.30000001,2,4
+,AIWeek/IncendiaryBombard,0.1,2,4
+,AIWeek/RocketBombard,0.1,2,5
 ,AIWeek/GrineerRollingDrone,0.050000001,2,5
-,AIWeek/BeastMaster,0.1,2,1
-,AIWeek/BeastMaster,0.1,2,2
+,AIWeek/BeastMaster,0.1,1,2
 GrineerSurvivalMercury,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawmanNoCoverSurvival,0.40000001,0,0
 ,AIWeek/MacheteWomanNoCover,0.40000001,2,1
 ,AIWeek/ShieldLancer,0.5,2,2
 ,AIWeek/ShotgunLancer,0.40000001,2,3
-,AIWeek/MinigunBombard,0.1,2,4
-,AIWeek/RocketBombard,0.2,2,5
+,AIWeek/MinigunBombard,0.1,1,4
+,AIWeek/RocketBombard,0.050000001,1,5
 GrineerTutorialSquadFour,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
@@ -830,110 +857,118 @@ GrineerTutorialSquadTwo,TutorialMarine,0.5,2,0
 ,AIWeek/BladeSawman,0.30000001,5,0
 ,Forest/ShotgunLancerTutorial,0.40000001,2,0
 ,AIWeek/GrineerFemaleTutorial,0.2,2,0
-InfestedCorpusMixSquadA,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.5,0,0
+HekRaidBossGrineerSquad,Desert/EliteRifleLancer,1,0,0
+,AIWeek/MacheteWomanNoCover,0.30000001,0,0
+,Desert/MinigunBombard,0.050000001,2,0
+,Desert/EvisceratorLancer,0.1,2,0
+,Desert/JetpackMarine,0.25,2,0
+,AIWeek/GrineerFemale,0.1,2,0
+,AIWeek/BeastMaster,0.15000001,2,0
+,AIWeek/ManicGrineer,0.15000001,2,0
+InfestedCorpusMixSquadA,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.5,0,0
 ,AiWeek/Ancients/MeleeAncient,0.2,0,0
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),1,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-InfestedDefenseA,Charger (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.2,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+InfestedDefenseA,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.2,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
 ,AiWeek/Crawlers/LightningCrawler,0.1,0,2
 ,AiWeek/Crawlers/GrenadeCrawler,0.025,0,1
 ,AiWeek/Crawlers/GrenadeCrawler,0.1,0,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
 ,AiWeek/Ancients/MeleeAncient,0.1,0,1
 ,AiWeek/Ancients/MeleeAncient,0.25,0,2
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,1
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,1
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/RocketBombard,0.25,0,0
 ,AIWeek/FlameLancer,0.25,0,0
 ,AIWeek/BladeSawman,0.25,0,0
-InfestedDefenseB,Charger (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.2,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+InfestedDefenseB,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.2,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
 ,AiWeek/Crawlers/LightningCrawler,0.1,0,2
 ,AiWeek/Crawlers/GrenadeCrawler,0.025,0,1
 ,AiWeek/Crawlers/GrenadeCrawler,0.1,0,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,1,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,1,2
 ,AiWeek/Ancients/MeleeAncient,0.1,0,1
 ,AiWeek/Ancients/MeleeAncient,0.25,0,2
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,1
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,1
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/RocketBombard,0.25,0,0
 ,AIWeek/FlameLancer,0.25,0,0
 ,AIWeek/BladeSawman,0.25,0,0
-InfestedDefenseCorpusA,Charger (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.2,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,1,1
+InfestedDefenseCorpusA,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.2,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,1,1
 ,AiWeek/Ancients/MeleeAncient,0.1,1,1
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.2,2,2
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.2,2,2
 ,AiWeek/Ancients/MeleeAncient,0.25,2,2
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
 ,AiWeek/Crawlers/GrenadeCrawler,0.0099999998,0,2
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),1,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.15000001,2,1
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.15000001,2,2
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,2
-InfestedDefenseDerelict,Charger (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.2,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,2
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.15000001,2,1
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.15000001,2,2
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,2
+InfestedDefenseDerelict,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.2,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,2
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.050000001,0,1
 ,AiWeek/Crawlers/LightningCrawler,0.1,0,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,2,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,2
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,2,1
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,2
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,1
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.050000001,2,2
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.050000001,2,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,2,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,2
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,2,1
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,2
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,1
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.050000001,2,2
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.050000001,2,2
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,1
 ,AiWeek/Ancients/MeleeAncient,0.1,0,2
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.050000001,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,1
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,2
-InfestedDefenseGrineerA,Charger (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.2,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,1,1
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.050000001,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,1
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,2
+InfestedDefenseGrineerA,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.2,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,1,1
 ,AiWeek/Ancients/MeleeAncient,0.1,1,1
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.2,2,2
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.2,2,2
 ,AiWeek/Ancients/MeleeAncient,0.25,2,2
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,1
@@ -943,73 +978,73 @@ InfestedDefenseGrineerA,Charger (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,AIWeek/RocketBombard,0.25,0,0
 ,AIWeek/FlameLancer,0.25,0,0
 ,AIWeek/BladeSawman,0.25,0,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,2
-InfestedGrineerMixSquadA,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,2
+InfestedGrineerMixSquadA,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.5,0,0
 ,AiWeek/Ancients/MeleeAncient,0.2,0,0
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/RocketBombard,0.050000001,0,0
 ,AIWeek/IncendiaryBombard,0.050000001,0,0
 ,AIWeek/FlameLancer,0.25,0,0
 ,AIWeek/BladeSawman,0.5,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,0
-InfestedHiveSquadA,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.5,0,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,0
+InfestedHiveSquadA,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.5,0,1
 ,AiWeek/Crawlers/MeleeCrawler,0.25,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,4,2
-InfestedHiveSquadB,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.5,0,1
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,4,2
+InfestedHiveSquadB,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.5,0,1
 ,AiWeek/Crawlers/MeleeCrawler,0.25,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,1
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,1
 ,AiWeek/Ancients/MeleeAncient,0.2,2,1
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,2,2
-InfestedHiveSquadC,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.5,0,1
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,2,2
+InfestedHiveSquadC,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.5,0,1
 ,AiWeek/Crawlers/MeleeCrawler,0.25,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,2
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,2
 ,AiWeek/Ancients/MeleeAncient,0.2,4,1
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,4,2
-InfestedIntelSquadB,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.30000001,2,1
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,1
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.2,2,1
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.2,2,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),1,0,5
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),1,0,5
-,Ancient Healer (AiWeek/Ancients/HealingAncient),1,0,5
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,4,2
+InfestedIntelSquadB,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.25,0,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.30000001,2,1
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,1
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.2,2,1
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.2,2,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),1,0,5
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),1,0,5
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),1,0,5
 ,AiWeek/Runners/MeleeRunner,1,0,5
-InfestedSquadA,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.1,0,0
+InfestedSquadA,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.1,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,0
 ,AiWeek/Crawlers/GrenadeCrawler,0.2,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,2,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,2,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
 ,AiWeek/Ancients/MeleeAncient,0.1,1,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
@@ -1017,19 +1052,19 @@ InfestedSquadA,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,AIWeek/IncendiaryBombard,0.050000001,0,0
 ,AIWeek/FlameLancer,0.25,0,0
 ,AIWeek/BladeSawman,0.5,0,0
-InfestedSquadB,Charger (AiWeek/Quadrupeds/Quadruped),0.75,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.5,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.30000001,0,0
+InfestedSquadB,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.75,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.30000001,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.2,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,0
 ,AiWeek/Crawlers/GrenadeCrawler,0.2,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
@@ -1038,17 +1073,17 @@ InfestedSquadB,Charger (AiWeek/Quadrupeds/Quadruped),0.75,0,0
 ,AIWeek/MinigunBombard,0.050000001,2,0
 ,AIWeek/ShieldLancer,0.1,2,0
 ,AIWeek/GrineerFemale,0.1,0,0
-InfestedSquadC,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.5,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+InfestedSquadC,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.5,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,0
-,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedgraspingcrawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
@@ -1057,18 +1092,18 @@ InfestedSquadC,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
 ,AIWeek/MinigunBombard,0.050000001,2,0
 ,AIWeek/ShieldLancer,0.1,2,0
 ,AIWeek/GrineerFemale,0.1,0,0
-InfestedSquadD,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.5,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+InfestedSquadD,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.5,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,0
-,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
-,Boiler (AiWeek/Ancients/SpawningAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedgraspingcrawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.15000001,2,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
@@ -1077,55 +1112,55 @@ InfestedSquadD,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
 ,AIWeek/MinigunBombard,0.050000001,2,0
 ,AIWeek/ShieldLancer,0.1,2,0
 ,AIWeek/GrineerFemale,0.1,0,0
-InfestedSurvivalA,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.15000001,0,2
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.25,0,1
+InfestedSurvivalA,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.15000001,0,2
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.25,0,1
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.2,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,2
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,2
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,3
 ,AiWeek/Crawlers/GrenadeCrawler,0.2,0,4
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,3
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.15000001,1,3
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,2
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,3
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.15000001,1,3
 ,AiWeek/Ancients/MeleeAncient,1,2,4
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),1,2,5
-,Ancient Healer (AiWeek/Ancients/HealingAncient),1,2,4
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),0.5,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.5,1,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,1,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,1,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,1,0
-InfestedSurvivalACorpus,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),0.5,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.5,1,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,1,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,1,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,1,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,1,0
-,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),1,2,5
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),1,2,4
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),0.5,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.5,1,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,1,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,1,0
+InfestedSurvivalACorpus,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),0.5,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.5,1,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,1,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,1,0
+,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.2,6,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.25,8,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,3
-,Leaper (AiWeek/Runners/LeapingRunner),0.25,0,2
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.2,4,2
-,Ancient Healer (AiWeek/Ancients/HealingAncient),1,2,3
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.25,8,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,3
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.25,0,2
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.2,4,2
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),1,2,3
 ,AiWeek/Crawlers/LightningCrawler,0.2,4,3
 ,AiWeek/Ancients/MeleeAncient,1,2,4
 ,AiWeek/Crawlers/GrenadeCrawler,0.2,4,4
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),1,2,5
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,2,2
-,Boiler (AiWeek/Ancients/SpawningAncient),0.15000001,2,3
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),1,2,5
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,2
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.15000001,2,3
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
 InfestedSurvivalAGrineer,AIWeek/RifleLancer,1,3,0
 ,AIWeek/EliteRifleLancer,1,1,0
 ,AIWeek/RocketBombard,0.1,1,0
@@ -1133,109 +1168,109 @@ InfestedSurvivalAGrineer,AIWeek/RifleLancer,1,3,0
 ,AIWeek/BladeSawman,1,2,0
 ,AIWeek/MinigunBombard,0.1,1,0
 ,AIWeek/ShotgunLancer,0.1,1,0
-,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.2,6,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.25,8,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,3
-,Leaper (AiWeek/Runners/LeapingRunner),0.25,0,2
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.2,4,2
-,Ancient Healer (AiWeek/Ancients/HealingAncient),1,2,3
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.25,8,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,3
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.25,0,2
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.2,4,2
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),1,2,3
 ,AiWeek/Crawlers/LightningCrawler,0.2,4,3
 ,AiWeek/Ancients/MeleeAncient,1,2,4
 ,AiWeek/Crawlers/GrenadeCrawler,0.2,4,4
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),1,2,5
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,2
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,2,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.15000001,2,3
-InfestedSurvivalB,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.15000001,0,2
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.25,0,1
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),1,2,5
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,2
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.15000001,2,3
+InfestedSurvivalB,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.15000001,0,2
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.25,0,1
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.2,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,2
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,2
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,3
 ,AiWeek/Crawlers/GrenadeCrawler,0.2,0,4
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,3
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.15000001,1,3
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,2
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.15000001,1,3
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,2
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,3
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.15000001,1,3
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,2
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.15000001,1,3
 ,AiWeek/Ancients/MeleeAncient,1,2,4
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),1,2,5
-,Ancient Healer (AiWeek/Ancients/HealingAncient),1,2,4
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),0.5,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.5,1,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,1,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,1,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,1,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),1,2,5
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),1,2,4
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),0.5,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.5,1,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,1,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,1,0
 MasteryGauntletSpec,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
 ,AIWeek/ShotgunLancer,0.25,0,0
 ,AIWeek/MinigunBombard,0.050000001,2,0
 ,AIWeek/ShieldLancer,0.1,2,0
-,Charger (AiWeek/Quadrupeds/Quadruped),1,0,1
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,1
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.5,0,1
+,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,1
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,1
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.5,0,1
 ,AiWeek/Ancients/MeleeAncient,0.2,0,1
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,0,1
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,0,1
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,1
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,1
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,2
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,2
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,2
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,2
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,2
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,2
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,2
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,2
-OrokinDefenseSquad,Corrupted Lancer (RifleLancer),0.75,0,0
-,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
-,Corrupted Ancient (OrokinHealingAncient),0.5,0,2
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,1
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,2
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,2
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,0,2
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,2
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,2
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,2
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,2
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,2
+OrokinDefenseSquad,/Lotus/Language/Game/Corruptedlancer (RifleLancer),0.75,0,0
+,/Lotus/Language/Game/Corruptedcrewman (RifleSpacemanAgent),0.75,0,0
+,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.5,0,2
 ,OrokinMinigunBombard,0.25,0,2
-,Orokin Drone (OrokinShieldDroneAgent),0.25,0,1
-,Corrupted Moa (OrokinMoaBipedAgent),0.5,0,1
-,Corrupted Butcher (OrokinBladeSawman),0.5,0,0
-OrokinDefenseSquadB,Corrupted Lancer (RifleLancer),0.75,0,0
-,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
-,Corrupted Ancient (OrokinHealingAncient),0.1,2,1
-,Corrupted Ancient (OrokinHealingAncient),0.40000001,0,2
+,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.25,0,1
+,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),0.5,0,1
+,/Lotus/Language/Game/Orokinbladesawman (OrokinBladeSawman),0.5,0,0
+OrokinDefenseSquadB,/Lotus/Language/Game/Corruptedlancer (RifleLancer),0.75,0,0
+,/Lotus/Language/Game/Corruptedcrewman (RifleSpacemanAgent),0.75,0,0
+,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.1,2,1
+,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.40000001,0,2
 ,OrokinMinigunBombard,0.1,1,1
 ,OrokinMinigunBombard,0.2,0,2
-,Orokin Drone (OrokinShieldDroneAgent),0.2,2,0
-,Orokin Drone (OrokinShieldDroneAgent),0.2,2,1
-,Corrupted Moa (OrokinMoaBipedAgent),0.050000001,1,0
-,Corrupted Moa (OrokinMoaBipedAgent),0.40000001,0,1
-,Corrupted Butcher (OrokinBladeSawman),0.5,0,0
-,Corrupted Bombard (OrokinRocketBombard),0.050000001,1,1
-,Corrupted Bombard (OrokinRocketBombard),0.1,1,2
-,Corrupted Bombard (OrokinRocketBombard),0.1,0,3
-,Corrupted Nullifier (OrokinNullifySpacemanAgent),0.1,2,2
-,Corrupted Nullifier (OrokinNullifySpacemanAgent),0.15000001,2,3
-OrokinSabotageCorpus,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,1
-,Elite Crewman (Spaceman/EliteSpacemanAgent),0.2,0,1
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,3,1
-,Crewman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,0,1
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,2,1
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,3,1
-,Leech Osprey (Drones/AIWeek/LeechDroneAgent),0.02,0,1
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),1,0,1
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.1,2,1
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,2,1
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,2,1
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,1
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,2
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),1,0,2
-,Crewman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,2,2
+,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.2,2,0
+,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.2,2,1
+,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),0.050000001,1,0
+,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),0.40000001,0,1
+,/Lotus/Language/Game/Orokinbladesawman (OrokinBladeSawman),0.5,0,0
+,/Lotus/Language/Game/Orokinbombardrocket (OrokinRocketBombard),0.050000001,1,1
+,/Lotus/Language/Game/Orokinbombardrocket (OrokinRocketBombard),0.1,1,2
+,/Lotus/Language/Game/Orokinbombardrocket (OrokinRocketBombard),0.1,0,3
+,/Lotus/Language/Game/Orokinnullifier (OrokinNullifySpacemanAgent),0.1,2,2
+,/Lotus/Language/Game/Orokinnullifier (OrokinNullifySpacemanAgent),0.15000001,2,3
+OrokinSabotageCorpus,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,1
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),0.2,0,1
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,3,1
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,0,1
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,2,1
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,3,1
+,/Lotus/Language/Game/Leechdrone (Drones/AIWeek/LeechDroneAgent),0.02,0,1
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),1,0,1
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.1,2,1
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.050000001,2,1
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),0.050000001,2,1
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,2,1
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,2
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),1,0,2
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/ShotgunSpacemanAgent),0.25,2,2
 OrokinSabotageGrineerForest,Forest/RifleLancer,1,0,1
 ,Forest/EliteRifleLancer,1,0,1
 ,Forest/BladeSawmanNoCover,0.5,3,1
@@ -1260,101 +1295,108 @@ OrokinSabotageGrineerSettlement,Desert/RifleLancer,1,0,1
 ,Desert/EliteRifleLancer,0.5,3,2
 ,Desert/BladeSawmanNoCoverSurvival,0.40000001,3,2
 ,Desert/ShotgunLancer,0.2,2,2
-OrokinSquadOne,Corrupted Lancer (RifleLancer),0.75,0,0
-,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
-,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
+OrokinSquadOne,/Lotus/Language/Game/Corruptedlancer (RifleLancer),0.75,0,0
+,/Lotus/Language/Game/Corruptedcrewman (RifleSpacemanAgent),0.75,0,0
+,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.1,0,0
 ,OrokinMinigunBombard,0.2,0,0
-,Orokin Drone (OrokinShieldDroneAgent),0.30000001,0,0
-,Corrupted Moa (OrokinMoaBipedAgent),0.1,0,0
-,Corrupted Butcher (OrokinBladeSawman),0.5,0,0
-OrokinSquadTwo,Corrupted Lancer (RifleLancer),0.75,0,0
-,Corrupted Crewman (RifleSpacemanAgent),0.75,0,0
-,Corrupted Ancient (OrokinHealingAncient),0.1,0,0
+,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.30000001,0,0
+,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),0.1,0,0
+,/Lotus/Language/Game/Orokinbladesawman (OrokinBladeSawman),0.5,0,0
+OrokinSquadTwo,/Lotus/Language/Game/Corruptedlancer (RifleLancer),0.75,0,0
+,/Lotus/Language/Game/Corruptedcrewman (RifleSpacemanAgent),0.75,0,0
+,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.1,0,0
 ,OrokinMinigunBombard,0.15000001,0,0
-,Orokin Drone (OrokinShieldDroneAgent),0.40000001,0,0
-,Corrupted Moa (OrokinMoaBipedAgent),0.15000001,0,0
-,Corrupted Butcher (OrokinBladeSawman),0.5,0,0
-,Corrupted Bombard (OrokinRocketBombard),0.15000001,0,0
-,Corrupted Nullifier (OrokinNullifySpacemanAgent),0.1,0,0
-OrokinSurvivalA,Corrupted Lancer (RifleLancer),1,0,0
-,Corrupted Crewman (RifleSpacemanAgent),0.5,0,0
-,Orokin Drone (OrokinShieldDroneAgent),1,2,1
+,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.40000001,0,0
+,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),0.15000001,0,0
+,/Lotus/Language/Game/Orokinbladesawman (OrokinBladeSawman),0.5,0,0
+,/Lotus/Language/Game/Orokinbombardrocket (OrokinRocketBombard),0.15000001,0,0
+,/Lotus/Language/Game/Orokinnullifier (OrokinNullifySpacemanAgent),0.1,0,0
+OrokinSurvivalA,/Lotus/Language/Game/Corruptedlancer (RifleLancer),1,0,0
+,/Lotus/Language/Game/Corruptedcrewman (RifleSpacemanAgent),0.5,0,0
+,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),1,2,1
 ,OrokinMinigunBombard,1,2,2
-,Corrupted Ancient (OrokinHealingAncient),1,2,3
-,Corrupted Moa (OrokinMoaBipedAgent),1,1,4
-,Corrupted Butcher (OrokinBladeSawman),0.5,0,0
-OrokinSurvivalB,Corrupted Lancer (RifleLancer),1,0,0
-,Corrupted Crewman (RifleSpacemanAgent),0.69999999,0,0
-,Orokin Drone (OrokinShieldDroneAgent),0.2,1,0
-,Orokin Drone (OrokinShieldDroneAgent),0.2,2,2
-,Orokin Drone (OrokinShieldDroneAgent),0.60000002,2,3
+,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),1,2,3
+,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),1,1,4
+,/Lotus/Language/Game/Orokinbladesawman (OrokinBladeSawman),0.5,0,0
+OrokinSurvivalB,/Lotus/Language/Game/Corruptedlancer (RifleLancer),1,0,0
+,/Lotus/Language/Game/Corruptedcrewman (RifleSpacemanAgent),0.69999999,0,0
+,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.2,1,0
+,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.2,2,2
+,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.60000002,2,3
 ,OrokinMinigunBombard,0.1,1,0
 ,OrokinMinigunBombard,0.1,1,1
 ,OrokinMinigunBombard,0.5,1,2
-,Corrupted Ancient (OrokinHealingAncient),0.1,1,2
-,Corrupted Ancient (OrokinHealingAncient),0.5,2,3
-,Corrupted Moa (OrokinMoaBipedAgent),0.1,1,2
-,Corrupted Moa (OrokinMoaBipedAgent),0.1,2,3
-,Corrupted Moa (OrokinMoaBipedAgent),0.80000001,2,4
-,Corrupted Butcher (OrokinBladeSawman),0.5,0,0
-,Corrupted Bombard (OrokinRocketBombard),0.050000001,1,1
-,Corrupted Bombard (OrokinRocketBombard),0.1,1,2
-,Corrupted Bombard (OrokinRocketBombard),0.1,1,4
-,Corrupted Nullifier (OrokinNullifySpacemanAgent),0.1,1,2
-,Corrupted Nullifier (OrokinNullifySpacemanAgent),0.1,2,3
-SpaceGrineerA,Dreg (SpaceBattles/Drones/GrineerSpaceDrone),1,0,0
-,Dargyn (SpaceBattles/Skiffs/GrineerSpaceMarine),1,0,0
-,Lancer Dreg (SpaceBattles/Drones/LaserDrone),0.60000002,0,0
-,Shield Dargyn (SpaceBattles/Skiffs/ShieldSkiff),0.5,0,0
-SpaceGrineerB,Dreg (SpaceBattles/Drones/GrineerSpaceDrone),1,0,0
-,Dargyn (SpaceBattles/Skiffs/GrineerSpaceMarine),1,0,0
-,Lancer Dreg (SpaceBattles/Drones/LaserDrone),0.60000002,0,0
-,Temporal Dreg (SpaceBattles/Drones/StasisDrone),0.2,4,0
-,Hellion Dargyn (SpaceBattles/Skiffs/MissileSkiff),0.40000001,0,0
-,Shield Dargyn (SpaceBattles/Skiffs/ShieldSkiff),0.5,0,0
-SpaceGrineerDefenseA,Dreg (SpaceBattles/Drones/GrineerSpaceDrone),1,0,0
-,Dargyn (SpaceBattles/Skiffs/GrineerSpaceMarine),1,0,0
-,Lancer Dreg (SpaceBattles/Drones/LaserDrone),0.60000002,0,0
-,Lancer Dreg (SpaceBattles/Drones/LaserDrone),0.40000001,0,1
-,Shield Dargyn (SpaceBattles/Skiffs/ShieldSkiff),0.5,0,0
-,Shield Dargyn (SpaceBattles/Skiffs/ShieldSkiff),0.25,0,1
-,Shield Dargyn (SpaceBattles/Skiffs/ShieldSkiff),0.25,0,2
-,Hellion Dargyn (SpaceBattles/Skiffs/MissileSkiff),0.30000001,0,1
-,Hellion Dargyn (SpaceBattles/Skiffs/MissileSkiff),0.2,0,2
-,Temporal Dreg (SpaceBattles/Drones/StasisDrone),0.2,3,2
-,Shield-Hellion Dargyn (SpaceBattles/Skiffs/MissileShieldSkiff),0.2,0,2
-SpaceGrineerDefenseC,Dreg (SpaceBattles/Drones/GrineerSpaceDrone),1,0,0
-,Dargyn (SpaceBattles/Skiffs/GrineerSpaceMarine),1,0,0
-,Lancer Dreg (SpaceBattles/Drones/LaserDrone),0.60000002,0,0
-,Lancer Dreg (SpaceBattles/Drones/LaserDrone),0.40000001,0,2
-,Temporal Dreg (SpaceBattles/Drones/StasisDrone),0.2,4,0
-,Temporal Dreg (SpaceBattles/Drones/StasisDrone),0.2,2,2
-,Shield-Hellion Dargyn (SpaceBattles/Skiffs/MissileShieldSkiff),0.30000001,0,0
-,Shield-Hellion Dargyn (SpaceBattles/Skiffs/MissileShieldSkiff),0.1,0,1
-,Shield-Hellion Dargyn (SpaceBattles/Skiffs/MissileShieldSkiff),0.2,0,2
-,Hellion Dargyn (SpaceBattles/Skiffs/MissileSkiff),0.60000002,0,0
-,Hellion Dargyn (SpaceBattles/Skiffs/MissileSkiff),0.2,0,2
-,Shield Dargyn (SpaceBattles/Skiffs/ShieldSkiff),0.5,0,0
-,Shield Dargyn (SpaceBattles/Skiffs/ShieldSkiff),0.25,0,1
-,Shield Dargyn (SpaceBattles/Skiffs/ShieldSkiff),0.25,0,2
-,Ogma (SpaceBattles/Pods/CombatPod),0.2,2,0
-,Ogma (SpaceBattles/Pods/CombatPod),0.2,1,1
-,Ogma (SpaceBattles/Pods/CombatPod),0.2,2,2
-SupCorpusInfestedMix,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,1,0
-,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.25,0,0
+,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.1,1,2
+,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.5,2,3
+,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),0.1,2,3
+,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),0.80000001,2,4
+,/Lotus/Language/Game/Orokinbladesawman (OrokinBladeSawman),0.5,0,0
+,/Lotus/Language/Game/Orokinbombardrocket (OrokinRocketBombard),0.050000001,1,1
+,/Lotus/Language/Game/Orokinbombardrocket (OrokinRocketBombard),0.1,1,2
+,/Lotus/Language/Game/Orokinbombardrocket (OrokinRocketBombard),0.1,1,4
+,/Lotus/Language/Game/Orokinnullifier (OrokinNullifySpacemanAgent),0.1,1,2
+,/Lotus/Language/Game/Orokinnullifier (OrokinNullifySpacemanAgent),0.1,2,3
+RaidBombingRunGrineerSquadOne,Forest/ShotgunLancer,0.2,3,0
+,Forest/JetpackMarine,0.25,2,0
+,Forest/EliteRifleLancer,1,0,0
+,AIWeek/MacheteWoman,0.25,2,0
+,Forest/EvisceratorLancer,0.1,1,0
+,Forest/MinigunBombard,0.1,2,0
+,AIWeek/ManicGrineer,0.050000001,2,0
+SpaceGrineerA,/Lotus/Language/Game/Grineerspacedronename (SpaceBattles/Drones/GrineerSpaceDrone),1,0,0
+,/Lotus/Language/Game/Grineerskiffname (SpaceBattles/Skiffs/GrineerSpaceMarine),1,0,0
+,/Lotus/Language/Game/Grineerlaserdronename (SpaceBattles/Drones/LaserDrone),0.60000002,0,0
+,/Lotus/Language/Game/Grineershieldskiffname (SpaceBattles/Skiffs/ShieldSkiff),0.5,0,0
+SpaceGrineerB,/Lotus/Language/Game/Grineerspacedronename (SpaceBattles/Drones/GrineerSpaceDrone),1,0,0
+,/Lotus/Language/Game/Grineerskiffname (SpaceBattles/Skiffs/GrineerSpaceMarine),1,0,0
+,/Lotus/Language/Game/Grineerlaserdronename (SpaceBattles/Drones/LaserDrone),0.60000002,0,0
+,/Lotus/Language/Game/Grineerstasisdronename (SpaceBattles/Drones/StasisDrone),0.2,4,0
+,/Lotus/Language/Game/Grineermissileskiffname (SpaceBattles/Skiffs/MissileSkiff),0.40000001,0,0
+,/Lotus/Language/Game/Grineershieldskiffname (SpaceBattles/Skiffs/ShieldSkiff),0.5,0,0
+SpaceGrineerDefenseA,/Lotus/Language/Game/Grineerspacedronename (SpaceBattles/Drones/GrineerSpaceDrone),1,0,0
+,/Lotus/Language/Game/Grineerskiffname (SpaceBattles/Skiffs/GrineerSpaceMarine),1,0,0
+,/Lotus/Language/Game/Grineerlaserdronename (SpaceBattles/Drones/LaserDrone),0.60000002,0,0
+,/Lotus/Language/Game/Grineerlaserdronename (SpaceBattles/Drones/LaserDrone),0.40000001,0,1
+,/Lotus/Language/Game/Grineershieldskiffname (SpaceBattles/Skiffs/ShieldSkiff),0.5,0,0
+,/Lotus/Language/Game/Grineershieldskiffname (SpaceBattles/Skiffs/ShieldSkiff),0.25,0,1
+,/Lotus/Language/Game/Grineershieldskiffname (SpaceBattles/Skiffs/ShieldSkiff),0.25,0,2
+,/Lotus/Language/Game/Grineermissileskiffname (SpaceBattles/Skiffs/MissileSkiff),0.30000001,0,1
+,/Lotus/Language/Game/Grineermissileskiffname (SpaceBattles/Skiffs/MissileSkiff),0.2,0,2
+,/Lotus/Language/Game/Grineerstasisdronename (SpaceBattles/Drones/StasisDrone),0.2,3,2
+,/Lotus/Language/Game/Grineermissileshieldskiffname (SpaceBattles/Skiffs/MissileShieldSkiff),0.2,0,2
+SpaceGrineerDefenseC,/Lotus/Language/Game/Grineerspacedronename (SpaceBattles/Drones/GrineerSpaceDrone),1,0,0
+,/Lotus/Language/Game/Grineerskiffname (SpaceBattles/Skiffs/GrineerSpaceMarine),1,0,0
+,/Lotus/Language/Game/Grineerlaserdronename (SpaceBattles/Drones/LaserDrone),0.60000002,0,0
+,/Lotus/Language/Game/Grineerlaserdronename (SpaceBattles/Drones/LaserDrone),0.40000001,0,2
+,/Lotus/Language/Game/Grineerstasisdronename (SpaceBattles/Drones/StasisDrone),0.2,4,0
+,/Lotus/Language/Game/Grineerstasisdronename (SpaceBattles/Drones/StasisDrone),0.2,2,2
+,/Lotus/Language/Game/Grineermissileshieldskiffname (SpaceBattles/Skiffs/MissileShieldSkiff),0.30000001,0,0
+,/Lotus/Language/Game/Grineermissileshieldskiffname (SpaceBattles/Skiffs/MissileShieldSkiff),0.1,0,1
+,/Lotus/Language/Game/Grineermissileshieldskiffname (SpaceBattles/Skiffs/MissileShieldSkiff),0.2,0,2
+,/Lotus/Language/Game/Grineermissileskiffname (SpaceBattles/Skiffs/MissileSkiff),0.60000002,0,0
+,/Lotus/Language/Game/Grineermissileskiffname (SpaceBattles/Skiffs/MissileSkiff),0.2,0,2
+,/Lotus/Language/Game/Grineershieldskiffname (SpaceBattles/Skiffs/ShieldSkiff),0.5,0,0
+,/Lotus/Language/Game/Grineershieldskiffname (SpaceBattles/Skiffs/ShieldSkiff),0.25,0,1
+,/Lotus/Language/Game/Grineershieldskiffname (SpaceBattles/Skiffs/ShieldSkiff),0.25,0,2
+,/Lotus/Language/Game/Grineercombatpodname (SpaceBattles/Pods/CombatPod),0.2,2,0
+,/Lotus/Language/Game/Grineercombatpodname (SpaceBattles/Pods/CombatPod),0.2,1,1
+,/Lotus/Language/Game/Grineercombatpodname (SpaceBattles/Pods/CombatPod),0.2,2,2
+SupCorpusInfestedMix,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.25,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
 ,AiWeek/Crawlers/GrenadeCrawler,0.1,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-TRDefenseA,Attack Drone (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+TRDefenseA,/Lotus/Language/Game/Attackdrone (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
 ,SpaceBattles/FlakShipNavAgent,0.60000002,0,0
 ,SpaceBattles/LaserShipNavAgent,1,0,0
 ,SpaceBattles/SwarmShipNavAgent,0.60000002,0,0
@@ -1362,18 +1404,18 @@ TRDefenseA,Attack Drone (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
 ,SpaceBattles/CrewMan/JetCorpusTwoNavAgent,0.5,0,0
 ,SpaceBattles/CrewMan/JetCorpusThreeNavAgent,0.5,0,0
 ,SpaceBattles/Ships/CorpusPodAgent,0.2,2,0
-,Cannon Battery (SpaceBattles/Turrets/CorpusSpaceTurretAgent),0.5,0,0
-TRExterminateA,Attack Drone (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
+,/Lotus/Language/Game/Corpusspaceturretname (SpaceBattles/Turrets/CorpusSpaceTurretAgent),0.5,0,0
+TRExterminateA,/Lotus/Language/Game/Attackdrone (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
 ,SpaceBattles/FlakShipNavAgent,0.60000002,0,0
 ,SpaceBattles/LaserShipNavAgent,0.80000001,0,0
 ,SpaceBattles/CrewMan/JetCorpusNavAgent,1,0,0
-TRExterminateB,Attack Drone (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
+TRExterminateB,/Lotus/Language/Game/Attackdrone (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
 ,SpaceBattles/FlakShipNavAgent,0.60000002,0,0
 ,SpaceBattles/LaserShipNavAgent,0.80000001,0,0
 ,SpaceBattles/SwarmShipNavAgent,0.5,0,0
 ,SpaceBattles/CrewMan/JetCorpusNavAgent,1,0,0
 ,SpaceBattles/CrewMan/JetCorpusTwoNavAgent,0.40000001,0,0
-TRExterminateC,Attack Drone (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
+TRExterminateC,/Lotus/Language/Game/Attackdrone (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
 ,SpaceBattles/FlakShipNavAgent,0.80000001,0,0
 ,SpaceBattles/LaserShipNavAgent,0.80000001,0,0
 ,SpaceBattles/SwarmShipNavAgent,0.75,0,0
@@ -1381,76 +1423,61 @@ TRExterminateC,Attack Drone (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
 ,SpaceBattles/CrewMan/JetCorpusTwoNavAgent,0.60000002,0,0
 ,SpaceBattles/CrewMan/JetCorpusThreeNavAgent,0.40000001,0,0
 ,SpaceBattles/Ships/CorpusPodAgent,0.2,2,0
-TestSectorGrineer,Corrupted Crewman (RifleSpacemanAgent),1,0,0
-,Corrupted Lancer (RifleLancer),1,0,0
-,Corrupted Moa (OrokinMoaBipedAgent),1,0,1
-,Corrupted Drone (OrokinDroneAttackAgent),1,0,2
+TestSectorGrineer,/Lotus/Language/Game/Corruptedcrewman (RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Corruptedlancer (RifleLancer),1,0,0
+,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),1,0,1
+,/Lotus/Language/Game/Corruptedname (OrokinDroneAttackAgent),1,0,2
 ,OrokinMinigunBombard,1,0,2
-GrineerShipyardsSurvivalA,AIWeek/RifleLancer,1,0,0
-,AIWeek/MacheteWomanNoCover,0.2,3,0
-,AIWeek/BladeSawmanNoCoverSurvival,0.30000001,0,0
-,AIWeek/EliteRifleLancer,1,0,0
-,AIWeek/ShotgunLancer,0.25,3,1
-,GrineerMarinePistol,0.2,2,1
-,AIWeek/JetpackMarine,0.1,2,1
-,AIWeek/ShieldLancer,0.30000001,4,2
-,AIWeek/GrineerMeleeStaffAgentNoLeader,0.30000001,4,2
-,AIWeek/GrineerFemale,1,3,3
-,AIWeek/MinigunBombard,0.1,3,3
-,AIWeek/RocketBombard,0.1,3,4
-,AIWeek/EviseratorLancer,0.1,2,5
-,AIWeek/GrineerRollingDrone,0.050000001,1,5
-,AIWeek/DeltaProsecutorAgent,1,1,9
-CorpusGrineerInvasionEasy,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.1,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,AIWeek/RifleLancer,1,0,0
-,AIWeek/EliteRifleLancer,1,0,0
-,AIWeek/BladeSawman,0.30000001,0,0
-,AIWeek/ShotgunLancer,0.25,0,0
-,AIWeek/MinigunBombard,0.1,0,0
-,AIWeek/ShieldLancer,0.1,0,0
-CorpusGrineerInvasionHard,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Oxium Osprey (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,AIWeek/RifleLancer,1,0,0
-,AIWeek/EliteRifleLancer,1,0,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,0,0
-,AIWeek/BladeSawman,0.30000001,0,0
-,AIWeek/ShotgunLancer,0.25,0,0
-,AIWeek/MinigunBombard,0.1,0,0
-,AIWeek/ShieldLancer,0.1,0,0
-ExtremeCorpusInvasion,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.30000001,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.5,0,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.1,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.60000002,0,0
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),0.40000001,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.40000001,0,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.60000002,0,0
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,0,0
-,Nullifier Crewman (Spaceman/AIWeek/NullifySpacemanAgent),0.15000001,2,0
-,Sapping Osprey (Drones/AIWeek/DiscDroneAgent),0.25,2,0
+ExtremeCorpusInvasion,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.30000001,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.1,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.60000002,0,0
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),0.40000001,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.40000001,0,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.60000002,0,0
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.15000001,2,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.25,2,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
 ,AIWeek/MinigunBombard,0.1,0,0
 ,AIWeek/EviseratorLancer,0.25,0,0
-ExtremeGrineerInvasion,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+CorpusGrineerInvasionEasy,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.1,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,AIWeek/RifleLancer,1,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/BladeSawman,0.30000001,0,0
+,AIWeek/ShotgunLancer,0.25,0,0
+,AIWeek/MinigunBombard,0.1,0,0
+,AIWeek/ShieldLancer,0.1,0,0
+CorpusGrineerInvasionHard,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,AIWeek/RifleLancer,1,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.15000001,0,0
+,/Lotus/Language/Game/Nullifyspaceman (Spaceman/AIWeek/NullifySpacemanAgent),0.1,0,0
+,AIWeek/BladeSawman,0.30000001,0,0
+,AIWeek/ShotgunLancer,0.25,0,0
+,AIWeek/MinigunBombard,0.1,0,0
+,AIWeek/ShieldLancer,0.1,0,0
+ExtremeGrineerInvasion,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.69999999,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/MacheteWoman,0.30000001,0,0
@@ -1460,16 +1487,16 @@ ExtremeGrineerInvasion,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,AIWeek/GrineerRollingDrone,0.25,0,0
 ,AIWeek/FlameLancer,0.30000001,0,0
 ,AIWeek/ShieldLancer,0.1,0,0
-ExtremeInvasion,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),1,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.30000001,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.5,0,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.1,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.60000002,0,0
-,Railgun Moa (BipedRobot/AIWeek/RailgunBipedAgent),0.40000001,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.40000001,0,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.60000002,0,0
-,Sniper Crewman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,0,0
+ExtremeInvasion,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.30000001,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.1,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.60000002,0,0
+,/Lotus/Language/Game/Railgunbiped (BipedRobot/AIWeek/RailgunBipedAgent),0.40000001,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.40000001,0,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.60000002,0,0
+,/Lotus/Language/Game/Sniperspaceman (Spaceman/AIWeek/SniperSpacemanAgent),0.25,0,0
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/MacheteWoman,0.30000001,0,0
@@ -1504,66 +1531,81 @@ GrineerShipyardsDefenseA,AIWeek/RifleLancer,1,0,0
 ,AIWeek/FlameLancer,0.15000001,0,1
 ,AIWeek/GrineerMeleeStaffAgentNoLeader,0.2,0,1
 ,AIWeek/DeltaProsecutorAgent,1,1,9
-InfestedHiveSquadQuest,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.5,0,1
+GrineerShipyardsSurvivalA,AIWeek/RifleLancer,1,0,0
+,AIWeek/MacheteWomanNoCover,0.2,3,0
+,AIWeek/BladeSawmanNoCoverSurvival,0.30000001,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/ShotgunLancer,0.25,3,1
+,GrineerMarinePistol,0.2,2,1
+,AIWeek/JetpackMarine,0.1,2,1
+,AIWeek/ShieldLancer,0.30000001,3,2
+,AIWeek/GrineerMeleeStaffAgentNoLeader,0.30000001,4,2
+,AIWeek/GrineerFemale,0.1,2,3
+,AIWeek/MinigunBombard,0.1,2,3
+,AIWeek/RocketBombard,0.1,2,4
+,AIWeek/EviseratorLancer,0.1,1,5
+,AIWeek/GrineerRollingDrone,0.050000001,1,5
+,AIWeek/DeltaProsecutorAgent,1,1,9
+InfestedHiveSquadQuest,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.5,0,1
 ,AiWeek/Crawlers/MeleeCrawler,0.25,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,0
 ,AiWeek/Ancients/MeleeAncient,0.2,4,1
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,4,2
-InfestedDefenseC,Charger (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.2,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,2
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,4,2
+InfestedDefenseC,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.2,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,2
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.050000001,0,1
 ,AiWeek/Crawlers/LightningCrawler,0.1,0,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,1
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,2
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.050000001,1,1
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.050000001,1,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.050000001,1,1
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.050000001,1,2
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,1
 ,AiWeek/Ancients/MeleeAncient,0.1,0,2
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,1
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,2
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,1
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,2
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/RocketBombard,0.25,0,0
 ,AIWeek/FlameLancer,0.25,0,0
 ,AIWeek/BladeSawman,0.25,0,0
-InfestedDefenseCGrineerDesert,Charger (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.2,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,2
+InfestedDefenseCGrineerDesert,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.2,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,2
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.050000001,0,1
 ,AiWeek/Crawlers/LightningCrawler,0.1,0,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,1
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,2
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,1,1
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,1,1
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,2
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,1
 ,AiWeek/Ancients/MeleeAncient,0.1,0,2
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,1
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,2
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,1
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,2
 ,Desert/RifleLancer,1,0,0
 ,Desert/EliteRifleLancer,1,0,0
 ,Desert/MinigunBombard,0.050000001,2,0
@@ -1573,61 +1615,61 @@ InfestedDefenseCGrineerDesert,Charger (AiWeek/Quadrupeds/Quadruped),0.69999999,0
 ,Desert/JetpackMarine,0.25,0,0
 ,Desert/GrineerMarinePistol,0.050000001,0,0
 ,/Lotus/Types/NeutralCreatures/SandRayCreature,0.25,3,0
-InfestedDefenseD,Charger (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.2,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,2
+InfestedDefenseD,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.2,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,2
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.050000001,0,1
 ,AiWeek/Crawlers/LightningCrawler,0.1,0,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,1
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,2
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,2,1
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,1,2
-,Boiler (AiWeek/Ancients/SpawningAncient),0.15000001,2,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,1,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,1
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,1,2
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.15000001,2,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,1,2
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,1
 ,AiWeek/Ancients/MeleeAncient,0.1,0,2
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,1
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,2
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,1
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,2
 ,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/RocketBombard,0.25,0,0
 ,AIWeek/FlameLancer,0.25,0,0
 ,AIWeek/BladeSawman,0.25,0,0
-InfestedDefenseDGrineerDesert,Charger (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.2,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,2
+InfestedDefenseDGrineerDesert,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.2,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,2
 ,AiWeek/Crawlers/LightningCrawler,0.025,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.050000001,0,1
 ,AiWeek/Crawlers/LightningCrawler,0.1,0,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,1
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,2
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,1,1
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,2,2
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,1,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,1,1
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,2
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,1,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,2
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,1
 ,AiWeek/Ancients/MeleeAncient,0.1,0,2
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,1
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,2
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,1
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,2
 ,Desert/RifleLancer,1,0,0
 ,Desert/EliteRifleLancer,1,0,0
 ,Desert/MinigunBombard,0.050000001,2,0
@@ -1637,38 +1679,38 @@ InfestedDefenseDGrineerDesert,Charger (AiWeek/Quadrupeds/Quadruped),0.69999999,0
 ,Desert/JetpackMarine,0.25,0,0
 ,Desert/GrineerMarinePistol,0.050000001,0,0
 ,/Lotus/Types/NeutralCreatures/SandRayCreature,0.25,3,0
-InfestedHiveSquadQuestB,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.5,0,1
+InfestedHiveSquadQuestB,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.5,0,1
 ,AiWeek/Crawlers/MeleeCrawler,0.25,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,0
 ,AiWeek/Ancients/MeleeAncient,0.2,4,1
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,4,2
-InfestedHiveSquadQuestC,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.5,0,1
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,4,2
+InfestedHiveSquadQuestC,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.5,0,1
 ,AiWeek/Crawlers/MeleeCrawler,0.25,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.2,2,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,1,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,2,2
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.2,2,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,1,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,2
 ,AiWeek/Ancients/MeleeAncient,0.2,4,1
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,4,2
-InfestedSquadAGrineerForest,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.1,0,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,4,2
+InfestedSquadAGrineerForest,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.75,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.1,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.1,0,0
 ,AiWeek/Crawlers/GrenadeCrawler,0.2,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,2,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,2,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
 ,AiWeek/Ancients/MeleeAncient,0.1,1,0
 ,Forest/RifleLancer,1,0,0
 ,Forest/EliteRifleLancer,0.2,2,0
@@ -1677,38 +1719,38 @@ InfestedSquadAGrineerForest,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,Forest/MinigunBombard,0.050000001,2,0
 ,Forest/JetpackMarine,0.25,1,0
 ,Forest/GrineerMarinePistol,0.050000001,0,0
-InfestedSquadBCorpus,Charger (AiWeek/Quadrupeds/Quadruped),0.75,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.5,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.30000001,0,0
+InfestedSquadBCorpus,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.75,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.30000001,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.2,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,0
 ,AiWeek/Crawlers/GrenadeCrawler,0.2,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-InfestedSquadBGrineerForest,Charger (AiWeek/Quadrupeds/Quadruped),0.75,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.5,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.30000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
+InfestedSquadBGrineerForest,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.75,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.30000001,0,0
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.2,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,0
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,0
 ,AiWeek/Crawlers/GrenadeCrawler,0.2,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,2,0
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
 ,Forest/RifleLancer,1,0,0
 ,Forest/EliteRifleLancer,0.2,2,0
 ,Forest/BladeSawman,0.30000001,0,0
@@ -1716,34 +1758,34 @@ InfestedSquadBGrineerForest,Charger (AiWeek/Quadrupeds/Quadruped),0.75,0,0
 ,Forest/MinigunBombard,0.050000001,2,0
 ,Forest/JetpackMarine,0.25,1,0
 ,Forest/GrineerMarinePistol,0.050000001,0,0
-InfestedSquadCCorpus,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.5,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+InfestedSquadCCorpus,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.5,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,0
-,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedgraspingcrawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-InfestedSquadCGrineerDesert,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.5,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
+InfestedSquadCGrineerDesert,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.5,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,0
-,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedgraspingcrawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
 ,Desert/RifleLancer,1,0,0
 ,Desert/EliteRifleLancer,0.2,2,0
 ,Desert/BladeSawman,0.30000001,0,0
@@ -1751,17 +1793,17 @@ InfestedSquadCGrineerDesert,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
 ,Desert/MinigunBombard,0.050000001,2,0
 ,Desert/JetpackMarine,0.25,1,0
 ,Desert/GrineerMarinePistol,0.050000001,0,0
-InfestedSquadCGrineerForest,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.5,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+InfestedSquadCGrineerForest,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.5,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,0
-,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedgraspingcrawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
 ,Forest/RifleLancer,1,0,0
 ,Forest/EliteRifleLancer,0.2,2,0
 ,Forest/BladeSawman,0.30000001,0,0
@@ -1769,36 +1811,36 @@ InfestedSquadCGrineerForest,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
 ,Forest/MinigunBombard,0.050000001,2,0
 ,Forest/JetpackMarine,0.25,1,0
 ,Forest/GrineerMarinePistol,0.050000001,0,0
-InfestedSquadDCorpus,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.5,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+InfestedSquadDCorpus,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.5,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,0
-,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
-,Boiler (AiWeek/Ancients/SpawningAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedgraspingcrawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.15000001,2,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
-,Moa (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
-InfestedSquadDGrineerDesert,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.5,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.15000001,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,/Lotus/Language/Game/Lasercannonbiped (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,0,0
+InfestedSquadDGrineerDesert,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.5,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,0
-,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
-,Boiler (AiWeek/Ancients/SpawningAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedgraspingcrawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.15000001,2,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
 ,Desert/RifleLancer,1,0,0
 ,Desert/EliteRifleLancer,0.2,2,0
 ,Desert/BladeSawman,0.30000001,0,0
@@ -1806,18 +1848,18 @@ InfestedSquadDGrineerDesert,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
 ,Desert/MinigunBombard,0.050000001,2,0
 ,Desert/JetpackMarine,0.25,1,0
 ,Forest/GrineerMarinePistol,0.050000001,0,0
-InfestedSquadDGrineerForest,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.5,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+InfestedSquadDGrineerForest,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.5,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,0
-,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
-,Boiler (AiWeek/Ancients/SpawningAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedgraspingcrawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.15000001,2,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
 ,Forest/RifleLancer,1,0,0
 ,Forest/EliteRifleLancer,0.2,2,0
 ,Forest/BladeSawman,0.30000001,0,0
@@ -1825,134 +1867,134 @@ InfestedSquadDGrineerForest,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
 ,Forest/MinigunBombard,0.050000001,2,0
 ,Forest/JetpackMarine,0.25,1,0
 ,Forest/GrineerMarinePistol,0.050000001,0,0
-InfestedSquadDInfestedOnly,Charger (AiWeek/Quadrupeds/Quadruped),0.5,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.5,0,0
-,Volatile Runner (AiWeek/Runners/SuicideRunner),1,0,0
+InfestedSquadDInfestedOnly,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),0.5,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.5,0,0
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),1,0,0
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,0
-,Nauseous Crawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
-,Boiler (AiWeek/Ancients/SpawningAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedgraspingcrawler (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.15000001,2,0
 ,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.1,0,0
-InfestedSurvivalC,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.25,0,1
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.25,0,1
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.1,0,0
+InfestedSurvivalC,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.25,0,1
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.25,0,1
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.2,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,1
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,1
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,2
 ,AiWeek/Crawlers/GrenadeCrawler,0.050000001,0,2
 ,AiWeek/Crawlers/GrenadeCrawler,0.050000001,0,3
 ,AiWeek/Crawlers/GrenadeCrawler,0.1,0,4
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,3
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,2,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,1,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,3
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,1,1
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,2
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,3
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.050000001,1,1
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.050000001,1,2
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,1,3
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,2
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,3
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,2,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,1,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,3
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,1,1
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,3
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.050000001,1,1
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.050000001,1,2
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,1,3
 ,AiWeek/Ancients/MeleeAncient,0.25,1,2
 ,AiWeek/Ancients/MeleeAncient,0.25,1,3
 ,AiWeek/Ancients/MeleeAncient,0.5,1,4
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.25,1,2
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.25,1,3
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.5,1,4
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.5,1,2
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.5,1,3
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),0.5,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.5,1,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,1,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,1,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,1,0
-InfestedSurvivalD,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.25,0,1
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.25,0,1
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.25,1,2
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.25,1,3
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.5,1,4
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.5,1,2
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.5,1,3
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),0.5,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.5,1,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,1,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,1,0
+InfestedSurvivalD,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.25,0,1
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.25,0,1
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.2,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,1
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,1
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,2
 ,AiWeek/Crawlers/GrenadeCrawler,0.050000001,0,2
 ,AiWeek/Crawlers/GrenadeCrawler,0.050000001,0,3
 ,AiWeek/Crawlers/GrenadeCrawler,0.1,0,4
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,3
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,2,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,1,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,1,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,3
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,1,1
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,1,2
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,3
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.050000001,1,1
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,1,2
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.1,1,3
-,Boiler (AiWeek/Ancients/SpawningAncient),0.050000001,1,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,1,2
-,Boiler (AiWeek/Ancients/SpawningAncient),0.1,1,3
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,2
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,3
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,2,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,1,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,1,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,3
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,1,1
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,1,2
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,3
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.050000001,1,1
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,1,2
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,1,3
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.050000001,1,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,1,2
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,1,3
 ,AiWeek/Ancients/MeleeAncient,0.25,1,2
 ,AiWeek/Ancients/MeleeAncient,0.25,1,3
 ,AiWeek/Ancients/MeleeAncient,0.5,1,4
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.25,1,2
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.25,1,3
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.5,1,4
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.5,1,2
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.5,1,3
-,Crewman (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
-,Elite Crewman (Spaceman/EliteSpacemanAgent),0.5,1,0
-,Prod Crewman (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
-,Shield Osprey (Drones/AIWeek/ShieldDroneAgent),0.5,1,0
-,Shockwave Moa (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,1,0
-,Fusion Moa (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,1,0
-,Corpus Tech (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,1,0
-InfestedSurvivalE,Charger (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Leaper (AiWeek/Runners/LeapingRunner),0.25,0,1
-,Volatile Runner (AiWeek/Runners/SuicideRunner),0.25,0,1
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.25,1,2
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.25,1,3
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.5,1,4
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.5,1,2
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.5,1,3
+,/Lotus/Language/Game/Riflespaceman (Spaceman/AIWeek/RifleSpacemanAgent),1,4,0
+,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),0.5,1,0
+,/Lotus/Language/Game/Meleespaceman (Spaceman/AIWeek/MeleeSpacemanAgent),0.2,2,0
+,/Lotus/Language/Game/Shielddrone (Drones/AIWeek/ShieldDroneAgent),0.5,1,0
+,/Lotus/Language/Game/Shockwavebiped (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Fusionbiped (BipedRobot/AIWeek/SuperMoaBipedAgent),0.02,1,0
+,/Lotus/Language/Game/Deploycorpus (Spaceman/AIWeek/DeployableSpacemanAgent),0.1,1,0
+InfestedSurvivalE,/Lotus/Language/Game/Infestedmeleerunner (AiWeek/Quadrupeds/Quadruped),1,0,0
+,/Lotus/Language/Game/Infestedleapingrunner (AiWeek/Runners/LeapingRunner),0.25,0,1
+,/Lotus/Language/Game/Infestedsuiciderunner (AiWeek/Runners/SuicideRunner),0.25,0,1
 ,AiWeek/Runners/MeleeRunner,0.5,0,0
 ,AiWeek/Crawlers/MeleeCrawler,0.2,0,0
-,Toxic Crawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,1
+,/Lotus/Language/Game/Infestednoxiouscrawler (AiWeek/Crawlers/NoxiousCrawler),0.2,0,1
 ,AiWeek/Crawlers/LightningCrawler,0.2,0,2
 ,AiWeek/Crawlers/GrenadeCrawler,0.050000001,0,2
 ,AiWeek/Crawlers/GrenadeCrawler,0.050000001,0,3
 ,AiWeek/Crawlers/GrenadeCrawler,0.1,0,4
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,0
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,2
-,Mutalist-Osprey (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,3
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,2,0
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,1,1
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,1,2
-,Tar-Mutalist Moa (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,3
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,2,0
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,1,1
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,1,2
-,Swarm-Mutalist Moa (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,3
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.050000001,1,1
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.050000001,1,2
-,Brood Mother (AiWeek/Ancients/DiseasedAncient),0.15000001,1,3
-,Boiler (AiWeek/Ancients/SpawningAncient),0.050000001,1,1
-,Boiler (AiWeek/Ancients/SpawningAncient),0.050000001,1,2
-,Boiler (AiWeek/Ancients/SpawningAncient),0.15000001,1,3
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.050000001,0,1
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,2
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.1,0,3
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,2,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,1,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.050000001,1,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,3
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,1,1
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.050000001,1,2
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,3
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.050000001,1,1
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.050000001,1,2
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,1,3
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.050000001,1,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.050000001,1,2
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.15000001,1,3
 ,AiWeek/Ancients/MeleeAncient,0.25,1,2
 ,AiWeek/Ancients/MeleeAncient,0.25,1,3
 ,AiWeek/Ancients/MeleeAncient,0.5,1,4
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.25,1,2
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.25,1,3
-,Toxic Ancient (AiWeek/Ancients/ToxicAncient),0.5,1,4
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.5,1,2
-,Ancient Healer (AiWeek/Ancients/HealingAncient),0.5,1,3
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.25,1,2
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.25,1,3
+,/Lotus/Language/Game/Infestedtoxicancient (AiWeek/Ancients/ToxicAncient),0.5,1,4
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.5,1,2
+,/Lotus/Language/Game/Infestedancienthealer (AiWeek/Ancients/HealingAncient),0.5,1,3
