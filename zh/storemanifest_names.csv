@@ -2292,6 +2292,7 @@ Pistol Ammo Mutation,/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponPistolConvertA
 /Lotus/Language/Mods/Abilitycastingdamageresistance,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/AbilityCastingDamageResistance
 /Lotus/Language/Mods/Avatarspawnenergymod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/AvatarSpawnEnergyMod
 /Lotus/Language/Mods/Energyonkill,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/EnergyOnKill
+/Lotus/Language/Mods/Reduceshieldrechargedelaywarframe,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/ReduceShieldRechargeDelayWarframe
 /Lotus/Language/Mods/Staminaslide,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/StaminaSlide
 弹鼓,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponAmmoMaxModBeginner
 穿甲伤害,/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponArmorPiercingDamageModBeginner
@@ -3510,7 +3511,6 @@ Skana Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/LongSword/SkanaPrime
 /Lotus/Language/Items/Dualswordstancea,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbOneMeleeTree
 /Lotus/Language/Items/Dualswordstanceb,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbTwoMeleeTree
 /Lotus/Language/Items/Fiststancea,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/FistCmbOneMeleeTree
-/Lotus/Language/Items/Fiststancec,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/FistCmbThreeMeleeTree
 /Lotus/Language/Items/Fiststanceb,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/FistCmbTwoMeleeTree
 /Lotus/Language/Items/Glaivestancea,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbOneMeleeTree
 /Lotus/Language/Items/Glaivestanceb,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbTwoMeleeTree

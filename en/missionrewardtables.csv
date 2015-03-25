@@ -297,19 +297,16 @@ Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.011637133033589
 Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.011637133033589
 Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.011637133033589
 Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.011637133033589
-Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00182731841023298
-Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00182731841023298
-Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00182731841023298
-Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00182731841023298
-Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00182731841023298
+Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
+Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
+Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
+Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
+Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
 Common /Lotus/Language/Items/Fusionpart,3,UNCOMMON,0.011637133033589
-Uncommon /Lotus/Language/Items/Fusionpart,3,RARE,0.00182731841023298
+Uncommon /Lotus/Language/Items/Fusionpart,3,RARE,0.00251256281407035
 /Lotus/Language/Items/Creditbundlea,1,COMMON,0.189698492462312
-/Lotus/Language/Items/Creditbundleb,1,RARE,0.00182731841023298
-/Lotus/Language/Items/Heavyriflename Blueprint,1,RARE,0.00182731841023298
-/Lotus/Language/Items/Forma Blueprint,1,RARE,0.00182731841023298
-/Lotus/Language/Items/Orokincatalyst Blueprint,1,RARE,0.00182731841023298
-/Lotus/Language/Items/Orokinreactor Blueprint,1,RARE,0.00182731841023298
+/Lotus/Language/Items/Creditbundleb,1,RARE,0.00251256281407035
+/Lotus/Language/Items/Heavyriflename Blueprint,1,RARE,0.00251256281407035
 ,,,
 ,,,
 DefenseMissionRewardsEasy - Tier 0,,,
@@ -1238,7 +1235,7 @@ Item Name,Item Count,Rarity,Probability
 ,,,
 OrokinCaptureRewardsA - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondaryholster,1,UNCOMMON,0.0564102564102564
+/Lotus/Language/Items/Odonataprimename Blueprint,1,UNCOMMON,0.0564102564102564
 /Lotus/Language/Menu/Craftingcomponent_Primebowgrip,1,UNCOMMON,0.0564102564102564
 /Lotus/Language/Items/Forma Blueprint,1,UNCOMMON,0.0564102564102564
 /Lotus/Language/Items/Orokinkeyfname,1,COMMON,0.258119658119658
@@ -1254,7 +1251,7 @@ Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Items/Forma Blueprint,1,UNCOMMON,0.142857142857143
 /Lotus/Language/Menu/Craftingcomponent_Primepolearmblade,1,UNCOMMON,0.142857142857143
 /Lotus/Language/Menu/Craftingcomponent_Emberprimechassisname Blueprint,1,UNCOMMON,0.142857142857143
-/Lotus/Language/Menu/Craftingcomponent_Latronprimestock,1,UNCOMMON,0.142857142857143
+/Lotus/Language/Items/Nextpromowarframename Blueprint,1,UNCOMMON,0.142857142857143
 /Lotus/Language/Items/Lokiprimename Blueprint,1,UNCOMMON,0.142857142857143
 ,,,
 ,,,
@@ -1263,7 +1260,7 @@ Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Menu/Craftingcomponent_Broncoprimebarrel,1,UNCOMMON,0.0564102564102564
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.258119658119658
 /Lotus/Language/Menu/Craftingcomponent_Broncoprimereceiver,1,UNCOMMON,0.0564102564102564
-/Lotus/Language/Items/Frostprimename Blueprint,1,UNCOMMON,0.0564102564102564
+/Lotus/Language/Menu/Craftingcomponent_Sicarusprimereceiver,1,UNCOMMON,0.0564102564102564
 /Lotus/Language/Menu/Craftingcomponent_Akbroncoprimelink,1,UNCOMMON,0.0564102564102564
 /Lotus/Language/Menu/Craftingcomponent_Burstonprimebarrel,1,COMMON,0.258119658119658
 /Lotus/Language/Menu/Craftingcomponent_Lexprimebarrel,1,COMMON,0.258119658119658
@@ -1394,7 +1391,7 @@ OrokinExterminateRewardsB - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Menu/Craftingcomponent_Primedakkahandle,1,UNCOMMON,0.0752136752136752
 /Lotus/Language/Menu/Craftingcomponent_Emberprimehelmetname Blueprint,1,COMMON,0.193589743589744
-/Lotus/Language/Menu/Craftingcomponent_Frostprimechassisname Blueprint,1,COMMON,0.193589743589744
+/Lotus/Language/Items/Novaprimename Blueprint,1,COMMON,0.193589743589744
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.193589743589744
 /Lotus/Language/Items/Primepolearmname Blueprint,1,UNCOMMON,0.0752136752136752
 /Lotus/Language/Menu/Craftingcomponent_Rhinoprimesystemsname Blueprint,1,COMMON,0.193589743589744
@@ -1477,14 +1474,14 @@ Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.258119658119658
 /Lotus/Language/Items/Boltorprimename Blueprint,1,UNCOMMON,0.0564102564102564
 /Lotus/Language/Items/Boarprimename Blueprint,1,COMMON,0.258119658119658
-/Lotus/Language/Items/Reaperprimename Blueprint,1,COMMON,0.258119658119658
+/Lotus/Language/Menu/Craftingcomponent_Primeboarstock,1,COMMON,0.258119658119658
 ,,,
 ,,,
 OrokinMobileDefenseRewardsD - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Menu/Craftingcomponent_Primeboarbarrel,1,UNCOMMON,0.166666666666667
 /Lotus/Language/Menu/Craftingcomponent_Emberprimesystemsname Blueprint,1,UNCOMMON,0.166666666666667
-/Lotus/Language/Menu/Craftingcomponent_Primescytheblade,1,UNCOMMON,0.166666666666667
+/Lotus/Language/Menu/Craftingcomponent_Vastoprimereceiver,1,UNCOMMON,0.166666666666667
 /Lotus/Language/Items/Forma Blueprint,1,UNCOMMON,0.166666666666667
 /Lotus/Language/Items/Boltorprimename Blueprint,1,UNCOMMON,0.166666666666667
 Rare /Lotus/Language/Items/Fusionpart,5,UNCOMMON,0.166666666666667
@@ -1540,11 +1537,11 @@ Rare /Lotus/Language/Items/Fusionpart,1,COMMON,0.258119658119658
 OrokinSabotageRewardsA - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Menu/Craftingcomponent_Nextpromomeleehandle,1,UNCOMMON,0.112820512820513
-/Lotus/Language/Items/Latronprimename Blueprint,1,UNCOMMON,0.112820512820513
+/Lotus/Language/Menu/Craftingcomponent_Primearchwingchassisname Blueprint,1,UNCOMMON,0.112820512820513
 /Lotus/Language/Menu/Craftingcomponent_Nextpromosecondarypiece,1,COMMON,0.193589743589744
 /Lotus/Language/Items/Novaprimename Blueprint,1,COMMON,0.193589743589744
 /Lotus/Language/Menu/Craftingcomponent_Burstonprimestock,1,COMMON,0.193589743589744
-/Lotus/Language/Menu/Craftingcomponent_Latronprimebarrel,1,COMMON,0.193589743589744
+/Lotus/Language/Menu/Craftingcomponent_Vastoprimebarrel,1,COMMON,0.193589743589744
 ,,,
 OrokinSabotageRewardsA - Tier 1,,,
 Item Name,Item Count,Rarity,Probability
@@ -1690,7 +1687,7 @@ Rare /Lotus/Language/Items/Fusionpart,2,COMMON,0.2
 ,,,
 OrokinSurvivalRewardsB - Tier 1,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Menu/Craftingcomponent_Latronprimebarrel,1,UNCOMMON,0.2
+/Lotus/Language/Items/Primesomaname Blueprint,1,UNCOMMON,0.2
 /Lotus/Language/Menu/Craftingcomponent_Primefangblade,1,UNCOMMON,0.2
 Rare /Lotus/Language/Items/Fusionpart,2,UNCOMMON,0.2
 Uncommon /Lotus/Language/Items/Fusionpart,2,UNCOMMON,0.2
@@ -1703,13 +1700,13 @@ Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Items/Parisprimename Blueprint,1,COMMON,0.258119658119658
 /Lotus/Language/Menu/Craftingcomponent_Magprimechassisname Blueprint,1,COMMON,0.258119658119658
 /Lotus/Language/Menu/Craftingcomponent_Ankyrosprimegauntlet,1,UNCOMMON,0.0752136752136752
-/Lotus/Language/Items/Reaperprimename Blueprint,1,COMMON,0.258119658119658
+/Lotus/Language/Items/Broncoprimename Blueprint,1,COMMON,0.258119658119658
 ,,,
 ,,,
 OrokinSurvivalRewardsC - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
 Rare /Lotus/Language/Items/Fusionpart,3,UNCOMMON,0.2
-/Lotus/Language/Menu/Craftingcomponent_Latronprimereceiver,1,UNCOMMON,0.2
+/Lotus/Language/Items/Fangprimename Blueprint,1,UNCOMMON,0.2
 /Lotus/Language/Menu/Craftingcomponent_Primefangblade,1,UNCOMMON,0.2
 /Lotus/Language/Menu/Craftingcomponent_Emberprimehelmetname Blueprint,1,UNCOMMON,0.2
 /Lotus/Language/Items/Orokincell,3,UNCOMMON,0.2
@@ -1720,13 +1717,13 @@ Uncommon /Lotus/Language/Items/Fusionpart,3,UNCOMMON,0.2
 Rare /Lotus/Language/Items/Fusionpart,3,UNCOMMON,0.2
 /Lotus/Language/Menu/Craftingcomponent_Primedakkablade,1,UNCOMMON,0.2
 /Lotus/Language/Menu/Craftingcomponent_Lexprimebarrel,1,UNCOMMON,0.2
-/Lotus/Language/Menu/Craftingcomponent_Primescythehandle,1,UNCOMMON,0.2
+/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname Blueprint,1,UNCOMMON,0.2
 ,,,
 OrokinSurvivalRewardsC - Tier 2,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Menu/Craftingcomponent_Frostprimehelmetname Blueprint,1,COMMON,0.252931323283082
+/Lotus/Language/Items/Boprimename Blueprint,1,COMMON,0.252931323283082
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.252931323283082
-/Lotus/Language/Menu/Craftingcomponent_Sicarusprimereceiver,1,UNCOMMON,0.0552763819095477
+/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname Blueprint,1,UNCOMMON,0.0552763819095477
 /Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname Blueprint,1,UNCOMMON,0.0552763819095477
 /Lotus/Language/Menu/Craftingcomponent_Rhinoprimechassisname Blueprint,1,UNCOMMON,0.0552763819095477
 /Lotus/Language/Items/Primesicarusname Blueprint,1,COMMON,0.252931323283082
@@ -1743,7 +1740,7 @@ Rare /Lotus/Language/Items/Fusionpart,5,COMMON,0.25
 ,,,
 OrokinSurvivalRewardsD - Tier 1,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Menu/Craftingcomponent_Frostprimehelmetname Blueprint,1,COMMON,0.25
+/Lotus/Language/Items/Primepolearmname Blueprint,1,COMMON,0.25
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.25
 /Lotus/Language/Menu/Craftingcomponent_Boltorprimereceiver,1,COMMON,0.25
 /Lotus/Language/Menu/Craftingcomponent_Rhinoprimechassisname Blueprint,1,COMMON,0.25
@@ -1754,7 +1751,7 @@ Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Items/Bratonprimename Blueprint,1,COMMON,0.154871794871795
 /Lotus/Language/Menu/Craftingcomponent_Emberprimechassisname Blueprint,1,COMMON,0.154871794871795
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.154871794871795
-/Lotus/Language/Menu/Craftingcomponent_Frostprimesystemsname Blueprint,1,COMMON,0.154871794871795
+/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname Blueprint,1,COMMON,0.154871794871795
 /Lotus/Language/Items/Primevastoname Blueprint,1,UNCOMMON,0.0752136752136752
 /Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname Blueprint,1,COMMON,0.154871794871795
 Rare /Lotus/Language/Items/Fusionpart,5,UNCOMMON,0.0752136752136752
