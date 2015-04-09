@@ -109,9 +109,9 @@ Node,Planet,Mission Type,Faction,AI Spec,Mission Rewards,Drone Damage,Drone Dama
 /Lotus/Language/Locations/Silvanus,Mars,Extermination,Grineer,/Lotus/Types/Game/CorpusGrineerMix,,20 - 50,0.30000001,1
 /Lotus/Language/Locations/Martialis,Mars,Spy,Corpus,/Lotus/Types/Game/CorpusSquadC,/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyLowMissionRewards,20 - 50,0.30000001,2
 /Lotus/Language/Locations/Kadesh,Mars,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,20 - 50,0.30000001,2
-,Mars,MT_PVP,Corrupted,,,20 - 50,0.30000001,2
+Blackout,Mars,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,,20 - 50,0.30000001,2
 /Lotus/Language/Locations/War,Mars,Assassination,Corpus,/Lotus/Types/Game/CorpusSquadA,/Lotus/Types/Game/MissionDecks/BossMissionRewards/MagRewards,20 - 50,0.30000001,2
-/Lotus/Language/Locations/Elatha,Mars,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium,20 - 50,0.30000001,2
+/Lotus/Language/Locations/Elatha,Mars,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,,20 - 50,0.30000001,2
 /Lotus/Language/Locations/Gradivus,Mars,Sabotage,Corpus,/Lotus/Types/Game/CorpusGrineerMix,,20 - 50,0.30000001,2
 /Lotus/Language/Locations/Wahiba,Mars,Survival,Infestation,/Lotus/Types/Game/InfestedSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards,20 - 50,0.30000001,2
 /Lotus/Language/Locations/Quirinus,Mars,Capture,Corpus,/Lotus/Types/Game/CorpusSquadB,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,20 - 50,0.30000001,2
@@ -123,7 +123,7 @@ Node,Planet,Mission Type,Faction,AI Spec,Mission Rewards,Drone Damage,Drone Dama
 ,Mars,Assassination,Grineer,,,20 - 50,0.30000001,3
 ,Mars,Assassination,Grineer,,,20 - 50,0.30000001,3
 ,Mars,Assassination,Grineer,,,20 - 50,0.30000001,3
-,Mars,Assassination,Grineer,,,20 - 50,0.30000001,3
+Blackout,Mars,Defense,Corpus,/Lotus/Types/Game/CorpusSquadDefenseA,,20 - 50,0.30000001,3
 ,Mars,Assassination,Grineer,,,20 - 50,0.30000001,3
 /Lotus/Language/Locations/Ganymede,Jupiter,Extermination,Corpus,/Lotus/Types/Game/CorpusSquadD,,20 - 60,0.40000001,0
 /Lotus/Language/Locations/Adrastea,Jupiter,Spy,Corpus,/Lotus/Types/Game/CorpusSquadD,/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyLowMissionRewards,20 - 60,0.40000001,0
@@ -443,7 +443,7 @@ Node,Planet,Mission Type,Faction,AI Spec,Mission Rewards,Drone Damage,Drone Dama
 /Lotus/Language/Locations/Wendell,/Lotus/Language/Game/Phobos,MT_EXCAVATE,Grineer,/Lotus/Types/Game/GrineerSettlementExcavationA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards,20 - 50,0.30000001,2
 /Lotus/Language/Locations/Todd,/Lotus/Language/Game/Phobos,Capture,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA,20 - 50,0.30000001,2
 /Lotus/Language/G1Quests/SkateTacAlertTitle,/Lotus/Language/Game/Phobos,Sabotage,Grineer,/Lotus/Types/Game/OrokinDerelictSabotageGrineerSettlement,/Lotus/Types/Game/MissionDecks/OrokinSabotageEventRewards,20 - 50,0.30000001,2
-/Lotus/Language/Locations/Flimnap,/Lotus/Language/Game/Phobos,Survival,Grineer,/Lotus/Types/Game/GrineerSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,20 - 50,0.30000001,2
+/Lotus/Language/Locations/Flimnap,/Lotus/Language/Game/Phobos,Survival,Grineer,/Lotus/Types/Game/GrineerSettlementSurvivalA,/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards,20 - 50,0.30000001,2
 /Lotus/Language/Locations/Memphis,/Lotus/Language/Game/Phobos,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards,20 - 50,0.30000001,2
 /Lotus/Language/Locations/Iliad,/Lotus/Language/Game/Phobos,Assassination,Grineer,/Lotus/Types/Game/DesertGrineerSquadOne,/Lotus/Types/Game/MissionDecks/BossMissionRewards/MiterGremlinsRewards,20 - 50,0.30000001,2
 ,/Lotus/Language/Game/Phobos,Assassination,Grineer,,,20 - 50,0.30000001,2

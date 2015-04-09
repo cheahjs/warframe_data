@@ -380,7 +380,7 @@ DesertGrineerDefenseA,Desert/RifleLancer,1,0,0
 ,AIWeek/MacheteWomanNoCover,0.2,3,2
 ,AIWeek/FlameLancer,0.15000001,2,2
 ,AIWeek/BeastMaster,0.2,2,1
-DesertGrineerSquadOne,Desert/RifleLancer,1,0,0
+GrineerEventSquadMDesertGrineerSquadOne,Desert/RifleLancer,1,0,0
 ,Desert/EliteRifleLancer,1,0,0
 ,Desert/BladeSawman,0.30000001,0,0
 ,Desert/ShotgunLancer,0.25,0,0

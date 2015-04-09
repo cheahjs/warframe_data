@@ -229,6 +229,7 @@ Molecular Prime,/Lotus/StoreItems/Powersuits/AntiMatter/MolecularPrimeAbilityCar
 Null Star,/Lotus/StoreItems/Powersuits/AntiMatter/NullStarAbilityCard
 /Lotus/Language/Items/Nullstarabilityaugmentname,/Lotus/StoreItems/Powersuits/AntiMatter/NullStarAugmentCard
 /Lotus/Language/Items/Wormholeability,/Lotus/StoreItems/Powersuits/AntiMatter/WormHoleAbilityCard
+/Lotus/Language/Items/Wormholeabilityaugment1,/Lotus/StoreItems/Powersuits/AntiMatter/WormHoleAugmentCard
 /Lotus/Language/Items/Artillerybarrageability,/Lotus/StoreItems/Powersuits/Archwing/DemolitionJetPack/ArtilleryBarrageAbilityCard
 /Lotus/Language/Items/Bigboyability,/Lotus/StoreItems/Powersuits/Archwing/DemolitionJetPack/BigBoyAbilityCard
 /Lotus/Language/Items/Demolitionarchwingname,/Lotus/StoreItems/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack
@@ -256,6 +257,7 @@ Sonar,/Lotus/StoreItems/Powersuits/Banshee/SonarAbilityCard
 /Lotus/Language/Items/Grapplehookability,/Lotus/StoreItems/Powersuits/Berserker/GrappleAbilityCard
 /Lotus/Language/Items/Grapplehookabilityaugmentname,/Lotus/StoreItems/Powersuits/Berserker/GrappleAugmentCard
 /Lotus/Language/Items/Beserkerscreamability,/Lotus/StoreItems/Powersuits/Berserker/IntimidateAbilityCard
+/Lotus/Language/Items/Berserkerscreamabilityaugmentname,/Lotus/StoreItems/Powersuits/Berserker/IntimidateAugmentCard
 /Lotus/Language/Items/Laststandability,/Lotus/StoreItems/Powersuits/Berserker/LastStandAbilityCard
 /Lotus/Language/Items/Shieldbashabilityaugmentname,/Lotus/StoreItems/Powersuits/Berserker/ShieldBashAugmentCard
 /Lotus/Language/Items/Shieldbashability,/Lotus/StoreItems/Powersuits/Berserker/ShieldBlastAbilityCard
@@ -277,6 +279,7 @@ Fire Blast,/Lotus/StoreItems/Powersuits/Ember/FireBlastAbilityCard
 /Lotus/Language/Items/Fireblastabilityaugmentname,/Lotus/StoreItems/Powersuits/Ember/FireBlastAugmentCard
 Overheat,/Lotus/StoreItems/Powersuits/Ember/FireSkinAbilityCard
 World On Fire,/Lotus/StoreItems/Powersuits/Ember/WorldOnFireAbilityCard
+/Lotus/Language/Items/Worldonfireabilityaugmentname,/Lotus/StoreItems/Powersuits/Ember/WorldOnFireAugmentCard
 Excalibur,/Lotus/StoreItems/Powersuits/Excalibur/Excalibur
 Excalibur Prime,/Lotus/StoreItems/Powersuits/Excalibur/ExcaliburPrime
 Radial Blind,/Lotus/StoreItems/Powersuits/Excalibur/RadialBlindAbilityCard
@@ -302,6 +305,7 @@ Freeze,/Lotus/StoreItems/Powersuits/Frost/IcicleAbilityCard
 /Lotus/Language/Items/Eclipseability,/Lotus/StoreItems/Powersuits/Harlequin/LightAbilityCard
 /Lotus/Language/Items/Eclipseabilityaugment1,/Lotus/StoreItems/Powersuits/Harlequin/LightAugmentCard
 /Lotus/Language/Items/Sleightofhandability,/Lotus/StoreItems/Powersuits/Harlequin/ObjectChangeAbilityCard
+/Lotus/Language/Items/Sleightofhandabilityaugmentname,/Lotus/StoreItems/Powersuits/Harlequin/ObjectChangeAugmentCard
 /Lotus/Language/Items/Grandfinale,/Lotus/StoreItems/Powersuits/Harlequin/PrismAbilityCard
 Chaos,/Lotus/StoreItems/Powersuits/Jade/ChaosAbilityCard
 Psychic Bolts,/Lotus/StoreItems/Powersuits/Jade/DaggerAbilityCard
@@ -401,12 +405,14 @@ Tesla,/Lotus/StoreItems/Powersuits/Trapper/ZapTrapAbilityCard
 /Lotus/Language/Items/Zaptrapabilityaugmentname,/Lotus/StoreItems/Powersuits/Trapper/ZapTrapAugmentCard
 Blessing,/Lotus/StoreItems/Powersuits/Trinity/BlessingAbilityCard
 Energy Vampire,/Lotus/StoreItems/Powersuits/Trinity/EnergyVampireAbilityCard
+/Lotus/Language/Items/Energyvampireabilityaugmentname,/Lotus/StoreItems/Powersuits/Trinity/EnergyVampireAugmentCard
 Link,/Lotus/StoreItems/Powersuits/Trinity/LinkAbilityCard
 /Lotus/Language/Items/Linkabilityaugmentname,/Lotus/StoreItems/Powersuits/Trinity/LinkAugmentCard
 Trinity,/Lotus/StoreItems/Powersuits/Trinity/Trinity
 Well Of Life,/Lotus/StoreItems/Powersuits/Trinity/WellOfLifeAbilityCard
 /Lotus/Language/Items/Welloflifeabilityaugmentname,/Lotus/StoreItems/Powersuits/Trinity/WellOfLifeAugmentCard
 Overload,/Lotus/StoreItems/Powersuits/Volt/OverloadAbilityCard
+/Lotus/Language/Items/Overloadabilityaugmentname,/Lotus/StoreItems/Powersuits/Volt/OverloadAugmentCard
 Electric Shield,/Lotus/StoreItems/Powersuits/Volt/ShieldAbilityCard
 /Lotus/Language/Items/Shieldabilityaugmentpvpname,/Lotus/StoreItems/Powersuits/Volt/ShieldPvPAugmentCard
 Shock,/Lotus/StoreItems/Powersuits/Volt/ShockAbilityCard
@@ -847,6 +853,9 @@ Torre Sterminio,/Lotus/StoreItems/Types/Keys/SettlementTestKey
 Archwing Defense Test,/Lotus/StoreItems/Types/Keys/TRDefenseTestKey
 Archwing Exterminate Test,/Lotus/StoreItems/Types/Keys/TRExterminateTestKey
 Archwing Sabotage Test,/Lotus/StoreItems/Types/Keys/TRSabotageTestKey
+Blackout,/Lotus/StoreItems/Types/Keys/TacAlertKeyBlackoutBonus
+Blackout,/Lotus/StoreItems/Types/Keys/TacAlertKeyBlackoutEasy
+Blackout,/Lotus/StoreItems/Types/Keys/TacAlertKeyBlackoutHard
 Ice Planet Tac Alert Easy,/Lotus/StoreItems/Types/Keys/TacAlertKeyIcePlanetCaptureBonus
 Ice Planet Tac Alert Easy,/Lotus/StoreItems/Types/Keys/TacAlertKeyIcePlanetCaptureEasy
 Ice Planet Tac Alert Easy,/Lotus/StoreItems/Types/Keys/TacAlertKeyIcePlanetCaptureHard
@@ -1006,6 +1015,7 @@ Reattore Orokin Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinReact
 /Lotus/Language/Items/Basicucresourcedrone Blueprint,/Lotus/StoreItems/Types/Recipes/Drones/BasicUcResourceDroneBlueprint
 /Lotus/Language/Items/Arcaneninjaalthelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/AshAltHelmetBlueprint
 /Lotus/Language/Items/Arcanebansheealthelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/BansheeAltHelmetBlueprint
+/Lotus/Language/Items/Chromaaltbhelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ChromaAltBHelmetBlueprint
 /Lotus/Language/Items/Conversionantialthelmetblueprintname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAntiAltHelmetBlueprint
 /Lotus/Language/Items/Conversionaspalthelmetbblueprintname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAspAltHelmetBBlueprint
 /Lotus/Language/Items/Conversionaspalthelmetblueprintname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ConversionAspAltHelmetBlueprint
@@ -1040,10 +1050,13 @@ Reattore Orokin Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinReact
 /Lotus/Language/Items/Arcaneexcaliburalthelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ExcaliburAltHelmetBlueprint
 /Lotus/Language/Items/Arcanefrostalthelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/FrostAltHelmetBlueprint
 /Lotus/Language/Items/Harlequinalthelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/HarlequinAltHelmetBlueprint
+/Lotus/Language/Items/Limboaltbhelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LimboAltBHelmetBlueprint
 /Lotus/Language/Items/Aristeasmagicianhelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LimboAristeasHelmetBlueprint
 /Lotus/Language/Items/Arcanelokialthelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LokiAltHelmetBlueprint
 /Lotus/Language/Items/Lokienigmahelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LokiEnigmaHelmetBlueprint
 /Lotus/Language/Items/Arcanemagalthelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/MagAltHelmetBlueprint
+/Lotus/Language/Items/Mesaaltbhelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/MesaAltBHelmetBlueprint
+/Lotus/Language/Items/Miragealtbhelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/MirageAltBHelmetBlueprint
 /Lotus/Language/Items/Nekrosaraknidhelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NekrosAraknidHelmetBlueprint
 /Lotus/Language/Items/Nekrosalthelm2name Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NekrosShroudHelmetBlueprint
 /Lotus/Language/Items/Arcanenovaalthelmet2name Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/NovaAltHelmetBlueprint
@@ -1429,6 +1442,7 @@ Afuris Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AFurisBlueprint
 Akbolto Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AkBoltoBlueprint
 /Lotus/Language/Items/Primedualbroncosname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AkbroncoPrimeBlueprint
 /Lotus/Language/Items/Aklexname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AklexBlueprint
+/Lotus/Language/Items/Akimbosomapistolsname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AksomatiBlueprint
 /Lotus/Language/Items/Ankyrosprimename Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AnkyrosPrimeBlueprint
 /Lotus/Language/Items/Antlerbowname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AntlerBowBlueprint
 /Lotus/Language/Items/Archaxename Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ArchAxeBlueprint
@@ -1474,6 +1488,7 @@ Dual Ether Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualEtherSwordBluep
 Doppie Heat Swords Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualHeatSwordBlueprint
 /Lotus/Language/Items/Dualkamasname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualKamasBlueprint
 /Lotus/Language/Items/Akmagnusname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualMagnusBlueprint
+/Lotus/Language/Items/Somadualkamasname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualRazaBlueprint
 Doppia Skana Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualSkanaSwordBlueprint
 /Lotus/Language/Items/Dualvastosname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/DualVastosBlueprint
 /Lotus/Language/Items/Etherscythename Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/EtherScytheBlueprint
@@ -1699,6 +1714,8 @@ Chorus Banshee Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansh
 Banshee Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheeDark
 Reverb Banshee Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheeReverbBright
 Reverb Banshee Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheeReverbDark
+/Lotus/Language/Items/Avatarchromaamarubrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageChromaAmaruBright
+/Lotus/Language/Items/Avatarchromaamarudarkname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageChromaAmaruDark
 /Lotus/Language/Items/Avatarchromabrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageChromaBright
 /Lotus/Language/Items/Avatarchromadarkname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageChromaDark
 /Lotus/Language/Items/Avatarchromadracbrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageChromaDracBright
@@ -1728,6 +1745,8 @@ Frost Prime Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostPri
 Frost Prime Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostPrimeDark
 Squall Frost Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostSquallBright
 Squall Frost Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostSquallDark
+/Lotus/Language/Items/Avatarlimbograeaebrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageGraeaeLimboBright
+/Lotus/Language/Items/Avatarlimbograeaedarkname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageGraeaeLimboDark
 /Lotus/Language/Items/Avatargunslingeraltbrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageGunslingerAltBright
 /Lotus/Language/Items/Avatargunslingeraltdarkname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageGunslingerAltDark
 /Lotus/Language/Items/Avatargunslingerbrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageGunslingerBright
@@ -1754,6 +1773,8 @@ Gauss Mag Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagGaussBr
 Gauss Mag Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagGaussDark
 /Lotus/Language/Items/Avatarmagprimebrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagPrimeBright
 /Lotus/Language/Items/Avatarmagprimedarkname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagPrimeDark
+/Lotus/Language/Items/Avatarmesacortesbrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMesaCortesBright
+/Lotus/Language/Items/Avatarmesacortesdarkname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMesaCortesDark
 /Lotus/Language/Items/Avatarmiragebrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMirageBright
 /Lotus/Language/Items/Avatarmiragedarkname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMirageDark
 /Lotus/Language/Items/Avatarmirageharlequinbrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMirageHarlequinBright
@@ -1814,6 +1835,8 @@ Vauban Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperBright
 Vauban Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperDark
 Gambit Vauban Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperGambitBright
 Gambit Vauban Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperGambitDark
+/Lotus/Language/Items/Avatarmiragetrivelinbrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTravelinMirageBright
+/Lotus/Language/Items/Avatarmiragetrivelindarkname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTravelinMirageDark
 Aura Trinity Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrinityAuraBright
 Aura Trinity Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrinityAuraDark
 Trinity Avatar,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrinityBright
@@ -1894,6 +1917,7 @@ Classici Saturati,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPi
 Tempesta,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerItemC
 Colour Picker D,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerItemD
 /Lotus/Language/Items/Colourpickerlotusname,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerLotus
+/Lotus/Language/Items/Colourpickerorokinname,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerOrokin
 /Lotus/Language/Items/Psivcolorpickername,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerPS4ItemA
 Rosso/Bianco/Blu,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerRWBItem
 /Lotus/Language/Items/Shamrockcolourpickername,/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerShamrockItem
@@ -2021,7 +2045,9 @@ Aumento Scatto,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerSprintAuraMod
 Affinità Amp,/Lotus/StoreItems/Upgrades/Mods/Aura/PlayerXPAuraMod
 Aura Emp,/Lotus/StoreItems/Upgrades/Mods/Aura/RobotPoorAimAuraMod
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/BossDropReductionAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/CorrosiveDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/EnergyDrainCaptureTargetAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/EnergyLimitAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/FastEnemyLevelAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HalfShieldsLevelAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HighDamageEnemyLevelAura
@@ -2029,6 +2055,7 @@ Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveDoubleDamageEn
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveExtraDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceProcEnemyAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/NpcDropReductionAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PoisonDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PortalEventAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/RaidEnemyDamageResistLevelAura
@@ -2873,6 +2900,7 @@ Casco Phoenix Ember,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberHelmetAltStatles
 /Lotus/Language/Items/Unlockemberagile,/Lotus/StoreItems/Upgrades/Skins/Ember/UnlockEmberAgile
 /Lotus/Language/Items/Unlockembernoble,/Lotus/StoreItems/Upgrades/Skins/Ember/UnlockEmberNoble
 /Lotus/Language/Items/Rocketcrossbowvorskinname,/Lotus/StoreItems/Upgrades/Skins/Events/ArchRocketCrossbowGrineer
+/Lotus/Language/Items/Blackoutorthosname,/Lotus/StoreItems/Upgrades/Skins/Events/BlackoutOrthos
 /Lotus/Language/Items/Bunnyearsname,/Lotus/StoreItems/Upgrades/Skins/Events/BunnyEars
 /Lotus/Language/Items/Crpfreezeraysnowflakeskinname,/Lotus/StoreItems/Upgrades/Skins/Events/GlaxionPolar
 /Lotus/Language/Items/Infquantainfestedaladvname,/Lotus/StoreItems/Upgrades/Skins/Events/InfQuantaInfestedAladV
@@ -2887,7 +2915,7 @@ Casco Avalon Excalibur,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelme
 /Lotus/Language/Items/Excaliburprimealabasterskin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeAlabasterSkin
 /Lotus/Language/Items/Excaliburprimeimmortalskinname,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeAlternateSkin
 Casco Excalibur Prime,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeHelmet
-/Lotus/Language/Items/Protoexcalibursuitname,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoHelmet
+/Lotus/Language/Items/Protoexcaliburhelmetname,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoHelmet
 /Lotus/Language/Items/Protoexcalibursuitname,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoSuit
 Casco Excalibur,/Lotus/StoreItems/Upgrades/Skins/Excalibur/GeoffcaliburHelmet
 /Lotus/Language/Items/Unlockexcaliburagile,/Lotus/StoreItems/Upgrades/Skins/Excalibur/UnlockExcaliburAgile
@@ -2951,6 +2979,7 @@ Skin Martello Brokk,/Lotus/StoreItems/Upgrades/Skins/Hammer/GrnHammer
 /Lotus/Language/Items/Harlequindefaulthelmet,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinHelmet
 /Lotus/Language/Items/Harlequinalthelmet,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinHelmetAlt
 /Lotus/Language/Items/Harlequinnobleanims,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinNobleAnims
+/Lotus/Language/Items/Miragealtbhelmetname,/Lotus/StoreItems/Upgrades/Skins/Harlequin/MirageAltBHelmet
 /Lotus/Language/Items/Holidaymirageskinname,/Lotus/StoreItems/Upgrades/Skins/Harlequin/MirageXmasSkin
 /Lotus/Language/Items/Unlockharlequinagile,/Lotus/StoreItems/Upgrades/Skins/Harlequin/UnlockHarlequinAgile
 /Lotus/Language/Items/Unlockharlequinnoble,/Lotus/StoreItems/Upgrades/Skins/Harlequin/UnlockHarlequinNoble
@@ -3002,6 +3031,7 @@ Casco Coil Mag,/Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmetAltStatless
 /Lotus/Language/Items/Unlockmagagile,/Lotus/StoreItems/Upgrades/Skins/Mag/UnlockMagAgile
 /Lotus/Language/Items/Unlockmagnoble,/Lotus/StoreItems/Upgrades/Skins/Mag/UnlockMagNoble
 /Lotus/Language/Items/Limboagileanims,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianAgileAnims
+/Lotus/Language/Items/Limboaltbhelmetname,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianAltBHelmet
 /Lotus/Language/Items/Aristeasmagicianhelmetname,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianAristeasHelmet
 /Lotus/Language/Items/Magicianhelmetname,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianHelmet
 /Lotus/Language/Items/Limbonobleanims,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianNobleAnims
@@ -3540,6 +3570,7 @@ Orthos Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PrimePolearmWeapon
 /Lotus/Language/Items/Etherscythename,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/EtherScytheWeapon
 Reaper Prime,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/ReaperWeapon
 Hate,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/StalkerScytheWeapon
+/Lotus/Language/Items/Somadualkamasname,/Lotus/StoreItems/Weapons/Tenno/Melee/Soma/SomaDualKamas
 /Lotus/Language/Items/Tnomonkspadename,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/MonkSpade/TnoMonkStaff
 /Lotus/Language/Items/Boprimename,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/PrimeBo/PrimeBoWeapon
 Bo,/Lotus/StoreItems/Weapons/Tenno/Melee/Staff/BaseStaff
@@ -3577,6 +3608,7 @@ Vasto,/Lotus/StoreItems/Weapons/Tenno/Pistol/RevolverPistol
 /Lotus/Language/Items/Primesicarusname,/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeSicarus/PrimeSicarusPistol
 /Lotus/Language/Items/Primevastoname,/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeVasto/PrimeVastoPistol
 /Lotus/Language/Items/Tennohandshotgunname,/Lotus/StoreItems/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun
+/Lotus/Language/Items/Akimbosomapistolsname,/Lotus/StoreItems/Weapons/Tenno/Pistols/SomaSidearm/AkimboSomaPistols
 /Lotus/Language/Items/Tennouziname,/Lotus/StoreItems/Weapons/Tenno/Pistols/TennoUzi/TennoUzi
 /Lotus/Language/Items/Tnobladedpistolsname,/Lotus/StoreItems/Weapons/Tenno/Pistols/TigrisRedeemerSetPistol/TnoBladedPistols
 Boltor,/Lotus/StoreItems/Weapons/Tenno/Rifle/BoltoRifle
@@ -3613,6 +3645,7 @@ Locust Ash Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackAshLocust
 Banshee Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackBanshee
 Chorus Banshee Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackBansheeChorus
 /Lotus/Language/Items/Avatarpackchromaname,/Lotus/Types/StoreItems/AvatarImages/AvatarPackChroma
+/Lotus/Language/Items/Avatarpackchromaamaruname,/Lotus/Types/StoreItems/AvatarImages/AvatarPackChromaAmaru
 Ember Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackEmber
 Backdraft Ember Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackEmberBackdraft
 Excalibur Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackExcalibur
@@ -3622,13 +3655,16 @@ Frost Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrost
 Squall Frost Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrostSquall
 /Lotus/Language/Items/Avatarpackgunslingername,/Lotus/Types/StoreItems/AvatarImages/AvatarPackGunslinger
 /Lotus/Language/Items/Avatarpacklimboname,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLimbo
+/Lotus/Language/Items/Avatarpacklimbograeaename,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLimboGraeae
 Loki Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLoki
 /Lotus/Language/Items/Avatarpacklokienigmaname,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLokiEnigma
 Swindle Loki Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackLokiSwindle
 Mag Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMag
 Gauss Mag Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMagGauss
 /Lotus/Language/Items/Avatarpackmagprimename,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMagPrime
+/Lotus/Language/Items/Avatarpackmesacortesname,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMesaCortes
 /Lotus/Language/Items/Avatarpackmiragename,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMirage
+/Lotus/Language/Items/Avatarpackmiragetrivelinname,/Lotus/Types/StoreItems/AvatarImages/AvatarPackMirageTravelin
 /Lotus/Language/Items/Avatarpacknekrosname,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekros
 /Lotus/Language/Items/Avatarpacknekrosshroudname,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNekrosShroud
 Nova Avatar Pack,/Lotus/Types/StoreItems/AvatarImages/AvatarPackNova
@@ -3729,6 +3765,7 @@ Quale Stalker?,/Lotus/Types/StoreItems/Packages/StalkerPack
 /Lotus/Language/Items/Stealtharchwingbundlename,/Lotus/Types/StoreItems/Packages/StealthArchwingBundle
 Stealth Pack,/Lotus/Types/StoreItems/Packages/StealthPack
 /Lotus/Language/Items/Superchargepackname,/Lotus/Types/StoreItems/Packages/SuperChargePack
+/Lotus/Language/Items/Supremesomasetname,/Lotus/Types/StoreItems/Packages/SupremeSomaBundle
 /Lotus/Language/Items/Tengupackname,/Lotus/Types/StoreItems/Packages/TenguPack
 /Lotus/Language/Items/Tigrisredeemersetpackname,/Lotus/Types/StoreItems/Packages/TigrisRedeemerSetPack
 Kit Silenzio Mortale,/Lotus/Types/StoreItems/Packages/TranslatorPack

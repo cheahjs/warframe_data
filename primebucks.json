@@ -872,6 +872,10 @@
     "PrimeBucks": "30"
   },
   {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
+    "PrimeBucks": "50"
+  },
+  {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Akbroncoprimelink",
     "PrimeBucks": "50"
   },
@@ -909,10 +913,6 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimebarrel",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
     "PrimeBucks": "50"
   },
   {
@@ -1096,6 +1096,10 @@
     "PrimeBucks": "30"
   },
   {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
+    "PrimeBucks": "50"
+  },
+  {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Akbroncoprimelink",
     "PrimeBucks": "50"
   },
@@ -1133,10 +1137,6 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimebarrel",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
     "PrimeBucks": "50"
   },
   {

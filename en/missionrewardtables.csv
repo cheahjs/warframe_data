@@ -628,6 +628,12 @@ Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Menu/Craftingcomponent_Frostsystemsname Blueprint,1,UNCOMMON,0.225641025641026
 ,,,
 ,,,
+FusionCoreRewards - Tier 0,,,
+Item Name,Item Count,Rarity,Probability
+Rare /Lotus/Language/Items/Fusionpart,5,COMMON,0.774358974358974
+Rare /Lotus/Language/Items/Fusionpart,10,UNCOMMON,0.225641025641026
+,,,
+,,,
 GolemMissionRewards - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Menu/Craftingcomponent_Necrochassisname Blueprint,1,UNCOMMON,0.333333333333333
@@ -1271,7 +1277,7 @@ Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Menu/Craftingcomponent_Nextpromowarframesystemsname Blueprint,1,COMMON,0.193589743589744
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.193589743589744
 /Lotus/Language/Menu/Craftingcomponent_Broncoprimereceiver,1,COMMON,0.193589743589744
-/Lotus/Language/Items/Frostprimename Blueprint,1,UNCOMMON,0.112820512820513
+/Lotus/Language/Items/Voltprimename Blueprint,1,UNCOMMON,0.112820512820513
 /Lotus/Language/Menu/Craftingcomponent_Akbroncoprimelink,1,COMMON,0.193589743589744
 Rare /Lotus/Language/Items/Fusionpart,5,UNCOMMON,0.112820512820513
 ,,,
@@ -1458,7 +1464,7 @@ Item Name,Item Count,Rarity,Probability
 ,,,
 OrokinMobileDefenseRewardsB - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Menu/Craftingcomponent_Primescythehandle,1,COMMON,0.193589743589744
+/Lotus/Language/Items/Primeburstonname Blueprint,1,COMMON,0.193589743589744
 /Lotus/Language/Menu/Craftingcomponent_Nextpromowarframehelmetname Blueprint,1,UNCOMMON,0.112820512820513
 /Lotus/Language/Menu/Craftingcomponent_Rhinoprimehelmetname Blueprint,1,UNCOMMON,0.112820512820513
 /Lotus/Language/Items/Bratonprimename Blueprint,1,COMMON,0.193589743589744
