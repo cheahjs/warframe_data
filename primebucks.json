@@ -412,6 +412,10 @@
     "PrimeBucks": "100"
   },
   {
+    "Name": "/Lotus/Language/Items/Pistoldamageonreloadname",
+    "PrimeBucks": "100"
+  },
+  {
     "Name": "/Lotus/Language/Items/Abilitydurationoncastname",
     "PrimeBucks": "100"
   },
@@ -425,10 +429,6 @@
   },
   {
     "Name": "/Lotus/Language/Items/Damagereductionduringrevivename",
-    "PrimeBucks": "100"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Pistoldamageonreloadname",
     "PrimeBucks": "100"
   },
   {
@@ -864,12 +864,24 @@
     "PrimeBucks": "30"
   },
   {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingchassisname",
+    "PrimeBucks": "40"
+  },
+  {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname Blueprint",
     "PrimeBucks": "30"
   },
   {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname",
+    "PrimeBucks": "40"
+  },
+  {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname Blueprint",
     "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname",
+    "PrimeBucks": "40"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
@@ -1088,12 +1100,24 @@
     "PrimeBucks": "30"
   },
   {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingchassisname",
+    "PrimeBucks": "40"
+  },
+  {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname Blueprint",
     "PrimeBucks": "30"
   },
   {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname",
+    "PrimeBucks": "40"
+  },
+  {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname Blueprint",
     "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname",
+    "PrimeBucks": "40"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
@@ -1304,6 +1328,10 @@
     "PrimeBucks": "20"
   },
   {
+    "Name": "/Lotus/Language/Items/Pistoldamageonreloadname",
+    "PrimeBucks": "100"
+  },
+  {
     "Name": "/Lotus/Language/Items/Abilitydurationoncastname",
     "PrimeBucks": "100"
   },
@@ -1317,10 +1345,6 @@
   },
   {
     "Name": "/Lotus/Language/Items/Damagereductionduringrevivename",
-    "PrimeBucks": "100"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Pistoldamageonreloadname",
     "PrimeBucks": "100"
   },
   {

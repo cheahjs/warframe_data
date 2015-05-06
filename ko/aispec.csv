@@ -226,6 +226,10 @@ CorpusSquadA,크루맨 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,코퍼스 테크 (Spaceman/AIWeek/DeployableSpacemanAgent),0.050000001,0,0
 ,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,0
 ,/Lotus/Language/Game/Discosprey (Drones/AIWeek/DiscDroneAgent),0.1,0,0
+CorpusSquadATutorial,크루맨 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,쉴드 어스프레이 (Drones/AIWeek/ShieldDroneAgent),0.1,1,0
+,프로드 크루맨 (Spaceman/AIWeek/MeleeSpacemanAgent),0.25,0,0
+,M.O.A (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
 CorpusSquadB,크루맨 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
 ,/Lotus/Language/Game/Elitespaceman (Spaceman/EliteSpacemanAgent),1,0,0
 ,쇼크웨이브 M.O.A (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,0,0
@@ -380,7 +384,7 @@ DesertGrineerDefenseA,Desert/RifleLancer,1,0,0
 ,AIWeek/MacheteWomanNoCover,0.2,3,2
 ,AIWeek/FlameLancer,0.15000001,2,2
 ,AIWeek/BeastMaster,0.2,2,1
-GrineerEventSquadMDesertGrineerSquadOne,Desert/RifleLancer,1,0,0
+DesertGrineerSquadOne,Desert/RifleLancer,1,0,0
 ,Desert/EliteRifleLancer,1,0,0
 ,Desert/BladeSawman,0.30000001,0,0
 ,Desert/ShotgunLancer,0.25,0,0
@@ -549,7 +553,7 @@ GrineerDefenseForest,Forest/RifleLancer,1,0,0
 ,AIWeek/MacheteWomanNoCover,0.2,0,2
 ,Forest/EvisceratorLancer,0.1,2,2
 ,AIWeek/BeastMaster,0.15000001,2,1
-GrineerHeavyEnemies,GrineerMarinePistol,0.5,2,9
+GrineerEventSquadMGrineerHeavyEnemies,GrineerMarinePistol,0.5,2,9
 ,AIWeek/MinigunBombard,1,2,9
 ,AIWeek/FlameLancer,1,2,9
 ,AIWeek/RocketBombard,1,1,9
@@ -838,25 +842,24 @@ GrineerTutorialSquadFour,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EliteRifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
 ,AIWeek/MacheteWoman,0.1,1,0
-,AIWeek/ShotgunLancer,0.15000001,3,0
-,AIWeek/ShieldLancer,0.1,2,0
+,AIWeek/ShotgunLancer,0.2,2,0
+,AIWeek/ShieldLancer,0.1,1,0
 ,GrineerMarinePistol,0.050000001,1,0
-,AIWeek/PistonSawman,0.2,3,0
+,AIWeek/GrineerFemaleTutorial,0.1,1,0
 GrineerTutorialSquadOne,TutorialMarine,0.69999999,0,0
 ,Forest/RifleLancerTutorial,1,0,0
 ,Forest/JetpackMarineTutorial,0.5,2,0
 ,AIWeek/BladeSawmanNoCoverTutorial,0.30000001,5,0
-,Forest/ShotgunLancerTutorial,0.2,2,0
-,AIWeek/GrineerFemaleTutorial,0.2,2,0
+,Forest/ShotgunLancerTutorial,0.15000001,1,0
 GrineerTutorialSquadThree,AIWeek/RifleLancer,1,0,0
 ,AIWeek/BladeSawman,0.30000001,0,0
-,AIWeek/ShotgunLancer,0.2,3,0
-,AIWeek/ShieldLancerTutorial,0.2,2,0
+,AIWeek/ShotgunLancer,0.2,2,0
+,AIWeek/ShieldLancerTutorial,0.2,1,0
+,AIWeek/GrineerFemaleTutorial,0.050000001,1,0
 GrineerTutorialSquadTwo,TutorialMarine,0.5,2,0
-,AIWeek/RifleLancer,1,0,0
-,AIWeek/BladeSawman,0.30000001,5,0
-,Forest/ShotgunLancerTutorial,0.40000001,2,0
-,AIWeek/GrineerFemaleTutorial,0.2,2,0
+,Forest/RifleLancerTutorial,1,0,0
+,AIWeek/BladeSawmanNoCoverTutorial,0.30000001,5,0
+,Forest/ShotgunLancerTutorial,0.1,1,0
 HekRaidBossGrineerSquad,Desert/EliteRifleLancer,1,0,0
 ,AIWeek/MacheteWomanNoCover,0.30000001,0,0
 ,Desert/MinigunBombard,0.050000001,2,0
