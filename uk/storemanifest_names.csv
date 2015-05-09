@@ -1006,21 +1006,21 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Items/Eosshoulderplatesname Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EosLeftShoulderBlueprint
 /Lotus/Language/Items/Eoskneeplatesname Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EosRightLegBlueprint
 /Lotus/Language/Items/Eosshoulderplatesname Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EosRightShoulderBlueprint
-/Lotus/Language/Items/Ancienthealerball x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/AncientHealerBallBlueprint
+/Lotus/Language/Items/Ancienthealerball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/AncientHealerBallBlueprint
 /Lotus/Language/Items/Brandremovalitemname Blueprint,/Lotus/StoreItems/Types/Recipes/Components/BrandRemovalBlueprint
 /Lotus/Language/Items/Brandremovalitemname,/Lotus/StoreItems/Types/Recipes/Components/BrandRemovalFakeItem
 /Lotus/Language/Items/Bronzespectre x10 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/BronzeSpectreBlueprint
-/Lotus/Language/Items/Chargerball x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/ChargerBallBlueprint
+/Lotus/Language/Items/Chargerball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/ChargerBallBlueprint
 /Lotus/Language/Items/Clancreator,/Lotus/StoreItems/Types/Recipes/Components/ClanCreatorBlueprint
-/Lotus/Language/Items/Corruptedlancerball x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/CorruptedLancerBallBlueprint
+/Lotus/Language/Items/Corruptedlancerball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/CorruptedLancerBallBlueprint
 Форма Blueprint,/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint
 /Lotus/Language/Items/Goldspectre x3 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/GoldSpectreBlueprint
-/Lotus/Language/Items/Moaball x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/MoaBallBlueprint
+/Lotus/Language/Items/Moaball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/MoaBallBlueprint
 Каталізатор Орокін Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinCatalystBlueprint
 Реактор Орокін Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinReactorBlueprint
 /Lotus/Language/Items/Platinumspectre Blueprint,/Lotus/StoreItems/Types/Recipes/Components/PlatinumSpectreBlueprint
-/Lotus/Language/Items/Rollerball x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/RollerBallBlueprint
-/Lotus/Language/Items/Shielddroneball x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/ShieldDroneBallBlueprint
+/Lotus/Language/Items/Rollerball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/RollerBallBlueprint
+/Lotus/Language/Items/Shielddroneball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/ShieldDroneBallBlueprint
 /Lotus/Language/Items/Silverspectre x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/SilverSpectreBlueprint
 /Lotus/Language/Items/Vorboltremover Blueprint,/Lotus/StoreItems/Types/Recipes/Components/VorBoltRemoverBlueprint
 /Lotus/Language/Items/Vorboltremover,/Lotus/StoreItems/Types/Recipes/Components/VorBoltRemoverFakeItem
@@ -2482,7 +2482,7 @@ Sniper Ammo Mutation,/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponSnipersConvertA
 Швидке Відхилення,/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelShieldRechargeRateMod
 Стиснення Набоїв,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponAmmoMaxModBeginner
 Дріб,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponArmorPiercingDamageModBeginner
-/Lotus/Language/Items/Primedshotgunmodclipmax,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponClipMaxModBeginner
+Запас Набоїв,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponClipMaxModBeginner
 Дробовик,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponCritChanceModBeginner
 Спустошення,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponCritDamageModBeginner
 Порожнє Місце,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponDamageAmountModBeginner
@@ -2514,7 +2514,7 @@ Accelerated Blast,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/AcceleratedBl
 /Lotus/Language/Mods/Seekingfurymod,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/ReloadSpeedPunchThroughMod
 Стиснення Набоїв,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponAmmoMaxModExpert
 Дріб,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponArmorPiercingDamageModExpert
-/Lotus/Language/Items/Primedshotgunmodclipmax,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponClipMaxModExpert
+Запас Набоїв,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponClipMaxModExpert
 Дробовик,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponCritChanceModExpert
 /Lotus/Language/Mods/Expertshotgunmodcritdamage,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponCritDamageModExpert
 /Lotus/Language/Mods/Expertshotgunmoddamageamount,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponDamageAmountModExpert
@@ -2536,7 +2536,7 @@ Cleanse Infested,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFac
 Shotgun Ammo Mutation,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Intermediate/WeaponShotgunConvertAmmoModIntermediate
 Стиснення Набоїв,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponAmmoMaxMod
 Дріб,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponArmorPiercingDamageMod
-/Lotus/Language/Items/Primedshotgunmodclipmax,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponClipMaxMod
+Запас Набоїв,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponClipMaxMod
 Дробовик,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponCritChanceMod
 Спустошення,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponCritDamageMod
 Порожнє Місце,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponDamageAmountMod
@@ -3448,6 +3448,7 @@ Jet Sentinel Wings,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/JetWingsRigh
 Спектра,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserPistol
 Потокова Рушниця,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserRifle
 /Lotus/Language/Items/Crpshockriflename Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpShockRifleBlueprint
+/Lotus/Language/Items/Deravandalname,/Lotus/StoreItems/Weapons/ClanTech/Energy/DeraVandal
 Прова,/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProd
 Прова Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProdBlueprint
 Дера,/Lotus/StoreItems/Weapons/ClanTech/Energy/EnergyRifle

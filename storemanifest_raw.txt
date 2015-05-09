@@ -3448,6 +3448,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserPistol,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserRifle,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/CrpShockRifleBlueprint,
+/Lotus/StoreItems/Weapons/ClanTech/Energy/DeraVandal,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProd,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProdBlueprint,
 /Lotus/StoreItems/Weapons/ClanTech/Energy/EnergyRifle,

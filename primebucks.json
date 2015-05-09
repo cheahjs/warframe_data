@@ -884,7 +884,7 @@
     "PrimeBucks": "40"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
     "PrimeBucks": "50"
   },
   {
@@ -925,6 +925,10 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimebarrel",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
     "PrimeBucks": "50"
   },
   {
@@ -978,10 +982,6 @@
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Lexprimereceiver",
     "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
-    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboornament",
@@ -1120,7 +1120,7 @@
     "PrimeBucks": "40"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
     "PrimeBucks": "50"
   },
   {
@@ -1161,6 +1161,10 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimebarrel",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
     "PrimeBucks": "50"
   },
   {
@@ -1214,10 +1218,6 @@
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Lexprimereceiver",
     "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
-    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboornament",

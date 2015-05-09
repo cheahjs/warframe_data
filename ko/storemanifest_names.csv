@@ -1006,21 +1006,21 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Items/Eosshoulderplatesname Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EosLeftShoulderBlueprint
 /Lotus/Language/Items/Eoskneeplatesname Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EosRightLegBlueprint
 /Lotus/Language/Items/Eosshoulderplatesname Blueprint,/Lotus/StoreItems/Types/Recipes/ArmourAttachments/EosRightShoulderBlueprint
-/Lotus/Language/Items/Ancienthealerball x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/AncientHealerBallBlueprint
+/Lotus/Language/Items/Ancienthealerball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/AncientHealerBallBlueprint
 /Lotus/Language/Items/Brandremovalitemname Blueprint,/Lotus/StoreItems/Types/Recipes/Components/BrandRemovalBlueprint
 /Lotus/Language/Items/Brandremovalitemname,/Lotus/StoreItems/Types/Recipes/Components/BrandRemovalFakeItem
 /Lotus/Language/Items/Bronzespectre x10 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/BronzeSpectreBlueprint
-/Lotus/Language/Items/Chargerball x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/ChargerBallBlueprint
+/Lotus/Language/Items/Chargerball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/ChargerBallBlueprint
 /Lotus/Language/Items/Clancreator,/Lotus/StoreItems/Types/Recipes/Components/ClanCreatorBlueprint
-/Lotus/Language/Items/Corruptedlancerball x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/CorruptedLancerBallBlueprint
+/Lotus/Language/Items/Corruptedlancerball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/CorruptedLancerBallBlueprint
 포르마 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint
 /Lotus/Language/Items/Goldspectre x3 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/GoldSpectreBlueprint
-/Lotus/Language/Items/Moaball x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/MoaBallBlueprint
+/Lotus/Language/Items/Moaball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/MoaBallBlueprint
 오로킨 카탈리스트 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinCatalystBlueprint
 오로킨 리액터 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinReactorBlueprint
 /Lotus/Language/Items/Platinumspectre Blueprint,/Lotus/StoreItems/Types/Recipes/Components/PlatinumSpectreBlueprint
-/Lotus/Language/Items/Rollerball x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/RollerBallBlueprint
-/Lotus/Language/Items/Shielddroneball x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/ShieldDroneBallBlueprint
+/Lotus/Language/Items/Rollerball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/RollerBallBlueprint
+/Lotus/Language/Items/Shielddroneball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/ShieldDroneBallBlueprint
 /Lotus/Language/Items/Silverspectre x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/SilverSpectreBlueprint
 /Lotus/Language/Items/Vorboltremover Blueprint,/Lotus/StoreItems/Types/Recipes/Components/VorBoltRemoverBlueprint
 /Lotus/Language/Items/Vorboltremover,/Lotus/StoreItems/Types/Recipes/Components/VorBoltRemoverFakeItem
@@ -2482,7 +2482,7 @@ Glaive Refraction,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveReflectionIn
 패스트 디플렉션 (센티널),/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelShieldRechargeRateMod
 셸 컴프레션,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponAmmoMaxModBeginner
 플레솃,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponArmorPiercingDamageModBeginner
-/Lotus/Language/Items/Primedshotgunmodclipmax,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponClipMaxModBeginner
+애모 스톡,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponClipMaxModBeginner
 블런더버스,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponCritChanceModBeginner
 레비지,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponCritDamageModBeginner
 포인트 블랭크,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponDamageAmountModBeginner
@@ -2514,7 +2514,7 @@ Glaive Refraction,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveReflectionIn
 /Lotus/Language/Mods/Seekingfurymod,/Lotus/StoreItems/Upgrades/Mods/Shotgun/DualStat/ReloadSpeedPunchThroughMod
 셸 컴프레션,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponAmmoMaxModExpert
 플레솃,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponArmorPiercingDamageModExpert
-/Lotus/Language/Items/Primedshotgunmodclipmax,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponClipMaxModExpert
+애모 스톡,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponClipMaxModExpert
 블런더버스,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponCritChanceModExpert
 /Lotus/Language/Mods/Expertshotgunmodcritdamage,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponCritDamageModExpert
 /Lotus/Language/Mods/Expertshotgunmoddamageamount,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponDamageAmountModExpert
@@ -2536,7 +2536,7 @@ Glaive Refraction,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveReflectionIn
 샷건 아모 뮤테이션,/Lotus/StoreItems/Upgrades/Mods/Shotgun/Intermediate/WeaponShotgunConvertAmmoModIntermediate
 셸 컴프레션,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponAmmoMaxMod
 플레솃,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponArmorPiercingDamageMod
-/Lotus/Language/Items/Primedshotgunmodclipmax,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponClipMaxMod
+애모 스톡,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponClipMaxMod
 블런더버스,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponCritChanceMod
 레비지,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponCritDamageMod
 포인트 블랭크,/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponDamageAmountMod
@@ -3448,6 +3448,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 스펙트라,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserPistol
 플럭스 라이플,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpLaserRifle
 /Lotus/Language/Items/Crpshockriflename Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/CrpShockRifleBlueprint
+/Lotus/Language/Items/Deravandalname,/Lotus/StoreItems/Weapons/ClanTech/Energy/DeraVandal
 프로바,/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProd
 프로바 Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Energy/ElectroProdBlueprint
 데라,/Lotus/StoreItems/Weapons/ClanTech/Energy/EnergyRifle
