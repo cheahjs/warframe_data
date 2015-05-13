@@ -219,6 +219,7 @@ StoreItems={
 /Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantADecoRecipe,
 /Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantBDecoRecipe,
 /Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantCDecoRecipe,
+/Lotus/StoreItems/Levels/HijackPerformanceTestKey,
 /Lotus/StoreItems/Powersuits/All/CarryAbilityCard,
 /Lotus/StoreItems/Powersuits/All/ClothTestSuit,
 /Lotus/StoreItems/Powersuits/All/LureAbilityCard,
@@ -263,6 +264,7 @@ StoreItems={
 /Lotus/StoreItems/Powersuits/Berserker/IntimidateAbilityCard,
 /Lotus/StoreItems/Powersuits/Berserker/IntimidateAugmentCard,
 /Lotus/StoreItems/Powersuits/Berserker/LastStandAbilityCard,
+/Lotus/StoreItems/Powersuits/Berserker/LastStandPvPAugmentCard,
 /Lotus/StoreItems/Powersuits/Berserker/ShieldBashAugmentCard,
 /Lotus/StoreItems/Powersuits/Berserker/ShieldBlastAbilityCard,
 /Lotus/StoreItems/Powersuits/Cowgirl/BallisticBatteryAbilityCard,
@@ -282,6 +284,7 @@ StoreItems={
 /Lotus/StoreItems/Powersuits/Ember/FireBallAugmentCard,
 /Lotus/StoreItems/Powersuits/Ember/FireBlastAbilityCard,
 /Lotus/StoreItems/Powersuits/Ember/FireBlastAugmentCard,
+/Lotus/StoreItems/Powersuits/Ember/FireBlastPvPAugmentCard,
 /Lotus/StoreItems/Powersuits/Ember/FireSkinAbilityCard,
 /Lotus/StoreItems/Powersuits/Ember/WorldOnFireAbilityCard,
 /Lotus/StoreItems/Powersuits/Ember/WorldOnFireAugmentCard,
@@ -367,6 +370,7 @@ StoreItems={
 /Lotus/StoreItems/Powersuits/Ninja/TelelportToAbilityCard,
 /Lotus/StoreItems/Powersuits/Paladin/Paladin,
 /Lotus/StoreItems/Powersuits/Paladin/ReckoningAbilityCard,
+/Lotus/StoreItems/Powersuits/Paladin/ReckoningPvPAugmentCard,
 /Lotus/StoreItems/Powersuits/Paladin/RegenerationAbilityCard,
 /Lotus/StoreItems/Powersuits/Paladin/SmiteAbilityCard,
 /Lotus/StoreItems/Powersuits/Paladin/SmiteAugmentCard,
@@ -442,6 +446,7 @@ StoreItems={
 /Lotus/StoreItems/Types/BoosterPacks/RandomKey,
 /Lotus/StoreItems/Types/BoosterPacks/RareArtifactPack,
 /Lotus/StoreItems/Types/BoosterPacks/RareFusionPack,
+/Lotus/StoreItems/Types/BoosterPacks/RareResourcePack,
 /Lotus/StoreItems/Types/BoosterPacks/SingleCommonArtifact,
 /Lotus/StoreItems/Types/BoosterPacks/SingleRareArtifact,
 /Lotus/StoreItems/Types/BoosterPacks/SyndicateRandomKey,
@@ -477,6 +482,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidB,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidC,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidD,
+/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidDiamond,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidE,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidF,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidG,
@@ -484,10 +490,12 @@ StoreItems={
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidI,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidJ,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidK,
+/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidLiquid,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneA,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneB,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneC,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneD,
+/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneDiamond,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneE,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneF,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneG,
@@ -495,6 +503,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneI,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneJ,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneK,
+/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneLiquid,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeTraderMidA,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeTraderMundaneA,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeTraderVibrantA,
@@ -502,6 +511,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantB,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantC,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantD,
+/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantDiamond,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantE,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantF,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantG,
@@ -509,6 +519,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantI,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantJ,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantK,
+/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantLiquid,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMidA,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMidB,
 /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMundaneA,
@@ -521,11 +532,13 @@ StoreItems={
 /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternB,
 /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternC,
 /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternD,
+/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternDiamond,
 /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternE,
 /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternF,
 /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternG,
 /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternH,
 /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternI,
+/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternLiquid,
 /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternPrimeTraderA,
 /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternXmasA,
 /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternXmasB,
@@ -842,6 +855,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Keys/InfestedCorpusHiveEventKey,
 /Lotus/StoreItems/Types/Keys/LimboQuestKeyBlueprint,
 /Lotus/StoreItems/Types/Keys/MirageQuestKeyBlueprint,
+/Lotus/StoreItems/Types/Keys/NightmareGrineerRaidKeyBlueprint,
 /Lotus/StoreItems/Types/Keys/NightmareKeyShipyardsRetrieval,
 /Lotus/StoreItems/Types/Keys/NightmareRetrievalKeyBlueprint,
 /Lotus/StoreItems/Types/Keys/OrokinCaptureKeyA,
@@ -1012,13 +1026,20 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/Components/BronzeSpectreBlueprint,
 /Lotus/StoreItems/Types/Recipes/Components/ChargerBallBlueprint,
 /Lotus/StoreItems/Types/Recipes/Components/ClanCreatorBlueprint,
+/Lotus/StoreItems/Types/Recipes/Components/ControlModuleResourceBlueprint,
 /Lotus/StoreItems/Types/Recipes/Components/CorruptedLancerBallBlueprint,
 /Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint,
+/Lotus/StoreItems/Types/Recipes/Components/GalliumResourceBlueprint,
 /Lotus/StoreItems/Types/Recipes/Components/GoldSpectreBlueprint,
 /Lotus/StoreItems/Types/Recipes/Components/MoaBallBlueprint,
+/Lotus/StoreItems/Types/Recipes/Components/MorphicsResourceBlueprint,
+/Lotus/StoreItems/Types/Recipes/Components/NeuralSensorResourceBlueprint,
+/Lotus/StoreItems/Types/Recipes/Components/NeurodeResourceBlueprint,
 /Lotus/StoreItems/Types/Recipes/Components/OrokinCatalystBlueprint,
+/Lotus/StoreItems/Types/Recipes/Components/OrokinCellResourceBlueprint,
 /Lotus/StoreItems/Types/Recipes/Components/OrokinReactorBlueprint,
 /Lotus/StoreItems/Types/Recipes/Components/PlatinumSpectreBlueprint,
+/Lotus/StoreItems/Types/Recipes/Components/RareResourceBlueprint,
 /Lotus/StoreItems/Types/Recipes/Components/RollerBallBlueprint,
 /Lotus/StoreItems/Types/Recipes/Components/ShieldDroneBallBlueprint,
 /Lotus/StoreItems/Types/Recipes/Components/SilverSpectreBlueprint,
@@ -1451,6 +1472,9 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/SomaPrimeStock,
 /Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VastoPrimeBarrel,
 /Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VastoPrimeReceiver,
+/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VectisPrimeBarrel,
+/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VectisPrimeReceiver,
+/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VectisPrimeStock,
 /Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VorsPistolBarrel,
 /Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VorsPistolReceiver,
 /Lotus/StoreItems/Types/Recipes/Weapons/AFurisBlueprint,
@@ -1467,10 +1491,12 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/Weapons/ArchRailgunBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/ArchRocketCrossbowBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/ArchSwordShieldBlueprint,
+/Lotus/StoreItems/Types/Recipes/Weapons/AsymetricalBowBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/AutoCrossBowBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/AxeBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/BoarPrimeBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/BoltoBlueprint,
+/Lotus/StoreItems/Types/Recipes/Weapons/BoltonfaBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/BoltorBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/BoltorPrimeBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/BoomerangBlueprint,
@@ -1532,6 +1558,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/Weapons/GrnBurstRifleBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/GrnClawsBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/GrnGrenadeLauncherBlueprint,
+/Lotus/StoreItems/Types/Recipes/Weapons/GrnHeatGunBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/GrnHeavyPistolBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/GrnSniperRifleBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/GrnSparkRifleBlueprint,
@@ -1856,6 +1883,12 @@ StoreItems={
 /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynDark,
 /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynHemlockBright,
 /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynHemlockDark,
+/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSyndicateAH,
+/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSyndicateCS,
+/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSyndicateNL,
+/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSyndicatePS,
+/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSyndicateRV,
+/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSyndicateSM,
 /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperAltBright,
 /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperAltDark,
 /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperBright,
@@ -2085,7 +2118,9 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveExtraDamageEnemyAura,
 /Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceDamageEnemyAura,
 /Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceProcEnemyAura,
+/Lotus/StoreItems/Upgrades/Mods/DirectorMods/KubrowIntensifierAura,
 /Lotus/StoreItems/Upgrades/Mods/DirectorMods/NpcDropReductionAura,
+/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PerfTestExtraHealthEnemyLevelAura,
 /Lotus/StoreItems/Upgrades/Mods/DirectorMods/PoisonDamageEnemyAura,
 /Lotus/StoreItems/Upgrades/Mods/DirectorMods/PortalEventAura,
 /Lotus/StoreItems/Upgrades/Mods/DirectorMods/PvPMeleeChannelingLevelAura,
@@ -2352,6 +2387,8 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Mods/PvPMods/Shotgun/RestoreShieldsOnKillMod,
 /Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/AbilityCastingDamageResistance,
 /Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/AvatarSpawnEnergyMod,
+/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/EffectOnFullEnergyMod,
+/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/EnergyOnFullShieldRegenMod,
 /Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/EnergyOnKill,
 /Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/ReduceShieldRechargeDelayWarframe,
 /Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/StaminaSlide,
@@ -2810,6 +2847,9 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Armor/SetOneChestArmor,
 /Lotus/StoreItems/Upgrades/Skins/Armor/SetOneLegLeftArmor,
 /Lotus/StoreItems/Upgrades/Skins/Armor/SetOneLegRightArmor,
+/Lotus/StoreItems/Upgrades/Skins/Arrows/AlternateArrowA,
+/Lotus/StoreItems/Upgrades/Skins/Arrows/AlternateArrowB,
+/Lotus/StoreItems/Upgrades/Skins/Arrows/AlternateArrowC,
 /Lotus/StoreItems/Upgrades/Skins/Asp/AspAgileAnims,
 /Lotus/StoreItems/Upgrades/Skins/Asp/AspAltHelmet,
 /Lotus/StoreItems/Upgrades/Skins/Asp/AspAltHelmetB,
@@ -2851,6 +2891,7 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeGrandMasterItem,
 /Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeHunterItem,
 /Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeMasterItem,
+/Lotus/StoreItems/Upgrades/Skins/Clan/GrnSeaLabEventBadgeItem,
 /Lotus/StoreItems/Upgrades/Skins/Clan/HiveSabotageEventBadgeItem,
 /Lotus/StoreItems/Upgrades/Skins/Clan/InfTacAlertDiseasedAncientBadgeItem,
 /Lotus/StoreItems/Upgrades/Skins/Clan/InfTacAlertNaniteMoaAncientBadgeItem,
@@ -2865,6 +2906,7 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem,
 /Lotus/StoreItems/Upgrades/Skins/Clan/LotusGuideBadgeItem,
 /Lotus/StoreItems/Upgrades/Skins/Clan/MutalistIncursionsBadgeItem,
+/Lotus/StoreItems/Upgrades/Skins/Clan/NightmareSevantiHaloBadgeItem,
 /Lotus/StoreItems/Upgrades/Skins/Clan/OrokinSabotageBadgeItem,
 /Lotus/StoreItems/Upgrades/Skins/Clan/ReferralBadgeTierAItem,
 /Lotus/StoreItems/Upgrades/Skins/Clan/ReferralBadgeTierBItem,
@@ -3307,6 +3349,9 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveI,
 /Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveJ,
 /Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveK,
+/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveL,
+/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveM,
+/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveN,
 /Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaA,
 /Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaB,
 /Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaC,
@@ -3353,6 +3398,7 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianK,
 /Lotus/StoreItems/Upgrades/Skins/Sigils/TennoLive2015Sigil,
 /Lotus/StoreItems/Upgrades/Skins/Sigils/TwoToneSigil,
+/Lotus/StoreItems/Upgrades/Skins/Sigils/WikiaSigil,
 /Lotus/StoreItems/Upgrades/Skins/Sony/ExcaliburPSPlusSkin,
 /Lotus/StoreItems/Upgrades/Skins/Sony/ExcaliburPSPlusSkinHelmet,
 /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianColtekMask,
@@ -3482,6 +3528,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerFlakCannon/FlakCannon,
 /Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/GLARifle,
 /Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerM16Homage/GrineerM16Rifle,
+/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerM16Homage/KarakWraith,
 /Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerSawbladeGun/SawBladeGun,
 /Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerSniperRifle/GrnSniperRifle,
 /Lotus/StoreItems/Weapons/Grineer/LongGuns/GrnGorgSniperRifle/GrnGorgSniperRifle,
@@ -3495,6 +3542,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon,
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/Machete,
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon,
+/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerTylAxeAndBoar/RegorAxeShield,
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerWhip/GrineerWhip,
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrnBoomerang/GrnBoomerang,
 /Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun,
@@ -3502,6 +3550,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol,
 /Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerMicrowavegun/GrnMicrowavePistol,
 /Lotus/StoreItems/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol,
+/Lotus/StoreItems/Weapons/Grineer/Pistols/HeatGun/GrnHeatGun,
 /Lotus/StoreItems/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers,
 /Lotus/StoreItems/Weapons/Infested/LongGuns/InfCrpShockSwarm/InfCrpShockSwarmRifle,
 /Lotus/StoreItems/Weapons/Infested/LongGuns/QuantaFullyInfested/InfQuantaRifle,
@@ -3547,6 +3596,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun,
 /Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow,
 /Lotus/StoreItems/Weapons/Tenno/Bows/AntlerBow/AntlerBow,
+/Lotus/StoreItems/Weapons/Tenno/Bows/AsymetricalBow/AsymetricalBow,
 /Lotus/StoreItems/Weapons/Tenno/Bows/HuntingBow,
 /Lotus/StoreItems/Weapons/Tenno/Bows/PrimeHuntingBow,
 /Lotus/StoreItems/Weapons/Tenno/Bows/StalkerBow,
@@ -3596,6 +3646,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbTwoMeleeTree,
 /Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ClawCmbOneMeleeTree,
 /Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ClawCmbThreeMeleeTree,
+/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ClawCmbTwoMeleeTree,
 /Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/CrimsonDervishMeleeTree,
 /Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbOneMeleeTree,
 /Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree,
@@ -3652,6 +3703,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Tenno/Melee/Swords/PangolinSword/PangolinLongSword,
 /Lotus/StoreItems/Weapons/Tenno/Melee/Swords/PlasmaSword/PlasmaLongSword,
 /Lotus/StoreItems/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield,
+/Lotus/StoreItems/Weapons/Tenno/Melee/Tonfa/Boltonfa/Boltonfa,
 /Lotus/StoreItems/Weapons/Tenno/Melee/Tonfa/TonfaContestWinner/TennoTonfa,
 /Lotus/StoreItems/Weapons/Tenno/Pistol/AutoPistol,
 /Lotus/StoreItems/Weapons/Tenno/Pistol/BroncoPrime,
@@ -3679,6 +3731,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Tenno/Rifle/BurstRifle,
 /Lotus/StoreItems/Weapons/Tenno/Rifle/HeavyRifle,
 /Lotus/StoreItems/Weapons/Tenno/Rifle/HeavyRifleAI,
+/Lotus/StoreItems/Weapons/Tenno/Rifle/HeavyRifleAIManicBombard,
 /Lotus/StoreItems/Weapons/Tenno/Rifle/LatronPrime,
 /Lotus/StoreItems/Weapons/Tenno/Rifle/Rifle,
 /Lotus/StoreItems/Weapons/Tenno/Rifle/SemiAutoRifle,
@@ -3745,6 +3798,7 @@ StoreItems={
 /Lotus/Types/StoreItems/AvatarImages/AvatarPackRhinoVanguard,
 /Lotus/Types/StoreItems/AvatarImages/AvatarPackSaryn,
 /Lotus/Types/StoreItems/AvatarImages/AvatarPackSarynChlora,
+/Lotus/Types/StoreItems/AvatarImages/AvatarPackSyndicate,
 /Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapper,
 /Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapperGambit,
 /Lotus/Types/StoreItems/AvatarImages/AvatarPackTrinity,
@@ -3762,9 +3816,11 @@ StoreItems={
 /Lotus/Types/StoreItems/Boosters/ResourceAmountBoosterStoreItem,
 /Lotus/Types/StoreItems/Boosters/ResourceDropChanceBoosterStoreItem,
 /Lotus/Types/StoreItems/Boosters/ReviveBoosterStoreItem,
+/Lotus/Types/StoreItems/Packages/AlternateArrowSkinsBundle,
 /Lotus/Types/StoreItems/Packages/AntitoxinPack,
 /Lotus/Types/StoreItems/Packages/BansheePack,
 /Lotus/Types/StoreItems/Packages/BerserkerPack,
+/Lotus/Types/StoreItems/Packages/BoltorBundle,
 /Lotus/Types/StoreItems/Packages/CandyCaneScythePack,
 /Lotus/Types/StoreItems/Packages/ColorPack,
 /Lotus/Types/StoreItems/Packages/ColorPackB,
@@ -3791,6 +3847,7 @@ StoreItems={
 /Lotus/Types/StoreItems/Packages/GrineerForestSkinPack,
 /Lotus/Types/StoreItems/Packages/GrineerPack,
 /Lotus/Types/StoreItems/Packages/GrineerTurbinesArmorPack,
+/Lotus/Types/StoreItems/Packages/GrnSeaLabEventWeaponPack,
 /Lotus/Types/StoreItems/Packages/GunslingerBundle,
 /Lotus/Types/StoreItems/Packages/HalloweenSkinPack,
 /Lotus/Types/StoreItems/Packages/HalloweenSkinPackII,
@@ -3803,6 +3860,8 @@ StoreItems={
 /Lotus/Types/StoreItems/Packages/KubrowBaseColorPack,
 /Lotus/Types/StoreItems/Packages/KubrowColorPackBold,
 /Lotus/Types/StoreItems/Packages/KubrowColorPackCandyCane,
+/Lotus/Types/StoreItems/Packages/KubrowColorPackDiamond,
+/Lotus/Types/StoreItems/Packages/KubrowColorPackLiquid,
 /Lotus/Types/StoreItems/Packages/KubrowColorPackLotus,
 /Lotus/Types/StoreItems/Packages/KubrowColorPackNexus,
 /Lotus/Types/StoreItems/Packages/KubrowColorPackReindeer,
@@ -3860,25 +3919,25 @@ OverrideTexture=/Lotus/Interface/Graphics/Store/FeaturedChroma_d.png
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrnGrenadeLauncher/GrnGrenadeLauncher
+StoreItem=/Lotus/StoreItems/Weapons/Tenno/Bows/AsymetricalBow/AsymetricalBow
 Slot=Primary
 OverrideTexture=""
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Weapons/Tenno/Pistols/SomaSidearm/AkimboSomaPistols
+StoreItem=/Lotus/StoreItems/Weapons/Grineer/Pistols/HeatGun/GrnHeatGun
 Slot=Secondary
 OverrideTexture=""
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Weapons/Tenno/Melee/Soma/SomaDualKamas
+StoreItem=/Lotus/StoreItems/Weapons/Tenno/Melee/Tonfa/Boltonfa/Boltonfa
 Slot=Melee
 OverrideTexture=""
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/Types/StoreItems/Packages/LightningSheathPack
+StoreItem=/Lotus/StoreItems/Types/Keys/NightmareGrineerRaidKeyBlueprint
 Slot=Equipment
 OverrideTexture=""
 OverrideMaterial=""
@@ -3914,6 +3973,13 @@ Name=PrimeSell
 Criteria={
 Script=/Lotus/Scripts/StorePartialManifests.lua
 Function=PrimeSellCriteria
+}
+},
+{
+Name=Trading
+Criteria={
+Script=/Lotus/Scripts/StorePartialManifests.lua
+Function=TradingCriteria
 }
 }
 }

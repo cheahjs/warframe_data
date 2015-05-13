@@ -219,6 +219,7 @@ T자 컨넥터 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Dojo
 /Lotus/Language/Sectorwars/Tennoturreta,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantADecoRecipe
 /Lotus/Language/Sectorwars/Tennoturretb,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantBDecoRecipe
 /Lotus/Language/Sectorwars/Tennoturretc,/Lotus/StoreItems/Levels/SectorWars/PlaceableDecos/PvpTurretVariantCDecoRecipe
+Raid Hijack Perf Test,/Lotus/StoreItems/Levels/HijackPerformanceTestKey
 /Lotus/Language/Items/Carryabilityname,/Lotus/StoreItems/Powersuits/All/CarryAbilityCard
 /Lotus/Language/Items/Gunslinger,/Lotus/StoreItems/Powersuits/All/ClothTestSuit
 /Lotus/Language/Items/Lureabilityname,/Lotus/StoreItems/Powersuits/All/LureAbilityCard
@@ -263,6 +264,7 @@ T자 컨넥터 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Dojo
 /Lotus/Language/Items/Beserkerscreamability,/Lotus/StoreItems/Powersuits/Berserker/IntimidateAbilityCard
 /Lotus/Language/Items/Berserkerscreamabilityaugmentname,/Lotus/StoreItems/Powersuits/Berserker/IntimidateAugmentCard
 /Lotus/Language/Items/Laststandability,/Lotus/StoreItems/Powersuits/Berserker/LastStandAbilityCard
+/Lotus/Language/Items/Laststandabilityaugmentpvpname,/Lotus/StoreItems/Powersuits/Berserker/LastStandPvPAugmentCard
 /Lotus/Language/Items/Shieldbashabilityaugmentname,/Lotus/StoreItems/Powersuits/Berserker/ShieldBashAugmentCard
 /Lotus/Language/Items/Shieldbashability,/Lotus/StoreItems/Powersuits/Berserker/ShieldBlastAbilityCard
 /Lotus/Language/Items/Ballisticbatteryability,/Lotus/StoreItems/Powersuits/Cowgirl/BallisticBatteryAbilityCard
@@ -282,6 +284,7 @@ T자 컨넥터 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Dojo
 /Lotus/Language/Items/Fireballabilityaugment1,/Lotus/StoreItems/Powersuits/Ember/FireBallAugmentCard
 파이어 블래스트,/Lotus/StoreItems/Powersuits/Ember/FireBlastAbilityCard
 /Lotus/Language/Items/Fireblastabilityaugmentname,/Lotus/StoreItems/Powersuits/Ember/FireBlastAugmentCard
+/Lotus/Language/Items/Fireblastabilityaugmentpvpname,/Lotus/StoreItems/Powersuits/Ember/FireBlastPvPAugmentCard
 오버히트,/Lotus/StoreItems/Powersuits/Ember/FireSkinAbilityCard
 월드 온 파이어,/Lotus/StoreItems/Powersuits/Ember/WorldOnFireAbilityCard
 /Lotus/Language/Items/Worldonfireabilityaugmentname,/Lotus/StoreItems/Powersuits/Ember/WorldOnFireAugmentCard
@@ -367,6 +370,7 @@ T자 컨넥터 Blueprint,/Lotus/StoreItems/Levels/ClanDojo/ComponentRecipes/Dojo
 텔레포트,/Lotus/StoreItems/Powersuits/Ninja/TelelportToAbilityCard
 /Lotus/Language/Items/Paladinname,/Lotus/StoreItems/Powersuits/Paladin/Paladin
 /Lotus/Language/Items/Reckoningability,/Lotus/StoreItems/Powersuits/Paladin/ReckoningAbilityCard
+/Lotus/Language/Items/Reckoningabilityaugmentpvpname,/Lotus/StoreItems/Powersuits/Paladin/ReckoningPvPAugmentCard
 /Lotus/Language/Items/Regenerationabilityname,/Lotus/StoreItems/Powersuits/Paladin/RegenerationAbilityCard
 /Lotus/Language/Items/Smiteabilityname,/Lotus/StoreItems/Powersuits/Paladin/SmiteAbilityCard
 /Lotus/Language/Items/Smiteabilitynameaugment1,/Lotus/StoreItems/Powersuits/Paladin/SmiteAugmentCard
@@ -442,6 +446,7 @@ Mod Fuser,/Lotus/StoreItems/Types/BoosterPacks/ModFuserResult
 보이드 키 팩,/Lotus/StoreItems/Types/BoosterPacks/RandomKey
 이글 모드 패키지,/Lotus/StoreItems/Types/BoosterPacks/RareArtifactPack
 울프 퓨전 팩,/Lotus/StoreItems/Types/BoosterPacks/RareFusionPack
+/Lotus/Language/Items/Rareresourcepack,/Lotus/StoreItems/Types/BoosterPacks/RareResourcePack
 이글 모드 패키지,/Lotus/StoreItems/Types/BoosterPacks/SingleCommonArtifact
 이글 모드 패키지,/Lotus/StoreItems/Types/BoosterPacks/SingleRareArtifact
 /Lotus/Language/Items/Syndicaterandomkey,/Lotus/StoreItems/Types/BoosterPacks/SyndicateRandomKey
@@ -477,6 +482,7 @@ Mod Fuser,/Lotus/StoreItems/Types/BoosterPacks/ModFuserResult
 /Lotus/Language/Items/Kubrowcolormidbname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidB
 /Lotus/Language/Items/Kubrowcolormidcname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidC
 /Lotus/Language/Items/Kubrowcolormiddname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidD
+/Lotus/Language/Items/Kubrowcolormiddiamond,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidDiamond
 /Lotus/Language/Items/Kubrowcolormidename,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidE
 /Lotus/Language/Items/Kubrowcolormidfname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidF
 /Lotus/Language/Items/Kubrowcolormidgname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidG
@@ -484,10 +490,12 @@ Mod Fuser,/Lotus/StoreItems/Types/BoosterPacks/ModFuserResult
 /Lotus/Language/Items/Kubrowcolormidiname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidI
 /Lotus/Language/Items/Kubrowcolormidjname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidJ
 /Lotus/Language/Items/Kubrowcolormidkname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidK
+/Lotus/Language/Items/Kubrowcolormidliquid,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMidLiquid
 /Lotus/Language/Items/Kubrowcolormundaneaname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneA
 /Lotus/Language/Items/Kubrowcolormundanebname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneB
 /Lotus/Language/Items/Kubrowcolormundanecname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneC
 /Lotus/Language/Items/Kubrowcolormundanedname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneD
+/Lotus/Language/Items/Kubrowcolormundanediamond,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneDiamond
 /Lotus/Language/Items/Kubrowcolormundaneename,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneE
 /Lotus/Language/Items/Kubrowcolormundanefname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneF
 /Lotus/Language/Items/Kubrowcolormundanegname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneG
@@ -495,6 +503,7 @@ Mod Fuser,/Lotus/StoreItems/Types/BoosterPacks/ModFuserResult
 /Lotus/Language/Items/Kubrowcolormundaneiname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneI
 /Lotus/Language/Items/Kubrowcolormundanejname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneJ
 /Lotus/Language/Items/Kubrowcolormundanekname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneK
+/Lotus/Language/Items/Kubrowcolormundaneliquid,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneLiquid
 /Lotus/Language/Items/Kubrowcolorprimetradermidaname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeTraderMidA
 /Lotus/Language/Items/Kubrowcolorprimetradermundaneaname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeTraderMundaneA
 /Lotus/Language/Items/Kubrowcolorprimetradervibrantaname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeTraderVibrantA
@@ -502,6 +511,7 @@ Mod Fuser,/Lotus/StoreItems/Types/BoosterPacks/ModFuserResult
 /Lotus/Language/Items/Kubrowcolorvibrantbname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantB
 /Lotus/Language/Items/Kubrowcolorvibrantcname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantC
 /Lotus/Language/Items/Kubrowcolorvibrantdname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantD
+/Lotus/Language/Items/Kubrowcolorvibrantdiamond,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantDiamond
 /Lotus/Language/Items/Kubrowcolorvibrantename,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantE
 /Lotus/Language/Items/Kubrowcolorvibrantfname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantF
 /Lotus/Language/Items/Kubrowcolorvibrantgname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantG
@@ -509,6 +519,7 @@ Mod Fuser,/Lotus/StoreItems/Types/BoosterPacks/ModFuserResult
 /Lotus/Language/Items/Kubrowcolorvibrantiname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantI
 /Lotus/Language/Items/Kubrowcolorvibrantjname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantJ
 /Lotus/Language/Items/Kubrowcolorvibrantkname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantK
+/Lotus/Language/Items/Kubrowcolorvibrantliquid,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantLiquid
 /Lotus/Language/Items/Kubrowcolorxmasmidaname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMidA
 /Lotus/Language/Items/Kubrowcolorxmasmidbname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMidB
 /Lotus/Language/Items/Kubrowcolorxmasmundaneaname,/Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMundaneA
@@ -521,11 +532,13 @@ Mod Fuser,/Lotus/StoreItems/Types/BoosterPacks/ModFuserResult
 /Lotus/Language/Items/Kubrowpetpatternbname,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternB
 /Lotus/Language/Items/Kubrowpetpatterncname,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternC
 /Lotus/Language/Items/Kubrowpetpatterndname,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternD
+/Lotus/Language/Items/Kubrowpetpatterndiamondname,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternDiamond
 /Lotus/Language/Items/Kubrowpetpatternename,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternE
 /Lotus/Language/Items/Kubrowpetpatternfname,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternF
 /Lotus/Language/Items/Kubrowpetpatterngname,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternG
 /Lotus/Language/Items/Kubrowpetpatternhname,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternH
 /Lotus/Language/Items/Kubrowpetpatterniname,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternI
+/Lotus/Language/Items/Kubrowpetpatternliquidname,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternLiquid
 /Lotus/Language/Items/Kubrowpetprimetraderpatternaname,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternPrimeTraderA
 /Lotus/Language/Items/Kubrowpetxmaspatternaname,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternXmasA
 /Lotus/Language/Items/Kubrowpetxmaspatternbname,/Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternXmasB
@@ -790,11 +803,11 @@ Mod Fuser,/Lotus/StoreItems/Types/BoosterPacks/ModFuserResult
 /Lotus/Language/Items/Orokinsurvivalt4name,/Lotus/StoreItems/Types/Keys/OrokinTowerKeys/OrokinTowerSurvivalTier4Key
 ,/Lotus/StoreItems/Types/Keys/RaidKeys/BaseRaidKey
 /Lotus/Language/Items/Grineertrialsname,/Lotus/StoreItems/Types/Keys/RaidKeys/Raid01Stage01KeyItem
-/Lotus/Language/Items/Grineertrialsname,/Lotus/StoreItems/Types/Keys/RaidKeys/Raid01Stage01NightmareKeyItem
+/Lotus/Language/Items/Grineernightmaretrialsname,/Lotus/StoreItems/Types/Keys/RaidKeys/Raid01Stage01NightmareKeyItem
 /Lotus/Language/Items/Grineertrialsname,/Lotus/StoreItems/Types/Keys/RaidKeys/Raid01Stage02KeyItem
-/Lotus/Language/Items/Grineertrialsname,/Lotus/StoreItems/Types/Keys/RaidKeys/Raid01Stage02NightmareKeyItem
+/Lotus/Language/Items/Grineernightmaretrialsname,/Lotus/StoreItems/Types/Keys/RaidKeys/Raid01Stage02NightmareKeyItem
 /Lotus/Language/Items/Grineertrialsname,/Lotus/StoreItems/Types/Keys/RaidKeys/Raid01Stage03KeyItem
-/Lotus/Language/Items/Grineertrialsname,/Lotus/StoreItems/Types/Keys/RaidKeys/Raid01Stage03NightmareKeyItem
+/Lotus/Language/Items/Grineernightmaretrialsname,/Lotus/StoreItems/Types/Keys/RaidKeys/Raid01Stage03NightmareKeyItem
 /Lotus/Language/G1quests/Spyquestmission5title,/Lotus/StoreItems/Types/Keys/SpyQuestKeyChain/SpyQuestFinalKey
 /Lotus/Language/G1quests/Spyquestmission1title,/Lotus/StoreItems/Types/Keys/SpyQuestKeyChain/SpyQuestIntroKey
 /Lotus/Language/G1quests/Spyquestmission2title,/Lotus/StoreItems/Types/Keys/SpyQuestKeyChain/SpyQuestKeyA
@@ -842,6 +855,7 @@ Forest Exterminate,/Lotus/StoreItems/Types/Keys/ForestHaloweenCacheExterminate
 /Lotus/Language/G1quests/Infestedcorpushiveeventname,/Lotus/StoreItems/Types/Keys/InfestedCorpusHiveEventKey
 /Lotus/Language/G1quests/Limboqname Blueprint,/Lotus/StoreItems/Types/Keys/LimboQuestKeyBlueprint
 /Lotus/Language/G1quests/Miragequest Blueprint,/Lotus/StoreItems/Types/Keys/MirageQuestKeyBlueprint
+/Lotus/Language/Items/Grineernightmaretrialsname Blueprint,/Lotus/StoreItems/Types/Keys/NightmareGrineerRaidKeyBlueprint
 /Lotus/Language/Items/Nightmaretestkeyshipyardsretrieval,/Lotus/StoreItems/Types/Keys/NightmareKeyShipyardsRetrieval
 /Lotus/Language/Items/Nightmaretestkeyshipyardsretrieval Blueprint,/Lotus/StoreItems/Types/Keys/NightmareRetrievalKeyBlueprint
 타워 생포,/Lotus/StoreItems/Types/Keys/OrokinCaptureKeyA
@@ -1012,13 +1026,20 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Items/Bronzespectre x10 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/BronzeSpectreBlueprint
 /Lotus/Language/Items/Chargerball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/ChargerBallBlueprint
 /Lotus/Language/Items/Clancreator,/Lotus/StoreItems/Types/Recipes/Components/ClanCreatorBlueprint
+컨트롤 모듈 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/ControlModuleResourceBlueprint
 /Lotus/Language/Items/Corruptedlancerball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/CorruptedLancerBallBlueprint
 포르마 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint
+갤륨 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/GalliumResourceBlueprint
 /Lotus/Language/Items/Goldspectre x3 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/GoldSpectreBlueprint
 /Lotus/Language/Items/Moaball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/MoaBallBlueprint
+모르픽스 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/MorphicsResourceBlueprint
+뉴럴 센서 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/NeuralSensorResourceBlueprint
+뉴로드 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/NeurodeResourceBlueprint
 오로킨 카탈리스트 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinCatalystBlueprint
+오로킨 셀 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinCellResourceBlueprint
 오로킨 리액터 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/OrokinReactorBlueprint
 /Lotus/Language/Items/Platinumspectre Blueprint,/Lotus/StoreItems/Types/Recipes/Components/PlatinumSpectreBlueprint
+/Lotus/Language/Items/Rareresourcepack Blueprint,/Lotus/StoreItems/Types/Recipes/Components/RareResourceBlueprint
 /Lotus/Language/Items/Rollerball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/RollerBallBlueprint
 /Lotus/Language/Items/Shielddroneball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/ShieldDroneBallBlueprint
 /Lotus/Language/Items/Silverspectre x5 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/SilverSpectreBlueprint
@@ -1451,6 +1472,9 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Menu/Craftingcomponent_Somaprimestock,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/SomaPrimeStock
 /Lotus/Language/Menu/Craftingcomponent_Vastoprimebarrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VastoPrimeBarrel
 /Lotus/Language/Menu/Craftingcomponent_Vastoprimereceiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VastoPrimeReceiver
+/Lotus/Language/Menu/Craftingcomponent_Vectisprimebarrel,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VectisPrimeBarrel
+/Lotus/Language/Menu/Craftingcomponent_Vectisprimereceiver,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VectisPrimeReceiver
+/Lotus/Language/Menu/Craftingcomponent_Vectisprimestock,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VectisPrimeStock
 시어 배럴,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VorsPistolBarrel
 시어 리시버,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VorsPistolReceiver
 아퓨리스 Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AFurisBlueprint
@@ -1467,10 +1491,12 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Items/Archrailgunname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ArchRailgunBlueprint
 /Lotus/Language/Items/Archrocketcrossbowname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ArchRocketCrossbowBlueprint
 /Lotus/Language/Items/Archswordshieldname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ArchSwordShieldBlueprint
+/Lotus/Language/Items/Asymmetricbowname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AsymetricalBowBlueprint
 /Lotus/Language/Items/Autocrossbowname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AutoCrossBowBlueprint
 신도 Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/AxeBlueprint
 /Lotus/Language/Items/Boarprimename Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoarPrimeBlueprint
 볼토 Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoltoBlueprint
+/Lotus/Language/Items/Boltonfaname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoltonfaBlueprint
 볼터 Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoltorBlueprint
 /Lotus/Language/Items/Boltorprimename Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoltorPrimeBlueprint
 케스트렐 Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BoomerangBlueprint
@@ -1532,6 +1558,7 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Items/Hindname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnBurstRifleBlueprint
 /Lotus/Language/Items/Grnclawsname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnClawsBlueprint
 /Lotus/Language/Items/Grngrenadelaunchername Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnGrenadeLauncherBlueprint
+/Lotus/Language/Items/Grnheatgunname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnHeatGunBlueprint
 크라켄 Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnHeavyPistolBlueprint
 불카 Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnSniperRifleBlueprint
 /Lotus/Language/Items/Grnsparkriflename Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/GrnSparkRifleBlueprint
@@ -1856,6 +1883,12 @@ Xattractor 9,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorI
 새린 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynDark
 헴락 새린 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynHemlockBright
 헴락 새린 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynHemlockDark
+/Lotus/Language/Items/Arbitershexisprofileiconname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSyndicateAH
+/Lotus/Language/Items/Cephalonsudaprofileiconname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSyndicateCS
+/Lotus/Language/Items/Newlokaprofileiconname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSyndicateNL
+/Lotus/Language/Items/Perrinsequenceprofileiconname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSyndicatePS
+/Lotus/Language/Items/Redveilprofileiconname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSyndicateRV
+/Lotus/Language/Items/Steelmeridianprofileiconname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSyndicateSM
 에스피릿 바우반 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperAltBright
 에스피릿 바우반 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperAltDark
 바우반 프로필용 아바타 패키지,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperBright
@@ -2085,7 +2118,9 @@ Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveDoubleDamageEn
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveExtraDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceProcEnemyAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/KubrowIntensifierAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/NpcDropReductionAura
+Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PerfTestExtraHealthEnemyLevelAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PoisonDamageEnemyAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PortalEventAura
 Unfused Artifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PvPMeleeChannelingLevelAura
@@ -2352,6 +2387,8 @@ Glaive Refraction,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveReflectionIn
 /Lotus/Language/Mods/Restoreshieldsonkillshotgunmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Shotgun/RestoreShieldsOnKillMod
 /Lotus/Language/Mods/Abilitycastingdamageresistance,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/AbilityCastingDamageResistance
 /Lotus/Language/Mods/Avatarspawnenergymod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/AvatarSpawnEnergyMod
+/Lotus/Language/Mods/Effectonfullenergymod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/EffectOnFullEnergyMod
+/Lotus/Language/Mods/Energyonfullshieldregen,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/EnergyOnFullShieldRegenMod
 /Lotus/Language/Mods/Energyonkill,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/EnergyOnKill
 /Lotus/Language/Mods/Reduceshieldrechargedelaywarframe,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/ReduceShieldRechargeDelayWarframe
 /Lotus/Language/Mods/Staminaslide,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Warframe/StaminaSlide
@@ -2810,6 +2847,9 @@ Glaive Refraction,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveReflectionIn
 /Lotus/Language/Items/Eoschestplatename,/Lotus/StoreItems/Upgrades/Skins/Armor/SetOneChestArmor
 /Lotus/Language/Items/Eoskneeplatesname,/Lotus/StoreItems/Upgrades/Skins/Armor/SetOneLegLeftArmor
 /Lotus/Language/Items/Eoskneeplatesname,/Lotus/StoreItems/Upgrades/Skins/Armor/SetOneLegRightArmor
+/Lotus/Language/Items/Alternatearrowskinaname,/Lotus/StoreItems/Upgrades/Skins/Arrows/AlternateArrowA
+/Lotus/Language/Items/Alternatearrowskinbname,/Lotus/StoreItems/Upgrades/Skins/Arrows/AlternateArrowB
+/Lotus/Language/Items/Alternatearrowskincname,/Lotus/StoreItems/Upgrades/Skins/Arrows/AlternateArrowC
 /Lotus/Language/Items/Aspagileanims,/Lotus/StoreItems/Upgrades/Skins/Asp/AspAgileAnims
 /Lotus/Language/Items/Arcanesarynalthelmetname,/Lotus/StoreItems/Upgrades/Skins/Asp/AspAltHelmet
 /Lotus/Language/Items/Arcanesarynalthelmet2name,/Lotus/StoreItems/Upgrades/Skins/Asp/AspAltHelmetB
@@ -2851,6 +2891,7 @@ Glaive Refraction,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveReflectionIn
 /Lotus/Language/Items/Foundersbadgegrandmastername,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeGrandMasterItem
 /Lotus/Language/Items/Foundersbadgehuntername,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeHunterItem
 /Lotus/Language/Items/Foundersbadgemastername,/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeMasterItem
+/Lotus/Language/Items/Grnsealabeventbadgename,/Lotus/StoreItems/Upgrades/Skins/Clan/GrnSeaLabEventBadgeItem
 /Lotus/Language/Items/Hivesabotageeventbadgename,/Lotus/StoreItems/Upgrades/Skins/Clan/HiveSabotageEventBadgeItem
 /Lotus/Language/Items/Inftacalertdiseasedancientbadgename,/Lotus/StoreItems/Upgrades/Skins/Clan/InfTacAlertDiseasedAncientBadgeItem
 /Lotus/Language/Items/Inftacalertnanitemoabadgename,/Lotus/StoreItems/Upgrades/Skins/Clan/InfTacAlertNaniteMoaAncientBadgeItem
@@ -2865,6 +2906,7 @@ Shadow Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeShadowItem
 Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Lotusguidebadgename,/Lotus/StoreItems/Upgrades/Skins/Clan/LotusGuideBadgeItem
 /Lotus/Language/Items/Mutalistincursionsemblemname,/Lotus/StoreItems/Upgrades/Skins/Clan/MutalistIncursionsBadgeItem
+/Lotus/Language/Items/Nightmareraidsekharaname,/Lotus/StoreItems/Upgrades/Skins/Clan/NightmareSevantiHaloBadgeItem
 /Lotus/Language/Items/Orokinsabotageeventbadgename,/Lotus/StoreItems/Upgrades/Skins/Clan/OrokinSabotageBadgeItem
 /Lotus/Language/Items/Placeholdername,/Lotus/StoreItems/Upgrades/Skins/Clan/ReferralBadgeTierAItem
 /Lotus/Language/Items/Placeholdername,/Lotus/StoreItems/Upgrades/Skins/Clan/ReferralBadgeTierBItem
@@ -3087,7 +3129,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Chaintridentmeleedanglename,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/ChainTridentMeleeDangle
 /Lotus/Language/Items/Grineercordmeleedanglename,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/CordsMeleeDangle
 /Lotus/Language/Items/Pyrasugatraname,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/FireMeleeDangle
-/Lotus/Language/Items/Placeholdername,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/GrnMeleeDangle
+/Lotus/Language/Items/Grnmeleedanglename,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/GrnMeleeDangle
 /Lotus/Language/Items/Kazeruprimesugatraname,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/KazeruPrimeMeleeDangle
 /Lotus/Language/Items/Lotuspointmeleedanglename,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/LotusPointMeleeDangle
 /Lotus/Language/Items/Polearmfriendlymeleedanglename,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PolearmFriendlyMeleeDangle
@@ -3307,6 +3349,9 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Sigils/Syndicatesigilconclaveiname,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveI
 /Lotus/Language/Sigils/Syndicatesigilconclavejname,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveJ
 /Lotus/Language/Sigils/Syndicatesigilconclavekname,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveK
+/Lotus/Language/Sigils/Syndicatesigilconclavelname,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveL
+/Lotus/Language/Sigils/Syndicatesigilconclavemname,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveM
+/Lotus/Language/Sigils/Syndicatesigilconclavenname,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveN
 /Lotus/Language/Sigils/Syndicatesigilnewlokaaname,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaA
 /Lotus/Language/Sigils/Syndicatesigilnewlokabname,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaB
 /Lotus/Language/Sigils/Syndicatesigilnewlokacname,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilNewLokaC
@@ -3353,6 +3398,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Sigils/Syndicatesigilsteelmeridiankname,/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianK
 /Lotus/Language/Sigils/Tennolive2015sigilname,/Lotus/StoreItems/Upgrades/Skins/Sigils/TennoLive2015Sigil
 /Lotus/Language/Sigils/Twotonesigilname,/Lotus/StoreItems/Upgrades/Skins/Sigils/TwoToneSigil
+/Lotus/Language/Sigils/Wikiasigilname,/Lotus/StoreItems/Upgrades/Skins/Sigils/WikiaSigil
 /Lotus/Language/Items/Psplusexcaliburname,/Lotus/StoreItems/Upgrades/Skins/Sony/ExcaliburPSPlusSkin
 /Lotus/Language/Items/Psplusexcalburhelmetname,/Lotus/StoreItems/Upgrades/Skins/Sony/ExcaliburPSPlusSkinHelmet
 /Lotus/Language/Items/Ps4coltekmaskname,/Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianColtekMask
@@ -3482,6 +3528,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Grineerflakcannonname,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerFlakCannon/FlakCannon
 /Lotus/Language/Items/Glariflename,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/GLARifle
 /Lotus/Language/Items/Grineerm16riflename,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerM16Homage/GrineerM16Rifle
+/Lotus/Language/Items/Karakwraithname,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerM16Homage/KarakWraith
 /Lotus/Language/Items/Grineersawbladegunname,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerSawbladeGun/SawBladeGun
 불카,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrineerSniperRifle/GrnSniperRifle
 /Lotus/Language/Items/Grngorgsniperriflename,/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrnGorgSniperRifle/GrnGorgSniperRifle
@@ -3495,6 +3542,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 듀얼 클리버,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon
 마체테,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/Machete
 /Lotus/Language/Items/Wraithmachetename,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon
+/Lotus/Language/Items/Placeholdername,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerTylAxeAndBoar/RegorAxeShield
 /Lotus/Language/Items/Grnwhipname,/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerWhip/GrineerWhip
 /Lotus/Language/Items/Grnboomerangname,/Lotus/StoreItems/Weapons/Grineer/Melee/GrnBoomerang/GrnBoomerang
 /Lotus/Language/Items/Grineergoogunname,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun
@@ -3502,6 +3550,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Glapistolname,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol
 /Lotus/Language/Items/Grineermicrowavepistolname,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrineerMicrowavegun/GrnMicrowavePistol
 /Lotus/Language/Items/Grnwinduppistolname,/Lotus/StoreItems/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol
+/Lotus/Language/Items/Grnheatgunname,/Lotus/StoreItems/Weapons/Grineer/Pistols/HeatGun/GrnHeatGun
 /Lotus/Language/Items/Wraithtwinvipersname,/Lotus/StoreItems/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers
 /Lotus/Language/Items/Infcrpshockswarmriflename,/Lotus/StoreItems/Weapons/Infested/LongGuns/InfCrpShockSwarm/InfCrpShockSwarmRifle
 /Lotus/Language/Items/Infquantariflename,/Lotus/StoreItems/Weapons/Infested/LongGuns/QuantaFullyInfested/InfQuantaRifle
@@ -3547,6 +3596,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Archrailgunname,/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun
 /Lotus/Language/Items/Archrocketcrossbowname,/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow
 /Lotus/Language/Items/Antlerbowname,/Lotus/StoreItems/Weapons/Tenno/Bows/AntlerBow/AntlerBow
+/Lotus/Language/Items/Asymmetricbowname,/Lotus/StoreItems/Weapons/Tenno/Bows/AsymetricalBow/AsymetricalBow
 패리스,/Lotus/StoreItems/Weapons/Tenno/Bows/HuntingBow
 패리스 프라임,/Lotus/StoreItems/Weapons/Tenno/Bows/PrimeHuntingBow
 드레드,/Lotus/StoreItems/Weapons/Tenno/Bows/StalkerBow
@@ -3596,6 +3646,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Axestanceb,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/AxeCmbTwoMeleeTree
 /Lotus/Language/Items/Clawstancea,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ClawCmbOneMeleeTree
 /Lotus/Language/Items/Fiststancec,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ClawCmbThreeMeleeTree
+/Lotus/Language/Items/Clawstanceb,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/ClawCmbTwoMeleeTree
 /Lotus/Language/Items/Crimsondervish,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/CrimsonDervishMeleeTree
 /Lotus/Language/Items/Daggerstancea,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbOneMeleeTree
 /Lotus/Language/Items/Daggerstanceb,/Lotus/StoreItems/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree
@@ -3652,6 +3703,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 팽골린 소드,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/PangolinSword/PangolinLongSword
 플라즈마 소드,/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/PlasmaSword/PlasmaLongSword
 /Lotus/Language/Items/Tennoswordshieldname,/Lotus/StoreItems/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield
+/Lotus/Language/Items/Boltonfaname,/Lotus/StoreItems/Weapons/Tenno/Melee/Tonfa/Boltonfa/Boltonfa
 /Lotus/Language/Items/Tnotonfaname,/Lotus/StoreItems/Weapons/Tenno/Melee/Tonfa/TonfaContestWinner/TennoTonfa
 퓨리스,/Lotus/StoreItems/Weapons/Tenno/Pistol/AutoPistol
 브롱코 프라임,/Lotus/StoreItems/Weapons/Tenno/Pistol/BroncoPrime
@@ -3679,6 +3731,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 버스튼,/Lotus/StoreItems/Weapons/Tenno/Rifle/BurstRifle
 고르곤,/Lotus/StoreItems/Weapons/Tenno/Rifle/HeavyRifle
 고르곤,/Lotus/StoreItems/Weapons/Tenno/Rifle/HeavyRifleAI
+고르곤,/Lotus/StoreItems/Weapons/Tenno/Rifle/HeavyRifleAIManicBombard
 래트론 프라임,/Lotus/StoreItems/Weapons/Tenno/Rifle/LatronPrime
 브래튼,/Lotus/StoreItems/Weapons/Tenno/Rifle/Rifle
 래트론,/Lotus/StoreItems/Weapons/Tenno/Rifle/SemiAutoRifle
@@ -3745,6 +3798,7 @@ Mk1-브래튼,/Lotus/StoreItems/Weapons/Tenno/Rifle/StartingRifle
 뱅가드 라이노 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackRhinoVanguard
 새린 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackSaryn
 클로라 새린 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackSarynChlora
+/Lotus/Language/Items/Syndicateprofileiconpackname,/Lotus/Types/StoreItems/AvatarImages/AvatarPackSyndicate
 바우반 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapper
 갬빗 바우반 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapperGambit
 트리니티 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrinity
@@ -3762,9 +3816,11 @@ Mk1-브래튼,/Lotus/StoreItems/Weapons/Tenno/Rifle/StartingRifle
 /Lotus/Language/Items/Resourceamountboostername,/Lotus/Types/StoreItems/Boosters/ResourceAmountBoosterStoreItem
 /Lotus/Language/Items/Resourcedropchanceboostername,/Lotus/Types/StoreItems/Boosters/ResourceDropChanceBoosterStoreItem
 리바이브 부스터,/Lotus/Types/StoreItems/Boosters/ReviveBoosterStoreItem
+/Lotus/Language/Items/Alternatearrowskinsbundlename,/Lotus/Types/StoreItems/Packages/AlternateArrowSkinsBundle
 /Lotus/Language/Items/Ciceroantodotepackname,/Lotus/Types/StoreItems/Packages/AntitoxinPack
 데드 사일런스 패키지,/Lotus/Types/StoreItems/Packages/BansheePack
 /Lotus/Language/Items/Berserkerpackname,/Lotus/Types/StoreItems/Packages/BerserkerPack
+/Lotus/Language/Items/Boltorbundlename,/Lotus/Types/StoreItems/Packages/BoltorBundle
 /Lotus/Language/Items/Candycanescythepackname,/Lotus/Types/StoreItems/Packages/CandyCaneScythePack
 색상 패키지 알파,/Lotus/Types/StoreItems/Packages/ColorPack
 색상 패키지 베타,/Lotus/Types/StoreItems/Packages/ColorPackB
@@ -3791,6 +3847,7 @@ Double Affinity Weekend Pack,/Lotus/Types/StoreItems/Packages/DoubleAffinityPack
 /Lotus/Language/Items/Forestcamobundlename,/Lotus/Types/StoreItems/Packages/GrineerForestSkinPack
 그리니어 어설트,/Lotus/Types/StoreItems/Packages/GrineerPack
 /Lotus/Language/Items/Grineerturbinearmorsetname,/Lotus/Types/StoreItems/Packages/GrineerTurbinesArmorPack
+/Lotus/Language/Items/Grnsealabeventweaponpackname,/Lotus/Types/StoreItems/Packages/GrnSeaLabEventWeaponPack
 /Lotus/Language/Items/Gunslingerbundlename,/Lotus/Types/StoreItems/Packages/GunslingerBundle
 /Lotus/Language/Items/Halloweenskinbundlename,/Lotus/Types/StoreItems/Packages/HalloweenSkinPack
 /Lotus/Language/Items/Halloweenskinbundleiiname,/Lotus/Types/StoreItems/Packages/HalloweenSkinPackII
@@ -3803,6 +3860,8 @@ Double Affinity Weekend Pack,/Lotus/Types/StoreItems/Packages/DoubleAffinityPack
 /Lotus/Language/Items/Kubrowbasecolorpackname,/Lotus/Types/StoreItems/Packages/KubrowBaseColorPack
 /Lotus/Language/Items/Kubrowcolorpackboldname,/Lotus/Types/StoreItems/Packages/KubrowColorPackBold
 /Lotus/Language/Items/Kubrowpetxmascandycanename,/Lotus/Types/StoreItems/Packages/KubrowColorPackCandyCane
+/Lotus/Language/Items/Kubrowpetdiamondname,/Lotus/Types/StoreItems/Packages/KubrowColorPackDiamond
+/Lotus/Language/Items/Kubrowpetliquidname,/Lotus/Types/StoreItems/Packages/KubrowColorPackLiquid
 /Lotus/Language/Items/Kubrowcolorpacklotusname,/Lotus/Types/StoreItems/Packages/KubrowColorPackLotus
 /Lotus/Language/Items/Kubrowcolorpacknexusname,/Lotus/Types/StoreItems/Packages/KubrowColorPackNexus
 /Lotus/Language/Items/Kubrowcolorpackreindeername,/Lotus/Types/StoreItems/Packages/KubrowColorPackReindeer

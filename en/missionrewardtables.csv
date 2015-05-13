@@ -1208,6 +1208,20 @@ Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Items/Grineerakimbopistolname Blueprint,1,COMMON,0.166666666666667
 ,,,
 ,,,
+NightmareHekRaid - Tier 0,,,
+Item Name,Item Count,Rarity,Probability
+/Lotus/Language/Items/Healthregenondamagename,1,COMMON,0.110622710622711
+/Lotus/Language/Items/Instantshieldondamagename,1,COMMON,0.110622710622711
+/Lotus/Language/Items/Healthregenonheadshotname,1,COMMON,0.110622710622711
+/Lotus/Language/Items/Radialhealonhealthpickupname,1,COMMON,0.110622710622711
+/Lotus/Language/Items/Electricityprocresistname,1,COMMON,0.110622710622711
+/Lotus/Language/Items/Radiationprocresistname,1,COMMON,0.110622710622711
+/Lotus/Language/Items/Slashprocresistname,1,COMMON,0.110622710622711
+/Lotus/Language/Items/Neuralsensor Blueprint,1,UNCOMMON,0.0752136752136752
+/Lotus/Language/Items/Neurode Blueprint,1,UNCOMMON,0.0752136752136752
+/Lotus/Language/Items/Orokincell Blueprint,1,UNCOMMON,0.0752136752136752
+,,,
+,,,
 NightmareModeRewards - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Items/Pistolmodicestorm,1,COMMON,0.0948492462311558

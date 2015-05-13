@@ -4,6 +4,38 @@
     "PrimeBucks": "20"
   },
   {
+    "Name": "/Lotus/Language/Items/Wyrmprimename Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Primes/Ashprimename Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname",
+    "PrimeBucks": "50"
+  },
+  {
     "Name": "/Lotus/Language/Items/Emberprimename Blueprint",
     "PrimeBucks": "20"
   },
@@ -310,6 +342,10 @@
   {
     "Name": "/Lotus/Language/Items/Primevastoname Blueprint",
     "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Primevectisname Blueprint",
+    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Items/Armourondamagename",
@@ -448,6 +484,38 @@
     "PrimeBucks": "20"
   },
   {
+    "Name": "/Lotus/Language/Items/Wyrmprimename Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Primes/Ashprimename Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname",
+    "PrimeBucks": "50"
+  },
+  {
     "Name": "/Lotus/Language/Items/Emberprimename Blueprint",
     "PrimeBucks": "20"
   },
@@ -756,6 +824,10 @@
     "PrimeBucks": "50"
   },
   {
+    "Name": "/Lotus/Language/Items/Primevectisname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
     "Name": "/Lotus/Language/Items/Armourondamagename",
     "PrimeBucks": "100"
   },
@@ -884,10 +956,6 @@
     "PrimeBucks": "40"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
-    "PrimeBucks": "50"
-  },
-  {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Akbroncoprimelink",
     "PrimeBucks": "50"
   },
@@ -984,6 +1052,10 @@
     "PrimeBucks": "20"
   },
   {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
+    "PrimeBucks": "50"
+  },
+  {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboornament",
     "PrimeBucks": "10"
   },
@@ -996,12 +1068,20 @@
     "PrimeBucks": "10"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowstring",
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowupperlimb",
     "PrimeBucks": "10"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowupperlimb",
-    "PrimeBucks": "10"
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercarapace",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercerebrum",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriersystems",
+    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primedakkablade",
@@ -1090,6 +1170,22 @@
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Vastoprimereceiver",
     "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimebarrel",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimereceiver",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimestock",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowstring",
+    "PrimeBucks": "10"
   },
   {
     "Name": "/Lotus/Language/Items/Odonataprimename Blueprint",
@@ -1120,10 +1216,6 @@
     "PrimeBucks": "40"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
-    "PrimeBucks": "50"
-  },
-  {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Akbroncoprimelink",
     "PrimeBucks": "50"
   },
@@ -1220,6 +1312,10 @@
     "PrimeBucks": "20"
   },
   {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
+    "PrimeBucks": "50"
+  },
+  {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboornament",
     "PrimeBucks": "10"
   },
@@ -1232,12 +1328,20 @@
     "PrimeBucks": "10"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowstring",
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowupperlimb",
     "PrimeBucks": "10"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowupperlimb",
-    "PrimeBucks": "10"
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercarapace",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercerebrum",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriersystems",
+    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primedakkablade",
@@ -1326,6 +1430,22 @@
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Vastoprimereceiver",
     "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimebarrel",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimereceiver",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimestock",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowstring",
+    "PrimeBucks": "10"
   },
   {
     "Name": "/Lotus/Language/Items/Pistoldamageonreloadname",
