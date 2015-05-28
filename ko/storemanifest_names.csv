@@ -254,6 +254,7 @@ Raid Hijack Perf Test,/Lotus/StoreItems/Levels/HijackPerformanceTestKey
 밴쉬,/Lotus/StoreItems/Powersuits/Banshee/Banshee
 사운드 퀘이크,/Lotus/StoreItems/Powersuits/Banshee/EarthQuakeAbilityCard
 소닉 붐,/Lotus/StoreItems/Powersuits/Banshee/PushAbilityCard
+/Lotus/Language/Items/Pushabilityaugmentname,/Lotus/StoreItems/Powersuits/Banshee/PushAugmentCard
 사일런스,/Lotus/StoreItems/Powersuits/Banshee/SilenceAbilityCard
 /Lotus/Language/Items/Silenceabilityaugmentname,/Lotus/StoreItems/Powersuits/Banshee/SilenceAugmentCard
 소나,/Lotus/StoreItems/Powersuits/Banshee/SonarAbilityCard
@@ -317,6 +318,7 @@ Raid Hijack Perf Test,/Lotus/StoreItems/Levels/HijackPerformanceTestKey
 /Lotus/Language/Items/Sleightofhandabilityaugmentname,/Lotus/StoreItems/Powersuits/Harlequin/ObjectChangeAugmentCard
 /Lotus/Language/Items/Grandfinale,/Lotus/StoreItems/Powersuits/Harlequin/PrismAbilityCard
 카오스,/Lotus/StoreItems/Powersuits/Jade/ChaosAbilityCard
+/Lotus/Language/Items/Chaosabilityaugmentname,/Lotus/StoreItems/Powersuits/Jade/ChaosAugmentCard
 사이킥 볼츠,/Lotus/StoreItems/Powersuits/Jade/DaggerAbilityCard
 /Lotus/Language/Items/Physicdaggerabilityaugmentname,/Lotus/StoreItems/Powersuits/Jade/DaggerAugmentCard
 닉스,/Lotus/StoreItems/Powersuits/Jade/Jade
@@ -1149,6 +1151,7 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Items/Valkyraltbhelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ValkyrAltBHelmetBlueprint
 /Lotus/Language/Items/Valkyrbastethelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ValkyrBastetHelmetBlueprint
 /Lotus/Language/Items/Arcanetrapperalthelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/VaubanAltHelmetBlueprint
+/Lotus/Language/Items/Vaubansoldierhelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/VaubanHelmetSoldierBlueprint
 /Lotus/Language/Items/Arcanevoltalthelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/VoltAltHelmetBlueprint
 /Lotus/Language/Items/Zephyrcierzohelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ZephyrCierzoHelmetBlueprint
 /Lotus/Language/Items/Zephyrtenguhelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ZephyrTenguHelmetBlueprint
@@ -1895,6 +1898,8 @@ Xattractor 9,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorI
 바우반 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperDark
 갬빗 바우반 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperGambitBright
 갬빗 바우반 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperGambitDark
+/Lotus/Language/Items/Avatartrappersoldierbrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperSoldierBright
+/Lotus/Language/Items/Avatartrappersoldierdarkname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrapperSoldierDark
 /Lotus/Language/Items/Avatarmiragetrivelinbrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTravelinMirageBright
 /Lotus/Language/Items/Avatarmiragetrivelindarkname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTravelinMirageDark
 오러 트리니티 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrinityAuraBright
@@ -2870,6 +2875,10 @@ Glaive Refraction,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveReflectionIn
 /Lotus/Language/Items/Unlockberserkernoble,/Lotus/StoreItems/Upgrades/Skins/Berserker/UnlockBerserkerNoble
 /Lotus/Language/Items/Valkyraltbhelmetname,/Lotus/StoreItems/Upgrades/Skins/Berserker/ValkyrAltBHelmet
 /Lotus/Language/Items/Warframeskinvalkyralternatename,/Lotus/StoreItems/Upgrades/Skins/Berserker/ValkyrAlternateSkin
+/Lotus/Language/Items/Brassandgoldakboltoname,/Lotus/StoreItems/Upgrades/Skins/BrassAndGold/BrassAndGoldAkbolto
+/Lotus/Language/Items/Brassandgoldboltoname,/Lotus/StoreItems/Upgrades/Skins/BrassAndGold/BrassAndGoldBolto
+/Lotus/Language/Items/Brassandgolddaikyuname,/Lotus/StoreItems/Upgrades/Skins/BrassAndGold/BrassAndGoldDaikyu
+/Lotus/Language/Items/Brassandgoldtipedoname,/Lotus/StoreItems/Upgrades/Skins/BrassAndGold/BrassAndGoldTipedo
 /Lotus/Language/Items/Grineercamotwinvipersname,/Lotus/StoreItems/Upgrades/Skins/Camo/AkimboViperCamo
 /Lotus/Language/Items/Grineercamogorgonname,/Lotus/StoreItems/Upgrades/Skins/Camo/GorgonCamo
 /Lotus/Language/Items/Grineercamograkataname,/Lotus/StoreItems/Upgrades/Skins/Camo/GrakataCamo
@@ -3095,6 +3104,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Lisetskincname,/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinFlavourItemC
 /Lotus/Language/Items/Lisetskindname,/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinFlavourItemD
 ,/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinFlavourItemDefault
+/Lotus/Language/Items/Lisetskinkaboomname,/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinKaboom
+/Lotus/Language/Items/Lisetskinkotoraname,/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinKotora
 /Lotus/Language/Items/Lisetskinvtname,/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinVoidTrader
 /Lotus/Language/Items/Lokiagileanims,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiAgileAnims
 /Lotus/Language/Items/Warframeskinlokialternatename,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiAlternateSkin
@@ -3213,6 +3224,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Unlockrhinonoble,/Lotus/StoreItems/Upgrades/Skins/Rhino/UnlockRhinoNoble
 /Lotus/Language/Items/April2015scarfname,/Lotus/StoreItems/Upgrades/Skins/Scarves/April2015Scarf
 /Lotus/Language/Items/Yomosyandananame,/Lotus/StoreItems/Upgrades/Skins/Scarves/ArmScarf
+/Lotus/Language/Items/Brassandgoldscarfname,/Lotus/StoreItems/Upgrades/Skins/Scarves/BrassAndGoldScarf
 /Lotus/Language/Items/Dinospikename,/Lotus/StoreItems/Upgrades/Skins/Scarves/DinoSpikeScarf
 /Lotus/Language/Items/Energyscarfname,/Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarf
 /Lotus/Language/Items/Voidskinasasyandananame,/Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarfVoidSkin
@@ -3424,6 +3436,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Arcanevaubanalthelmet2name,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAltB
 갬빗 바우반 헬멧,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAltBStatless
 에스피릿 바우반 헬맷,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAltStatless
+/Lotus/Language/Items/Vaubansoldierhelmetname,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetSoldier
 /Lotus/Language/Items/Trappernobleanims,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperNobleAnims
 /Lotus/Language/Items/Unlocktrapperagile,/Lotus/StoreItems/Upgrades/Skins/Trapper/UnlockTrapperAgile
 /Lotus/Language/Items/Unlocktrappernoble,/Lotus/StoreItems/Upgrades/Skins/Trapper/UnlockTrapperNoble
@@ -3801,6 +3814,7 @@ Mk1-브래튼,/Lotus/StoreItems/Weapons/Tenno/Rifle/StartingRifle
 /Lotus/Language/Items/Syndicateprofileiconpackname,/Lotus/Types/StoreItems/AvatarImages/AvatarPackSyndicate
 바우반 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapper
 갬빗 바우반 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapperGambit
+/Lotus/Language/Items/Avatarpacktrappersoldiername,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrapperSoldier
 트리니티 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrinity
 메리디안 트리니티 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackTrinityMeridian
 /Lotus/Language/Items/Avatarpackvalkyrname,/Lotus/Types/StoreItems/AvatarImages/AvatarPackValkyr
@@ -3821,6 +3835,7 @@ Mk1-브래튼,/Lotus/StoreItems/Weapons/Tenno/Rifle/StartingRifle
 데드 사일런스 패키지,/Lotus/Types/StoreItems/Packages/BansheePack
 /Lotus/Language/Items/Berserkerpackname,/Lotus/Types/StoreItems/Packages/BerserkerPack
 /Lotus/Language/Items/Boltorbundlename,/Lotus/Types/StoreItems/Packages/BoltorBundle
+/Lotus/Language/Items/Brassandgoldbundlename,/Lotus/Types/StoreItems/Packages/BrassAndGoldBundle
 /Lotus/Language/Items/Candycanescythepackname,/Lotus/Types/StoreItems/Packages/CandyCaneScythePack
 색상 패키지 알파,/Lotus/Types/StoreItems/Packages/ColorPack
 색상 패키지 베타,/Lotus/Types/StoreItems/Packages/ColorPackB

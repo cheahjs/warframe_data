@@ -4,7 +4,7 @@
     "PrimeBucks": "20"
   },
   {
-    "Name": "/Lotus/Language/Items/Wyrmprimename Blueprint",
+    "Name": "/Lotus/Language/Items/Primecarriersentinelname Blueprint",
     "PrimeBucks": "20"
   },
   {
@@ -12,7 +12,7 @@
     "PrimeBucks": "20"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint",
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname Blueprint",
     "PrimeBucks": "20"
   },
   {
@@ -20,7 +20,7 @@
     "PrimeBucks": "20"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname Blueprint",
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname Blueprint",
     "PrimeBucks": "50"
   },
   {
@@ -28,7 +28,7 @@
     "PrimeBucks": "50"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname Blueprint",
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname Blueprint",
     "PrimeBucks": "50"
   },
   {
@@ -484,7 +484,7 @@
     "PrimeBucks": "20"
   },
   {
-    "Name": "/Lotus/Language/Items/Wyrmprimename Blueprint",
+    "Name": "/Lotus/Language/Items/Primecarriersentinelname Blueprint",
     "PrimeBucks": "20"
   },
   {
@@ -492,7 +492,7 @@
     "PrimeBucks": "20"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint",
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname Blueprint",
     "PrimeBucks": "20"
   },
   {
@@ -500,7 +500,7 @@
     "PrimeBucks": "20"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname Blueprint",
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname Blueprint",
     "PrimeBucks": "50"
   },
   {
@@ -508,7 +508,7 @@
     "PrimeBucks": "50"
   },
   {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname Blueprint",
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname Blueprint",
     "PrimeBucks": "50"
   },
   {
@@ -928,6 +928,10 @@
     "PrimeBucks": "100"
   },
   {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname",
+    "PrimeBucks": "40"
+  },
+  {
     "Name": "/Lotus/Language/Items/Odonataprimename Blueprint",
     "PrimeBucks": "30"
   },
@@ -942,10 +946,6 @@
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname Blueprint",
     "PrimeBucks": "30"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname",
-    "PrimeBucks": "40"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname Blueprint",
@@ -1188,6 +1188,10 @@
     "PrimeBucks": "10"
   },
   {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname",
+    "PrimeBucks": "40"
+  },
+  {
     "Name": "/Lotus/Language/Items/Odonataprimename Blueprint",
     "PrimeBucks": "30"
   },
@@ -1202,10 +1206,6 @@
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname Blueprint",
     "PrimeBucks": "30"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname",
-    "PrimeBucks": "40"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname Blueprint",

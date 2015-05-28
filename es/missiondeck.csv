@@ -76,7 +76,7 @@ Node,Planet,Mission Type,Faction,AI Spec,Mission Rewards,Drone Damage,Drone Dama
 /Lotus/Language/Locations/Eurasia,Tierra,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/Lua,Tierra,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseForest,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/RelayStationEarth,Tierra,MT_PVP,Corrupted,,,10 - 50,0.30000001,1
-/Lotus/Language/G1Quests/PortalEventName,Tierra,Sabotage,Grineer,/Lotus/Types/Game/OrokinDerelictSabotageGrineerForest,,10 - 50,0.30000001,1
+/Lotus/Language/G1Quests/PortalEventName,Tierra,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadOne,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/Oro,Tierra,Assassination,Grineer,/Lotus/Types/Game/ForestBossGrineerSquadOne,,10 - 50,0.30000001,1
 ,Tierra,Assassination,Grineer,,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/Coba,Tierra,Defense,Infestation,/Lotus/Types/Game/InfestedDefenseA,,10 - 50,0.30000001,1
