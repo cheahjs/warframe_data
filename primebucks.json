@@ -348,6 +348,10 @@
     "PrimeBucks": "20"
   },
   {
+    "Name": "/Lotus/Language/Items/Fireprocresistname",
+    "PrimeBucks": "100"
+  },
+  {
     "Name": "/Lotus/Language/Items/Armourondamagename",
     "PrimeBucks": "100"
   },
@@ -361,10 +365,6 @@
   },
   {
     "Name": "/Lotus/Language/Items/Electricityprocresistname",
-    "PrimeBucks": "100"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Fireprocresistname",
     "PrimeBucks": "100"
   },
   {
@@ -448,10 +448,6 @@
     "PrimeBucks": "100"
   },
   {
-    "Name": "/Lotus/Language/Items/Pistoldamageonreloadname",
-    "PrimeBucks": "100"
-  },
-  {
     "Name": "/Lotus/Language/Items/Abilitydurationoncastname",
     "PrimeBucks": "100"
   },
@@ -465,6 +461,10 @@
   },
   {
     "Name": "/Lotus/Language/Items/Damagereductionduringrevivename",
+    "PrimeBucks": "100"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Pistoldamageonreloadname",
     "PrimeBucks": "100"
   },
   {
@@ -828,6 +828,10 @@
     "PrimeBucks": "20"
   },
   {
+    "Name": "/Lotus/Language/Items/Fireprocresistname",
+    "PrimeBucks": "100"
+  },
+  {
     "Name": "/Lotus/Language/Items/Armourondamagename",
     "PrimeBucks": "100"
   },
@@ -841,10 +845,6 @@
   },
   {
     "Name": "/Lotus/Language/Items/Electricityprocresistname",
-    "PrimeBucks": "100"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Fireprocresistname",
     "PrimeBucks": "100"
   },
   {
@@ -1448,10 +1448,6 @@
     "PrimeBucks": "10"
   },
   {
-    "Name": "/Lotus/Language/Items/Pistoldamageonreloadname",
-    "PrimeBucks": "100"
-  },
-  {
     "Name": "/Lotus/Language/Items/Abilitydurationoncastname",
     "PrimeBucks": "100"
   },
@@ -1465,6 +1461,10 @@
   },
   {
     "Name": "/Lotus/Language/Items/Damagereductionduringrevivename",
+    "PrimeBucks": "100"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Pistoldamageonreloadname",
     "PrimeBucks": "100"
   },
   {

@@ -276,37 +276,31 @@ Item Name,Item Count,Rarity,Probability
 ,,,
 CTFRewards - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Items/Warframemodshieldrechargerate,1,UNCOMMON,0.011637133033589
-/Lotus/Language/Items/Warframemodslideboost,1,UNCOMMON,0.011637133033589
-/Lotus/Language/Items/Warframemodstaminarechargerate,1,UNCOMMON,0.011637133033589
-/Lotus/Language/Items/Warframemodknockdownresistance,1,UNCOMMON,0.011637133033589
-/Lotus/Language/Items/Warframemodknockdownrecovery,1,UNCOMMON,0.011637133033589
-/Lotus/Language/Items/Riflemodrecoilreduction,1,UNCOMMON,0.011637133033589
-/Lotus/Language/Items/Riflemodnoisereduction,1,UNCOMMON,0.011637133033589
-/Lotus/Language/Items/Pistolmodzoomfov,1,UNCOMMON,0.011637133033589
-/Lotus/Language/Items/Pistolmodreloadspeed,1,UNCOMMON,0.011637133033589
-/Lotus/Language/Items/Pistolmodrecoilreduction,1,UNCOMMON,0.011637133033589
-/Lotus/Language/Items/Pistolmodnoisereduction,1,UNCOMMON,0.011637133033589
-/Lotus/Language/Items/Shotgunmodreloadspeed,1,UNCOMMON,0.011637133033589
-/Lotus/Language/Items/Rifleprojectilespeedmod,1,UNCOMMON,0.011637133033589
-Common /Lotus/Language/Items/Fusionpart,1,COMMON,0.189698492462312
-Common /Lotus/Language/Items/Fusionpart,1,COMMON,0.189698492462312
-Common /Lotus/Language/Items/Fusionpart,1,COMMON,0.189698492462312
-Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.011637133033589
-Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.011637133033589
-Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.011637133033589
-Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.011637133033589
-Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.011637133033589
+/Lotus/Language/Items/Warframemodshieldrechargerate,1,UNCOMMON,0.0170081175106301
+/Lotus/Language/Items/Warframemodknockdownresistance,1,UNCOMMON,0.0170081175106301
+/Lotus/Language/Items/Warframemodknockdownrecovery,1,UNCOMMON,0.0170081175106301
+/Lotus/Language/Items/Riflemodnoisereduction,1,UNCOMMON,0.0170081175106301
+/Lotus/Language/Items/Pistolmodzoomfov,1,UNCOMMON,0.0170081175106301
+/Lotus/Language/Items/Pistolmodnoisereduction,1,UNCOMMON,0.0170081175106301
+Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.0170081175106301
+Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.0170081175106301
+Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.0170081175106301
+Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.0170081175106301
+Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.0170081175106301
 Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
 Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
 Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
 Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
 Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
-Common /Lotus/Language/Items/Fusionpart,3,UNCOMMON,0.011637133033589
-Uncommon /Lotus/Language/Items/Fusionpart,3,RARE,0.00251256281407035
-/Lotus/Language/Items/Creditbundlea,1,COMMON,0.189698492462312
-/Lotus/Language/Items/Creditbundleb,1,RARE,0.00251256281407035
 /Lotus/Language/Items/Heavyriflename Blueprint,1,RARE,0.00251256281407035
+/Lotus/Language/Mods/Fasterreloadmorerecoilpistolmod,1,COMMON,0.189698492462312
+/Lotus/Language/Mods/Largermaglongerreloadpistolmod,1,COMMON,0.189698492462312
+/Lotus/Language/Mods/Highervelocitylessaccuratepistolmod,1,UNCOMMON,0.0170081175106301
+/Lotus/Language/Mods/Lessrecoilsmallermagpistolmod,1,RARE,0.00251256281407035
+/Lotus/Language/Mods/Fasterreloadmorerecoilriflemod,1,COMMON,0.189698492462312
+/Lotus/Language/Mods/Largermaglongerreloadriflemod,1,COMMON,0.189698492462312
+/Lotus/Language/Mods/Highervelocitylessaccurateriflemod,1,UNCOMMON,0.0170081175106301
+/Lotus/Language/Mods/Lessrecoilsmallermagriflemod,1,RARE,0.00251256281407035
 ,,,
 ,,,
 DefenseMissionRewardsEasy - Tier 0,,,

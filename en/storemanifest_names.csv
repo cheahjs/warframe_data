@@ -352,6 +352,7 @@ Raid Hijack Perf Test,/Lotus/StoreItems/Levels/HijackPerformanceTestKey
 /Lotus/Language/Items/Magician,/Lotus/StoreItems/Powersuits/Magician/Magician
 /Lotus/Language/Items/Riftwalkability,/Lotus/StoreItems/Powersuits/Magician/RiftWalkAbilityCard
 /Lotus/Language/Items/Tearinspace,/Lotus/StoreItems/Powersuits/Magician/TearInSpaceAbilityCard
+/Lotus/Language/Items/Tearinspaceabilityaugmentname,/Lotus/StoreItems/Powersuits/Magician/TearInSpaceAugmentCard
 /Lotus/Language/Items/Volatileability,/Lotus/StoreItems/Powersuits/Magician/VolatileAbilityCard
 /Lotus/Language/Items/Volatileabilityaugmentname,/Lotus/StoreItems/Powersuits/Magician/VolatileAugmentCard
 /Lotus/Language/Items/Clonethedeadabilityname,/Lotus/StoreItems/Powersuits/Necro/CloneTheDeadAbilityCard
@@ -403,6 +404,7 @@ Raid Hijack Perf Test,/Lotus/StoreItems/Levels/HijackPerformanceTestKey
 /Lotus/Language/Items/Shedabilityname,/Lotus/StoreItems/Powersuits/Saryn/ShedAbilityCard
 /Lotus/Language/Items/Shedabilitynameaugment1,/Lotus/StoreItems/Powersuits/Saryn/ShedAugmentCard
 /Lotus/Language/Items/Weaponpoisonabilityname,/Lotus/StoreItems/Powersuits/Saryn/WeaponPoisonAbilityCard
+/Lotus/Language/Items/Weaponpoisonabilityaugmentname,/Lotus/StoreItems/Powersuits/Saryn/WeaponPoisonAugmentCard
 /Lotus/Language/Items/Zephyrdivebombabilityname,/Lotus/StoreItems/Powersuits/Tengu/DiveBombAbilityCard
 /Lotus/Language/Items/Zephyrdivebombabilityaugmentname,/Lotus/StoreItems/Powersuits/Tengu/DiveBombAugmentCard
 /Lotus/Language/Items/Zephyrtailwindabilityname,/Lotus/StoreItems/Powersuits/Tengu/TailWindAbilityCard
@@ -593,6 +595,10 @@ Raid Hijack Perf Test,/Lotus/StoreItems/Levels/HijackPerformanceTestKey
 /Lotus/Language/Items/Gallium,/Lotus/StoreItems/Types/Items/MiscItems/Gallium
 /Lotus/Language/Items/Heknavcode,/Lotus/StoreItems/Types/Items/MiscItems/HekNavCode
 /Lotus/Language/Items/Infestedaladnavcodename,/Lotus/StoreItems/Types/Items/MiscItems/InfestedAladCoordinate
+/Lotus/Language/Items/Juggernautpartaname,/Lotus/StoreItems/Types/Items/MiscItems/JuggernautPartA
+/Lotus/Language/Items/Juggernautpartbname,/Lotus/StoreItems/Types/Items/MiscItems/JuggernautPartB
+/Lotus/Language/Items/Juggernautpartcname,/Lotus/StoreItems/Types/Items/MiscItems/JuggernautPartC
+/Lotus/Language/Items/Juggernautpartdname,/Lotus/StoreItems/Types/Items/MiscItems/JuggernautPartD
 /Lotus/Language/Items/Libraryscannerdoublescanupgradename,/Lotus/StoreItems/Types/Items/MiscItems/LibraryScannerDoubleScanUpgrade
 /Lotus/Language/Items/Libraryscannerrechargeupgradename,/Lotus/StoreItems/Types/Items/MiscItems/LibraryScannerRechargeUpgrade
 /Lotus/Language/Items/Libraryscannerscanspeedupgradename,/Lotus/StoreItems/Types/Items/MiscItems/LibraryScannerScanSpeedUpgrade
@@ -891,6 +897,13 @@ Ice Planet Tac Alert Easy,/Lotus/StoreItems/Types/Keys/TacAlertKeyIcePlanetCaptu
 Ice Planet Tac Alert Easy,/Lotus/StoreItems/Types/Keys/TacAlertKeyIcePlanetCaptureEasy
 Ice Planet Tac Alert Easy,/Lotus/StoreItems/Types/Keys/TacAlertKeyIcePlanetCaptureHard
 Ice Planet Tac Alert Easy,/Lotus/StoreItems/Types/Keys/TacAlertKeyIcePlanetCaptureMed
+Mutalistexecution,/Lotus/StoreItems/Types/Keys/TacAlertKeyMutalistExecution
+Mutalistexecutionbonus,/Lotus/StoreItems/Types/Keys/TacAlertKeyMutalistExecutionBonus
+Mutalistexecution,/Lotus/StoreItems/Types/Keys/TacAlertKeyMutalistExecutionHard
+Projectmutalistbonus,/Lotus/StoreItems/Types/Keys/TacAlertKeyProjectMutalistBonus
+Projectmutalisteasy,/Lotus/StoreItems/Types/Keys/TacAlertKeyProjectMutalistEasy
+Projectmutalisthard,/Lotus/StoreItems/Types/Keys/TacAlertKeyProjectMutalistHard
+Projectmutalistmedium,/Lotus/StoreItems/Types/Keys/TacAlertKeyProjectMutalistMedium
 Defense Test Key,/Lotus/StoreItems/Types/Keys/TestKeyA
 Testattackdefend,/Lotus/StoreItems/Types/Keys/TestKeyAttackDefend
 Survival Test Key,/Lotus/StoreItems/Types/Keys/TestKeyB
@@ -1033,6 +1046,7 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Items/Forma Blueprint,/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint
 /Lotus/Language/Items/Gallium Blueprint,/Lotus/StoreItems/Types/Recipes/Components/GalliumResourceBlueprint
 /Lotus/Language/Items/Goldspectre x3 Blueprint,/Lotus/StoreItems/Types/Recipes/Components/GoldSpectreBlueprint
+/Lotus/Language/Items/Infestedbaitball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/InfestedBaitBallBlueprint
 /Lotus/Language/Items/Moaball Blueprint,/Lotus/StoreItems/Types/Recipes/Components/MoaBallBlueprint
 /Lotus/Language/Items/Morphic Blueprint,/Lotus/StoreItems/Types/Recipes/Components/MorphicsResourceBlueprint
 /Lotus/Language/Items/Neuralsensor Blueprint,/Lotus/StoreItems/Types/Recipes/Components/NeuralSensorResourceBlueprint
@@ -1588,6 +1602,7 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Items/Grineersawbladegunname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/MiterBlueprint
 /Lotus/Language/Items/Paladinmacename Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PaladinMaceBlueprint
 /Lotus/Language/Items/Pangolinswordname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PangolinSwordBlueprint
+/Lotus/Language/Items/Parisscythename Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ParisScytheBlueprint
 /Lotus/Language/Items/Plasmaswordname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PlasmaSwordBlueprint
 /Lotus/Language/Items/Orthospolearmname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PolearmBlueprint
 /Lotus/Language/Items/Primepolearmname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/PolearmPrimeBlueprint
@@ -1658,6 +1673,8 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Items/Fomoriannegatorbetaname,/Lotus/StoreItems/Types/Restoratives/Consumable/FomorianNegatorBeta
 /Lotus/Language/Items/Goldspectre,/Lotus/StoreItems/Types/Restoratives/Consumable/GoldSpectre
 /Lotus/Language/Items/Huntertoolname,/Lotus/StoreItems/Types/Restoratives/Consumable/HunterTool
+/Lotus/Language/Items/Infestedbaitball,/Lotus/StoreItems/Types/Restoratives/Consumable/InfestedBaitBall
+,/Lotus/StoreItems/Types/Restoratives/Consumable/InfestedSyringe
 /Lotus/Language/Items/Libraryscannername,/Lotus/StoreItems/Types/Restoratives/Consumable/LibraryScanner
 /Lotus/Language/Items/Machetewomanball,/Lotus/StoreItems/Types/Restoratives/Consumable/MacheteWomanBall
 /Lotus/Language/Items/Moaball,/Lotus/StoreItems/Types/Restoratives/Consumable/MoaBall
@@ -2114,6 +2131,7 @@ Xattractor 9,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorI
 /Lotus/Language/Items/Robotpooraimbuffname,/Lotus/StoreItems/Upgrades/Mods/Aura/RobotPoorAimAuraMod
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/BossDropReductionAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/CorrosiveDamageEnemyAura
+/Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/ElectricDamageEnemyAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/EnergyDrainCaptureTargetAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/EnergyLimitAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/FastEnemyLevelAura
@@ -2123,11 +2141,14 @@ Xattractor 9,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorI
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/HiveExtraDamageEnemyAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceDamageEnemyAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/IceProcEnemyAura
+/Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/JuggernautWarningLevelAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/KubrowIntensifierAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/NpcDropReductionAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PerfTestExtraHealthEnemyLevelAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PoisonDamageEnemyAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PortalEventAura
+/Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/ProjectMutalistBonusLevelAura
+/Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/ProjectMutalistLevelAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/PvPMeleeChannelingLevelAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/RaidEnemyDamageResistLevelAura
 /Lotus/Language/Items/Emptyartifact,/Lotus/StoreItems/Upgrades/Mods/DirectorMods/ShipyardsInterceptionLevelAura
@@ -2372,19 +2393,31 @@ Uncommon /Lotus/Language/Items/Fusionpart,/Lotus/StoreItems/Upgrades/Mods/Fusers
 /Lotus/Language/Mods/Meleeautotargetbonus,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Melee/MeleeAutoTargetBonus
 /Lotus/Language/Mods/Meleestaminadamagebonus,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Melee/MeleeStaminaDamageBonus
 /Lotus/Language/Mods/Meleevictimstaminadrain,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Melee/MeleeVictimStaminaDrain
+/Lotus/Language/Mods/Fasterreloadmorerecoilpistolmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Pistol/FasterReloadMoreRecoilPistolMod
+/Lotus/Language/Mods/Highervelocitylessaccuratepistolmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Pistol/HigherVelocityLessAccuratePistolMod
 /Lotus/Language/Mods/Holsterspeedbonusmodpistol,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Pistol/HolsterSpeedBonusMod
+/Lotus/Language/Mods/Largermaglongerreloadpistolmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Pistol/LargerMagLongerReloadPistolMod
+/Lotus/Language/Mods/Lessrecoilsmallermagpistolmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Pistol/LessRecoilSmallerMagPistolMod
 /Lotus/Language/Mods/Marktargetadddamagepistolmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Pistol/MarkTargetAddDamageMod
 /Lotus/Language/Mods/Marktargetpistolmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Pistol/MarkTargetPistolMod
 /Lotus/Language/Mods/Passivereloadpistolmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Pistol/PassiveReloadMod
 /Lotus/Language/Mods/Restorehealthonkillpistolmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Pistol/RestoreHealthOnKillMod
 /Lotus/Language/Mods/Restoreshieldsonkillpistolmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Pistol/RestoreShieldsOnKillMod
+,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Rifle/DaikyuMoreDamageOverDistanceMod
+/Lotus/Language/Mods/Fasterreloadmorerecoilriflemod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Rifle/FasterReloadMoreRecoilRifleMod
+/Lotus/Language/Mods/Highervelocitylessaccurateriflemod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Rifle/HigherVelocityLessAccurateRifleMod
 /Lotus/Language/Mods/Holsterspeedbonusmodrifle,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Rifle/HolsterSpeedBonusMod
+/Lotus/Language/Mods/Largermaglongerreloadriflemod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Rifle/LargerMagLongerReloadRifleMod
+/Lotus/Language/Mods/Lessrecoilsmallermagriflemod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Rifle/LessRecoilSmallerMagRifleMod
 /Lotus/Language/Mods/Marktargetadddamageriflemod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Rifle/MarkTargetAddDamageMod
 /Lotus/Language/Mods/Marktargetriflemod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Rifle/MarkTargetRifleMod
 /Lotus/Language/Mods/Passivereloadriflemod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Rifle/PassiveReloadMod
 /Lotus/Language/Mods/Restorehealthonkillriflemod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Rifle/RestoreHealthOnKillMod
 /Lotus/Language/Mods/Restoreshieldsonkillriflemod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Rifle/RestoreShieldsOnKillMod
+/Lotus/Language/Mods/Fasterreloadmorerecoilshotgunmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Shotgun/FasterReloadMoreRecoilShotgunMod
 /Lotus/Language/Mods/Holsterspeedbonusmodshotgun,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Shotgun/HolsterSpeedBonusMod
+/Lotus/Language/Mods/Largermaglongerreloadshotgunmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Shotgun/LargerMagLongerReloadShotgunMod
+/Lotus/Language/Mods/Lessrecoilsmallermagshotgunmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Shotgun/LessRecoilSmallerMagShotgunMod
 /Lotus/Language/Mods/Marktargetadddamageshotgunmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Shotgun/MarkTargetAddDamageMod
 /Lotus/Language/Mods/Marktargetshotgunmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Shotgun/MarkTargetShotgunMod
 /Lotus/Language/Mods/Passivereloadshotgunmod,/Lotus/StoreItems/Upgrades/Mods/PvPMods/Shotgun/PassiveReloadMod
@@ -2827,11 +2860,11 @@ Uncommon /Lotus/Language/Items/Fusionpart,/Lotus/StoreItems/Upgrades/Mods/Fusers
 /Lotus/Language/Items/Gusokuchestplatename,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoChestArmor
 /Lotus/Language/Items/Gusokukneeplatesname,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoLegLeftArmor
 /Lotus/Language/Items/Gusokukneeplatesname,/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoLegRightArmor
-/Lotus/Language/Items/Vteosarmname,/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosALArmor
-/Lotus/Language/Items/Vteosarmname,/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosARArmor
+/Lotus/Language/Items/Vteosarmleftname,/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosALArmor
+/Lotus/Language/Items/Vteosarmrightname,/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosARArmor
 /Lotus/Language/Items/Vteoschestname,/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosChestArmor
-/Lotus/Language/Items/Vteoslegname,/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosLLArmor
-/Lotus/Language/Items/Vteoslegname,/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosLRArmor
+/Lotus/Language/Items/Vteoslegleftname,/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosLLArmor
+/Lotus/Language/Items/Vteoslegrightname,/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosLRArmor
 /Lotus/Language/Items/Warframedefaultarmourbansheename,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/BansheeArmLeftArmor
 /Lotus/Language/Items/Warframedefaultarmouremberprimename,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/EmberPrimeArmLeftArmor
 /Lotus/Language/Items/Warframedefaultarmouremberprimename,/Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/EmberPrimeArmRightArmor
@@ -3694,6 +3727,7 @@ Uncommon /Lotus/Language/Items/Fusionpart,/Lotus/StoreItems/Upgrades/Mods/Fusers
 /Lotus/Language/Items/Flowerpowerpolearmname,/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/FlowerPowerPolearm/FlowerPowerPolearmWep
 /Lotus/Language/Items/Orthospolearmname,/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PolearmWeapon
 /Lotus/Language/Items/Primepolearmname,/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PrimePolearmWeapon
+/Lotus/Language/Items/Parisscythename,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/ParisScythe/ParisScythe
 /Lotus/Language/Items/Etherscythename,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/EtherScytheWeapon
 /Lotus/Language/Items/Reaperprimename,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/ReaperWeapon
 /Lotus/Language/Items/Stalkerscythename,/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/StalkerScytheWeapon
@@ -3891,6 +3925,7 @@ Uncommon /Lotus/Language/Items/Fusionpart,/Lotus/StoreItems/Upgrades/Mods/Fusers
 /Lotus/Language/Items/Nemesisnyxbundlename,/Lotus/Types/StoreItems/Packages/NemesisNyxBundle
 /Lotus/Language/Items/Orokinsabotageeventmodpackname,/Lotus/Types/StoreItems/Packages/OrokinSabotageModPack
 /Lotus/Language/Items/Paladinpackname,/Lotus/Types/StoreItems/Packages/PaladinPack
+/Lotus/Language/Items/Parisstylebundlename,/Lotus/Types/StoreItems/Packages/ParisWeaponBundle
 /Lotus/Language/Items/Petattachmentpackaname,/Lotus/Types/StoreItems/Packages/PetAttachmentsPackA
 /Lotus/Language/Items/Petattachmentpackbname,/Lotus/Types/StoreItems/Packages/PetAttachmentsPackB
 /Lotus/Language/Items/Coltekpackname,/Lotus/Types/StoreItems/Packages/PetAttachmentsPackColtek

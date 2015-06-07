@@ -65,7 +65,7 @@ Node,Planet,Mission Type,Faction,AI Spec,Mission Rewards,Drone Damage,Drone Dama
 ,Erde,Assassination,Grineer,,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Mantle,Erde,Capture,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Mariana,Erde,Sabotage,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
-/Lotus/Language/Locations/Cambria,Erde,MT_EXCAVATE,Grineer,/Lotus/Types/Game/ForestGrineerExcavationA,,10 - 50,0.30000001,0
+/Lotus/Language/Locations/Cambria,Erde,Spy,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Everest,Erde,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Pacific,Erde,Capture,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Lith,Erde,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseForest,,10 - 50,0.30000001,0
@@ -74,7 +74,7 @@ Node,Planet,Mission Type,Faction,AI Spec,Mission Rewards,Drone Damage,Drone Dama
 /Lotus/Language/Locations/EPrime,Erde,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/Gaia,Erde,Interception,Grineer,/Lotus/Types/Game/ForestGrineerTerritoriesOne,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/Eurasia,Erde,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,1
-/Lotus/Language/Locations/Lua,Erde,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseForest,,10 - 50,0.30000001,1
+/Lotus/Language/Locations/Lua,Erde,MT_EXCAVATE,Grineer,/Lotus/Types/Game/ForestGrineerExcavationA,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/RelayStationEarth,Erde,MT_PVP,Corrupted,,,10 - 50,0.30000001,1
 /Lotus/Language/G1Quests/PortalEventName,Erde,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadOne,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/Oro,Erde,Assassination,Grineer,/Lotus/Types/Game/ForestBossGrineerSquadOne,,10 - 50,0.30000001,1

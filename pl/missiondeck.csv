@@ -65,7 +65,7 @@ Node,Planet,Mission Type,Faction,AI Spec,Mission Rewards,Drone Damage,Drone Dama
 ,Ziemia,Assassination,Grineer,,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Mantle,Ziemia,Capture,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Mariana,Ziemia,Sabotage,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
-/Lotus/Language/Locations/Cambria,Ziemia,MT_EXCAVATE,Grineer,/Lotus/Types/Game/ForestGrineerExcavationA,,10 - 50,0.30000001,0
+/Lotus/Language/Locations/Cambria,Ziemia,Spy,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Everest,Ziemia,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Pacific,Ziemia,Capture,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Lith,Ziemia,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseForest,,10 - 50,0.30000001,0
@@ -74,7 +74,7 @@ Node,Planet,Mission Type,Faction,AI Spec,Mission Rewards,Drone Damage,Drone Dama
 /Lotus/Language/Locations/EPrime,Ziemia,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/Gaia,Ziemia,Interception,Grineer,/Lotus/Types/Game/ForestGrineerTerritoriesOne,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/Eurasia,Ziemia,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,1
-/Lotus/Language/Locations/Lua,Ziemia,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseForest,,10 - 50,0.30000001,1
+/Lotus/Language/Locations/Lua,Ziemia,MT_EXCAVATE,Grineer,/Lotus/Types/Game/ForestGrineerExcavationA,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/RelayStationEarth,Ziemia,MT_PVP,Corrupted,,,10 - 50,0.30000001,1
 /Lotus/Language/G1Quests/PortalEventName,Ziemia,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadOne,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/Oro,Ziemia,Assassination,Grineer,/Lotus/Types/Game/ForestBossGrineerSquadOne,,10 - 50,0.30000001,1

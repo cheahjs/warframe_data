@@ -644,6 +644,13 @@ GrineerIntelTiersDesert,Desert/ShotgunLancer,0.25,0,1
 ,Desert/ShotgunLancer,1,0,5
 ,Desert/BladeSawman,1,0,5
 ,AIWeek/CameraDroneAgent,1,0,6
+GrineerIntelTiersForest,Forest/RifleLancer,1,0,5
+,Forest/EliteRifleLancer,1,0,5
+,Forest/BladeSawman,0.30000001,0,5
+,Forest/ShotgunLancer,0.5,0,5
+,Forest/MinigunBombard,0.2,1,5
+,Forest/JetpackMarine,0.25,1,5
+,AIWeek/CameraDroneAgent,1,0,6
 GrineerIntelTiersSquadFour,AIWeek/ShotgunLancer,0.30000001,0,1
 ,AIWeek/MinigunBombard,0.1,2,1
 ,AIWeek/ShieldLancer,0.15000001,2,1
@@ -1431,6 +1438,31 @@ TRExterminateC,드론 (SpaceBattles/CrpSpaceDroneAttackAgent),1,0,0
 ,SpaceBattles/CrewMan/JetCorpusTwoNavAgent,0.60000002,0,0
 ,SpaceBattles/CrewMan/JetCorpusThreeNavAgent,0.40000001,0,0
 ,SpaceBattles/Ships/CorpusPodAgent,0.2,2,0
+TacAlertMutalistExecutionSquadA,차져 (AiWeek/Quadrupeds/Quadruped),0.5,0,0
+,리퍼 (AiWeek/Runners/LeapingRunner),0.5,0,0
+,러너 (AiWeek/Runners/SuicideRunner),1,0,0
+,AiWeek/Crawlers/LightningCrawler,0.2,0,0
+,노져스 크롤러 (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.15000001,2,0
+,AiWeek/Ancients/MeleeAncient,0.1,0,0
+,에인션트 힐러 (AiWeek/Ancients/HealingAncient),0.1,0,0
+,/Lotus/Language/Game/Juggernautname (AiWeek/Quadrupeds/Juggernaut),0.25,0,0
+TacAlertMutalistExecutionSquadB,차져 (AiWeek/Quadrupeds/Quadruped),0.5,0,0
+,리퍼 (AiWeek/Runners/LeapingRunner),0.5,0,0
+,러너 (AiWeek/Runners/SuicideRunner),1,0,0
+,AiWeek/Crawlers/LightningCrawler,0.2,0,0
+,노져스 크롤러 (AiWeek/Crawlers/GraspingCrawler),0.15000001,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.25,2,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.15000001,2,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.15000001,2,0
+,AiWeek/Ancients/MeleeAncient,0.1,0,0
+,에인션트 힐러 (AiWeek/Ancients/HealingAncient),0.1,0,0
 TestSectorGrineer,/Lotus/Language/Game/Corruptedcrewman (RifleSpacemanAgent),1,0,0
 ,/Lotus/Language/Game/Corruptedlancer (RifleLancer),1,0,0
 ,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),1,0,1
@@ -1554,6 +1586,33 @@ GrineerShipyardsSurvivalA,AIWeek/RifleLancer,1,0,0
 ,AIWeek/EviseratorLancer,0.1,1,5
 ,AIWeek/GrineerRollingDrone,0.050000001,1,5
 ,AIWeek/DeltaProsecutorAgent,1,1,9
+ProjectMutalistCapture,크루맨 (Spaceman/AIWeek/RifleSpacemanAgent),1,0,0
+,레일건 M.O.A (BipedRobot/AIWeek/RailgunBipedAgent),0.30000001,0,0
+,쇼크웨이브 M.O.A (BipedRobot/AIWeek/ShockwaveBipedAgent),0.1,2,0
+,M.O.A (BipedRobot/AIWeek/LaserCannonBipedAgent),0.5,0,0
+,쉴드 어스프레이 (Drones/AIWeek/ShieldDroneAgent),0.1,2,0
+,마인 어스프레이 (Drones/AIWeek/MineDroneAgent),0.1,2,0
+,리치 어스프레이 (Drones/AIWeek/LeechDroneAgent),0.1,1,0
+ProjectMutalistInvasion,크루맨 (Spaceman/AIWeek/RifleSpacemanAgent),1,6,0
+,/Lotus/Language/Game/Controlriotmoaname (BipedRobot/AIWeek/RiotBipedControlAgent),1,1,0
+,쉴드 어스프레이 (Drones/AIWeek/ShieldDroneAgent),1,3,0
+,레일건 M.O.A (BipedRobot/AIWeek/RailgunBipedAgent),1,3,0
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,0,0
+,에인션트 힐러 (AiWeek/Ancients/HealingAncient),0.1,0,0
+,AiWeek/Ancients/MeleeAncient,0.30000001,0,0
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,0,0
+,톡식 에인션트 (AiWeek/Ancients/ToxicAncient),0.25,0,0
+,노져스 크롤러 (AiWeek/Crawlers/GraspingCrawler),0.1,0,0
+,AiWeek/Crawlers/GrenadeCrawler,0.2,0,0
+,AiWeek/Crawlers/LightningCrawler,0.2,0,0
+,AiWeek/Crawlers/MeleeCrawler,0.1,0,0
+,녹셔스 크롤러 (AiWeek/Crawlers/NoxiousCrawler),0.1,0,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.2,0,0
+,차져 (AiWeek/Quadrupeds/Quadruped),0.2,0,0
+,리퍼 (AiWeek/Runners/LeapingRunner),0.1,0,0
+,러너 (AiWeek/Runners/SuicideRunner),0.1,0,0
 InfestedDefenseDGrineerDesert,차져 (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,리퍼 (AiWeek/Runners/LeapingRunner),0.2,0,0
 ,러너 (AiWeek/Runners/SuicideRunner),1,0,0

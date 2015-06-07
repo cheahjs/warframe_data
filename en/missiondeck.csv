@@ -65,7 +65,7 @@ Node,Planet,Mission Type,Faction,AI Spec,Mission Rewards,Drone Damage,Drone Dama
 ,/Lotus/Language/Game/Earth,Assassination,Grineer,,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Mantle,/Lotus/Language/Game/Earth,Capture,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Mariana,/Lotus/Language/Game/Earth,Sabotage,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
-/Lotus/Language/Locations/Cambria,/Lotus/Language/Game/Earth,MT_EXCAVATE,Grineer,/Lotus/Types/Game/ForestGrineerExcavationA,,10 - 50,0.30000001,0
+/Lotus/Language/Locations/Cambria,/Lotus/Language/Game/Earth,Spy,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Everest,/Lotus/Language/Game/Earth,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Pacific,/Lotus/Language/Game/Earth,Capture,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,0
 /Lotus/Language/Locations/Lith,/Lotus/Language/Game/Earth,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseForest,,10 - 50,0.30000001,0
@@ -74,7 +74,7 @@ Node,Planet,Mission Type,Faction,AI Spec,Mission Rewards,Drone Damage,Drone Dama
 /Lotus/Language/Locations/EPrime,/Lotus/Language/Game/Earth,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/Gaia,/Lotus/Language/Game/Earth,Interception,Grineer,/Lotus/Types/Game/ForestGrineerTerritoriesOne,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/Eurasia,/Lotus/Language/Game/Earth,Extermination,Grineer,/Lotus/Types/Game/ForestGrineerSquadOne,,10 - 50,0.30000001,1
-/Lotus/Language/Locations/Lua,/Lotus/Language/Game/Earth,Defense,Grineer,/Lotus/Types/Game/GrineerDefenseForest,,10 - 50,0.30000001,1
+/Lotus/Language/Locations/Lua,/Lotus/Language/Game/Earth,MT_EXCAVATE,Grineer,/Lotus/Types/Game/ForestGrineerExcavationA,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/RelayStationEarth,/Lotus/Language/Game/Earth,MT_PVP,Corrupted,,,10 - 50,0.30000001,1
 /Lotus/Language/G1Quests/PortalEventName,/Lotus/Language/Game/Earth,Sabotage,Grineer,/Lotus/Types/Game/GrineerSquadOne,,10 - 50,0.30000001,1
 /Lotus/Language/Locations/Oro,/Lotus/Language/Game/Earth,Assassination,Grineer,/Lotus/Types/Game/ForestBossGrineerSquadOne,,10 - 50,0.30000001,1
