@@ -260,6 +260,14 @@
     "PrimeBucks": "50"
   },
   {
+    "Name": "/Lotus/Language/Items/Primevastoname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Primevectisname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
     "Name": "/Lotus/Language/Items/Primedualbroncosname Blueprint",
     "PrimeBucks": "10"
   },
@@ -338,14 +346,6 @@
   {
     "Name": "/Lotus/Language/Items/Primesomaname Blueprint",
     "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Primevastoname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Primevectisname Blueprint",
-    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Items/Fireprocresistname",
@@ -740,6 +740,14 @@
     "PrimeBucks": "50"
   },
   {
+    "Name": "/Lotus/Language/Items/Primevastoname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Primevectisname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
     "Name": "/Lotus/Language/Items/Primedualbroncosname Blueprint",
     "PrimeBucks": "10"
   },
@@ -818,14 +826,6 @@
   {
     "Name": "/Lotus/Language/Items/Primesomaname Blueprint",
     "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Primevastoname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Primevectisname Blueprint",
-    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Items/Fireprocresistname",

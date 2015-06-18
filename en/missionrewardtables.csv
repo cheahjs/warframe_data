@@ -52,18 +52,19 @@ Common /Lotus/Language/Items/Fusionpart,1,COMMON,0.0811827956989247
 ,,,
 ArchwingInterceptionMissionRewardsEasy - Tier 1,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Items/Archwingsuitsprintspeedmod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Archwingmeleerangeincmod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Archwingsuitabilitystrengthmod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Archwingsuitshieldrechargeratemod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Archwingsuitabilitystrengthmod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Archwingmeleedamagemod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Archwingmeleerangeincmod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Archwingsuitabilityefficiencymod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Archwingmeleecritdamagemod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Archwingsuitabilitydurationmod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Archwingweaponelectricitydamagerifle,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Archwingweaponfiredamagemelee,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/Archwingsuitsprintspeedmod,1,UNCOMMON,0.0188034188034188
+/Lotus/Language/Items/Archwingmeleerangeincmod,1,UNCOMMON,0.0188034188034188
+/Lotus/Language/Items/Archwingsuitabilitystrengthmod,1,UNCOMMON,0.0188034188034188
+/Lotus/Language/Items/Archwingsuitshieldrechargeratemod,1,UNCOMMON,0.0188034188034188
+/Lotus/Language/Items/Archwingsuitabilitystrengthmod,1,UNCOMMON,0.0188034188034188
+/Lotus/Language/Items/Archwingmeleedamagemod,1,UNCOMMON,0.0188034188034188
+/Lotus/Language/Items/Archwingmeleerangeincmod,1,UNCOMMON,0.0188034188034188
+/Lotus/Language/Items/Archwingsuitabilityefficiencymod,1,UNCOMMON,0.0188034188034188
+/Lotus/Language/Items/Archwingmeleecritdamagemod,1,UNCOMMON,0.0188034188034188
+/Lotus/Language/Items/Archwingsuitabilitydurationmod,1,UNCOMMON,0.0188034188034188
+/Lotus/Language/Items/Archwingweaponelectricitydamagerifle,1,UNCOMMON,0.0188034188034188
+/Lotus/Language/Items/Archwingweaponfiredamagemelee,1,UNCOMMON,0.0188034188034188
+Uncommon /Lotus/Language/Items/Fusionpart,3,COMMON,0.774358974358974
 ,,,
 ArchwingInterceptionMissionRewardsEasy - Tier 2,,,
 Item Name,Item Count,Rarity,Probability
@@ -287,20 +288,23 @@ Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.0170081175106301
 Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.0170081175106301
 Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.0170081175106301
 Uncommon /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.0170081175106301
-Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
-Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
-Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
-Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
-Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00251256281407035
-/Lotus/Language/Items/Heavyriflename Blueprint,1,RARE,0.00251256281407035
-/Lotus/Language/Mods/Fasterreloadmorerecoilpistolmod,1,COMMON,0.189698492462312
-/Lotus/Language/Mods/Largermaglongerreloadpistolmod,1,COMMON,0.189698492462312
+Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00223338916806253
+Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00223338916806253
+Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00223338916806253
+Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00223338916806253
+Rare /Lotus/Language/Items/Fusionpart,1,RARE,0.00223338916806253
+/Lotus/Language/Items/Heavyriflename Blueprint,1,RARE,0.00223338916806253
+/Lotus/Language/Mods/Fasterreloadmorerecoilpistolmod,1,COMMON,0.126465661641541
+/Lotus/Language/Mods/Largermaglongerreloadpistolmod,1,COMMON,0.126465661641541
 /Lotus/Language/Mods/Highervelocitylessaccuratepistolmod,1,UNCOMMON,0.0170081175106301
-/Lotus/Language/Mods/Lessrecoilsmallermagpistolmod,1,RARE,0.00251256281407035
-/Lotus/Language/Mods/Fasterreloadmorerecoilriflemod,1,COMMON,0.189698492462312
-/Lotus/Language/Mods/Largermaglongerreloadriflemod,1,COMMON,0.189698492462312
+/Lotus/Language/Mods/Lessrecoilsmallermagpistolmod,1,RARE,0.00223338916806253
+/Lotus/Language/Mods/Fasterreloadmorerecoilriflemod,1,COMMON,0.126465661641541
+/Lotus/Language/Mods/Largermaglongerreloadriflemod,1,COMMON,0.126465661641541
 /Lotus/Language/Mods/Highervelocitylessaccurateriflemod,1,UNCOMMON,0.0170081175106301
-/Lotus/Language/Mods/Lessrecoilsmallermagriflemod,1,RARE,0.00251256281407035
+/Lotus/Language/Mods/Lessrecoilsmallermagriflemod,1,RARE,0.00223338916806253
+/Lotus/Language/Mods/Fasterreloadmorerecoilshotgunmod,1,COMMON,0.126465661641541
+/Lotus/Language/Mods/Largermaglongerreloadshotgunmod,1,COMMON,0.126465661641541
+/Lotus/Language/Mods/Lessrecoilsmallermagshotgunmod,1,RARE,0.00223338916806253
 ,,,
 ,,,
 DefenseMissionRewardsEasy - Tier 0,,,
@@ -792,24 +796,8 @@ Common /Lotus/Language/Items/Fusionpart,1,COMMON,0.0833333333333333
 ,,,
 InterceptionMissionRewardsHard - Tier 1,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Items/Riflemodfirerate,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Warframemodshieldrechargerate,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Warframemodsprintspeed,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Pistolmodcritdamage,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Pistolmodarmorpiercing,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Riflemoddamageamount,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Pistolmoddamageamount,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Meleemodchargerate,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Pistolmodfreezedamage,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Meleemodfreezedamage,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Riflemodfreezedamage,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Shotgunmodfireiterations,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Warframemodabilityefficiency,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Meleemodelectricitydamage,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Riflemodelectricitydamage,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Shotgunmoddamageamount,1,COMMON,0.0555555555555556
-/Lotus/Language/Items/Meleemodfirerate,1,COMMON,0.0555555555555556
-Uncommon /Lotus/Language/Items/Fusionpart,1,COMMON,0.0555555555555556
+Uncommon /Lotus/Language/Items/Fusionpart,3,COMMON,0.5
+Rare /Lotus/Language/Items/Fusionpart,5,COMMON,0.5
 ,,,
 InterceptionMissionRewardsHard - Tier 2,,,
 Item Name,Item Count,Rarity,Probability

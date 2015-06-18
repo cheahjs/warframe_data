@@ -273,6 +273,7 @@ Raid Hijack Perf Test,/Lotus/StoreItems/Levels/HijackPerformanceTestKey
 /Lotus/Language/Items/Gunslinger,/Lotus/StoreItems/Powersuits/Cowgirl/Cowgirl
 /Lotus/Language/Items/Gunfuability,/Lotus/StoreItems/Powersuits/Cowgirl/GunFuAbilityCard
 /Lotus/Language/Items/Ricochetarmorability,/Lotus/StoreItems/Powersuits/Cowgirl/RicochetArmourAbilityCard
+/Lotus/Language/Items/Ricochetarmorabilityaugmentname,/Lotus/StoreItems/Powersuits/Cowgirl/RicochetArmourAugmentCard
 /Lotus/Language/Items/Russianrouletteability,/Lotus/StoreItems/Powersuits/Cowgirl/RussianRouletteAbilityCard
 /Lotus/Language/Items/Russianrouletteabilityaugmentname,/Lotus/StoreItems/Powersuits/Cowgirl/RussianRouletteAugmentCard
 /Lotus/Language/Items/Chromaname,/Lotus/StoreItems/Powersuits/Dragon/Dragon
@@ -373,6 +374,7 @@ Raid Hijack Perf Test,/Lotus/StoreItems/Levels/HijackPerformanceTestKey
 텔레포트,/Lotus/StoreItems/Powersuits/Ninja/TelelportToAbilityCard
 /Lotus/Language/Items/Paladinname,/Lotus/StoreItems/Powersuits/Paladin/Paladin
 /Lotus/Language/Items/Reckoningability,/Lotus/StoreItems/Powersuits/Paladin/ReckoningAbilityCard
+/Lotus/Language/Items/Reckoningabilityaugment1,/Lotus/StoreItems/Powersuits/Paladin/ReckoningAugmentCard
 /Lotus/Language/Items/Reckoningabilityaugmentpvpname,/Lotus/StoreItems/Powersuits/Paladin/ReckoningPvPAugmentCard
 /Lotus/Language/Items/Regenerationabilityname,/Lotus/StoreItems/Powersuits/Paladin/RegenerationAbilityCard
 /Lotus/Language/Items/Smiteabilityname,/Lotus/StoreItems/Powersuits/Paladin/SmiteAbilityCard
@@ -684,6 +686,8 @@ Mod Fuser,/Lotus/StoreItems/Types/BoosterPacks/ModFuserResult
 /Lotus/Language/Shipdecorations/Bobbleheadexcaliburjadename,/Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburJadeBobbleHead
 /Lotus/Language/Shipdecorations/Bobbleheadexcaliburobsidianname,/Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburObsidianBobbleHead
 /Lotus/Language/Shipdecorations/Bobbleheadexcaliburprimename,/Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburPrimeBobbleHead
+/Lotus/Language/Shipdecorations/Bobbleheadexcaliburprismaname,/Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburPrismaBobbleHead
+/Lotus/Language/Shipdecorations/Bobbleheadexcaliburprotoname,/Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburProtoBobbleHead
 /Lotus/Language/Shipdecorations/Bobbleheadfrostname,/Lotus/StoreItems/Types/Items/ShipDecos/FrostBobbleHead
 /Lotus/Language/Shipdecorations/Bobbleheadexcavationbossname,/Lotus/StoreItems/Types/Items/ShipDecos/GrineerExcavationBossBobbleHead
 /Lotus/Language/Shipdecorations/Bobbleheadalt2desertname,/Lotus/StoreItems/Types/Items/ShipDecos/GrineerMarineAlt2DesertBobbleHead
@@ -1100,6 +1104,7 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Items/Chromaalthelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/DragonAltHelmetBlueprint
 /Lotus/Language/Items/Arcaneemberalthelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/EmberAltHelmetBlueprint
 /Lotus/Language/Items/Arcaneexcaliburalthelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ExcaliburAltHelmetBlueprint
+/Lotus/Language/Items/Excaliburhelmetmordredname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/ExcaliburMordredHelmetBlueprint
 /Lotus/Language/Items/Arcanefrostalthelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/FrostAltHelmetBlueprint
 /Lotus/Language/Items/Harlequinalthelmet Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/HarlequinAltHelmetBlueprint
 /Lotus/Language/Items/Limboaltbhelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/Helmets/LimboAltBHelmetBlueprint
@@ -1800,6 +1805,8 @@ Xattractor 9,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorI
 아발론 엑스칼리버 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburAvalonDark
 엑스칼리버 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburBright
 엑스칼리버 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburDark
+/Lotus/Language/Items/Avatarexcaliburmordredbrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburMordredBright
+/Lotus/Language/Items/Avatarexcaliburmordreddarkname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburMordredDark
 팬드래건 엑스칼리버 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburPendragonBright
 팬드래건 엑스칼리버 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburPendragonDark
 엑스칼리버 프라임 아바타,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburPrimeBright
@@ -2817,8 +2824,8 @@ Glaive Refraction,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveReflectionIn
 /Lotus/Language/Items/Novaprimehelmetname,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaPrimeHelmet
 /Lotus/Language/Items/Novaalthelm2name,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaQuantumHelmet
 /Lotus/Language/Items/Novaslipstreamhelmetname,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/NovaSlipstreamHelmet
-/Lotus/Language/Items/Unlockantimatteragile,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/UnlockAntiMatterAgile
-/Lotus/Language/Items/Unlockantimatternoble,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/UnlockAntiMatterNoble
+/Lotus/Language/Items/Antimatteragileanims,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/UnlockAntiMatterAgile
+/Lotus/Language/Items/Antimatternobleanims,/Lotus/StoreItems/Upgrades/Skins/AntiMatter/UnlockAntiMatterNoble
 /Lotus/Language/Items/Corpusfencerarmarmorname,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncALArmor
 /Lotus/Language/Items/Corpusfencerarmarmorname,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncARArmor
 /Lotus/Language/Items/Corpusfencerlegarmorname,/Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/CrpFncLLArmor
@@ -2896,16 +2903,16 @@ Glaive Refraction,/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveReflectionIn
 새린의 기본 헬멧,/Lotus/StoreItems/Upgrades/Skins/Asp/AspHelmet
 /Lotus/Language/Items/Aspnobleanims,/Lotus/StoreItems/Upgrades/Skins/Asp/AspNobleAnims
 /Lotus/Language/Items/Warframeskinsarynalternatename,/Lotus/StoreItems/Upgrades/Skins/Asp/SarynAlternateSkin
-/Lotus/Language/Items/Unlockaspagile,/Lotus/StoreItems/Upgrades/Skins/Asp/UnlockAspAgile
-/Lotus/Language/Items/Unlockaspnoble,/Lotus/StoreItems/Upgrades/Skins/Asp/UnlockAspNoble
+/Lotus/Language/Items/Aspagileanims,/Lotus/StoreItems/Upgrades/Skins/Asp/UnlockAspAgile
+/Lotus/Language/Items/Aspnobleanims,/Lotus/StoreItems/Upgrades/Skins/Asp/UnlockAspNoble
 대거액스 스킨,/Lotus/StoreItems/Upgrades/Skins/Axe/DaggerAxe
 /Lotus/Language/Items/Berserkeragileanims,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerAgileAnims
 /Lotus/Language/Items/Valkyrbastethelmetname,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerBastetHelmet
 /Lotus/Language/Items/Berserkertubesname,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerDangles
 /Lotus/Language/Items/Valkyrhelmetname,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerHelmet
 /Lotus/Language/Items/Berserkernobleanims,/Lotus/StoreItems/Upgrades/Skins/Berserker/BerserkerNobleAnims
-/Lotus/Language/Items/Unlockberserkeragile,/Lotus/StoreItems/Upgrades/Skins/Berserker/UnlockBerserkerAgile
-/Lotus/Language/Items/Unlockberserkernoble,/Lotus/StoreItems/Upgrades/Skins/Berserker/UnlockBerserkerNoble
+/Lotus/Language/Items/Berserkeragileanims,/Lotus/StoreItems/Upgrades/Skins/Berserker/UnlockBerserkerAgile
+/Lotus/Language/Items/Berserkernobleanims,/Lotus/StoreItems/Upgrades/Skins/Berserker/UnlockBerserkerNoble
 /Lotus/Language/Items/Valkyraltbhelmetname,/Lotus/StoreItems/Upgrades/Skins/Berserker/ValkyrAltBHelmet
 /Lotus/Language/Items/Warframeskinvalkyralternatename,/Lotus/StoreItems/Upgrades/Skins/Berserker/ValkyrAlternateSkin
 /Lotus/Language/Items/Brassandgoldakboltoname,/Lotus/StoreItems/Upgrades/Skins/BrassAndGold/BrassAndGoldAkbolto
@@ -2982,8 +2989,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Gunslingerhelmetname,/Lotus/StoreItems/Upgrades/Skins/Cowgirl/CowgirlHelmet
 /Lotus/Language/Items/Cowgirlnobleanims,/Lotus/StoreItems/Upgrades/Skins/Cowgirl/CowgirlNobleAnims
 /Lotus/Language/Items/Mesaaltbhelmetname,/Lotus/StoreItems/Upgrades/Skins/Cowgirl/MesaAltBHelmet
-/Lotus/Language/Items/Unlockcowgirlagile,/Lotus/StoreItems/Upgrades/Skins/Cowgirl/UnlockCowgirlAgile
-/Lotus/Language/Items/Unlockcowgirlnoble,/Lotus/StoreItems/Upgrades/Skins/Cowgirl/UnlockCowgirlNoble
+/Lotus/Language/Items/Cowgirlagileanims,/Lotus/StoreItems/Upgrades/Skins/Cowgirl/UnlockCowgirlAgile
+/Lotus/Language/Items/Cowgirlnobleanims,/Lotus/StoreItems/Upgrades/Skins/Cowgirl/UnlockCowgirlNoble
 /Lotus/Language/Items/Dazzlecamobratonname,/Lotus/StoreItems/Upgrades/Skins/Dazzle/BratonDazzleCamo
 /Lotus/Language/Items/Dazzlecamocestraname,/Lotus/StoreItems/Upgrades/Skins/Dazzle/CestraDazzleCamo
 /Lotus/Language/Items/Dazzlecamoderaname,/Lotus/StoreItems/Upgrades/Skins/Dazzle/DeraDazzleCamo
@@ -3007,15 +3014,15 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 리법 밴쉬 헬멧,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeAltHelmetStatless
 밴쉬의 기본 헬멧,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeHelmet
 /Lotus/Language/Items/Decreenobleanims,/Lotus/StoreItems/Upgrades/Skins/Decree/DecreeNobleAnims
-/Lotus/Language/Items/Unlockdecreeagile,/Lotus/StoreItems/Upgrades/Skins/Decree/UnlockDecreeAgile
-/Lotus/Language/Items/Unlockdecreenoble,/Lotus/StoreItems/Upgrades/Skins/Decree/UnlockDecreeNoble
+/Lotus/Language/Items/Decreeagileanims,/Lotus/StoreItems/Upgrades/Skins/Decree/UnlockDecreeAgile
+/Lotus/Language/Items/Decreenobleanims,/Lotus/StoreItems/Upgrades/Skins/Decree/UnlockDecreeNoble
 /Lotus/Language/Items/Chromaagileanims,/Lotus/StoreItems/Upgrades/Skins/Dragon/ChromaAgileAnims
 /Lotus/Language/Items/Chromaaltbhelmetname,/Lotus/StoreItems/Upgrades/Skins/Dragon/ChromaAltBHelmet
 /Lotus/Language/Items/Chromanobleanims,/Lotus/StoreItems/Upgrades/Skins/Dragon/ChromaNobleAnims
 /Lotus/Language/Items/Chromaalthelmetname,/Lotus/StoreItems/Upgrades/Skins/Dragon/DragonAltHelmet
 /Lotus/Language/Items/Chromadefaulthelmet,/Lotus/StoreItems/Upgrades/Skins/Dragon/DragonHelmet
-/Lotus/Language/Items/Unlockchromaagile,/Lotus/StoreItems/Upgrades/Skins/Dragon/UnlockChromaAgile
-/Lotus/Language/Items/Unlockchromanoble,/Lotus/StoreItems/Upgrades/Skins/Dragon/UnlockChromaNoble
+/Lotus/Language/Items/Chromaagileanims,/Lotus/StoreItems/Upgrades/Skins/Dragon/UnlockChromaAgile
+/Lotus/Language/Items/Chromanobleanims,/Lotus/StoreItems/Upgrades/Skins/Dragon/UnlockChromaNoble
 듀얼 대거액스 스킨,/Lotus/StoreItems/Upgrades/Skins/DualAxe/DaggerAxe
 /Lotus/Language/Items/Emberagileanims,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberAgileAnims
 /Lotus/Language/Items/Warframeskinemberalternatename,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberAlternateSkin
@@ -3026,8 +3033,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 피닉스 엠버 헬멧,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberHelmetAltStatless
 /Lotus/Language/Items/Embernobleanims,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberNobleAnims
 /Lotus/Language/Items/Emberprimehelmetname,/Lotus/StoreItems/Upgrades/Skins/Ember/EmberPrimeHelmet
-/Lotus/Language/Items/Unlockemberagile,/Lotus/StoreItems/Upgrades/Skins/Ember/UnlockEmberAgile
-/Lotus/Language/Items/Unlockembernoble,/Lotus/StoreItems/Upgrades/Skins/Ember/UnlockEmberNoble
+/Lotus/Language/Items/Emberagileanims,/Lotus/StoreItems/Upgrades/Skins/Ember/UnlockEmberAgile
+/Lotus/Language/Items/Embernobleanims,/Lotus/StoreItems/Upgrades/Skins/Ember/UnlockEmberNoble
 /Lotus/Language/Items/Rocketcrossbowvorskinname,/Lotus/StoreItems/Upgrades/Skins/Events/ArchRocketCrossbowGrineer
 /Lotus/Language/Items/Blackoutorthosname,/Lotus/StoreItems/Upgrades/Skins/Events/BlackoutOrthos
 /Lotus/Language/Items/Bunnyearsname,/Lotus/StoreItems/Upgrades/Skins/Events/BunnyEars
@@ -3040,6 +3047,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Arcaneexcaliburalthelmet2name,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelmetAltB
 팬드래건 엑스칼리버 헬멧,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelmetAltBStatless
 아발론 엑스칼리버 헬멧,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelmetAltStatless
+/Lotus/Language/Items/Excaliburhelmetmordredname,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelmetMordred
 /Lotus/Language/Items/Excaliburnobleanims,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburNobleAnims
 /Lotus/Language/Items/Excaliburprimealabasterskin,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeAlabasterSkin
 /Lotus/Language/Items/Excaliburprimeimmortalskinname,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeAlternateSkin
@@ -3047,8 +3055,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Protoexcaliburhelmetname,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoHelmet
 /Lotus/Language/Items/Protoexcalibursuitname,/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburProtoSuit
 엑스칼리버의 기본 헬멧,/Lotus/StoreItems/Upgrades/Skins/Excalibur/GeoffcaliburHelmet
-/Lotus/Language/Items/Unlockexcaliburagile,/Lotus/StoreItems/Upgrades/Skins/Excalibur/UnlockExcaliburAgile
-/Lotus/Language/Items/Unlockexcaliburnoble,/Lotus/StoreItems/Upgrades/Skins/Excalibur/UnlockExcaliburNoble
+/Lotus/Language/Items/Excaliburagileanims,/Lotus/StoreItems/Upgrades/Skins/Excalibur/UnlockExcaliburAgile
+/Lotus/Language/Items/Excaliburnobleanims,/Lotus/StoreItems/Upgrades/Skins/Excalibur/UnlockExcaliburNoble
 /Lotus/Language/Items/Xmasglaxionskinname,/Lotus/StoreItems/Upgrades/Skins/Festivities/XmasGlaxion
 /Lotus/Language/Items/Frostagileanims,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostAgileAnims
 /Lotus/Language/Items/Warframeskinfrostalternatename,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostAlternateSkin
@@ -3061,8 +3069,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Frostprimeimmortalskinname,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostPrimeAlternateSkin
 /Lotus/Language/Items/Frostprimehelmet,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostPrimeHelmet
 /Lotus/Language/Items/Holidayfrostskinname,/Lotus/StoreItems/Upgrades/Skins/Frost/FrostXmasSkin
-/Lotus/Language/Items/Unlockfrostagile,/Lotus/StoreItems/Upgrades/Skins/Frost/UnlockFrostAgile
-/Lotus/Language/Items/Unlockfrostnoble,/Lotus/StoreItems/Upgrades/Skins/Frost/UnlockFrostNoble
+/Lotus/Language/Items/Frostagileanims,/Lotus/StoreItems/Upgrades/Skins/Frost/UnlockFrostAgile
+/Lotus/Language/Items/Frostnobleanims,/Lotus/StoreItems/Upgrades/Skins/Frost/UnlockFrostNoble
 /Lotus/Language/Items/Forestcamoafurisname,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestAfuris
 /Lotus/Language/Items/Forestcamoballisticaname,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestBallistica
 /Lotus/Language/Items/Forestcamoboltorname,/Lotus/StoreItems/Upgrades/Skins/GrineerForest/GrineerForestBoltor
@@ -3110,13 +3118,13 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Harlequinnobleanims,/Lotus/StoreItems/Upgrades/Skins/Harlequin/HarlequinNobleAnims
 /Lotus/Language/Items/Miragealtbhelmetname,/Lotus/StoreItems/Upgrades/Skins/Harlequin/MirageAltBHelmet
 /Lotus/Language/Items/Holidaymirageskinname,/Lotus/StoreItems/Upgrades/Skins/Harlequin/MirageXmasSkin
-/Lotus/Language/Items/Unlockharlequinagile,/Lotus/StoreItems/Upgrades/Skins/Harlequin/UnlockHarlequinAgile
-/Lotus/Language/Items/Unlockharlequinnoble,/Lotus/StoreItems/Upgrades/Skins/Harlequin/UnlockHarlequinNoble
+/Lotus/Language/Items/Harlequinagileanims,/Lotus/StoreItems/Upgrades/Skins/Harlequin/UnlockHarlequinAgile
+/Lotus/Language/Items/Harlequinnobleanims,/Lotus/StoreItems/Upgrades/Skins/Harlequin/UnlockHarlequinNoble
 맨티코어 액스 스킨,/Lotus/StoreItems/Upgrades/Skins/HeavyAxe/GrnAxe
 /Lotus/Language/Items/Pirateagileanims,/Lotus/StoreItems/Upgrades/Skins/Hydroid/HydroidAgileAnims
 /Lotus/Language/Items/Piratenobleanims,/Lotus/StoreItems/Upgrades/Skins/Hydroid/HydroidNobleAnims
-/Lotus/Language/Items/Unlockhydroidagile,/Lotus/StoreItems/Upgrades/Skins/Hydroid/UnlockHydroidAgile
-/Lotus/Language/Items/Unlockhydroidnoble,/Lotus/StoreItems/Upgrades/Skins/Hydroid/UnlockHydroidNoble
+/Lotus/Language/Items/Pirateagileanims,/Lotus/StoreItems/Upgrades/Skins/Hydroid/UnlockHydroidAgile
+/Lotus/Language/Items/Piratenobleanims,/Lotus/StoreItems/Upgrades/Skins/Hydroid/UnlockHydroidNoble
 /Lotus/Language/Items/Iahgamesbratonname,/Lotus/StoreItems/Upgrades/Skins/IAHGames/IAHGamesBratonSkin
 /Lotus/Language/Items/Jadeagileanims,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeAgileAnims
 닉스의 기본 헬멧,/Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmet
@@ -3129,8 +3137,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Nyxnemesishelmetname,/Lotus/StoreItems/Upgrades/Skins/Jade/NyxNemesisHelmet
 /Lotus/Language/Items/Nyxnemesissuitname,/Lotus/StoreItems/Upgrades/Skins/Jade/NyxNemesisSuit
 /Lotus/Language/Items/Nextpromohelmetname,/Lotus/StoreItems/Upgrades/Skins/Jade/NyxPrimeHelmet
-/Lotus/Language/Items/Unlockjadeagile,/Lotus/StoreItems/Upgrades/Skins/Jade/UnlockJadeAgile
-/Lotus/Language/Items/Unlockjadenoble,/Lotus/StoreItems/Upgrades/Skins/Jade/UnlockJadeNoble
+/Lotus/Language/Items/Jadeagileanims,/Lotus/StoreItems/Upgrades/Skins/Jade/UnlockJadeAgile
+/Lotus/Language/Items/Jadenobleanims,/Lotus/StoreItems/Upgrades/Skins/Jade/UnlockJadeNoble
 /Lotus/Language/Items/Lightningsheathdragonname,/Lotus/StoreItems/Upgrades/Skins/KatanaSheaths/DragonKatanaSheathLightning
 /Lotus/Language/Items/Lightningsheathbasicname,/Lotus/StoreItems/Upgrades/Skins/KatanaSheaths/KatanaSheathLightning
 /Lotus/Language/Items/Lisetskinbname,/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinFlavourItemB
@@ -3150,8 +3158,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 에센스 로키 헬멧,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmetAltStatless
 /Lotus/Language/Items/Lokinobleanims,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiNobleAnims
 /Lotus/Language/Items/Lokiprimehelmet,/Lotus/StoreItems/Upgrades/Skins/Loki/LokiPrimeHelmet
-/Lotus/Language/Items/Unlocklokiagile,/Lotus/StoreItems/Upgrades/Skins/Loki/UnlockLokiAgile
-/Lotus/Language/Items/Unlocklokinoble,/Lotus/StoreItems/Upgrades/Skins/Loki/UnlockLokiNoble
+/Lotus/Language/Items/Lokiagileanims,/Lotus/StoreItems/Upgrades/Skins/Loki/UnlockLokiAgile
+/Lotus/Language/Items/Lokinobleanims,/Lotus/StoreItems/Upgrades/Skins/Loki/UnlockLokiNoble
 /Lotus/Language/Items/Magagileanims,/Lotus/StoreItems/Upgrades/Skins/Mag/MagAgileAnims
 /Lotus/Language/Items/Warframeskinmagalternatename,/Lotus/StoreItems/Upgrades/Skins/Mag/MagAlternateSkin
 매그의 기본 헬멧,/Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmet
@@ -3161,15 +3169,15 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 코일 매그 헬멧,/Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmetAltStatless
 /Lotus/Language/Items/Magnobleanims,/Lotus/StoreItems/Upgrades/Skins/Mag/MagNobleAnims
 /Lotus/Language/Items/Magprimehelmet,/Lotus/StoreItems/Upgrades/Skins/Mag/MagPrimeHelmet
-/Lotus/Language/Items/Unlockmagagile,/Lotus/StoreItems/Upgrades/Skins/Mag/UnlockMagAgile
-/Lotus/Language/Items/Unlockmagnoble,/Lotus/StoreItems/Upgrades/Skins/Mag/UnlockMagNoble
+/Lotus/Language/Items/Magagileanims,/Lotus/StoreItems/Upgrades/Skins/Mag/UnlockMagAgile
+/Lotus/Language/Items/Magnobleanims,/Lotus/StoreItems/Upgrades/Skins/Mag/UnlockMagNoble
 /Lotus/Language/Items/Limboagileanims,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianAgileAnims
 /Lotus/Language/Items/Limboaltbhelmetname,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianAltBHelmet
 /Lotus/Language/Items/Aristeasmagicianhelmetname,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianAristeasHelmet
 /Lotus/Language/Items/Magicianhelmetname,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianHelmet
 /Lotus/Language/Items/Limbonobleanims,/Lotus/StoreItems/Upgrades/Skins/Magician/MagicianNobleAnims
-/Lotus/Language/Items/Unlocklimboagile,/Lotus/StoreItems/Upgrades/Skins/Magician/UnlockMagicianAgile
-/Lotus/Language/Items/Unlocklimbonoble,/Lotus/StoreItems/Upgrades/Skins/Magician/UnlockMagicianNoble
+/Lotus/Language/Items/Limboagileanims,/Lotus/StoreItems/Upgrades/Skins/Magician/UnlockMagicianAgile
+/Lotus/Language/Items/Limbonobleanims,/Lotus/StoreItems/Upgrades/Skins/Magician/UnlockMagicianNoble
 /Lotus/Language/Items/Chaintridentmeleedanglename,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/ChainTridentMeleeDangle
 /Lotus/Language/Items/Grineercordmeleedanglename,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/CordsMeleeDangle
 /Lotus/Language/Items/Pyrasugatraname,/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/FireMeleeDangle
@@ -3194,8 +3202,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Necronobleanims,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroNobleAnims
 /Lotus/Language/Items/Nekrosalthelm2name,/Lotus/StoreItems/Upgrades/Skins/Necro/NecroShroudHelmet
 /Lotus/Language/Items/Warframeskinnekrosalternatename,/Lotus/StoreItems/Upgrades/Skins/Necro/NekrosAlternateSkin
-/Lotus/Language/Items/Unlocknecroagile,/Lotus/StoreItems/Upgrades/Skins/Necro/UnlockNecroAgile
-/Lotus/Language/Items/Unlocknecronoble,/Lotus/StoreItems/Upgrades/Skins/Necro/UnlockNecroNoble
+/Lotus/Language/Items/Necroagileanims,/Lotus/StoreItems/Upgrades/Skins/Necro/UnlockNecroAgile
+/Lotus/Language/Items/Necronobleanims,/Lotus/StoreItems/Upgrades/Skins/Necro/UnlockNecroNoble
 /Lotus/Language/Items/Warframeskinashalternatename,/Lotus/StoreItems/Upgrades/Skins/Ninja/AshAlternateSkin
 /Lotus/Language/Items/Ninjaagileanims,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaAgileAnims
 애쉬의 기본 헬멧,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmet
@@ -3204,8 +3212,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 로커스트 애쉬 헬멧,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAltBStatless
 스콜피언 애쉬 헬멧,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAltStatless
 /Lotus/Language/Items/Ninjanobleanims,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaNobleAnims
-/Lotus/Language/Items/Unlockninjaagile,/Lotus/StoreItems/Upgrades/Skins/Ninja/UnlockNinjaAgile
-/Lotus/Language/Items/Unlockninjanoble,/Lotus/StoreItems/Upgrades/Skins/Ninja/UnlockNinjaNoble
+/Lotus/Language/Items/Ninjaagileanims,/Lotus/StoreItems/Upgrades/Skins/Ninja/UnlockNinjaAgile
+/Lotus/Language/Items/Ninjanobleanims,/Lotus/StoreItems/Upgrades/Skins/Ninja/UnlockNinjaNoble
 /Lotus/Language/Items/Nvidiabratonskinname,/Lotus/StoreItems/Upgrades/Skins/Nvidia/NvidiaBratonSkin
 /Lotus/Language/Items/Warframeskinoberonalternatename,/Lotus/StoreItems/Upgrades/Skins/Paladin/OberonAlternateSkin
 /Lotus/Language/Items/Paladinagileanims,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinAgileAnims
@@ -3213,8 +3221,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Paladinalthelmet,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinHelmetAlt
 /Lotus/Language/Items/Paladinaltbhelmetname,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinHelmetAltB
 /Lotus/Language/Items/Paladinnobleanims,/Lotus/StoreItems/Upgrades/Skins/Paladin/PaladinNobleAnims
-/Lotus/Language/Items/Unlockpaladinagile,/Lotus/StoreItems/Upgrades/Skins/Paladin/UnlockPaladinAgile
-/Lotus/Language/Items/Unlockpaladinnoble,/Lotus/StoreItems/Upgrades/Skins/Paladin/UnlockPaladinNoble
+/Lotus/Language/Items/Paladinagileanims,/Lotus/StoreItems/Upgrades/Skins/Paladin/UnlockPaladinAgile
+/Lotus/Language/Items/Paladinnobleanims,/Lotus/StoreItems/Upgrades/Skins/Paladin/UnlockPaladinNoble
 /Lotus/Language/Items/Piratealtbhelmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateAltBHelmet
 /Lotus/Language/Items/Hydroidalthelmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateAltHelmet
 /Lotus/Language/Items/Hydroiddefaulthelmet,/Lotus/StoreItems/Upgrades/Skins/Pirate/PirateDefaultHelmet
@@ -3253,8 +3261,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Rhinoprimehelmetname,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoPrimeHelmet
 /Lotus/Language/Items/Rubedoskinrhinoname,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkin
 /Lotus/Language/Items/Rubedoskinhelmetname,/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkinHelmet
-/Lotus/Language/Items/Unlockrhinoagile,/Lotus/StoreItems/Upgrades/Skins/Rhino/UnlockRhinoAgile
-/Lotus/Language/Items/Unlockrhinonoble,/Lotus/StoreItems/Upgrades/Skins/Rhino/UnlockRhinoNoble
+/Lotus/Language/Items/Rhinoagileanims,/Lotus/StoreItems/Upgrades/Skins/Rhino/UnlockRhinoAgile
+/Lotus/Language/Items/Rhinonobleanims,/Lotus/StoreItems/Upgrades/Skins/Rhino/UnlockRhinoNoble
 /Lotus/Language/Items/April2015scarfname,/Lotus/StoreItems/Upgrades/Skins/Scarves/April2015Scarf
 /Lotus/Language/Items/Yomosyandananame,/Lotus/StoreItems/Upgrades/Skins/Scarves/ArmScarf
 /Lotus/Language/Items/Brassandgoldscarfname,/Lotus/StoreItems/Upgrades/Skins/Scarves/BrassAndGoldScarf
@@ -3461,8 +3469,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Zephyrcierzohelmetname,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguAltHelmet
 /Lotus/Language/Items/Zephyrhelmetname,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguHelmet
 /Lotus/Language/Items/Tengunobleanims,/Lotus/StoreItems/Upgrades/Skins/Tengu/TenguNobleAnims
-/Lotus/Language/Items/Unlocktenguagile,/Lotus/StoreItems/Upgrades/Skins/Tengu/UnlockTenguAgile
-/Lotus/Language/Items/Unlocktengunoble,/Lotus/StoreItems/Upgrades/Skins/Tengu/UnlockTenguNoble
+/Lotus/Language/Items/Tenguagileanims,/Lotus/StoreItems/Upgrades/Skins/Tengu/UnlockTenguAgile
+/Lotus/Language/Items/Tengunobleanims,/Lotus/StoreItems/Upgrades/Skins/Tengu/UnlockTenguNoble
 /Lotus/Language/Items/Trapperagileanims,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperAgileAnims
 바우반 헬멧,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperDefaultHelmet
 /Lotus/Language/Items/Arcanetrapperalthelmet,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAlt
@@ -3471,8 +3479,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 에스피릿 바우반 헬맷,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAltStatless
 /Lotus/Language/Items/Vaubansoldierhelmetname,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetSoldier
 /Lotus/Language/Items/Trappernobleanims,/Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperNobleAnims
-/Lotus/Language/Items/Unlocktrapperagile,/Lotus/StoreItems/Upgrades/Skins/Trapper/UnlockTrapperAgile
-/Lotus/Language/Items/Unlocktrappernoble,/Lotus/StoreItems/Upgrades/Skins/Trapper/UnlockTrapperNoble
+/Lotus/Language/Items/Trapperagileanims,/Lotus/StoreItems/Upgrades/Skins/Trapper/UnlockTrapperAgile
+/Lotus/Language/Items/Trappernobleanims,/Lotus/StoreItems/Upgrades/Skins/Trapper/UnlockTrapperNoble
 /Lotus/Language/Items/Warframeskinvaubanalternatename,/Lotus/StoreItems/Upgrades/Skins/Trapper/VaubanAlternateSkin
 /Lotus/Language/Items/Voidskinvaubanname,/Lotus/StoreItems/Upgrades/Skins/Trapper/VaubanVoidSkin
 /Lotus/Language/Items/Voidskinvaubanhelmetname,/Lotus/StoreItems/Upgrades/Skins/Trapper/VaubanVoidSkinHelmet
@@ -3484,16 +3492,16 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 메리디안 트리니티 헬멧,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAltBStatless
 오러 트리니티 헬멧,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAltStatless
 /Lotus/Language/Items/Trinitynobleanims,/Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityNobleAnims
-/Lotus/Language/Items/Unlocktrinityagile,/Lotus/StoreItems/Upgrades/Skins/Trinity/UnlockTrinityAgile
-/Lotus/Language/Items/Unlocktrinitynoble,/Lotus/StoreItems/Upgrades/Skins/Trinity/UnlockTrinityNoble
+/Lotus/Language/Items/Trinityagileanims,/Lotus/StoreItems/Upgrades/Skins/Trinity/UnlockTrinityAgile
+/Lotus/Language/Items/Trinitynobleanims,/Lotus/StoreItems/Upgrades/Skins/Trinity/UnlockTrinityNoble
 /Lotus/Language/Items/Valentinesarrowname,/Lotus/StoreItems/Upgrades/Skins/ValentinesDay/ValentinesArrow
 /Lotus/Language/Items/Prismaarrowname,/Lotus/StoreItems/Upgrades/Skins/VoidTrader/PrismaArrow
 /Lotus/Language/Items/Vtexcaliburhelmetavalonname,/Lotus/StoreItems/Upgrades/Skins/VoidTrader/VTExcaliburAvalonHelmet
 /Lotus/Language/Items/Vtexcaliburhelmetname,/Lotus/StoreItems/Upgrades/Skins/VoidTrader/VTExcaliburHelmet
 /Lotus/Language/Items/Vtexcaliburhelmetpendragonname,/Lotus/StoreItems/Upgrades/Skins/VoidTrader/VTExcaliburPendragonHelmet
 /Lotus/Language/Items/Vtexcaliburname,/Lotus/StoreItems/Upgrades/Skins/VoidTrader/VTExcaliburSkin
-/Lotus/Language/Items/Unlockvoltagile,/Lotus/StoreItems/Upgrades/Skins/Volt/UnlockVoltAgile
-/Lotus/Language/Items/Unlockvoltnoble,/Lotus/StoreItems/Upgrades/Skins/Volt/UnlockVoltNoble
+/Lotus/Language/Items/Voltagileanims,/Lotus/StoreItems/Upgrades/Skins/Volt/UnlockVoltAgile
+/Lotus/Language/Items/Voltnobleanims,/Lotus/StoreItems/Upgrades/Skins/Volt/UnlockVoltNoble
 /Lotus/Language/Items/Voltagileanims,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltAgileAnims
 /Lotus/Language/Items/Warframeskinvoltalternatename,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltAlternateSkin
 볼트의 기본 헬멧,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmet
@@ -3777,8 +3785,6 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 브래튼 프라임,/Lotus/StoreItems/Weapons/Tenno/Rifle/BratonPrime
 버스튼,/Lotus/StoreItems/Weapons/Tenno/Rifle/BurstRifle
 고르곤,/Lotus/StoreItems/Weapons/Tenno/Rifle/HeavyRifle
-고르곤,/Lotus/StoreItems/Weapons/Tenno/Rifle/HeavyRifleAI
-고르곤,/Lotus/StoreItems/Weapons/Tenno/Rifle/HeavyRifleAIManicBombard
 래트론 프라임,/Lotus/StoreItems/Weapons/Tenno/Rifle/LatronPrime
 브래튼,/Lotus/StoreItems/Weapons/Tenno/Rifle/Rifle
 래트론,/Lotus/StoreItems/Weapons/Tenno/Rifle/SemiAutoRifle
@@ -3794,6 +3800,7 @@ Mk1-브래튼,/Lotus/StoreItems/Weapons/Tenno/Rifle/StartingRifle
 헥,/Lotus/StoreItems/Weapons/Tenno/Shotgun/QuadShotgun
 스트런,/Lotus/StoreItems/Weapons/Tenno/Shotgun/Shotgun
 /Lotus/Language/Items/Strunvandalname,/Lotus/StoreItems/Weapons/Tenno/Shotgun/ShotgunVandal
+/Lotus/Language/Items/Placeholdername,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/LiDagger/LiDagger
 /Lotus/Language/Items/Nextpromosecondaryname,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/PrimeThrowingStar/PrimeHikou
 /Lotus/Language/Items/Stickybombname,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/StickyBomb/StickyBombs
 쿠나이,/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/Kunai
@@ -3813,6 +3820,7 @@ Mk1-브래튼,/Lotus/StoreItems/Weapons/Tenno/Rifle/StartingRifle
 엠버 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackEmber
 백드래프트 엠버 프로필용 이미지 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackEmberBackdraft
 엑스칼리버 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackExcalibur
+/Lotus/Language/Items/Avatarpackexcaliburmordredname,/Lotus/Types/StoreItems/AvatarImages/AvatarPackExcaliburMordred
 팬드래건 엑스칼리버 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackExcaliburPendragon
 프로스트 프로필용 아바타 패키지,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrost
 /Lotus/Language/Items/Avatarpackfrostprimename,/Lotus/Types/StoreItems/AvatarImages/AvatarPackFrostPrime
@@ -3933,6 +3941,7 @@ Double Affinity Weekend Pack,/Lotus/Types/StoreItems/Packages/DoubleAffinityPack
 /Lotus/Language/Items/Piratepackname,/Lotus/Types/StoreItems/Packages/PiratePack
 피스톨리어 스페셜 패키지,/Lotus/Types/StoreItems/Packages/PistolPack
 /Lotus/Language/Items/Prestigepacktwoname,/Lotus/Types/StoreItems/Packages/PrestigePackTwo
+/Lotus/Language/Items/Prismaexcaliburbundlename,/Lotus/Types/StoreItems/Packages/PrismaExcaliburPack
 레킹 라이노 패키지,/Lotus/Types/StoreItems/Packages/RhinoWreckPack
 /Lotus/Language/Items/Sanctuaryinitiationkitname,/Lotus/Types/StoreItems/Packages/SanctuaryInitiationKit
 포이즈너스 애티튜드 패키지,/Lotus/Types/StoreItems/Packages/SarynPack
