@@ -413,6 +413,8 @@
   "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/FemaleGrineerAvatarLeader": "/Lotus/Language/Enemyleaders/Energyleechleadername",
   "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/FlameLancerAvatar": "Grineer Incendiário",
   "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/FlameLancerAvatarLeader": "/Lotus/Language/Enemyleaders/Lifeleechleadername",
+  "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/GrineerChargerAvatar": "/Lotus/Language/Game/Grineerchargername",
+  "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/GrineerDefectorAvatar": "/Lotus/Language/Game/Grineerdefectorname",
   "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/GrineerMeleeStaffAvatar": "/Lotus/Language/Enemyleaders/Prosecutorgenericname",
   "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/GrineerMeleeStaffAvatarLeader": "/Lotus/Language/Enemyleaders/Prosecutorleaderelecname",
   "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/HeavyFemaleGrineerAvatar": "Grineer Artilharia Pesada",

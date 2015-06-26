@@ -78,16 +78,17 @@ Item Name,Item Count,Rarity,Probability
 ,,,
 ArchwingInterceptionMissionRewardsHard - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Items/Archwingriflefireratemod,1,COMMON,0.1
-/Lotus/Language/Items/Archwingweaponfiredamagerifle,1,COMMON,0.1
-/Lotus/Language/Items/Archwingriflefireiterationsmod,1,COMMON,0.1
-/Lotus/Language/Items/Archwingriflecritdamagemod,1,COMMON,0.1
-/Lotus/Language/Items/Archwingrifleclipmaxmod,1,COMMON,0.1
-/Lotus/Language/Items/Archwingriflestatuschancemod,1,COMMON,0.1
-/Lotus/Language/Items/Archwingriflecritchancemod,1,COMMON,0.1
-/Lotus/Language/Items/Archwingrifledamageamountmod,1,COMMON,0.1
-/Lotus/Language/Items/Archwingweapontoxicdamagerifle,1,COMMON,0.1
-Common /Lotus/Language/Items/Fusionpart,1,COMMON,0.1
+/Lotus/Language/Items/Archwingriflefireratemod,1,UNCOMMON,0.0250712250712251
+/Lotus/Language/Items/Archwingweaponfiredamagerifle,1,UNCOMMON,0.0250712250712251
+/Lotus/Language/Items/Archwingriflefireiterationsmod,1,UNCOMMON,0.0250712250712251
+/Lotus/Language/Items/Archwingriflecritdamagemod,1,UNCOMMON,0.0250712250712251
+/Lotus/Language/Items/Archwingrifleclipmaxmod,1,UNCOMMON,0.0250712250712251
+/Lotus/Language/Items/Archwingriflestatuschancemod,1,UNCOMMON,0.0250712250712251
+/Lotus/Language/Items/Archwingriflecritchancemod,1,UNCOMMON,0.0250712250712251
+/Lotus/Language/Items/Archwingrifledamageamountmod,1,UNCOMMON,0.0250712250712251
+/Lotus/Language/Items/Archwingweapontoxicdamagerifle,1,UNCOMMON,0.0250712250712251
+Rare /Lotus/Language/Items/Fusionpart,5,COMMON,0.387179487179487
+Uncommon /Lotus/Language/Items/Fusionpart,3,COMMON,0.387179487179487
 ,,,
 ArchwingInterceptionMissionRewardsHard - Tier 1,,,
 Item Name,Item Count,Rarity,Probability
@@ -242,30 +243,29 @@ Item Name,Item Count,Rarity,Probability
 ,,,
 CaptureMissionRewardsA - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
-?,1,COMMON,0.0843104410943607
-?,1,COMMON,0.0843104410943607
-?,1,COMMON,0.0843104410943607
-?,1,COMMON,0.0843104410943607
-?,1,UNCOMMON,0.0737018425460636
-?,1,COMMON,0.0843104410943607
-?,1,COMMON,0.0843104410943607
-?,1,RARE,0.0016750418760469
-?,1,UNCOMMON,0.0737018425460636
-?,1,COMMON,0.0843104410943607
-?,1,COMMON,0.0843104410943607
-?,1,COMMON,0.0843104410943607
-?,1,RARE,0.0016750418760469
-?,1,RARE,0.0016750418760469
-?,1,RARE,0.0016750418760469
-?,1,RARE,0.0016750418760469
-?,1,UNCOMMON,0.0737018425460636
-?,1,RARE,0.0016750418760469
-?,1,RARE,0.0016750418760469
-?,1,RARE,0.0016750418760469
-?,1,RARE,0.0016750418760469
-?,1,RARE,0.0016750418760469
-?,1,RARE,0.0016750418760469
-?,1,RARE,0.0016750418760469
+/Lotus/Language/Items/Warframemodhealthmax,1,COMMON,0.0843104410943607
+/Lotus/Language/Items/Warframemodshieldrechargerate,1,COMMON,0.0843104410943607
+/Lotus/Language/Items/Warframemodstaminarechargerate,1,COMMON,0.0843104410943607
+/Lotus/Language/Items/Warframemodshieldrechargerate,1,COMMON,0.0843104410943607
+/Lotus/Language/Items/Warframemodsprintspeed,1,UNCOMMON,0.110552763819095
+/Lotus/Language/Items/Riflemodclipmax,1,COMMON,0.0843104410943607
+/Lotus/Language/Items/Pistolmodammomax,1,COMMON,0.0843104410943607
+/Lotus/Language/Items/Meleemoddamageamount,1,RARE,0.0016750418760469
+/Lotus/Language/Items/Riflemodammomax,1,UNCOMMON,0.110552763819095
+/Lotus/Language/Items/Riflemodreloadspeed,1,COMMON,0.0843104410943607
+/Lotus/Language/Items/Pistolmodreloadspeed,1,COMMON,0.0843104410943607
+/Lotus/Language/Items/Selfheallargename,1,COMMON,0.0843104410943607
+/Lotus/Language/Items/Selfomniammoname,1,RARE,0.0016750418760469
+/Lotus/Language/Items/Meleemodfreezedamage,1,RARE,0.0016750418760469
+/Lotus/Language/Items/Meleemodelectricitydamage,1,RARE,0.0016750418760469
+/Lotus/Language/Items/Meleemodfiredamage,1,RARE,0.0016750418760469
+/Lotus/Language/Items/Warframemodhealthmax,1,RARE,0.0016750418760469
+/Lotus/Language/Items/Warframemodabilityrange,1,RARE,0.0016750418760469
+/Lotus/Language/Items/Orokinkeyaname,1,RARE,0.0016750418760469
+/Lotus/Language/Items/Orokinsurvivalkey1,1,RARE,0.0016750418760469
+/Lotus/Language/Items/Orokinkeycname,1,RARE,0.0016750418760469
+/Lotus/Language/Items/Orokinsurvivalkey2,1,RARE,0.0016750418760469
+/Lotus/Language/Items/Orokinkeyename,1,RARE,0.0016750418760469
 ,,,
 ,,,
 CowgirlRewards - Tier 0,,,
@@ -1571,7 +1571,7 @@ Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Items/Nextpromosecondaryname Blueprint,1,COMMON,0.258119658119658
 /Lotus/Language/Items/Broncoprimename Blueprint,1,COMMON,0.258119658119658
 /Lotus/Language/Menu/Craftingcomponent_Primewyrmcarapace,1,UNCOMMON,0.0752136752136752
-/Lotus/Language/Menu/Craftingcomponent_Latronprimestock,1,COMMON,0.258119658119658
+/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondaryholster,1,COMMON,0.258119658119658
 ,,,
 OrokinSabotageRewardsB - Tier 1,,,
 Item Name,Item Count,Rarity,Probability
@@ -1594,7 +1594,7 @@ Rare /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.112820512820513
 ,,,
 OrokinSabotageRewardsC - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Menu/Craftingcomponent_Latronprimereceiver,1,COMMON,0.252931323283082
+/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname Blueprint,1,COMMON,0.252931323283082
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.252931323283082
 /Lotus/Language/Menu/Craftingcomponent_Nextpromomeleeblade,1,UNCOMMON,0.0552763819095477
 /Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname Blueprint,1,UNCOMMON,0.0552763819095477
@@ -1628,10 +1628,10 @@ Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Menu/Craftingcomponent_Nextpromowarframesystemsname Blueprint,1,COMMON,0.154871794871795
 /Lotus/Language/Items/Cronusprimename Blueprint,1,COMMON,0.154871794871795
 /Lotus/Language/Items/Forma Blueprint,1,UNCOMMON,0.0752136752136752
-/Lotus/Language/Menu/Craftingcomponent_Primescytheblade,1,COMMON,0.154871794871795
+/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint,1,COMMON,0.154871794871795
 /Lotus/Language/Menu/Craftingcomponent_Glaiveprimedisc,1,UNCOMMON,0.0752136752136752
 /Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname Blueprint,1,COMMON,0.154871794871795
-/Lotus/Language/Menu/Craftingcomponent_Primeboarreceiver,1,COMMON,0.154871794871795
+/Lotus/Language/Menu/Craftingcomponent_Novaprimehelmetname Blueprint,1,COMMON,0.154871794871795
 ,,,
 OrokinSabotageRewardsD - Tier 1,,,
 Item Name,Item Count,Rarity,Probability
@@ -1659,7 +1659,7 @@ Rare /Lotus/Language/Items/Fusionpart,1,COMMON,0.166666666666667
 /Lotus/Language/Items/Orokinkeyfname,1,COMMON,0.166666666666667
 /Lotus/Language/Items/Orokinkeyename,1,COMMON,0.166666666666667
 /Lotus/Language/Items/Orokincapturekeyaname,1,COMMON,0.166666666666667
-/Lotus/Language/Items/Latronprimename Blueprint,1,COMMON,0.166666666666667
+/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname Blueprint,1,COMMON,0.166666666666667
 ,,,
 OrokinSurvivalRewardsA - Tier 1,,,
 Item Name,Item Count,Rarity,Probability
@@ -1673,10 +1673,10 @@ OrokinSurvivalRewardsA - Tier 2,,,
 Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Menu/Craftingcomponent_Nextpromomeleehandle,1,UNCOMMON,0.0752136752136752
 /Lotus/Language/Menu/Craftingcomponent_Primebowupperlimb,1,UNCOMMON,0.0752136752136752
-/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint,1,UNCOMMON,0.0752136752136752
+/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname Blueprint,1,UNCOMMON,0.0752136752136752
 /Lotus/Language/Menu/Craftingcomponent_Primebowlowerlimb,1,COMMON,0.258119658119658
 /Lotus/Language/Menu/Craftingcomponent_Burstonprimestock,1,COMMON,0.258119658119658
-/Lotus/Language/Menu/Craftingcomponent_Latronprimebarrel,1,COMMON,0.258119658119658
+/Lotus/Language/Menu/Craftingcomponent_Novaprimehelmetname Blueprint,1,COMMON,0.258119658119658
 ,,,
 ,,,
 OrokinSurvivalRewardsB - Tier 0,,,
@@ -1757,6 +1757,25 @@ Item Name,Item Count,Rarity,Probability
 /Lotus/Language/Items/Primevastoname Blueprint,1,UNCOMMON,0.0752136752136752
 /Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname Blueprint,1,COMMON,0.154871794871795
 Rare /Lotus/Language/Items/Fusionpart,5,UNCOMMON,0.0752136752136752
+,,,
+,,,
+ProjectPanaceaRewards - Tier 0,,,
+Item Name,Item Count,Rarity,Probability
+/Lotus/Language/Sigils/Energysigilaname,1,RARE,0.0050251256281407
+/Lotus/Language/Items/Pistolmodstunningspeed,1,RARE,0.0050251256281407
+/Lotus/Language/Items/Riflemodhammershot,1,RARE,0.0050251256281407
+/Lotus/Language/Items/Shotgunmodblaze,1,RARE,0.0050251256281407
+Rare /Lotus/Language/Items/Fusionpart,10,UNCOMMON,0.031586503948313
+Rare /Lotus/Language/Items/Fusionpart,5,COMMON,0.189698492462312
+/Lotus/Language/Items/3000Creditsname,1,COMMON,0.189698492462312
+/Lotus/Language/Items/4000Creditsname,1,UNCOMMON,0.031586503948313
+/Lotus/Language/Items/5000Creditsname,1,COMMON,0.189698492462312
+/Lotus/Language/Clantech/Chemfragment,1,UNCOMMON,0.031586503948313
+/Lotus/Language/Clantech/Energyfragment,1,UNCOMMON,0.031586503948313
+/Lotus/Language/Clantech/Biofragment,1,COMMON,0.189698492462312
+/Lotus/Language/Items/Transmutationcoreattackname,2,UNCOMMON,0.031586503948313
+/Lotus/Language/Items/Transmutationcoredefensename,2,UNCOMMON,0.031586503948313
+/Lotus/Language/Items/Transmutationcoretacticname,1,UNCOMMON,0.031586503948313
 ,,,
 ,,,
 RescueMissionRewardsEasy - Tier 1,,,
@@ -1954,18 +1973,10 @@ Rare /Lotus/Language/Items/Fusionpart,1,UNCOMMON,0.0376068376068376
 ,,,
 SurvivalBadlandsHighLevelRewards - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Items/2000Creditsname,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/2500Creditsname,1,COMMON,0.0833333333333333
-Uncommon /Lotus/Language/Items/Fusionpart,1,COMMON,0.0833333333333333
-Rare /Lotus/Language/Items/Fusionpart,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Pistolmodrecoilreduction,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Riflemodrecoilreduction,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Meleemodglaivepowerthrow,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Channelcritsmod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Channelmeleemodfirerate,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Channelparrystaminaredmod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Channelstatusmod,1,COMMON,0.0833333333333333
-/Lotus/Language/Items/Channelvampiremod,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/5000Creditsname,1,COMMON,0.25
+Uncommon /Lotus/Language/Items/Fusionpart,3,COMMON,0.25
+Rare /Lotus/Language/Items/Fusionpart,5,COMMON,0.25
+/Lotus/Language/Items/Channelcritsmod,1,COMMON,0.25
 ,,,
 SurvivalBadlandsHighLevelRewards - Tier 1,,,
 Item Name,Item Count,Rarity,Probability
@@ -2181,11 +2192,12 @@ Rare /Lotus/Language/Items/Fusionpart,1,COMMON,0.142857142857143
 ,,,
 SurvivalLowLevelRewards - Tier 1,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Items/Orokincapturekeyaname,1,COMMON,0.2
-/Lotus/Language/Items/Orokinmobiledefensekeyaname,1,COMMON,0.2
-/Lotus/Language/Items/Orokinkeyaname,1,COMMON,0.2
-/Lotus/Language/Items/Orokinsurvivalkey1,1,COMMON,0.2
-/Lotus/Language/Items/Orokinkeyfname,1,COMMON,0.2
+/Lotus/Language/Items/Orokincapturekeyaname,1,COMMON,0.166666666666667
+/Lotus/Language/Items/Orokinmobiledefensekeyaname,1,COMMON,0.166666666666667
+/Lotus/Language/Items/Orokinkeyaname,1,COMMON,0.166666666666667
+/Lotus/Language/Items/Orokinsurvivalkey1,1,COMMON,0.166666666666667
+/Lotus/Language/Items/Orokinkeyfname,1,COMMON,0.166666666666667
+/Lotus/Language/Items/Orokinsabotaget1name,1,COMMON,0.166666666666667
 ,,,
 SurvivalLowLevelRewards - Tier 2,,,
 Item Name,Item Count,Rarity,Probability
@@ -2222,16 +2234,18 @@ Rare /Lotus/Language/Items/Fusionpart,1,COMMON,0.142857142857143
 ,,,
 SurvivalMidLevelRewards - Tier 1,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Items/Orokincapturekeybname,1,COMMON,0.154871794871795
-/Lotus/Language/Items/Orokinmobiledefensekeybname,1,COMMON,0.154871794871795
-/Lotus/Language/Items/Orokinkeycname,1,COMMON,0.154871794871795
-/Lotus/Language/Items/Orokinsurvivalkey2,1,COMMON,0.154871794871795
-/Lotus/Language/Items/Orokinkeygname,1,COMMON,0.154871794871795
-/Lotus/Language/Items/Orokincapturekeycname,1,UNCOMMON,0.0451282051282051
-/Lotus/Language/Items/Orokinmobiledefensekeycname,1,UNCOMMON,0.0451282051282051
-/Lotus/Language/Items/Orokinkeyename,1,UNCOMMON,0.0451282051282051
-/Lotus/Language/Items/Orokinsurvivalkey3,1,UNCOMMON,0.0451282051282051
-/Lotus/Language/Items/Orokinkeyhname,1,UNCOMMON,0.0451282051282051
+/Lotus/Language/Items/Orokincapturekeybname,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/Orokinmobiledefensekeybname,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/Orokinkeycname,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/Orokinsurvivalkey2,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/Orokinkeygname,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/Orokincapturekeycname,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/Orokinmobiledefensekeycname,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/Orokinkeyename,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/Orokinsurvivalkey3,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/Orokinkeyhname,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/Orokinsabotaget2name,1,COMMON,0.0833333333333333
+/Lotus/Language/Items/Orokinsabotaget3name,1,COMMON,0.0833333333333333
 ,,,
 SurvivalMidLevelRewards - Tier 2,,,
 Item Name,Item Count,Rarity,Probability
@@ -2265,28 +2279,28 @@ Item Name,Item Count,Rarity,Probability
 ,,,
 VaultRewards - Tier 0,,,
 Item Name,Item Count,Rarity,Probability
-/Lotus/Language/Items/Meleemodcorrupteddamagespeed,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Meleemodcorruptedheavydamagechargespeed,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Pistolmodcorruptedcritdamage,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Meleemodcorrupteddamagespeed,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Pistolmodcorrupteddamagerecoil,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Pistolmodcorruptedmaxclipreloadspeed,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Riflemodcorruptedcritratefirerate,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Riflemodcorrupteddamagerecoil,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Riflemodcorruptedmaxclipreloadspeed,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Riflemodcorruptedrecoilfirerate,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Warframemodcorruptedrangeduration,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Warframemodcorruptedefficiencyrange,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Warframemodcorruptedpowerefficiency,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Warframemodcorruptedrangepower,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Shotgunmodcorruptedspreadfirerate,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Shotgunmodcorrupteddamagespread,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Shotgunmodcorruptedmaxclipreloadspeed,1,UNCOMMON,0.0132730015082956
-/Lotus/Language/Items/Corruptedfireratedamagepistolmod,1,COMMON,0.129059829059829
-/Lotus/Language/Items/Corruptedfireratedamageriflemod,1,COMMON,0.129059829059829
-/Lotus/Language/Items/Corruptedfireratedamageshotgunmod,1,COMMON,0.129059829059829
-/Lotus/Language/Items/Corruptedcritchancefirerateshotgunmod,1,COMMON,0.129059829059829
-/Lotus/Language/Items/Corruptedcritchancefireratepistolmod,1,COMMON,0.129059829059829
-/Lotus/Language/Items/Corruptedpowerstrengthpowerdurationmod,1,COMMON,0.129059829059829
+/Lotus/Language/Items/Meleemodcorrupteddamagespeed,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Meleemodcorruptedheavydamagechargespeed,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Pistolmodcorruptedcritdamage,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Meleemodcorrupteddamagespeed,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Pistolmodcorrupteddamagerecoil,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Pistolmodcorruptedmaxclipreloadspeed,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Riflemodcorruptedcritratefirerate,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Riflemodcorrupteddamagerecoil,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Riflemodcorruptedmaxclipreloadspeed,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Riflemodcorruptedrecoilfirerate,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Warframemodcorruptedrangeduration,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Warframemodcorruptedefficiencyrange,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Warframemodcorruptedpowerefficiency,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Warframemodcorruptedrangepower,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Shotgunmodcorruptedspreadfirerate,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Shotgunmodcorrupteddamagespread,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Shotgunmodcorruptedmaxclipreloadspeed,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Corruptedfireratedamagepistolmod,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Corruptedfireratedamageriflemod,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Corruptedfireratedamageshotgunmod,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Corruptedcritchancefirerateshotgunmod,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Corruptedcritchancefireratepistolmod,1,UNCOMMON,0.0434782608695652
+/Lotus/Language/Items/Corruptedpowerstrengthpowerdurationmod,1,UNCOMMON,0.0434782608695652
 ,,,
 ,,,

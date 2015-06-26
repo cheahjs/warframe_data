@@ -1,10 +1,10 @@
 [
   {
-    "Name": "/Lotus/Language/Items/Wyrmprimename Blueprint",
+    "Name": "/Lotus/Language/Items/Primecarriersentinelname Blueprint",
     "PrimeBucks": "20"
   },
   {
-    "Name": "/Lotus/Language/Items/Primecarriersentinelname Blueprint",
+    "Name": "/Lotus/Language/Items/Wyrmprimename Blueprint",
     "PrimeBucks": "20"
   },
   {
@@ -260,14 +260,6 @@
     "PrimeBucks": "50"
   },
   {
-    "Name": "/Lotus/Language/Items/Primevastoname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Primevectisname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
     "Name": "/Lotus/Language/Items/Primedualbroncosname Blueprint",
     "PrimeBucks": "10"
   },
@@ -348,8 +340,12 @@
     "PrimeBucks": "10"
   },
   {
-    "Name": "/Lotus/Language/Items/Fireprocresistname",
-    "PrimeBucks": "100"
+    "Name": "/Lotus/Language/Items/Primevastoname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Primevectisname Blueprint",
+    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Items/Armourondamagename",
@@ -368,6 +364,10 @@
     "PrimeBucks": "100"
   },
   {
+    "Name": "/Lotus/Language/Items/Fireprocresistname",
+    "PrimeBucks": "100"
+  },
+  {
     "Name": "/Lotus/Language/Items/Freezeprocresistname",
     "PrimeBucks": "100"
   },
@@ -381,10 +381,6 @@
   },
   {
     "Name": "/Lotus/Language/Items/Impactprocresistname",
-    "PrimeBucks": "100"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Instantshieldondamagename",
     "PrimeBucks": "100"
   },
   {
@@ -424,11 +420,15 @@
     "PrimeBucks": "100"
   },
   {
-    "Name": "/Lotus/Language/Items/Healthregenonheadshotname",
+    "Name": "/Lotus/Language/Items/Instantshieldondamagename",
     "PrimeBucks": "100"
   },
   {
     "Name": "/Lotus/Language/Items/Guaranteedcritonmeleechannelkillname",
+    "PrimeBucks": "100"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Healthregenonheadshotname",
     "PrimeBucks": "100"
   },
   {
@@ -480,11 +480,11 @@
     "PrimeBucks": "100"
   },
   {
-    "Name": "/Lotus/Language/Items/Wyrmprimename Blueprint",
+    "Name": "/Lotus/Language/Items/Primecarriersentinelname Blueprint",
     "PrimeBucks": "20"
   },
   {
-    "Name": "/Lotus/Language/Items/Primecarriersentinelname Blueprint",
+    "Name": "/Lotus/Language/Items/Wyrmprimename Blueprint",
     "PrimeBucks": "20"
   },
   {
@@ -740,14 +740,6 @@
     "PrimeBucks": "50"
   },
   {
-    "Name": "/Lotus/Language/Items/Primevastoname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Primevectisname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
     "Name": "/Lotus/Language/Items/Primedualbroncosname Blueprint",
     "PrimeBucks": "10"
   },
@@ -828,8 +820,12 @@
     "PrimeBucks": "10"
   },
   {
-    "Name": "/Lotus/Language/Items/Fireprocresistname",
-    "PrimeBucks": "100"
+    "Name": "/Lotus/Language/Items/Primevastoname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Primevectisname Blueprint",
+    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Items/Armourondamagename",
@@ -848,6 +844,10 @@
     "PrimeBucks": "100"
   },
   {
+    "Name": "/Lotus/Language/Items/Fireprocresistname",
+    "PrimeBucks": "100"
+  },
+  {
     "Name": "/Lotus/Language/Items/Freezeprocresistname",
     "PrimeBucks": "100"
   },
@@ -861,10 +861,6 @@
   },
   {
     "Name": "/Lotus/Language/Items/Impactprocresistname",
-    "PrimeBucks": "100"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Instantshieldondamagename",
     "PrimeBucks": "100"
   },
   {
@@ -904,11 +900,15 @@
     "PrimeBucks": "100"
   },
   {
-    "Name": "/Lotus/Language/Items/Healthregenonheadshotname",
+    "Name": "/Lotus/Language/Items/Instantshieldondamagename",
     "PrimeBucks": "100"
   },
   {
     "Name": "/Lotus/Language/Items/Guaranteedcritonmeleechannelkillname",
+    "PrimeBucks": "100"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Healthregenonheadshotname",
     "PrimeBucks": "100"
   },
   {
@@ -926,526 +926,6 @@
   {
     "Name": "/Lotus/Language/Items/Meleespeedonhitname",
     "PrimeBucks": "100"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname",
-    "PrimeBucks": "40"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Odonataprimename Blueprint",
-    "PrimeBucks": "30"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingchassisname Blueprint",
-    "PrimeBucks": "30"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingchassisname",
-    "PrimeBucks": "40"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname Blueprint",
-    "PrimeBucks": "30"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname Blueprint",
-    "PrimeBucks": "30"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname",
-    "PrimeBucks": "40"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Akbroncoprimelink",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimeblade",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimegauntlet",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarbarrel",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarreceiver",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarstock",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Boltorprimebarrel",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Boltorprimereceiver",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Boltorprimestock",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimebarrel",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimestock",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Broncoprimebarrel",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Broncoprimereceiver",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimebarrel",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimereceiver",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimestock",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Glaiveprimeblade",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Glaiveprimedisc",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Latronprimebarrel",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Latronprimereceiver",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Latronprimestock",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lexprimebarrel",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lexprimereceiver",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboornament",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowgrip",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowlowerlimb",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowupperlimb",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercarapace",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercerebrum",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriersystems",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primedakkablade",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primedakkahandle",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primefangblade",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primefanghandle",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondaryholster",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondarypiece",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primepolearmblade",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primepolearmhandle",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromomeleeblade",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromomeleehandle",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primescytheblade",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primescythehandle",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmcarapace",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmcerebrum",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmsystems",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Sicarusprimebarrel",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Sicarusprimereceiver",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimebarrel",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimereceiver",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimestock",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vastoprimebarrel",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vastoprimereceiver",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimebarrel",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimereceiver",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimestock",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowstring",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname",
-    "PrimeBucks": "40"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Odonataprimename Blueprint",
-    "PrimeBucks": "30"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingchassisname Blueprint",
-    "PrimeBucks": "30"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingchassisname",
-    "PrimeBucks": "40"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname Blueprint",
-    "PrimeBucks": "30"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname Blueprint",
-    "PrimeBucks": "30"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname",
-    "PrimeBucks": "40"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Akbroncoprimelink",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimeblade",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimegauntlet",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarbarrel",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarreceiver",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarstock",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Boltorprimebarrel",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Boltorprimereceiver",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Boltorprimestock",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimebarrel",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimestock",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Broncoprimebarrel",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Broncoprimereceiver",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimebarrel",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimereceiver",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimestock",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Glaiveprimeblade",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Glaiveprimedisc",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Latronprimebarrel",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Latronprimereceiver",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Latronprimestock",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lexprimebarrel",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lexprimereceiver",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboornament",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowgrip",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowlowerlimb",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowupperlimb",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercarapace",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercerebrum",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriersystems",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primedakkablade",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primedakkahandle",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primefangblade",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primefanghandle",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondaryholster",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondarypiece",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primepolearmblade",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primepolearmhandle",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromomeleeblade",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromomeleehandle",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primescytheblade",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primescythehandle",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmcarapace",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmcerebrum",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmsystems",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Sicarusprimebarrel",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Sicarusprimereceiver",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimebarrel",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimereceiver",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimestock",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vastoprimebarrel",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vastoprimereceiver",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimebarrel",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimereceiver",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimestock",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowstring",
-    "PrimeBucks": "10"
   },
   {
     "Name": "/Lotus/Language/Items/Abilitydurationoncastname",
@@ -1478,5 +958,525 @@
   {
     "Name": "/Lotus/Language/Items/Slowerbleedoutonpredeathname",
     "PrimeBucks": "100"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Odonataprimename Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingchassisname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingchassisname",
+    "PrimeBucks": "40"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname",
+    "PrimeBucks": "40"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname",
+    "PrimeBucks": "40"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Akbroncoprimelink",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimeblade",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimegauntlet",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarbarrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarreceiver",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarstock",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Boltorprimebarrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Boltorprimereceiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Boltorprimestock",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimebarrel",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimestock",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Broncoprimebarrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Broncoprimereceiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimebarrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimereceiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimestock",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Glaiveprimeblade",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Glaiveprimedisc",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Latronprimebarrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Latronprimereceiver",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Latronprimestock",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lexprimebarrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lexprimereceiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboornament",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowgrip",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowlowerlimb",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowupperlimb",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercarapace",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercerebrum",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriersystems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primedakkablade",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primedakkahandle",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primefangblade",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primefanghandle",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondaryholster",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondarypiece",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primepolearmblade",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primepolearmhandle",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromomeleeblade",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromomeleehandle",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primescytheblade",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primescythehandle",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmcarapace",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmcerebrum",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmsystems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Sicarusprimebarrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Sicarusprimereceiver",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimebarrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimereceiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimestock",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vastoprimebarrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vastoprimereceiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimebarrel",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimereceiver",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimestock",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowstring",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Odonataprimename Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingchassisname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingchassisname",
+    "PrimeBucks": "40"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname",
+    "PrimeBucks": "40"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname",
+    "PrimeBucks": "40"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Akbroncoprimelink",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimeblade",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimegauntlet",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarbarrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarreceiver",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarstock",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Boltorprimebarrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Boltorprimereceiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Boltorprimestock",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimebarrel",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimestock",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Broncoprimebarrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Broncoprimereceiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimebarrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimereceiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimestock",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Glaiveprimeblade",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Glaiveprimedisc",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Latronprimebarrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Latronprimereceiver",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Latronprimestock",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lexprimebarrel",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lexprimereceiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboornament",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowgrip",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowlowerlimb",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowupperlimb",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercarapace",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercerebrum",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriersystems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primedakkablade",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primedakkahandle",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primefangblade",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primefanghandle",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondaryholster",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondarypiece",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primepolearmblade",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primepolearmhandle",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromomeleeblade",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromomeleehandle",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primescytheblade",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primescythehandle",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmcarapace",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmcerebrum",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmsystems",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Sicarusprimebarrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Sicarusprimereceiver",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimebarrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimereceiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimestock",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vastoprimebarrel",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vastoprimereceiver",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimebarrel",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimereceiver",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimestock",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowstring",
+    "PrimeBucks": "10"
   }
 ]

@@ -579,6 +579,20 @@ StoreItems={
 /Lotus/StoreItems/Types/Game/PlayerPowerSuit,
 /Lotus/StoreItems/Types/Game/RecipeItem,
 /Lotus/StoreItems/Types/Game/VoidKeyItem,
+/Lotus/StoreItems/Types/Items/Emotes/AgreeEmote,
+/Lotus/StoreItems/Types/Items/Emotes/BowEmote,
+/Lotus/StoreItems/Types/Items/Emotes/BragEmote,
+/Lotus/StoreItems/Types/Items/Emotes/ClapEmote,
+/Lotus/StoreItems/Types/Items/Emotes/DeepBowEmote,
+/Lotus/StoreItems/Types/Items/Emotes/DisagreeEmote,
+/Lotus/StoreItems/Types/Items/Emotes/FarewellEmote,
+/Lotus/StoreItems/Types/Items/Emotes/FollowEmote,
+/Lotus/StoreItems/Types/Items/Emotes/Kata2Emote,
+/Lotus/StoreItems/Types/Items/Emotes/Kata3Emote,
+/Lotus/StoreItems/Types/Items/Emotes/Kata5Emote,
+/Lotus/StoreItems/Types/Items/Emotes/KataEmote,
+/Lotus/StoreItems/Types/Items/Emotes/MeditateEmote,
+/Lotus/StoreItems/Types/Items/Emotes/ShrugEmote,
 /Lotus/StoreItems/Types/Items/MiscItems/AlloyPlate,
 /Lotus/StoreItems/Types/Items/MiscItems/AlphaCorruptorResource,
 /Lotus/StoreItems/Types/Items/MiscItems/ArchWingNavCode,
@@ -908,6 +922,8 @@ StoreItems={
 /Lotus/StoreItems/Types/Keys/TacAlertKeyProjectMutalistEasy,
 /Lotus/StoreItems/Types/Keys/TacAlertKeyProjectMutalistHard,
 /Lotus/StoreItems/Types/Keys/TacAlertKeyProjectMutalistMedium,
+/Lotus/StoreItems/Types/Keys/TacAlertKeyProjectPanacea,
+/Lotus/StoreItems/Types/Keys/TacAlertKeyProjectPanaceaBonus,
 /Lotus/StoreItems/Types/Keys/TestKeyA,
 /Lotus/StoreItems/Types/Keys/TestKeyAttackDefend,
 /Lotus/StoreItems/Types/Keys/TestKeyB,
@@ -1529,6 +1545,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/Weapons/BroncoPrimeBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/BurstonPrimeBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/BurstonRifleBlueprint,
+/Lotus/StoreItems/Types/Recipes/Weapons/CephPrimaryBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/CeramicDaggerBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/ConvertKatanaBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/CorpusHandRocketLauncherBlueprint,
@@ -3511,6 +3528,7 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmetAltStatless,
 /Lotus/StoreItems/Upgrades/Skins/Volt/VoltNobleAnims,
 /Lotus/StoreItems/Upgrades/Skins/Volt/VoltPrimeHelmet,
+/Lotus/StoreItems/Weapons/Cephalon/Primary/CephPrimary/CephPrimary,
 /Lotus/StoreItems/Weapons/ClanTech/Bio/AcidDartPistol,
 /Lotus/StoreItems/Weapons/ClanTech/Bio/AcidDartPistolBlueprint,
 /Lotus/StoreItems/Weapons/ClanTech/Bio/BioWeapon,
@@ -3978,7 +3996,7 @@ OverrideTexture=/Lotus/Interface/Graphics/Store/FeaturedChroma_d.png
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Weapons/Tenno/Bows/AsymetricalBow/AsymetricalBow
+StoreItem=/Lotus/StoreItems/Weapons/Cephalon/Primary/CephPrimary/CephPrimary
 Slot=Primary
 OverrideTexture=""
 OverrideMaterial=""
@@ -3990,7 +4008,7 @@ OverrideTexture=""
 OverrideMaterial=""
 },
 {
-StoreItem=/Lotus/StoreItems/Weapons/Tenno/Melee/Tonfa/Boltonfa/Boltonfa
+StoreItem=/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/ParisScythe/ParisScythe
 Slot=Melee
 OverrideTexture=""
 OverrideMaterial=""

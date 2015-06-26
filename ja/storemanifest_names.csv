@@ -579,6 +579,20 @@ Latron,/Lotus/StoreItems/Types/Enemies/Sector/RifleWeapon
 Warframe,/Lotus/StoreItems/Types/Game/PlayerPowerSuit
 ,/Lotus/StoreItems/Types/Game/RecipeItem
 /Lotus/Language/Items/Voidkeyname,/Lotus/StoreItems/Types/Game/VoidKeyItem
+/Lotus/Language/Emotes/Agreeemotename,/Lotus/StoreItems/Types/Items/Emotes/AgreeEmote
+/Lotus/Language/Emotes/Bowemotename,/Lotus/StoreItems/Types/Items/Emotes/BowEmote
+/Lotus/Language/Emotes/Bragemotename,/Lotus/StoreItems/Types/Items/Emotes/BragEmote
+/Lotus/Language/Emotes/Clapemotename,/Lotus/StoreItems/Types/Items/Emotes/ClapEmote
+/Lotus/Language/Emotes/Deepbowemotename,/Lotus/StoreItems/Types/Items/Emotes/DeepBowEmote
+/Lotus/Language/Emotes/Disagreeemotename,/Lotus/StoreItems/Types/Items/Emotes/DisagreeEmote
+/Lotus/Language/Emotes/Farewellemotename,/Lotus/StoreItems/Types/Items/Emotes/FarewellEmote
+/Lotus/Language/Emotes/Followemotename,/Lotus/StoreItems/Types/Items/Emotes/FollowEmote
+/Lotus/Language/Emotes/Kata2emotename,/Lotus/StoreItems/Types/Items/Emotes/Kata2Emote
+/Lotus/Language/Emotes/Kata3emotename,/Lotus/StoreItems/Types/Items/Emotes/Kata3Emote
+/Lotus/Language/Emotes/Kata5emotename,/Lotus/StoreItems/Types/Items/Emotes/Kata5Emote
+/Lotus/Language/Emotes/Kataemotename,/Lotus/StoreItems/Types/Items/Emotes/KataEmote
+/Lotus/Language/Emotes/Meditateemotename,/Lotus/StoreItems/Types/Items/Emotes/MeditateEmote
+/Lotus/Language/Emotes/Shrugemotename,/Lotus/StoreItems/Types/Items/Emotes/ShrugEmote
 合金板,/Lotus/StoreItems/Types/Items/MiscItems/AlloyPlate
 Α Corruptor,/Lotus/StoreItems/Types/Items/MiscItems/AlphaCorruptorResource
 /Lotus/Language/Items/Archwingnavcode,/Lotus/StoreItems/Types/Items/MiscItems/ArchWingNavCode
@@ -908,6 +922,8 @@ Projectmutalistbonus,/Lotus/StoreItems/Types/Keys/TacAlertKeyProjectMutalistBonu
 Projectmutalisteasy,/Lotus/StoreItems/Types/Keys/TacAlertKeyProjectMutalistEasy
 Projectmutalisthard,/Lotus/StoreItems/Types/Keys/TacAlertKeyProjectMutalistHard
 Projectmutalistmedium,/Lotus/StoreItems/Types/Keys/TacAlertKeyProjectMutalistMedium
+Projectmutalistbonus,/Lotus/StoreItems/Types/Keys/TacAlertKeyProjectPanacea
+Projectmutalistbonus,/Lotus/StoreItems/Types/Keys/TacAlertKeyProjectPanaceaBonus
 Defense Test Key,/Lotus/StoreItems/Types/Keys/TestKeyA
 Testattackdefend,/Lotus/StoreItems/Types/Keys/TestKeyAttackDefend
 Survival Test Key,/Lotus/StoreItems/Types/Keys/TestKeyB
@@ -1529,6 +1545,7 @@ Bronco Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BroncoBlueprint
 Bronco Prime Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BroncoPrimeBlueprint
 /Lotus/Language/Items/Primeburstonname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BurstonPrimeBlueprint
 Burston Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/BurstonRifleBlueprint
+/Lotus/Language/Items/Cephprimaryname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/CephPrimaryBlueprint
 Ceramic Dagger Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/CeramicDaggerBlueprint
 /Lotus/Language/Items/Dragonkatananame Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/ConvertKatanaBlueprint
 /Lotus/Language/Items/Corpushandrocketlaunchername Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/CorpusHandRocketLauncherBlueprint
@@ -3511,6 +3528,7 @@ Pulse Volt ヘルム,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmetAltBStatles
 Storm Volt ヘルム,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmetAltStatless
 /Lotus/Language/Items/Voltnobleanims,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltNobleAnims
 /Lotus/Language/Items/Voltprimedefaulthelmet,/Lotus/StoreItems/Upgrades/Skins/Volt/VoltPrimeHelmet
+/Lotus/Language/Items/Cephprimaryname,/Lotus/StoreItems/Weapons/Cephalon/Primary/CephPrimary/CephPrimary
 Acrid,/Lotus/StoreItems/Weapons/ClanTech/Bio/AcidDartPistol
 Acrid Blueprint,/Lotus/StoreItems/Weapons/ClanTech/Bio/AcidDartPistolBlueprint
 Torid,/Lotus/StoreItems/Weapons/ClanTech/Bio/BioWeapon

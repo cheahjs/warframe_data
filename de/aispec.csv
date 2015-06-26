@@ -1612,40 +1612,32 @@ ProjectMutalistInvasion,Besatzungsmitglied (Spaceman/AIWeek/RifleSpacemanAgent),
 ,Stürmer (AiWeek/Quadrupeds/Quadruped),0.2,0,0
 ,Springer (AiWeek/Runners/LeapingRunner),0.1,0,0
 ,Läufer (AiWeek/Runners/SuicideRunner),0.1,0,0
-InfestedDefenseDGrineerDesert,Stürmer (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
-,Springer (AiWeek/Runners/LeapingRunner),0.2,0,0
-,Läufer (AiWeek/Runners/SuicideRunner),1,0,0
-,Giftiger Kriecher (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
+ProjectPanacea,AIWeek/GrineerFemale,0.2,1,0
+,AIWeek/ShieldLancer,1,1,0
+,AIWeek/RifleLancer,0.5,0,0
+,AIWeek/ShotgunLancer,0.30000001,0,0
+,AIWeek/BladeSawman,0.30000001,0,0
+,AIWeek/FlameLancer,0.1,0,0
+,AIWeek/MacheteWoman,0.2,0,0
+,AIWeek/RocketBombard,0.050000001,0,0
+ProjectPanaceaBonus,AIWeek/PistonSawman,0.1,0,0
+,AIWeek/EliteRifleLancer,1,0,0
+,AIWeek/FlameLancer,0.30000001,2,0
+,AIWeek/ShotgunLancer,0.30000001,0,0
+,AIWeek/MacheteWoman,0.2,2,0
+,AIWeek/GrineerRollingDrone,0.2,0,0
+,AIWeek/JetpackMarine,0.2,0,0
+,AIWeek/RocketBombard,0.050000001,0,0
+,AIWeek/ManicGrineer,0.02,0,0
+InfestedHiveSquadQuest,Stürmer (AiWeek/Quadrupeds/Quadruped),1,0,0
+,Springer (AiWeek/Runners/LeapingRunner),0.75,0,0
+,Läufer (AiWeek/Runners/SuicideRunner),0.5,0,1
+,AiWeek/Crawlers/MeleeCrawler,0.25,0,0
 ,Giftiger Kriecher (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,Giftiger Kriecher (AiWeek/Crawlers/NoxiousCrawler),0.1,0,2
-,AiWeek/Crawlers/LightningCrawler,0.025,0,0
-,AiWeek/Crawlers/LightningCrawler,0.050000001,0,1
-,AiWeek/Crawlers/LightningCrawler,0.1,0,2
-,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,0
-,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
-,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
-,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,0
-,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,1
-,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,2
-,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,1,1
-,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,2
-,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,1,1
-,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,2
-,AiWeek/Ancients/MeleeAncient,0.1,0,0
-,AiWeek/Ancients/MeleeAncient,0.1,0,1
-,AiWeek/Ancients/MeleeAncient,0.1,0,2
-,Uralter Heiler (AiWeek/Ancients/HealingAncient),0.1,0,0
-,Uralter Heiler (AiWeek/Ancients/HealingAncient),0.1,0,1
-,Uralter Heiler (AiWeek/Ancients/HealingAncient),0.1,0,2
-,Desert/RifleLancer,1,0,0
-,Desert/EliteRifleLancer,1,0,0
-,Desert/MinigunBombard,0.050000001,2,0
-,Desert/EvisceratorLancer,0.1,2,0
-,Desert/BladeSawman,0.30000001,0,0
-,Desert/ShotgunLancer,0.25,0,0
-,Desert/JetpackMarine,0.25,0,0
-,Desert/GrineerMarinePistol,0.050000001,0,0
-,/Lotus/Types/NeutralCreatures/SandRayCreature,0.25,3,0
+,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,0
+,AiWeek/Ancients/MeleeAncient,0.2,4,1
+,Giftiger Uralter (AiWeek/Ancients/ToxicAncient),0.1,4,2
 InfestedDefenseC,Stürmer (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,Springer (AiWeek/Runners/LeapingRunner),0.2,0,0
 ,Läufer (AiWeek/Runners/SuicideRunner),1,0,0
@@ -1736,15 +1728,40 @@ InfestedDefenseD,Stürmer (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
 ,AIWeek/RocketBombard,0.25,0,0
 ,AIWeek/FlameLancer,0.25,0,0
 ,AIWeek/BladeSawman,0.25,0,0
-InfestedHiveSquadQuest,Stürmer (AiWeek/Quadrupeds/Quadruped),1,0,0
-,Springer (AiWeek/Runners/LeapingRunner),0.75,0,0
-,Läufer (AiWeek/Runners/SuicideRunner),0.5,0,1
-,AiWeek/Crawlers/MeleeCrawler,0.25,0,0
+InfestedDefenseDGrineerDesert,Stürmer (AiWeek/Quadrupeds/Quadruped),0.69999999,0,0
+,Springer (AiWeek/Runners/LeapingRunner),0.2,0,0
+,Läufer (AiWeek/Runners/SuicideRunner),1,0,0
+,Giftiger Kriecher (AiWeek/Crawlers/NoxiousCrawler),0.025,0,0
 ,Giftiger Kriecher (AiWeek/Crawlers/NoxiousCrawler),0.050000001,0,1
-,/Lotus/Language/Game/Toxicdronename (AiWeek/InfestedDrones/PoisonDroneAgent),0.2,0,0
-,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,2,0
-,AiWeek/Ancients/MeleeAncient,0.2,4,1
-,Giftiger Uralter (AiWeek/Ancients/ToxicAncient),0.1,4,2
+,Giftiger Kriecher (AiWeek/Crawlers/NoxiousCrawler),0.1,0,2
+,AiWeek/Crawlers/LightningCrawler,0.025,0,0
+,AiWeek/Crawlers/LightningCrawler,0.050000001,0,1
+,AiWeek/Crawlers/LightningCrawler,0.1,0,2
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoagoo (AiWeek/InfestedMoas/SlowBombBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,0
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,1
+,/Lotus/Language/Game/Infestedmoananite (AiWeek/InfestedMoas/NaniteCloudBipedAgent),0.1,1,2
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,1,1
+,/Lotus/Language/Game/Infestedancientdiseased (AiWeek/Ancients/DiseasedAncient),0.1,2,2
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,1,1
+,/Lotus/Language/Game/Infestedancientpuss (AiWeek/Ancients/SpawningAncient),0.1,2,2
+,AiWeek/Ancients/MeleeAncient,0.1,0,0
+,AiWeek/Ancients/MeleeAncient,0.1,0,1
+,AiWeek/Ancients/MeleeAncient,0.1,0,2
+,Uralter Heiler (AiWeek/Ancients/HealingAncient),0.1,0,0
+,Uralter Heiler (AiWeek/Ancients/HealingAncient),0.1,0,1
+,Uralter Heiler (AiWeek/Ancients/HealingAncient),0.1,0,2
+,Desert/RifleLancer,1,0,0
+,Desert/EliteRifleLancer,1,0,0
+,Desert/MinigunBombard,0.050000001,2,0
+,Desert/EvisceratorLancer,0.1,2,0
+,Desert/BladeSawman,0.30000001,0,0
+,Desert/ShotgunLancer,0.25,0,0
+,Desert/JetpackMarine,0.25,0,0
+,Desert/GrineerMarinePistol,0.050000001,0,0
+,/Lotus/Types/NeutralCreatures/SandRayCreature,0.25,3,0
 InfestedHiveSquadQuestB,Stürmer (AiWeek/Quadrupeds/Quadruped),1,0,0
 ,Springer (AiWeek/Runners/LeapingRunner),0.75,0,0
 ,Läufer (AiWeek/Runners/SuicideRunner),0.5,0,1
