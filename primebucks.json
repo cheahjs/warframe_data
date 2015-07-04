@@ -8,6 +8,34 @@
     "PrimeBucks": "20"
   },
   {
+    "Name": "/Lotus/Language/Items/Voltprimename Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname",
+    "PrimeBucks": "50"
+  },
+  {
     "Name": "/Lotus/Language/Primes/Ashprimename Blueprint",
     "PrimeBucks": "20"
   },
@@ -230,34 +258,6 @@
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Rhinoprimesystemsname",
     "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Voltprimename Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname",
-    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Items/Primedualbroncosname Blueprint",
@@ -488,6 +488,34 @@
     "PrimeBucks": "20"
   },
   {
+    "Name": "/Lotus/Language/Items/Voltprimename Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname",
+    "PrimeBucks": "50"
+  },
+  {
     "Name": "/Lotus/Language/Primes/Ashprimename Blueprint",
     "PrimeBucks": "20"
   },
@@ -710,34 +738,6 @@
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Rhinoprimesystemsname",
     "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Voltprimename Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname",
-    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Items/Primedualbroncosname Blueprint",
