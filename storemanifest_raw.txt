@@ -364,6 +364,7 @@ StoreItems={
 /Lotus/StoreItems/Powersuits/Necro/SoulPunchAbilityCard,
 /Lotus/StoreItems/Powersuits/Necro/SoulPunchAugmentCard,
 /Lotus/StoreItems/Powersuits/Necro/TerrorTotemAbilityCard,
+/Lotus/StoreItems/Powersuits/Ninja/AshPrime,
 /Lotus/StoreItems/Powersuits/Ninja/GlaiveAbilityCard,
 /Lotus/StoreItems/Powersuits/Ninja/GlaiveAugmentCard,
 /Lotus/StoreItems/Powersuits/Ninja/Ninja,
@@ -371,6 +372,7 @@ StoreItems={
 /Lotus/StoreItems/Powersuits/Ninja/NinjaStormAugmentCard,
 /Lotus/StoreItems/Powersuits/Ninja/SmokeScreenAbilityCard,
 /Lotus/StoreItems/Powersuits/Ninja/SmokeScreenAugmentCard,
+/Lotus/StoreItems/Powersuits/Ninja/SmokeScreenPvPAugmentCard,
 /Lotus/StoreItems/Powersuits/Ninja/TelelportToAbilityCard,
 /Lotus/StoreItems/Powersuits/Paladin/Paladin,
 /Lotus/StoreItems/Powersuits/Paladin/ReckoningAbilityCard,
@@ -1194,6 +1196,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/Kubrow/EggHatcherBlueprint,
 /Lotus/StoreItems/Types/Recipes/SentinelRecipes/CarrierSentinelBlueprint,
 /Lotus/StoreItems/Types/Recipes/SentinelRecipes/DethCubeSentinelBlueprint,
+/Lotus/StoreItems/Types/Recipes/SentinelRecipes/PrimeCarrierSentinelBlueprint,
 /Lotus/StoreItems/Types/Recipes/SentinelRecipes/PrimeWyrmSentinelBlueprint,
 /Lotus/StoreItems/Types/Recipes/SentinelRecipes/ShadeSentinelBlueprint,
 /Lotus/StoreItems/Types/Recipes/SentinelRecipes/WyrmSentinelBlueprint,
@@ -1205,6 +1208,13 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshChassisComponent,
 /Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshHelmetBlueprint,
 /Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshHelmetComponent,
+/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeBlueprint,
+/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeChassisBlueprint,
+/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeChassisComponent,
+/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeHelmetBlueprint,
+/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeHelmetComponent,
+/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeSystemsBlueprint,
+/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeSystemsComponent,
 /Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshSystemsBlueprint,
 /Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshSystemsComponent,
 /Lotus/StoreItems/Types/Recipes/WarframeRecipes/BansheeBlueprint,
@@ -1488,6 +1498,9 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowLowerLimb,
 /Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowString,
 /Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowUpperLimb,
+/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCarrierCarapace,
+/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCarrierCerebrum,
+/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCarrierSystems,
 /Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCronusLongSwordBlade,
 /Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCronusLongSwordHandle,
 /Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeFangBlade,
@@ -1667,6 +1680,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Recipes/Weapons/TnoPrmryXbowBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/TwinViperBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/VastoPrimeBlueprint,
+/Lotus/StoreItems/Types/Recipes/Weapons/VectisPrimeBlueprint,
 /Lotus/StoreItems/Types/Recipes/Weapons/VorsPistolBlueprint,
 /Lotus/StoreItems/Types/Recipes/CosmeticEnhancerBlueprint,
 /Lotus/StoreItems/Types/Recipes/CosmeticEnhancerFakeItem,
@@ -1749,6 +1763,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/DethCubePowerSuit,
 /Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/GubberPowerSuit,
 /Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/MeleePetPowerSuit,
+/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/PrimeCarrierPowerSuit,
 /Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/PrimeWyrmPowerSuit,
 /Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/ShadePowerSuit,
 /Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/WyrmPowerSuit,
@@ -1775,6 +1790,7 @@ StoreItems={
 /Lotus/StoreItems/Types/Sentinels/SentinelWeapons/DethMachineRifle,
 /Lotus/StoreItems/Types/Sentinels/SentinelWeapons/LaserRifle,
 /Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeLaserRifle,
+/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeSentShotgun,
 /Lotus/StoreItems/Types/Sentinels/SentinelWeapons/SentBioWeapon,
 /Lotus/StoreItems/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon,
 /Lotus/StoreItems/Types/Sentinels/SentinelWeapons/SentShotgun,
@@ -1796,6 +1812,8 @@ StoreItems={
 /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshDark,
 /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshLocustBright,
 /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshLocustDark,
+/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshPrimeBright,
+/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshPrimeDark,
 /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshScorpionBright,
 /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshScorpionDark,
 /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheeBright,
@@ -3222,6 +3240,7 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Necro/UnlockNecroAgile,
 /Lotus/StoreItems/Upgrades/Skins/Necro/UnlockNecroNoble,
 /Lotus/StoreItems/Upgrades/Skins/Ninja/AshAlternateSkin,
+/Lotus/StoreItems/Upgrades/Skins/Ninja/AshPrimeHelmet,
 /Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaAgileAnims,
 /Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmet,
 /Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAlt,
@@ -3307,6 +3326,7 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Scarves/TurtleNeckScarf,
 /Lotus/StoreItems/Upgrades/Skins/Scarves/VTDinoSpikeScarf,
 /Lotus/StoreItems/Upgrades/Skins/Scarves/VTHornSkullScarf,
+/Lotus/StoreItems/Upgrades/Skins/Scarves/YamakoPrimeScarf,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GunHeadMask,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/HunhowMask,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/IctusMask,
@@ -3316,6 +3336,7 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/MechHeadMask,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/OrokinMask,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/ParrotMask,
+/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/PrimeSentinelMask,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Skins/LibrarianHelios,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/CapsuleTail,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/ColtekTail,
@@ -3324,6 +3345,7 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/InfestedTail,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/OrokinTail,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/ParrotTail,
+/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/PrimeSentinelTail,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ColtekWings,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ColtekWingsRight,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/DiamondWings,
@@ -3340,6 +3362,8 @@ StoreItems={
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/OrokinWingsRight,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ParrotWings,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ParrotWingsRight,
+/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/PrimeSentinelWings,
+/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/PrimeSentinelWingsRight,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/CarbuncleDethcubeSkin,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/ParrotCarrierSkin,
 /Lotus/StoreItems/Upgrades/Skins/Sentinels/SpriteShadeSkin,
@@ -3678,6 +3702,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeBoltor/PrimeBoltor,
 /Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeBurston/PrimeBurston,
 /Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeSoma/PrimeSomaRifle,
+/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeVectis/PrimeVectisRifle,
 /Lotus/StoreItems/Weapons/Tenno/LongGuns/TnoLeverAction/TnoLeverActionRifle,
 /Lotus/StoreItems/Weapons/Tenno/LongGuns/TnoPrmryXbow/TnoPrmryXbowWeapon,
 /Lotus/StoreItems/Weapons/Tenno/LongGuns/WraithLatron/WraithLatron,
@@ -4034,13 +4059,13 @@ OverrideMaterial=""
 {
 StoreItem=/Lotus/Types/StoreItems/Packages/PrimeAccess2StoreItem
 Slot=PrimeAccess2
-OverrideTexture=/Lotus/Interface/Graphics/Store/NovaPrimeAccess.png
+OverrideTexture=/Lotus/Interface/Graphics/Store/AshPrimeAccess.png
 OverrideMaterial=""
 },
 {
 StoreItem=/Lotus/Types/StoreItems/Packages/PrimeAccessory2StoreItem
 Slot=PrimeAccessories2
-OverrideTexture=/Lotus/Interface/Graphics/Store/NovaPrimeAcessories.png
+OverrideTexture=/Lotus/Interface/Graphics/Store/AshPrimeAccessories.png
 OverrideMaterial=""
 }
 }

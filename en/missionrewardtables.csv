@@ -492,7 +492,7 @@ DerelictDefenseRewards - Tier 2,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Items/Emberprimename Blueprint,1,UNCOMMON,0.0564102564102564,0,QA_LOW
 /Lotus/Language/Items/Primesicarusname Blueprint,1,UNCOMMON,0.0564102564102564,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Boltorprimereceiver,1,UNCOMMON,0.0564102564102564,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Somaprimestock,1,UNCOMMON,0.0564102564102564,0,QA_LOW
 /Lotus/Language/Items/Orokinmobiledefensekeybname,1,COMMON,0.154871794871795,0,QA_LOW
 /Lotus/Language/Items/Orokincapturekeybname,1,COMMON,0.154871794871795,0,QA_LOW
 /Lotus/Language/Items/Orokinkeycname,1,COMMON,0.154871794871795,0,QA_LOW
@@ -1244,7 +1244,7 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Menu/Craftingcomponent_Primebowgrip,1,UNCOMMON,0.0564102564102564,0,QA_LOW
 /Lotus/Language/Items/Forma Blueprint,1,UNCOMMON,0.0564102564102564,0,QA_LOW
 /Lotus/Language/Items/Orokinkeyfname,1,COMMON,0.258119658119658,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Primeboarreceiver,1,COMMON,0.258119658119658,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimegauntlet,1,COMMON,0.258119658119658,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Lexprimereceiver,1,UNCOMMON,0.0564102564102564,0,QA_LOW
 /Lotus/Language/Items/Orokincapturekeybname,1,COMMON,0.258119658119658,0,QA_LOW
 ,,,,,
@@ -1349,10 +1349,9 @@ OrokinDefenseRewardsC - Tier 2,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Menu/Craftingcomponent_Bratonprimebarrel,1,UNCOMMON,0.0752136752136752,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver,1,UNCOMMON,0.0752136752136752,0,QA_LOW
-/Lotus/Language/Items/Forma Blueprint,1,COMMON,0.258119658119658,0,QA_LOW
-/Lotus/Language/Items/Magprimename Blueprint,1,COMMON,0.258119658119658,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimeblade,1,UNCOMMON,0.0752136752136752,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Bratonprimestock,1,COMMON,0.258119658119658,0,QA_LOW
+/Lotus/Language/Items/Forma Blueprint,1,COMMON,0.387179487179487,0,QA_LOW
+/Lotus/Language/Primes/Ashprimename Blueprint,1,UNCOMMON,0.0752136752136752,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Bratonprimestock,1,COMMON,0.387179487179487,0,QA_LOW
 ,,,,,
 ,,,,,
 OrokinDefenseRewardsD - Tier 0,,,,,
@@ -1361,7 +1360,7 @@ Rare /Lotus/Language/Items/Fusionpart,5,UNCOMMON,0.2,0,QA_HIGH
 /Lotus/Language/Items/Forma Blueprint,1,UNCOMMON,0.2,0,QA_LOW
 /Lotus/Language/Items/Primelexname Blueprint,1,UNCOMMON,0.2,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Primepolearmhandle,1,UNCOMMON,0.2,0,QA_LOW
-/Lotus/Language/Items/Cronusprimename Blueprint,1,UNCOMMON,0.2,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Primewyrmsystems,1,UNCOMMON,0.2,0,QA_LOW
 ,,,,,
 OrokinDefenseRewardsD - Tier 1,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
@@ -1394,7 +1393,7 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 ,,,,,
 OrokinExterminateRewardsB - Tier 0,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
-/Lotus/Language/Menu/Craftingcomponent_Primedakkahandle,1,UNCOMMON,0.0752136752136752,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Primecarriercerebrum,1,UNCOMMON,0.0752136752136752,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Emberprimehelmetname Blueprint,1,COMMON,0.193589743589744,0,QA_LOW
 /Lotus/Language/Items/Novaprimename Blueprint,1,COMMON,0.193589743589744,0,QA_LOW
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.193589743589744,0,QA_LOW
@@ -1408,11 +1407,10 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Menu/Craftingcomponent_Nextpromowarframechassisname Blueprint,1,UNCOMMON,0.0451282051282051,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Somaprimestock,1,UNCOMMON,0.0451282051282051,0,QA_LOW
 /Lotus/Language/Items/Forma,1,UNCOMMON,0.0451282051282051,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Sicarusprimebarrel,1,COMMON,0.258119658119658,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Boltorprimebarrel,1,UNCOMMON,0.0451282051282051,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Sicarusprimebarrel,1,COMMON,0.387179487179487,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Primecarriercarapace,1,UNCOMMON,0.0451282051282051,0,QA_LOW
 /Lotus/Language/Items/Rhinoprimename Blueprint,1,UNCOMMON,0.0451282051282051,0,QA_LOW
-/Lotus/Language/Items/Magprimename Blueprint,1,COMMON,0.258119658119658,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Magprimechassisname Blueprint,1,COMMON,0.258119658119658,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Nextpromowarframesystemsname Blueprint,1,COMMON,0.387179487179487,0,QA_LOW
 ,,,,,
 ,,,,,
 OrokinExterminateRewardsD - Tier 0,,,,,
@@ -1422,39 +1420,39 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Menu/Craftingcomponent_Sicarusprimebarrel,1,COMMON,0.258119658119658,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Boltorprimebarrel,1,COMMON,0.258119658119658,0,QA_LOW
 /Lotus/Language/Items/Rhinoprimename Blueprint,1,UNCOMMON,0.0564102564102564,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Primebohandle,1,UNCOMMON,0.0564102564102564,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Vectisprimereceiver,1,UNCOMMON,0.0564102564102564,0,QA_LOW
 Rare /Lotus/Language/Items/Fusionpart,5,COMMON,0.258119658119658,0,QA_HIGH
 ,,,,,
 ,,,,,
 OrokinInterceptionRewardsD - Tier 0,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 Rare /Lotus/Language/Items/Fusionpart,5,UNCOMMON,0.25,0,QA_HIGH
-/Lotus/Language/Menu/Craftingcomponent_Primedakkablade,1,UNCOMMON,0.25,0,QA_LOW
+/Lotus/Language/Items/Primecarriersentinelname Blueprint,1,UNCOMMON,0.25,0,QA_LOW
 /Lotus/Language/Items/Primedualbroncosname Blueprint,1,UNCOMMON,0.25,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Glaiveprimeblade,1,UNCOMMON,0.25,0,QA_LOW
 ,,,,,
 OrokinInterceptionRewardsD - Tier 1,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
-/Lotus/Language/Menu/Craftingcomponent_Primeboarreceiver,1,UNCOMMON,0.25,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Vectisprimebarrel,1,UNCOMMON,0.25,0,QA_LOW
 Rare /Lotus/Language/Items/Fusionpart,5,UNCOMMON,0.25,0,QA_HIGH
-/Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname Blueprint,1,UNCOMMON,0.25,0,QA_LOW
+/Lotus/Language/Items/Nextpromosecondaryname Blueprint,1,UNCOMMON,0.25,0,QA_LOW
 /Lotus/Language/Items/Forma Blueprint,1,UNCOMMON,0.25,0,QA_LOW
 ,,,,,
 OrokinInterceptionRewardsD - Tier 2,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Menu/Craftingcomponent_Primewyrmsystems,1,COMMON,0.142857142857143,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Primedakkahandle,1,COMMON,0.142857142857143,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Somaprimebarrel,1,COMMON,0.142857142857143,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Primefanghandle,1,COMMON,0.142857142857143,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Lexprimereceiver,1,COMMON,0.142857142857143,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Primebowgrip,1,COMMON,0.142857142857143,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Somaprimebarrel,1,COMMON,0.142857142857143,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Primebohandle,1,COMMON,0.142857142857143,0,QA_LOW
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.142857142857143,0,QA_LOW
 ,,,,,
 ,,,,,
 OrokinMobileDefenseRewardsA - Tier 0,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Menu/Craftingcomponent_Rhinoprimehelmetname Blueprint,1,UNCOMMON,0.0752136752136752,0,QA_LOW
-/Lotus/Language/Items/Boarprimename Blueprint,1,UNCOMMON,0.0752136752136752,0,QA_LOW
+/Lotus/Language/Items/Primevectisname Blueprint,1,UNCOMMON,0.0752136752136752,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Boltorprimestock,1,COMMON,0.258119658119658,0,QA_LOW
 /Lotus/Language/Items/Forma Blueprint,1,UNCOMMON,0.0752136752136752,0,QA_LOW
 /Lotus/Language/Items/Orokincapturekeyaname,1,COMMON,0.258119658119658,0,QA_LOW
@@ -1473,18 +1471,18 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 ,,,,,
 OrokinMobileDefenseRewardsC - Tier 0,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
-/Lotus/Language/Menu/Craftingcomponent_Primeboarbarrel,1,UNCOMMON,0.0564102564102564,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Vectisprimestock,1,UNCOMMON,0.0564102564102564,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Emberprimesystemsname Blueprint,1,UNCOMMON,0.0564102564102564,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Nextpromomeleeblade,1,UNCOMMON,0.0564102564102564,0,QA_LOW
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.258119658119658,0,QA_LOW
 /Lotus/Language/Items/Boltorprimename Blueprint,1,UNCOMMON,0.0564102564102564,0,QA_LOW
-/Lotus/Language/Items/Boarprimename Blueprint,1,COMMON,0.258119658119658,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Primeboarstock,1,COMMON,0.258119658119658,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Somaprimebarrel,1,COMMON,0.258119658119658,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Boltorprimebarrel,1,COMMON,0.258119658119658,0,QA_LOW
 ,,,,,
 ,,,,,
 OrokinMobileDefenseRewardsD - Tier 0,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
-/Lotus/Language/Menu/Craftingcomponent_Primeboarbarrel,1,UNCOMMON,0.166666666666667,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Primebohandle,1,UNCOMMON,0.166666666666667,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Emberprimesystemsname Blueprint,1,UNCOMMON,0.166666666666667,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Vastoprimereceiver,1,UNCOMMON,0.166666666666667,0,QA_LOW
 /Lotus/Language/Items/Forma Blueprint,1,UNCOMMON,0.166666666666667,0,QA_LOW
@@ -1545,7 +1543,7 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Menu/Craftingcomponent_Primearchwingchassisname Blueprint,1,UNCOMMON,0.112820512820513,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Nextpromosecondarypiece,1,COMMON,0.193589743589744,0,QA_LOW
 /Lotus/Language/Items/Novaprimename Blueprint,1,COMMON,0.193589743589744,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Burstonprimestock,1,COMMON,0.193589743589744,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Primearchwingsystemsname Blueprint,1,COMMON,0.193589743589744,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Vastoprimebarrel,1,COMMON,0.193589743589744,0,QA_LOW
 ,,,,,
 OrokinSabotageRewardsA - Tier 1,,,,,
@@ -1600,7 +1598,7 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname Blueprint,1,COMMON,0.252931323283082,0,QA_LOW
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.252931323283082,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Nextpromomeleeblade,1,UNCOMMON,0.0552763819095477,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname Blueprint,1,UNCOMMON,0.0552763819095477,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname Blueprint,1,UNCOMMON,0.0552763819095477,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Ankyrosprimeblade,1,UNCOMMON,0.0552763819095477,0,QA_LOW
 /Lotus/Language/Items/Primesicarusname Blueprint,1,COMMON,0.252931323283082,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Glaiveprimeblade,1,UNCOMMON,0.0552763819095477,0,QA_HIGH
@@ -1629,11 +1627,11 @@ OrokinSabotageRewardsD - Tier 0,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname Blueprint,1,UNCOMMON,0.0752136752136752,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Nextpromowarframesystemsname Blueprint,1,COMMON,0.154871794871795,0,QA_LOW
-/Lotus/Language/Items/Cronusprimename Blueprint,1,COMMON,0.154871794871795,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Primecarriersystems,1,COMMON,0.154871794871795,0,QA_LOW
 /Lotus/Language/Items/Forma Blueprint,1,UNCOMMON,0.0752136752136752,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint,1,COMMON,0.154871794871795,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Glaiveprimedisc,1,UNCOMMON,0.0752136752136752,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname Blueprint,1,COMMON,0.154871794871795,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname Blueprint,1,COMMON,0.154871794871795,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Novaprimehelmetname Blueprint,1,COMMON,0.154871794871795,0,QA_NONE
 ,,,,,
 OrokinSabotageRewardsD - Tier 1,,,,,
@@ -1703,8 +1701,8 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Menu/Craftingcomponent_Burstonprimereceiver,1,UNCOMMON,0.0752136752136752,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Somaprimereceiver,1,UNCOMMON,0.0752136752136752,0,QA_LOW
 /Lotus/Language/Items/Parisprimename Blueprint,1,COMMON,0.258119658119658,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Magprimechassisname Blueprint,1,COMMON,0.258119658119658,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimegauntlet,1,UNCOMMON,0.0752136752136752,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname Blueprint,1,COMMON,0.258119658119658,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimeblade,1,UNCOMMON,0.0752136752136752,0,QA_LOW
 /Lotus/Language/Items/Broncoprimename Blueprint,1,COMMON,0.258119658119658,0,QA_LOW
 ,,,,,
 ,,,,,
@@ -1720,7 +1718,7 @@ OrokinSurvivalRewardsC - Tier 1,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 Uncommon /Lotus/Language/Items/Fusionpart,3,UNCOMMON,0.2,0,QA_HIGH
 Rare /Lotus/Language/Items/Fusionpart,3,UNCOMMON,0.2,0,QA_HIGH
-/Lotus/Language/Menu/Craftingcomponent_Primedakkablade,1,UNCOMMON,0.2,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Vectisprimebarrel,1,UNCOMMON,0.2,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Lexprimebarrel,1,UNCOMMON,0.2,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname Blueprint,1,UNCOMMON,0.2,0,QA_LOW
 ,,,,,
@@ -1729,7 +1727,7 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Items/Boprimename Blueprint,1,COMMON,0.252931323283082,0,QA_LOW
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.252931323283082,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname Blueprint,1,UNCOMMON,0.0552763819095477,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname Blueprint,1,UNCOMMON,0.0552763819095477,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname Blueprint,1,UNCOMMON,0.0552763819095477,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Rhinoprimechassisname Blueprint,1,UNCOMMON,0.0552763819095477,0,QA_LOW
 /Lotus/Language/Items/Primesicarusname Blueprint,1,COMMON,0.252931323283082,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Novaprimechassisname Blueprint,1,UNCOMMON,0.0552763819095477,0,QA_HIGH
@@ -1739,7 +1737,7 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 OrokinSurvivalRewardsD - Tier 0,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 Rare /Lotus/Language/Items/Fusionpart,5,COMMON,0.25,0,QA_HIGH
-/Lotus/Language/Menu/Craftingcomponent_Primeboarstock,1,COMMON,0.25,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname Blueprint,1,COMMON,0.25,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Primeboornament,1,COMMON,0.25,0,QA_LOW
 /Lotus/Language/Items/Orokincell,3,COMMON,0.25,0,QA_LOW
 ,,,,,
@@ -1758,7 +1756,7 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Items/Forma Blueprint,1,COMMON,0.154871794871795,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Primearchwingwingsname Blueprint,1,COMMON,0.154871794871795,0,QA_LOW
 /Lotus/Language/Items/Primevastoname Blueprint,1,UNCOMMON,0.0752136752136752,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname Blueprint,1,COMMON,0.154871794871795,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint,1,COMMON,0.154871794871795,0,QA_LOW
 Rare /Lotus/Language/Items/Fusionpart,5,UNCOMMON,0.0752136752136752,0,QA_HIGH
 ,,,,,
 ,,,,,

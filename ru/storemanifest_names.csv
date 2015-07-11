@@ -364,6 +364,7 @@ Raid Hijack Perf Test,/Lotus/StoreItems/Levels/HijackPerformanceTestKey
 /Lotus/Language/Items/Soulpunchabilityname,/Lotus/StoreItems/Powersuits/Necro/SoulPunchAbilityCard
 /Lotus/Language/Items/Soulpunchabilityaugmentname,/Lotus/StoreItems/Powersuits/Necro/SoulPunchAugmentCard
 /Lotus/Language/Items/Terrortotemabilityname,/Lotus/StoreItems/Powersuits/Necro/TerrorTotemAbilityCard
+/Lotus/Language/Primes/Ashprimename,/Lotus/StoreItems/Powersuits/Ninja/AshPrime
 Сюрикен,/Lotus/StoreItems/Powersuits/Ninja/GlaiveAbilityCard
 /Lotus/Language/Items/Glaiveabilityaugmentname,/Lotus/StoreItems/Powersuits/Ninja/GlaiveAugmentCard
 Эш,/Lotus/StoreItems/Powersuits/Ninja/Ninja
@@ -371,6 +372,7 @@ Raid Hijack Perf Test,/Lotus/StoreItems/Levels/HijackPerformanceTestKey
 /Lotus/Language/Items/Ninjastormabilityaugmentname,/Lotus/StoreItems/Powersuits/Ninja/NinjaStormAugmentCard
 Дымовая Завеса,/Lotus/StoreItems/Powersuits/Ninja/SmokeScreenAbilityCard
 /Lotus/Language/Items/Smokescreenabilityaugment1,/Lotus/StoreItems/Powersuits/Ninja/SmokeScreenAugmentCard
+/Lotus/Language/Items/Smokescreenabilityaugmentpvpname,/Lotus/StoreItems/Powersuits/Ninja/SmokeScreenPvPAugmentCard
 Телепорт,/Lotus/StoreItems/Powersuits/Ninja/TelelportToAbilityCard
 /Lotus/Language/Items/Paladinname,/Lotus/StoreItems/Powersuits/Paladin/Paladin
 /Lotus/Language/Items/Reckoningability,/Lotus/StoreItems/Powersuits/Paladin/ReckoningAbilityCard
@@ -1194,6 +1196,7 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Items/Egghatchername Blueprint,/Lotus/StoreItems/Types/Recipes/Kubrow/EggHatcherBlueprint
 /Lotus/Language/Items/Carriersentinelname Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/CarrierSentinelBlueprint
 Куб Смерти Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/DethCubeSentinelBlueprint
+/Lotus/Language/Items/Primecarriersentinelname Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/PrimeCarrierSentinelBlueprint
 /Lotus/Language/Items/Wyrmprimename Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/PrimeWyrmSentinelBlueprint
 Шейд Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/ShadeSentinelBlueprint
 Вирм Blueprint,/Lotus/StoreItems/Types/Recipes/SentinelRecipes/WyrmSentinelBlueprint
@@ -1205,6 +1208,13 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 Каркас: Эш,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshChassisComponent
 Шлем: Эш Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshHelmetBlueprint
 Шлем: Эш,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshHelmetComponent
+/Lotus/Language/Primes/Ashprimename Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeBlueprint
+/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeChassisBlueprint
+/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeChassisComponent
+/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeHelmetBlueprint
+/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeHelmetComponent
+/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeSystemsBlueprint
+/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshPrimeSystemsComponent
 Система: Эш Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshSystemsBlueprint
 Система: Эш,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/AshSystemsComponent
 Банши Blueprint,/Lotus/StoreItems/Types/Recipes/WarframeRecipes/BansheeBlueprint
@@ -1488,6 +1498,9 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 Парис Прайм: Верхнее Плечо,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowLowerLimb
 Парис Прайм: Тетива,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowString
 Парис Прайм: Нижнее Плечо,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowUpperLimb
+/Lotus/Language/Menu/Craftingcomponent_Primecarriercarapace,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCarrierCarapace
+/Lotus/Language/Menu/Craftingcomponent_Primecarriercerebrum,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCarrierCerebrum
+/Lotus/Language/Menu/Craftingcomponent_Primecarriersystems,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCarrierSystems
 /Lotus/Language/Menu/Craftingcomponent_Primedakkablade,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCronusLongSwordBlade
 /Lotus/Language/Menu/Craftingcomponent_Primedakkahandle,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeCronusLongSwordHandle
 Клык Прайм: Клинок,/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeFangBlade
@@ -1667,6 +1680,7 @@ Its The Grineer! Transition Test,/Lotus/StoreItems/Types/Keys/TestKeyTransitiona
 /Lotus/Language/Items/Tennosilentcrossbowname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TnoPrmryXbowBlueprint
 Парные Гадюки Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/TwinViperBlueprint
 /Lotus/Language/Items/Primevastoname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/VastoPrimeBlueprint
+/Lotus/Language/Items/Primevectisname Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/VectisPrimeBlueprint
 Пророк Blueprint,/Lotus/StoreItems/Types/Recipes/Weapons/VorsPistolBlueprint
 /Lotus/Language/Items/Cosmeticenhancername,/Lotus/StoreItems/Types/Recipes/CosmeticEnhancerBlueprint
 /Lotus/Language/Items/Cosmeticenhancername,/Lotus/StoreItems/Types/Recipes/CosmeticEnhancerFakeItem
@@ -1749,6 +1763,7 @@ Xattractor 9,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorI
 Куб Смерти,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/DethCubePowerSuit
 /Lotus/Language/Items/Djinnsentinelname,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/GubberPowerSuit
 /Lotus/Language/Items/Meleepetname,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/MeleePetPowerSuit
+/Lotus/Language/Items/Primecarriersentinelname,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/PrimeCarrierPowerSuit
 /Lotus/Language/Items/Wyrmprimename,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/PrimeWyrmPowerSuit
 Шейд,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/ShadePowerSuit
 Вирм,/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/WyrmPowerSuit
@@ -1775,6 +1790,7 @@ Xattractor 9,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorI
 Пулемет Смерти,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/DethMachineRifle
 Лазерная Винтовка,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/LaserRifle
 /Lotus/Language/Items/Primelaserriflestoreitemname,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeLaserRifle
+/Lotus/Language/Items/Primesentinelshotgunname,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/PrimeSentShotgun
 /Lotus/Language/Items/Sentinelbioweaponname,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/SentBioWeapon
 /Lotus/Language/Items/Heliosglaiveweaponname,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon
 /Lotus/Language/Items/Sentinelshotgunname,/Lotus/StoreItems/Types/Sentinels/SentinelWeapons/SentShotgun
@@ -1796,6 +1812,8 @@ Xattractor 9,/Lotus/StoreItems/Types/Restoratives/Upgraded/AssassinAttractorI
 Аватар Эш,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshDark
 Аватар Эш Саранча,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshLocustBright
 Аватар Эш Саранча,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshLocustDark
+/Lotus/Language/Items/Avatarashprimebrightname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshPrimeBright
+/Lotus/Language/Items/Avatarashprimedarkname,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshPrimeDark
 Аватар Эш Скорпион,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshScorpionBright
 Аватар Эш Скорпион,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshScorpionDark
 Аватар Банши,/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheeBright
@@ -3222,6 +3240,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Necroagileanims,/Lotus/StoreItems/Upgrades/Skins/Necro/UnlockNecroAgile
 /Lotus/Language/Items/Necronobleanims,/Lotus/StoreItems/Upgrades/Skins/Necro/UnlockNecroNoble
 /Lotus/Language/Items/Warframeskinashalternatename,/Lotus/StoreItems/Upgrades/Skins/Ninja/AshAlternateSkin
+/Lotus/Language/Primes/Ashprimehelmetname,/Lotus/StoreItems/Upgrades/Skins/Ninja/AshPrimeHelmet
 /Lotus/Language/Items/Ninjaagileanims,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaAgileAnims
 Шлем Эша,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmet
 /Lotus/Language/Items/Arcaneninjaalthelmet,/Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAlt
@@ -3307,6 +3326,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Imperatorsyandananame,/Lotus/StoreItems/Upgrades/Skins/Scarves/TurtleNeckScarf
 /Lotus/Language/Items/Prismayamakoscarfname,/Lotus/StoreItems/Upgrades/Skins/Scarves/VTDinoSpikeScarf
 /Lotus/Language/Items/Vthornskullscarfname,/Lotus/StoreItems/Upgrades/Skins/Scarves/VTHornSkullScarf
+/Lotus/Language/Primes/Yamakoprimesyandananame,/Lotus/StoreItems/Upgrades/Skins/Scarves/YamakoPrimeScarf
 /Lotus/Language/Items/Coltekmaskname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GunHeadMask
 Маска Хунхау,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/HunhowMask
 /Lotus/Language/Items/Ictusmaskname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/IctusMask
@@ -3316,6 +3336,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 Маска Стража: Голова Робота.,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/MechHeadMask
 /Lotus/Language/Items/Summusprimesentinelmaskname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/OrokinMask
 /Lotus/Language/Items/Parrotmaskname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/ParrotMask
+/Lotus/Language/Items/Primesentinelmaskname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/PrimeSentinelMask
 /Lotus/Language/Items/Librarianheliosname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Skins/LibrarianHelios
 Капсульный Хвост,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/CapsuleTail
 /Lotus/Language/Items/Coltektailname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/ColtekTail
@@ -3324,6 +3345,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Infestedtailname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/InfestedTail
 /Lotus/Language/Items/Summusprimesentineltailname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/OrokinTail
 /Lotus/Language/Items/Parrottailname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/ParrotTail
+/Lotus/Language/Items/Primesentineltailname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/PrimeSentinelTail
 /Lotus/Language/Items/Coltekwingsname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ColtekWings
 /Lotus/Language/Items/Coltekwingsname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ColtekWingsRight
 Алмазные Крылья,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/DiamondWings
@@ -3340,6 +3362,8 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Summusprimesentinelwingsname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/OrokinWingsRight
 /Lotus/Language/Items/Parrotwingsname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ParrotWings
 /Lotus/Language/Items/Parrotwingsname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/ParrotWingsRight
+/Lotus/Language/Items/Primesentinelwingsname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/PrimeSentinelWings
+/Lotus/Language/Items/Primesentinelwingsname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/PrimeSentinelWingsRight
 /Lotus/Language/Items/Dethcubecarbuncleskinname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/CarbuncleDethcubeSkin
 /Lotus/Language/Items/Parrotcarriersentinelskinname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/ParrotCarrierSkin
 /Lotus/Language/Items/Shadespritesentinelskinname,/Lotus/StoreItems/Upgrades/Skins/Sentinels/SpriteShadeSkin
@@ -3678,6 +3702,7 @@ Storm Leader Emblem,/Lotus/StoreItems/Upgrades/Skins/Clan/LeaderBadgeStormItem
 /Lotus/Language/Items/Boltorprimename,/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeBoltor/PrimeBoltor
 /Lotus/Language/Items/Primeburstonname,/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeBurston/PrimeBurston
 /Lotus/Language/Items/Primesomaname,/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeSoma/PrimeSomaRifle
+/Lotus/Language/Items/Primevectisname,/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeVectis/PrimeVectisRifle
 /Lotus/Language/Items/Tennoleveractionriflename,/Lotus/StoreItems/Weapons/Tenno/LongGuns/TnoLeverAction/TnoLeverActionRifle
 /Lotus/Language/Items/Tennosilentcrossbowname,/Lotus/StoreItems/Weapons/Tenno/LongGuns/TnoPrmryXbow/TnoPrmryXbowWeapon
 /Lotus/Language/Items/Wraithlatronname,/Lotus/StoreItems/Weapons/Tenno/LongGuns/WraithLatron/WraithLatron

@@ -5,175 +5,7 @@
   },
   {
     "Name": "/Lotus/Language/Items/Wyrmprimename Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Voltprimename Blueprint",
     "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Primes/Ashprimename Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Emberprimename Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimechassisname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimechassisname",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimehelmetname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimehelmetname",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimesystemsname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimesystemsname",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Frostprimename Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimechassisname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimechassisname",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimehelmetname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimehelmetname",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimesystemsname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimesystemsname",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Lokiprimename Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Magprimename Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimechassisname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimechassisname",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname",
-    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Items/Novaprimename Blueprint",
@@ -260,6 +92,174 @@
     "PrimeBucks": "10"
   },
   {
+    "Name": "/Lotus/Language/Items/Voltprimename Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Primes/Ashprimename Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Emberprimename Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimechassisname Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimechassisname",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimehelmetname Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimehelmetname",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimesystemsname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimesystemsname",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Frostprimename Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimechassisname Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimechassisname",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimehelmetname Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimehelmetname",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimesystemsname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimesystemsname",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Lokiprimename Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Magprimename Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimechassisname Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimechassisname",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname",
+    "PrimeBucks": "20"
+  },
+  {
     "Name": "/Lotus/Language/Items/Primedualbroncosname Blueprint",
     "PrimeBucks": "10"
   },
@@ -273,7 +273,7 @@
   },
   {
     "Name": "/Lotus/Language/Items/Boltorprimename Blueprint",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Items/Parisprimename Blueprint",
@@ -289,7 +289,7 @@
   },
   {
     "Name": "/Lotus/Language/Items/Primeburstonname Blueprint",
-    "PrimeBucks": "50"
+    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Items/Fangprimename Blueprint",
@@ -321,7 +321,7 @@
   },
   {
     "Name": "/Lotus/Language/Items/Nextpromosecondaryname Blueprint",
-    "PrimeBucks": "50"
+    "PrimeBucks": "10"
   },
   {
     "Name": "/Lotus/Language/Items/Nextpromomeleename Blueprint",
@@ -345,7 +345,7 @@
   },
   {
     "Name": "/Lotus/Language/Items/Primevectisname Blueprint",
-    "PrimeBucks": "20"
+    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Items/Armourondamagename",
@@ -485,175 +485,7 @@
   },
   {
     "Name": "/Lotus/Language/Items/Wyrmprimename Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Voltprimename Blueprint",
     "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Primes/Ashprimename Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Emberprimename Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimechassisname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimechassisname",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimehelmetname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimehelmetname",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimesystemsname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimesystemsname",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Frostprimename Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimechassisname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimechassisname",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimehelmetname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimehelmetname",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimesystemsname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimesystemsname",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Lokiprimename Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname Blueprint",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname",
-    "PrimeBucks": "50"
-  },
-  {
-    "Name": "/Lotus/Language/Items/Magprimename Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimechassisname Blueprint",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimechassisname",
-    "PrimeBucks": "10"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname Blueprint",
-    "PrimeBucks": "20"
-  },
-  {
-    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname",
-    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Items/Novaprimename Blueprint",
@@ -740,6 +572,174 @@
     "PrimeBucks": "10"
   },
   {
+    "Name": "/Lotus/Language/Items/Voltprimename Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframechassisname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframehelmetname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Voltprimewarframesystemsname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Primes/Ashprimename Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimechassisname",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimehelmetname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Ashprimesystemsname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Emberprimename Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimechassisname Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimechassisname",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimehelmetname Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimehelmetname",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimesystemsname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Emberprimesystemsname",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Frostprimename Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimechassisname Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimechassisname",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimehelmetname Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimehelmetname",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimesystemsname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Frostprimesystemsname",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Lokiprimename Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname Blueprint",
+    "PrimeBucks": "30"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimehelmetname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname Blueprint",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Lokiprimesystemsname",
+    "PrimeBucks": "50"
+  },
+  {
+    "Name": "/Lotus/Language/Items/Magprimename Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimechassisname Blueprint",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimechassisname",
+    "PrimeBucks": "10"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimehelmetname",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname Blueprint",
+    "PrimeBucks": "20"
+  },
+  {
+    "Name": "/Lotus/Language/Menu/Craftingcomponent_Magprimesystemsname",
+    "PrimeBucks": "20"
+  },
+  {
     "Name": "/Lotus/Language/Items/Primedualbroncosname Blueprint",
     "PrimeBucks": "10"
   },
@@ -753,7 +753,7 @@
   },
   {
     "Name": "/Lotus/Language/Items/Boltorprimename Blueprint",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Items/Parisprimename Blueprint",
@@ -769,7 +769,7 @@
   },
   {
     "Name": "/Lotus/Language/Items/Primeburstonname Blueprint",
-    "PrimeBucks": "50"
+    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Items/Fangprimename Blueprint",
@@ -801,7 +801,7 @@
   },
   {
     "Name": "/Lotus/Language/Items/Nextpromosecondaryname Blueprint",
-    "PrimeBucks": "50"
+    "PrimeBucks": "10"
   },
   {
     "Name": "/Lotus/Language/Items/Nextpromomeleename Blueprint",
@@ -825,7 +825,7 @@
   },
   {
     "Name": "/Lotus/Language/Items/Primevectisname Blueprint",
-    "PrimeBucks": "20"
+    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Items/Armourondamagename",
@@ -989,7 +989,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Akbroncoprimelink",
-    "PrimeBucks": "50"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimeblade",
@@ -997,7 +997,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimegauntlet",
-    "PrimeBucks": "50"
+    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarbarrel",
@@ -1025,11 +1025,11 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimebarrel",
-    "PrimeBucks": "50"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
-    "PrimeBucks": "50"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimestock",
@@ -1037,7 +1037,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Broncoprimebarrel",
-    "PrimeBucks": "20"
+    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Broncoprimereceiver",
@@ -1049,7 +1049,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimereceiver",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimestock",
@@ -1081,11 +1081,11 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Lexprimereceiver",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
-    "PrimeBucks": "50"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboornament",
@@ -1093,7 +1093,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowgrip",
-    "PrimeBucks": "10"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowlowerlimb",
@@ -1105,15 +1105,15 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercarapace",
-    "PrimeBucks": "20"
+    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercerebrum",
-    "PrimeBucks": "20"
+    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriersystems",
-    "PrimeBucks": "50"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primedakkablade",
@@ -1133,7 +1133,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondaryholster",
-    "PrimeBucks": "50"
+    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondarypiece",
@@ -1153,7 +1153,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromomeleehandle",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primescytheblade",
@@ -1165,15 +1165,15 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmcarapace",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmcerebrum",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmsystems",
-    "PrimeBucks": "50"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Sicarusprimebarrel",
@@ -1189,7 +1189,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimereceiver",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimestock",
@@ -1201,11 +1201,11 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Vastoprimereceiver",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimebarrel",
-    "PrimeBucks": "50"
+    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimereceiver",
@@ -1213,7 +1213,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimestock",
-    "PrimeBucks": "20"
+    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowstring",
@@ -1249,7 +1249,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Akbroncoprimelink",
-    "PrimeBucks": "50"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimeblade",
@@ -1257,7 +1257,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Ankyrosprimegauntlet",
-    "PrimeBucks": "50"
+    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboarbarrel",
@@ -1285,11 +1285,11 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimebarrel",
-    "PrimeBucks": "50"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver",
-    "PrimeBucks": "50"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Bratonprimestock",
@@ -1297,7 +1297,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Broncoprimebarrel",
-    "PrimeBucks": "20"
+    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Broncoprimereceiver",
@@ -1309,7 +1309,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimereceiver",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Burstonprimestock",
@@ -1341,11 +1341,11 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Lexprimereceiver",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebohandle",
-    "PrimeBucks": "50"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primeboornament",
@@ -1353,7 +1353,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowgrip",
-    "PrimeBucks": "10"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowlowerlimb",
@@ -1365,15 +1365,15 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercarapace",
-    "PrimeBucks": "20"
+    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriercerebrum",
-    "PrimeBucks": "20"
+    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primecarriersystems",
-    "PrimeBucks": "50"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primedakkablade",
@@ -1393,7 +1393,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondaryholster",
-    "PrimeBucks": "50"
+    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromosecondarypiece",
@@ -1413,7 +1413,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Nextpromomeleehandle",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primescytheblade",
@@ -1425,15 +1425,15 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmcarapace",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmcerebrum",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primewyrmsystems",
-    "PrimeBucks": "50"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Sicarusprimebarrel",
@@ -1449,7 +1449,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimereceiver",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Somaprimestock",
@@ -1461,11 +1461,11 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Vastoprimereceiver",
-    "PrimeBucks": "20"
+    "PrimeBucks": "30"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimebarrel",
-    "PrimeBucks": "50"
+    "PrimeBucks": "20"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimereceiver",
@@ -1473,7 +1473,7 @@
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Vectisprimestock",
-    "PrimeBucks": "20"
+    "PrimeBucks": "50"
   },
   {
     "Name": "/Lotus/Language/Menu/Craftingcomponent_Primebowstring",
