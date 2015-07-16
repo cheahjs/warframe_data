@@ -525,6 +525,7 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Items/Forma Blueprint,1,UNCOMMON,0.112820512820513,0,QA_LOW
 ,,,,,
 ,,,,,
+,,,,,
 EmberRewards - Tier 0,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Menu/Craftingcomponent_Emberhelmetname Blueprint,1,COMMON,0.387179487179487,0,QA_LOW
@@ -1349,9 +1350,11 @@ OrokinDefenseRewardsC - Tier 2,,,,,
 Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Menu/Craftingcomponent_Bratonprimebarrel,1,UNCOMMON,0.0752136752136752,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Bratonprimereceiver,1,UNCOMMON,0.0752136752136752,0,QA_LOW
-/Lotus/Language/Items/Forma Blueprint,1,COMMON,0.387179487179487,0,QA_LOW
+/Lotus/Language/Items/Forma Blueprint,1,COMMON,0.193589743589744,0,QA_LOW
 /Lotus/Language/Primes/Ashprimename Blueprint,1,UNCOMMON,0.0752136752136752,0,QA_LOW
-/Lotus/Language/Menu/Craftingcomponent_Bratonprimestock,1,COMMON,0.387179487179487,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Bratonprimestock,1,COMMON,0.193589743589744,0,QA_LOW
+/Lotus/Language/Items/Boprimename Blueprint,1,COMMON,0.193589743589744,0,QA_LOW
+/Lotus/Language/Menu/Craftingcomponent_Emberprimehelmetname Blueprint,1,COMMON,0.193589743589744,0,QA_LOW
 ,,,,,
 ,,,,,
 OrokinDefenseRewardsD - Tier 0,,,,,
@@ -1758,6 +1761,29 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Items/Primevastoname Blueprint,1,UNCOMMON,0.0752136752136752,0,QA_LOW
 /Lotus/Language/Menu/Craftingcomponent_Lokiprimechassisname Blueprint,1,COMMON,0.154871794871795,0,QA_LOW
 Rare /Lotus/Language/Items/Fusionpart,5,UNCOMMON,0.0752136752136752,0,QA_HIGH
+,,,,,
+,,,,,
+ProjectPanaceaBonusRewards - Tier 0,,,,,
+Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
+/Lotus/Language/Sigils/Energysigilaname,1,RARE,0.00251256281407035,0,QA_LOW
+/Lotus/Language/Items/Pistolmodstunningspeed,1,RARE,0.00251256281407035,0,QA_LOW
+/Lotus/Language/Items/Riflemodhammershot,1,RARE,0.00251256281407035,0,QA_LOW
+/Lotus/Language/Items/Shotgunmodblaze,1,RARE,0.00251256281407035,0,QA_LOW
+/Lotus/Language/Items/Eventslashdamagemeleemod,1,RARE,0.00251256281407035,0,QA_LOW
+/Lotus/Language/Items/Eventslashdamagepistolmod,1,RARE,0.00251256281407035,0,QA_LOW
+/Lotus/Language/Items/Eventslashdamageriflemod,1,RARE,0.00251256281407035,0,QA_LOW
+/Lotus/Language/Items/Eventslashdamageshotgunmod,1,RARE,0.00251256281407035,0,QA_LOW
+Rare /Lotus/Language/Items/Fusionpart,10,UNCOMMON,0.031586503948313,0,QA_HIGH
+Rare /Lotus/Language/Items/Fusionpart,5,COMMON,0.189698492462312,0,QA_HIGH
+/Lotus/Language/Items/3000Creditsname,1,COMMON,0.189698492462312,0,QA_LOW
+/Lotus/Language/Items/4000Creditsname,1,UNCOMMON,0.031586503948313,0,QA_LOW
+/Lotus/Language/Items/5000Creditsname,1,UNCOMMON,0.031586503948313,0,QA_LOW
+/Lotus/Language/Clantech/Chemfragment,1,UNCOMMON,0.031586503948313,0,QA_LOW
+/Lotus/Language/Clantech/Energyfragment,1,COMMON,0.189698492462312,0,QA_LOW
+/Lotus/Language/Clantech/Biofragment,1,COMMON,0.189698492462312,0,QA_LOW
+/Lotus/Language/Items/Transmutationcoreattackname,2,UNCOMMON,0.031586503948313,0,QA_LOW
+/Lotus/Language/Items/Transmutationcoredefensename,2,UNCOMMON,0.031586503948313,0,QA_LOW
+/Lotus/Language/Items/Transmutationcoretacticname,1,UNCOMMON,0.031586503948313,0,QA_LOW
 ,,,,,
 ,,,,,
 ProjectPanaceaRewards - Tier 0,,,,,
@@ -2269,6 +2295,7 @@ Item Name,Item Count,Rarity,Probability,Daily Cooldown,Upgrade Level
 /Lotus/Language/Items/Riflemodconvertammo,1,COMMON,0.0526315789473684,0,QA_LOW
 /Lotus/Language/Items/Snipermodconvertammo,1,COMMON,0.0526315789473684,0,QA_LOW
 /Lotus/Language/Items/Shotgunmodconvertammo,1,COMMON,0.0526315789473684,0,QA_LOW
+,,,,,
 ,,,,,
 ,,,,,
 TrinityRewards - Tier 0,,,,,

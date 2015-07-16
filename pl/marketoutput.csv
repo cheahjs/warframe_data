@@ -1729,6 +1729,7 @@ Name,Category,In Market,Tradeable,Credit Price,Plat Price,Expiry
 /Lotus/Language/Items/Prismaarchswordname (/Lotus/StoreItems/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon),SpaceMelee,NO,YES,?,150,
 /Lotus/Language/Items/Prismaarrowname (/Lotus/StoreItems/Types/Restoratives/Consumable/PrismaArrowBundle),Consumables,NO,NO,5000,?,
 /Lotus/Language/Items/Prismaarrowname (/Lotus/StoreItems/Upgrades/Skins/VoidTrader/PrismaArrow),WeaponSkins,NO,NO,?,20,
+/Lotus/Language/Items/Prismacleaversname (/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/PrismaDualCleavers),Melee,NO,YES,?,1000,
 /Lotus/Language/Items/Prismaexcaliburbundlename (/Lotus/Types/StoreItems/Packages/PrismaExcaliburPack),Packages,YES,NO,?,?,
 /Lotus/Language/Items/Prismagorgonname (/Lotus/StoreItems/Weapons/Grineer/LongGuns/VoidTraderGorgon/VTGorgon),LongGuns,NO,YES,?,225,
 /Lotus/Language/Items/Prismagrakataname (/Lotus/StoreItems/Weapons/VoidTrader/PrismaGrakata),LongGuns,NO,YES,?,125,

@@ -3637,6 +3637,7 @@ StoreItems={
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerJetPoweredPolearm/GrineerJetPolearm,
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon,
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/Machete,
+/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/PrismaDualCleavers,
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon,
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerTylAxeAndBoar/RegorAxeShield,
 /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerWhip/GrineerWhip,

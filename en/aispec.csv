@@ -1248,23 +1248,24 @@ MasteryGauntletSpec,AIWeek/RifleLancer,1,0,0
 ,/Lotus/Language/Game/Suicidedronename (Drones/AIWeek/SuicideDroneAgent),0.050000001,0,2
 OrokinDefenseSquad,/Lotus/Language/Game/Corruptedlancer (RifleLancer),0.75,0,0
 ,/Lotus/Language/Game/Corruptedcrewman (RifleSpacemanAgent),0.75,0,0
-,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.5,0,2
+,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.25,2,2
 ,OrokinMinigunBombard,0.25,0,2
-,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.25,0,1
+,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.5,2,1
 ,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),0.5,0,1
 ,/Lotus/Language/Game/Orokinbladesawman (OrokinBladeSawman),0.5,0,0
 OrokinDefenseSquadB,/Lotus/Language/Game/Corruptedlancer (RifleLancer),0.75,0,0
 ,/Lotus/Language/Game/Corruptedcrewman (RifleSpacemanAgent),0.75,0,0
-,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.1,2,1
-,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.40000001,0,2
-,OrokinMinigunBombard,0.1,1,1
-,OrokinMinigunBombard,0.2,0,2
-,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.2,2,0
-,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.2,2,1
+,/Lotus/Language/Game/Orokinbladesawman (OrokinBladeSawman),0.5,0,0
 ,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),0.050000001,1,0
 ,/Lotus/Language/Game/Corruptedmoa (OrokinMoaBipedAgent),0.40000001,0,1
-,/Lotus/Language/Game/Orokinbladesawman (OrokinBladeSawman),0.5,0,0
-,/Lotus/Language/Game/Orokinbombardrocket (OrokinRocketBombard),0.050000001,1,1
+,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.1,1,1
+,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.2,2,2
+,/Lotus/Language/Game/Corruptedancient (OrokinHealingAncient),0.050000001,1,3
+,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.2,2,0
+,/Lotus/Language/Game/Orokindrone (OrokinShieldDroneAgent),0.2,2,1
+,OrokinMinigunBombard,0.1,1,1
+,OrokinMinigunBombard,0.2,0,2
+,/Lotus/Language/Game/Orokinbombardrocket (OrokinRocketBombard),0.1,1,1
 ,/Lotus/Language/Game/Orokinbombardrocket (OrokinRocketBombard),0.1,1,2
 ,/Lotus/Language/Game/Orokinbombardrocket (OrokinRocketBombard),0.1,0,3
 ,/Lotus/Language/Game/Orokinnullifier (OrokinNullifySpacemanAgent),0.1,2,2
