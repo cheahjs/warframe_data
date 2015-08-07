@@ -5,6 +5,11 @@ Archive of data files parsed from the game Warframe.
 
 The files here support the backend parsers for https://deathsnacks.com/wf/
 
+Abandoned
+---------
+
+I will no longer be updating the repo publicly beyond what is currently available (16.11.5).
+
 Warning
 -------
 
